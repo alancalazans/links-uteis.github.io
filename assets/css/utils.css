@@ -1,0 +1,99 @@
+/* font-family: Helvetica, Arial, Verdana, sans-serif; */
+
+.fLeft {float: left;}
+.fRight {float: right;}
+.fNone {float: none;}
+
+.dBlock {display: block;}
+.dInline {display: inline;}
+.dInlineBlock {display: inline-block;}
+.dNone {display: none;}
+
+.pAbsolute {position: absolute;}
+.pRelative {position: relative;}
+
+.cBoth {clear: both;}
+.cLeft {clear: left;}
+.cRight {clear: right;}
+
+.radius5 {
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  -ms-border-radius: 5px;
+  -o-border-radius: 5px;
+  border-radius: 5px;
+}
+
+.radius10 {
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  -ms-border-radius: 10px;
+  -o-border-radius: 10px;
+  border-radius: 10px;
+}
+
+.radius20 {
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  -ms-border-radius: 20px;
+  -o-border-radius: 20px;
+  border-radius: 20px;
+}
+
+.transparency{
+
+  /* aqui entra as propriedades da transparência, aqui eu usei a cor white */
+
+  background: rgb(255, 255, 255) transparent; /* rgb( @r, @g, @b ) */
+  background: rgba(255, 255, 255, 0.5); /* rgb( @r, @g, @b, @intensidade ) */
+  
+  /* Para navegadores IE 5.5 - 7 */
+  
+  filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#000000, endColorstr=#ffffff);
+  
+  /* Para navegadores IE 8 */
+  
+  -ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr=#000000, endColorstr=#ffffff)";
+}
+
+.gradient{
+  background: white; /* para browsers sem suporte a CSS 3 */
+
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='white', endColorstr='red'); /* IE (startColorstr='@beginning', endColorstr='@end') */
+  background: -webkit-gradient(linear, left top, left bottom, from(white), to(red)); /* webkit browsers from(@beginning), to(@end) */
+  background: -moz-linear-gradient(top,  white,  red); /* Firefox 3.6+ -> .gradient(@way, @beginning, @end) */
+}
+
+.text_shadow{
+  text-shadow: 5px 5px 3px black; /* @left @top @evanesce @color */
+}
+
+.box_shadow{
+  box-shadow: 5px 5px 3px black; /* @left @top @evanesce @color */
+}
+
+.center_div{
+  position: absolute;
+  width: 100px; /* @width: 100px */
+  height: 100px; /* @height: 100px */
+  left: 50%;
+  top:50%;
+  margin-left: -50px; /* @width: -100px / 2 */
+  margin-top: -50px; /* @height: -100px / 2 */
+}
+
+.center_div_h{
+  position: absolute;
+  width: 100px; /* @width: 100px */
+  height: 100px; /* @height: 100px */
+  left: 50%;
+  margin-left: -50px; /* @width: -100px / 2 */
+}
+
+.center_div_v{
+  position: absolute;
+  width: 100px; /* @width: 100px */
+  height: 100px; /* @height: 100px */
+  top:50%;
+  margin-top: -50px; /* @height: -100px / 2 */
+}

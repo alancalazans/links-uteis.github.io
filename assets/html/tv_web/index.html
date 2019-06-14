@@ -1,0 +1,237 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+	<meta charset="UTF-8">
+	<title>TV Web</title>
+
+	<link rel="icon" type="imagem/png" href="assets/img/png/tv.png" />
+
+	<link rel="stylesheet" href="assets/lib/bootstrap/4.1.3/css/bootstrap.min.css">
+
+	<style type="text/css">
+
+		body { background-color: #272822; }
+
+		.container { margin-top: 1px; }
+
+	</style>
+
+	<script src="assets/lib/hls.js" type="text/javascript"></script>
+	<script type="text/javascript" src="assets/lib/jquery/3.3.1/jquery.min.js"></script>
+
+	<script type="text/javascript">
+
+		let url, item, varURL, id, parametroDaURL, stream;
+
+		let tvs = [
+			{
+				id: 1,
+				name: 'TV Diario (Nordeste)',
+				url: 'http://slrp.sambavideos.sambatech.com/liveevent/tvdiario_7a683b067e5eee5c8d45e1e1883f69b9/livestream/chunklist.m3u8'
+			},
+			{
+				id: 2,
+				name: 'TV Maceió (AL)',
+				url: 'https://59f1cbe63db89.streamlock.net:1443/toptv/toptv/playlist.m3u8'
+			},
+			{
+				id: 3,
+				name: 'TV Rio Largo (AL)',
+				url: 'http://stmv4.srvstm.com/tvriolargo/tvriolargo/playlist.m3u8'
+			},
+			{
+				id: 4,
+				name: 'Record News',
+				url: 'http://stmv4.srvstm.com/recordnewses/recordnewses/playlist.m3u8'
+			},
+			{
+				id: 5,
+				name: 'TV VITORIA RECORD ES HD',
+				url: 'http://tvvitoria2.viacast.tv/livepl/tvvitoria_2_original.m3u8'
+			},
+			{
+				id: 6,
+				name: 'SBT GO HD',
+				url: 'http://tvsd2.zoeweb.tv:1935/tvsd2/smil:tvsd2.smil/playlist.m3u8'
+			},
+			{
+				id: 7,
+				name: 'BAND',
+				url: 'http://evpp.mm.uol.com.br/geob_band/bandapp/chunklist_w622979429.m3u8?ANTONYGTV'
+			},
+			{
+				id: 8,
+				name: 'TV CURITIBA',
+				url: 'https://59f2354c05961.streamlock.net:1443/rbt01/_definst_/rbt01/playlist.m3u8'
+			},
+			{
+				id: 9,
+				name: 'CARIOCA NEWS',
+				url: 'http://hd4.com.br:1935/tvcarioca/tvcarioca/playlist.m3u8?ANTONYGTV'
+			},
+			{
+				id: 10,
+				name: 'FILMES 24H',
+				url: 'http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8?ANTONYGTV'
+			},
+			{
+				id: 11,
+				name: 'GOSPEL MOVIES',
+				url: 'http://stmv2.srvstm.com/gospelf/gospelf/playlist.m3u8?ANTONYGTV'
+			},
+			{
+				id: 12,
+				name: 'FM 105 Clips',
+				url: 'http://fms.105.net:1935/live/105Test1/playlist.m3u8'
+			},
+			{
+				id: 13,
+				name: 'TV Brasil',
+				url: 'http://stream2.ba.gov.br:80/hls-live/livepkgr/_definst_/irdeb/pgm-2.m3u8'
+			},
+			{
+				id: 14,
+				name: 'TV Escola HD',
+				url: 'http://slrp.sambavideos.sambatech.com/liveevent/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestream3/playlist.m3u8?PEDROJUNIORTUTORIAIS'
+			},
+			{
+				id: 15,
+				name: 'WEB TV MINAS',
+				url: 'http://173.236.10.10:1935/webtvminas/webtvminas/live.m3u8'
+			},
+			{
+				id: 16,
+				name: 'Rede TV',
+				url: 'http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w1695741209.m3u8'
+			},
+			{
+				id: 17,
+				name: 'TV UP HD',
+				url: 'http://caikron.com.br:1935/unipar/tvup/chunklist_w737489399.m3u8'
+			},
+			{
+				id: 18,
+				name: 'REDE BRASIL',
+				url: 'http://173.236.10.10:1935/rbtv/rbtv/playlist.m3u8'
+			},
+			{
+				id: 19,
+				name: 'REDE FAMÍLIA HD',
+				url: 'http://srv9.zoeweb.tv:1935/zw901/zw901.smil/playlist.m3u8'
+			},
+			{
+				id: 20,
+				name: 'TVU RECIFE',
+				url: 'http://150.161.93.173/hls/720/index.m3u8'
+			},
+			{
+				id: 21,
+				name: 'TV EDUCATIVA',
+				url: 'http://rbc.directradios.com:1935/rbc/smil:rbc.smil/playlist.m3u8'
+			},
+			{
+				id: 22,
+				name: 'TVE BRASIL',
+				url: 'http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8'
+			}
+		];
+
+		/*****************************************
+		* Função que retorna a url da rádio
+		* solicitada
+		*****************************************/
+		function tv( id, dado ) {
+			res = '';
+			tvs.forEach( function( value, index ){
+				if(value.id == id) {
+					if(dado == 'name') {
+						res = value.name
+					} if(dado == 'url') {
+						res = value.url;
+					}
+				}
+			});
+			if(res) return res;
+		}
+
+		/*****************************************
+		* Função que carrega a rádio solicitada
+		*****************************************/
+
+		function loadTv(url) {
+			if(Hls.isSupported()) {
+				var video = document.getElementById('video');
+				var hls = new Hls();
+				hls.loadSource(url);
+				hls.attachMedia(video);
+				hls.on(Hls.Events.MANIFEST_PARSED,function() {
+					video.play();
+				});
+			}
+			else if (video.canPlayType('application/vnd.apple.mpegurl')) {
+				video.src = url;
+				video.addEventListener('canplay',function() {
+					video.play();
+				});
+			}
+		}
+
+		$(function(){
+			url = window.location.search;
+
+			if (url.indexOf('?') > -1) {
+				parametrosDaUrl = url.split("?")[1];
+				id = parametrosDaUrl.split("=")[1];
+				loadTv(tv(id, 'url'));
+				$('select option').each(function(){
+					item = $(this).val();
+					if(item == id){
+						 $(this).attr('selected','selected');
+					}
+				});
+			} else {
+				loadTv(tv(1, 'url'));
+			}
+
+			$('select').change(function(){
+				varURL = $("option:selected", this).val();
+				console.log('O valor selecionado é: ' + varURL);
+
+				window.location.href = "./index.html?id="+varURL;
+			});
+
+		});
+
+	</script>
+</head>
+<body>
+	<div class="container">
+
+		<div class="row">
+			<div class="col-xl-4 offset-xl-2">
+
+				<select class="form-control" id="radio">
+					<script type="text/javascript">
+						tvs.forEach( function( value, index ){
+							document.write('<option value="'+value.id+'">'+value.name+'</option>');
+						});
+					</script>
+				</select>
+
+			</div>
+		</div>
+
+		<div class="row">
+
+			<div class="col-xl-8 offset-xl-2">
+
+				<video id="video" width="800" height="600" controls></video>
+
+			</div><!-- /col-xl -->
+		</div><!-- /row -->
+	</div><!-- /container -->
+	<script type="text/javascript" src="assets/lib/popper.js/1.14.3/popper.min.js"></script>
+	<script type="text/javascript" src="assets/lib/bootstrap/4.1.3/js/bootstrap.min.js"></script>
+
+</body>
+</html>
