@@ -93,31 +93,31 @@ Des-Soft
 			"title": "NodeJS",
 			"href": "https://nodejs.org/en/",
 			"target": "_nodejs",
-			"img": "<img src='assets/img/png/nodejs.png' width='40' height='40' title='NodeJS' alt='assets/img/png/nodejs.png' />"
+			"img": "<img src='assets/img/png/nodejs.png' width='40' height='40' title='Interpretador JavaScript para Desktop' alt='assets/img/png/nodejs.png' />"
 		},
 		{
 			"title": "NodeWebKit",
 			"href": "https://nwjs.io/",
 			"target": "_nwjs",
-			"img": "<img src='assets/img/png/nodewebkit.png' width='40' height='40' title='NodeWebKit' alt='assets/img/png/nodewebkit.png' />"
+			"img": "<img src='assets/img/png/nodewebkit.png' width='40' height='40' title='Para criar aplicações desktop em javascript' alt='assets/img/png/nodewebkit.png' />"
 		},
 		{
 			"title": "ElectronJS",
 			"href": "https://electronjs.org/",
 			"target": "_electronjs",
-			"img": "<img src='assets/img/png/electronjs.png' width='40' height='40' title='ElectronJS' alt='assets/img/png/electronjs.png' />"
+			"img": "<img src='assets/img/png/electronjs.png' width='40' height='40' title='Para criar aplicações desktop em javascript' alt='assets/img/png/electronjs.png' />"
 		},
 		{
 			"title": "Ionic framework",
 			"href": "https://ionicframework.com/",
 			"target": "_ionic",
-			"img": "<img src='assets/img/png/ionic.png' width='40' height='40' title='Ionic framework' alt='assets/img/png/ionic.png' />"
+			"img": "<img src='assets/img/png/ionic.png' width='40' height='40' title='Para criar app para smartphones' alt='assets/img/png/ionic.png' />"
 		},
 		{
 			"title": "CDNJS",
 			"href": "https://cdnjs.com/",
 			"target": "_cdnjs",
-			"img": "<img src='assets/img/png/cdnjs.png' width='100' height='40' title='CDNJS' alt='assets/img/png/cdnjs.png' />"
+			"img": "<img src='assets/img/png/cdnjs.png' width='100' height='40' title='Para baixar módulos javascript' alt='assets/img/png/cdnjs.png' />"
 		},
 		{
 			"title": "Komodo Edit",
@@ -147,67 +147,67 @@ Des-Soft
 			"title": "Lazarus",
 			"href": "http://www.lazarus-ide.org/",
 			"target": "_lazarus",
-			"img": "<img src='assets/img/png/lazarus.png' width='40' height='40' title='Lazarus' alt='assets/img/png/lazarus.png' />"
+			"img": "<img src='assets/img/png/lazarus.png' width='40' height='40' title='IDE similar ao Delphi' alt='assets/img/png/lazarus.png' />"
 		},
 		{
 			"title": "Ionic Brazil",
 			"href": "https://github.com/IonicBrazil/guia-do-desenvolvedor",
 			"target": "_ionicbrazil",
-			"img": "<img src='assets/img/png/ionicbrazil.png' width='40' height='40' title='Ionic Brazil' alt='assets/img/png/ionicbrazil.png' />"
+			"img": "<img src='assets/img/png/ionicbrazil.png' width='40' height='40' title='Site sobre Ionic' alt='assets/img/png/ionicbrazil.png' />"
 		},
 		{
 			"title": "Aurélio vim",
 			"href": "http://aurelio.net/vim/",
 			"target": "_aurelio_vim",
-			"img": "<img src='assets/img/png/aurelio_vim.png' width='40' height='40' title='Aurélio vim' alt='assets/img/png/aurelio_vim.png' />"
+			"img": "<img src='assets/img/png/aurelio_vim.png' width='40' height='40' title='Site sobre editor de código Vim' alt='assets/img/png/aurelio_vim.png' />"
 		},
 		{
 			"title": "nedb",
 			"href": "https://github.com/louischatriot/nedb",
 			"target": "_nedb",
-			"img": "<img src='assets/img/png/nedb.png' width='40' height='40' title='neDB' alt='assets/img/png/nedb.png' />"
+			"img": "<img src='assets/img/png/nedb.png' width='40' height='40' title='Módulo para trabalhar com sqlite no NodeJS' alt='assets/img/png/nedb.png' />"
 		},
 		{
 			"title": "Bootstrap 3",
 			"href": "http://getbootstrap.com.br/docs/3.3/",
 			"target": "_bootstrap",
-			"img": "<img src='assets/img/png/bootstrap.png' width='40' height='40' title='bootstrap3' alt='assets/img/png/bootstrap.png' />"
+			"img": "<img src='assets/img/png/bootstrap.png' width='40' height='40' title='Framework para trabalhar com layout de site' alt='assets/img/png/bootstrap.png' />"
 		},
 		{
 			"title": "Bootstrap 4",
 			"href": "https://getbootstrap.com.br/",
 			"target": "_bootstrap4",
-			"img": "<img src='assets/img/png/bootstrap4.png' width='40' height='40' title='bootstrap4' alt='assets/img/png/bootstrap4.png' />"
+			"img": "<img src='assets/img/png/bootstrap4.png' width='40' height='40' title='Framework para trabalhar com layout de site' alt='assets/img/png/bootstrap4.png' />"
 		},
 		{
 			"title": "w3schools",
 			"href": "https://www.w3schools.com/jquery/jquery_ref_selectors.asp",
 			"target": "_w3schools",
-			"img": "<img src='assets/img/png/w3schools.com.png' width='40' height='40' title='w3schools' alt='assets/img/png/w3schools.com.png' />"
+			"img": "<img src='assets/img/png/w3schools.com.png' width='40' height='40' title='Guia jquery entre outros' alt='assets/img/png/w3schools.com.png' />"
 		},
 		{
 			"title": "Guia JS",
 			"href": "https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide",
 			"target": "_mdn",
-			"img": "<img src='assets/img/png/guia_js.png' width='40' height='40' title='Guide Javascript' alt='assets/img/png/guia_js.png' />"
+			"img": "<img src='assets/img/png/guia_js.png' width='40' height='40' title='Guia Javascript' alt='assets/img/png/guia_js.png' />"
 		},
 		{
 			"title": "JSBin",
 			"href": "http://jsbin.com/?html,output",
 			"target": "_jsbin",
-			"img": "<img src='assets/img/png/jsbin.png' width='40' height='40' title='JSBin' alt='assets/img/png/jsbin.png' />"
+			"img": "<img src='assets/img/png/jsbin.png' width='40' height='40' title='Testar códigos JavaScript' alt='assets/img/png/jsbin.png' />"
 		},
 		{
 			"title": "RipTutorial",
 			"href": "https://riptutorial.com/es/home",
 			"target": "_riptutorial",
-			"img": "<img src='assets/img/png/riptutorial.png' width='40' height='40' title='Rip Tutorial' alt='assets/img/png/riptutorial.png' />"
+			"img": "<img src='assets/img/png/riptutorial.png' width='40' height='40' title='Tutorial - Linguagens de programação' alt='assets/img/png/riptutorial.png' />"
 		},
 		{
 			"title": "RosettaCode",
 			"href": "http://rosettacode.org/wiki/Rosetta_Code",
 			"target": "_rosettacode",
-			"img": "<img src='assets/img/png/rosettacode.png' width='40' height='40' title='Rosetta Code' alt='assets/img/png/rosettacode.png' />"
+			"img": "<img src='assets/img/png/rosettacode.png' width='40' height='40' title='Exemplos de códigos' alt='assets/img/png/rosettacode.png' />"
 		},
 		{
 			"title": "Encycolorpedia",
