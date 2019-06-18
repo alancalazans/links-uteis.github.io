@@ -5,7 +5,7 @@ var dados = {
 		'<li class="active"><a href="#" id="emails" onclick="clickLink(this);">E-mails</a></li>',
 		'<li class="inactive"><a href="#" id="redesocial" onclick="clickLink(this);">Rede Social</a></li>',
 		'<li class="inactive"><a href="#" id="filmes" onclick="clickLink(this);">Filmes</a></li>',
-		'<li class="inactive"><a href="#" id="entretenimento" onclick="clickLink(this);">Entretenimento</a></li>',
+		'<li class="inactive"><a href="#" id="midia" onclick="clickLink(this);">Mídia</a></li>',
 		'<li class="inactive"><a href="#" id="concursos" onclick="clickLink(this);">Concursos</a></li>',
 		'<li class="inactive"><a href="#" id="enem" onclick="clickLink(this);">ENEM</a></li>',
 		'<li class="inactive"><a href="#" id="ensino" onclick="clickLink(this);">Ensino</a></li>',
@@ -246,6 +246,12 @@ Diversos
 			"href": "https://sistemas.ufmg.br/atendimento/",
 			"target": "_ufmg_atendimento",
 			"img": "<img src='assets/img/png/ufmg.png' width='40' height='40' title='UFMG Portal Atend.' alt='assets/img/png/ufmg_atendimento.png' />"
+		},
+		{
+			"title": "CEU",
+			"href": "https://www.ufmg.br/ceu/site/home",
+			"target": "_ceu",
+			"img": "<img src='assets/img/png/ceu.png' width='40' height='40' title='Centro Esportivo Universitário da UFMG' alt='assets/img/png/ceu.png' />"
 		}
 	],
 /*	
@@ -361,74 +367,6 @@ Ensino
 			"href": "http://www.nova-acropole.org.br/",
 			"target": "_nova-acropole",
 			"img": "<img src='assets/img/png/nova-acropole.png' width='40' height='40' title='Nova Acrópole - Filosofia' alt='assets/img/png/nova-acropole.png' />"
-		}
-	],
-/*	
-================================================================================
-Entretenimento
-================================================================================
-*/
-	"entretenimento":
-	[
-		{
-			"title": "Radios ao vivo",
-			"href": "http://www.radiosaovivo.net",
-			"target": "_radiosaovivo",
-			"img": "<img src='assets/img/png/radiosaovivo.net.png' width='40' height='40' title='Rádios ao vivo' alt='assets/img/png/radiosaovivo.net.png' />"
-		},
-		{
-			"title": "Radios.com.br",
-			"href": "https://www.radios.com.br",
-			"target": "_radios.com.br",
-			"img": "<img src='assets/img/png/radios.com.br.png' width='40' height='40' title='Rádios.com.br' alt='assets/img/png/radios.com.br.png' />"
-		},
-		{
-			"title": "Alvorada FM",
-			"href": "http://alvoradafm.com.br/",
-			"target": "_alvoradafm",
-			"img": "<img src='assets/img/png/alvoradafm.png' width='40' height='40' title='Alvorada FM' alt='assets/img/png/alvoradafm.png' />"
-		},
-		{
-			"title": "Antena 1",
-			"href": "https://www.antena1.com.br/aovivo",
-			"target": "_antena_1",
-			"img": "<img src='assets/img/png/antena1.png' width='40' height='40' title='Antena 1' alt='assets/img/png/antena1.png' />"
-		},
-		{
-			"title": "CDL FM",
-			"href": "http://fm1029.com.br/plus/",
-			"target": "_cdlfm",
-			"img": "<img src='assets/img/png/cdl.png' width='40' height='40' title='Rádio FM do Coselho de dirigentes lojistas de BH' alt='assets/img/png/cdl.png' />"
-		},
-		{
-			"title": "Itatiaia",
-			"href": "http://www.itatiaia.com.br/aovivo",
-			"target": "_itatiaia",
-			"img": "<img src='assets/img/png/itatiaia.png' width='40' height='40' title='Itatiaia' alt='assets/img/png/itatiaia.png' />"
-		},
-		{
-			"title": "107.5 FM",
-			"href": "http://radio107fm.com/plus/",
-			"target": "_107fm",
-			"img": "<img src='assets/img/png/107fm.png' width='40' height='40' title='Rádio 107.5 FM' alt='assets/img/png/107fm.png' />"
-		},
-		{
-			"title": "Rádios online",
-			"href": "assets/html/radios/index.html",
-			"target": "_radios-online",
-			"img": "<img src='assets/html/radios/assets/img/png/radio.png' width='40' height='40' title='Rádios online' alt='assets/html/radios/assets/img/png/radio.png' />"
-		},
-		{
-			"title": "TV online",
-			"href": "assets/html/tv_web/index.html",
-			"target": "_tv-online",
-			"img": "<img src='assets/html/tv_web/assets/img/png/tv.png' width='40' height='40' title='TV online' alt='assets/html/tv_web/assets/img/png/tv.png' />"
-		},
-		{
-			"title": "CEU",
-			"href": "https://www.ufmg.br/ceu/site/home",
-			"target": "_ceu",
-			"img": "<img src='assets/img/png/ceu.png' width='40' height='40' title='Centro Esportivo Universitário da UFMG' alt='assets/img/png/ceu.png' />"
 		}
 	],
 /*	
@@ -559,6 +497,68 @@ Loterias
 			"href": "http://www1.caixa.gov.br/loterias/loterias/lotofacil/lotofacil_resultado.asp",
 			"target": "_lotofacil",
 			"img": "<img src='assets/img/png/lotofacil.png' width='40' height='40' title='LOTOFÁCIL' alt='assets/img/png/lotofacil.png' />"
+		}
+	],
+/*	
+================================================================================
+Mídia
+================================================================================
+*/
+	"midia":
+	[
+		{
+			"title": "Radios ao vivo",
+			"href": "http://www.radiosaovivo.net",
+			"target": "_radiosaovivo",
+			"img": "<img src='assets/img/png/radiosaovivo.net.png' width='40' height='40' title='Rádios ao vivo' alt='assets/img/png/radiosaovivo.net.png' />"
+		},
+		{
+			"title": "Radios.com.br",
+			"href": "https://www.radios.com.br",
+			"target": "_radios.com.br",
+			"img": "<img src='assets/img/png/radios.com.br.png' width='40' height='40' title='Rádios.com.br' alt='assets/img/png/radios.com.br.png' />"
+		},
+		{
+			"title": "Alvorada FM",
+			"href": "http://alvoradafm.com.br/",
+			"target": "_alvoradafm",
+			"img": "<img src='assets/img/png/alvoradafm.png' width='40' height='40' title='Alvorada FM' alt='assets/img/png/alvoradafm.png' />"
+		},
+		{
+			"title": "Antena 1",
+			"href": "https://www.antena1.com.br/aovivo",
+			"target": "_antena_1",
+			"img": "<img src='assets/img/png/antena1.png' width='40' height='40' title='Antena 1' alt='assets/img/png/antena1.png' />"
+		},
+		{
+			"title": "CDL FM",
+			"href": "http://fm1029.com.br/plus/",
+			"target": "_cdlfm",
+			"img": "<img src='assets/img/png/cdl.png' width='40' height='40' title='Rádio FM do Coselho de dirigentes lojistas de BH' alt='assets/img/png/cdl.png' />"
+		},
+		{
+			"title": "Itatiaia",
+			"href": "http://www.itatiaia.com.br/aovivo",
+			"target": "_itatiaia",
+			"img": "<img src='assets/img/png/itatiaia.png' width='40' height='40' title='Itatiaia' alt='assets/img/png/itatiaia.png' />"
+		},
+		{
+			"title": "107.5 FM",
+			"href": "http://radio107fm.com/plus/",
+			"target": "_107fm",
+			"img": "<img src='assets/img/png/107fm.png' width='40' height='40' title='Rádio 107.5 FM' alt='assets/img/png/107fm.png' />"
+		},
+		{
+			"title": "Rádios online",
+			"href": "assets/html/radios/index.html",
+			"target": "_radios-online",
+			"img": "<img src='assets/html/radios/assets/img/png/radio.png' width='40' height='40' title='Rádios online' alt='assets/html/radios/assets/img/png/radio.png' />"
+		},
+		{
+			"title": "TV online",
+			"href": "assets/html/tv_web/index.html",
+			"target": "_tv-online",
+			"img": "<img src='assets/html/tv_web/assets/img/png/tv.png' width='40' height='40' title='TV online' alt='assets/html/tv_web/assets/img/png/tv.png' />"
 		}
 	],
 /*	
@@ -955,6 +955,12 @@ Serviços
 			"href": "https://www.kaissara.com.br",
 			"target": "_kaissara",
 			"img": "<img src='assets/img/png/kaissara.png' width='40' height='40' title='Viação Kaissara' alt='assets/img/png/kaissara.png' />"
+		},
+		{
+			"title": "Draw",
+			"href": "https://www.draw.io",
+			"target": "_draw",
+			"img": "<img src='assets/img/png/draw.png' width='40' height='40' title='Criar diagramas online' alt='assets/img/png/draw.png' />"
 		}
 	]
 };
