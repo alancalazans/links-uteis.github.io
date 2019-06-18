@@ -230,6 +230,12 @@ Diversos
 			"img": "<img src='assets/img/png/groupspepped.png' width='40' height='40' title='Groups PEPped' alt='assets/img/png/groupspepped.png' />"
 		},
 		{
+			"title": "Portal do Serv.",
+			"href": "https://www.servidor.gov.br",
+			"target": "_sigepe",
+			"img": "<img src='assets/img/png/sigepe.png' width='40' height='40' title='Funcionalismo Público Federal' alt='assets/img/png/sigepe.png' />"
+		},
+		{
 			"title": "Cardápio Setorial",
 			"href": "http://www.fump.ufmg.br/cardapio.aspx",
 			"target": "_setorial",
@@ -883,12 +889,6 @@ Serviços
 			"href": "http://servicosbhtrans.pbh.gov.br/bhtrans/e-servicos/e-servicos.asp?servico=S01&opcao=QUADRO%20DE%20HORÁRIOS%20DE%20ÔNIBUS",
 			"target": "_bhtrans",
 			"img": "<img src='assets/img/png/bhtrans.png' width='40' height='40' title='Itinerários e horários dos ônibus de BH' alt='assets/img/png/bhtrans.png' />"
-		},
-		{
-			"title": "Portal do Serv.",
-			"href": "https://www.servidor.gov.br",
-			"target": "_sigepe",
-			"img": "<img src='assets/img/png/sigepe.png' width='40' height='40' title='Funcionalismo Público Federal' alt='assets/img/png/sigepe.png' />"
 		},
 		{
 			"title": "Lorem Ipsum",
