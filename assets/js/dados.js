@@ -513,18 +513,6 @@ Mídia
 	"midia":
 	[
 		{
-			"title": "Radios ao vivo",
-			"href": "http://www.radiosaovivo.net",
-			"target": "_radiosaovivo",
-			"img": "<img src='assets/img/png/radiosaovivo.net.png' width='40' height='40' title='Rádios ao vivo' alt='assets/img/png/radiosaovivo.net.png' />"
-		},
-		{
-			"title": "Radios.com.br",
-			"href": "https://www.radios.com.br",
-			"target": "_radios.com.br",
-			"img": "<img src='assets/img/png/radios.com.br.png' width='40' height='40' title='Rádios.com.br' alt='assets/img/png/radios.com.br.png' />"
-		},
-		{
 			"title": "Alvorada FM",
 			"href": "https://www.alvoradafm.com.br/player",
 			"target": "_alvoradafm",
@@ -553,6 +541,18 @@ Mídia
 			"href": "http://radio107fm.com/plus/",
 			"target": "_107fm",
 			"img": "<img src='assets/img/png/107fm.png' width='40' height='40' title='Rádio 107.5 FM' alt='assets/img/png/107fm.png' />"
+		},
+		{
+			"title": "Radios ao vivo",
+			"href": "http://www.radiosaovivo.net",
+			"target": "_radiosaovivo",
+			"img": "<img src='assets/img/png/radiosaovivo.net.png' width='40' height='40' title='Rádios ao vivo' alt='assets/img/png/radiosaovivo.net.png' />"
+		},
+		{
+			"title": "Radios.com.br",
+			"href": "https://www.radios.com.br",
+			"target": "_radios.com.br",
+			"img": "<img src='assets/img/png/radios.com.br.png' width='40' height='40' title='Rádios.com.br' alt='assets/img/png/radios.com.br.png' />"
 		},
 		{
 			"title": "Rádios online",
