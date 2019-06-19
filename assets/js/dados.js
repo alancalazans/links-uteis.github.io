@@ -526,7 +526,7 @@ Mídia
 		},
 		{
 			"title": "Alvorada FM",
-			"href": "http://alvoradafm.com.br/",
+			"href": "https://www.alvoradafm.com.br/player",
 			"target": "_alvoradafm",
 			"img": "<img src='assets/img/png/alvoradafm.png' width='40' height='40' title='Alvorada FM' alt='assets/img/png/alvoradafm.png' />"
 		},
