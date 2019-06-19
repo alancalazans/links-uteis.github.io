@@ -383,6 +383,12 @@ Filmes
 	"filmes":
 	[
 		{
+			"title": "Youtube",
+			"href": "http://www.youtube.com",
+			"target": "_youtube",
+			"img": "<img src='assets/img/png/youtube.png' width='40' height='40' title='Youtube' alt='assets/img/png/youtube.png' />"
+		},
+		{
 			"title": "Comando Torrents",
 			"href": "https://www.comandotorrents.com",
 			"target": "_comandotorrents",
@@ -411,18 +417,6 @@ Filmes
 			"href": "http://yesfilmes.org/",
 			"target": "_yesfilmes",
 			"img": "<img src='assets/img/png/yesfilmes.png' width='40' height='40' title='Yes Filmes' alt='assets/img/png/yesfilmes.png' />"
-		},
-		{
-			"title": "Youtube",
-			"href": "http://www.youtube.com",
-			"target": "_youtube",
-			"img": "<img src='assets/img/png/youtube.png' width='40' height='40' title='Youtube' alt='assets/img/png/youtube.png' />"
-		},
-		{
-			"title": "Ulist",
-			"href": "https://guihkx.github.io/ulist/",
-			"target": "_ulist",
-			"img": "<img src='assets/img/png/ulist.png' width='40' height='40' title='Baixar lista de links da play list do canal do youtube' alt='assets/img/png/ulist.png' />"
 		},
 		{
 			"title": "Globo Play",
@@ -955,6 +949,12 @@ Serviços
 			"href": "https://www.kaissara.com.br",
 			"target": "_kaissara",
 			"img": "<img src='assets/img/png/kaissara.png' width='40' height='40' title='Viação Kaissara' alt='assets/img/png/kaissara.png' />"
+		},
+		{
+			"title": "Ulist",
+			"href": "https://guihkx.github.io/ulist/",
+			"target": "_ulist",
+			"img": "<img src='assets/img/png/ulist.png' width='40' height='40' title='Baixar lista de links da play list do canal do youtube' alt='assets/img/png/ulist.png' />"
 		},
 		{
 			"title": "Draw",
