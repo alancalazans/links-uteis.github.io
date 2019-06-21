@@ -854,7 +854,7 @@ Repositórios
 		},
 		{
 			"title": "WPS Office",
-			"href": "https://www.wps.com/pt-BR/download/",
+			"href": "http://wps-community.org/downloads",
 			"target": "_wps",
 			"img": "<img src='assets/img/png/wps.png' width='40' height='40' title='Office chinês, muito similar ao MSOffice' alt='assets/img/png/wps.png' />"
 		},
