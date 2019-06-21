@@ -853,6 +853,30 @@ Repositórios
 			"img": "<img src='assets/img/png/rufus.png' width='40' height='40' title='Criador de pendrive de boot' alt='assets/img/png/rufus.png' />"
 		},
 		{
+			"title": "WPS Office",
+			"href": "https://www.wps.com/pt-BR/download/",
+			"target": "_wps",
+			"img": "<img src='assets/img/png/wps.png' width='40' height='40' title='Office chinês, muito similar ao MSOffice' alt='assets/img/png/wps.png' />"
+		},
+		{
+			"title": "Gimp",
+			"href": "https://www.gimp.org/",
+			"target": "_gimp",
+			"img": "<img src='assets/img/png/gimp.png' width='40' height='40' title='Programa para edição de imagens' alt='assets/img/png/gimp.png' />"
+		},
+		{
+			"title": "CCleaner",
+			"href": "https://www.ccleaner.com/pt-br/ccleaner/download/standard",
+			"target": "_ccleaner",
+			"img": "<img src='assets/img/png/ccleaner.png' width='40' height='40' title='Programa para correções do sistema' alt='assets/img/png/ccleaner.png' />"
+		},
+		{
+			"title": "VirtualBox",
+			"href": "https://www.virtualbox.org",
+			"target": "_virtualbox",
+			"img": "<img src='assets/img/png/virtualbox.png' width='40' height='40' title='Programa para virtualização de sistemas' alt='assets/img/png/virtualbox.png' />"
+		},
+		{
 			"title": "Docer",
 			"href": "https://docero.com.br",
 			"target": "_docero",
