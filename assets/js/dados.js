@@ -10,7 +10,7 @@ var dados = {
 		'<li class="inactive"><a href="#" id="enem" onclick="clickLink(this);">ENEM</a></li>',
 		'<li class="inactive"><a href="#" id="ensino" onclick="clickLink(this);">Ensino</a></li>',
 		'<li class="inactive"><a href="#" id="noticias" onclick="clickLink(this);">Noticias</a></li>',
-		'<li class="inactive"><a href="#" id="repositorios" onclick="clickLink(this);">Repositórios</a></li>',
+		'<li class="inactive"><a href="#" id="uteis" onclick="clickLink(this);">Úteis</a></li>',
 		'<li class="inactive"><a href="#" id="bancos" onclick="clickLink(this);">Bancos</a></li>',
 		'<li class="inactive"><a href="#" id="dessoft" onclick="clickLink(this);">Des-Soft</a></li>',
 		'<li class="inactive"><a href="#" id="loterias" onclick="clickLink(this);">Loterias</a></li>',
@@ -721,170 +721,6 @@ Rede social
 	],
 /*	
 ================================================================================
-Repositórios
-================================================================================
-*/
-	"repositorios":
-	[
-		{
-			"title": "4Shared",
-			"href": "http://www.4shared.com",
-			"target": "_forshared",
-			"img": "<img src='assets/img/png/4shared.png' width='40' height='40' title='4Shared' alt='assets/img/png/4shared.png' />"
-		},
-		{
-			"title": "Vagalume músicas",
-			"href": "http://www.vagalume.com.br",
-			"target": "_vagalume",
-			"img": "<img src='assets/img/png/vagalumemusicas.png' width='40' height='40' title='Vagalume músicas' alt='assets/img/png/vagalumemusicas.png' />"
-		},
-		{
-			"title": "Planeta Rei",
-			"href": "http://www.planetarei.com.br/100anos/index.htm",
-			"target": "_planetarei",
-			"img": "<img src='assets/img/png/planeta-rei.png' width='40' height='40' title='100 anos da música' alt='assets/img/png/planeta-rei.png' />"
-		},
-		{
-			"title": "Baixaki",
-			"href": "http://www.baixaki.com.br",
-			"target": "_baixaki",
-			"img": "<img src='assets/img/png/baixaki.png' width='40' height='40' title='Baixaki' alt='assets/img/png/baixaki.png' />"
-		},
-		{
-			"title": "UpToDown",
-			"href": "http://br.uptodown.com/",
-			"target": "_uptodown",
-			"img": "<img src='assets/img/png/uptodown.png' width='40' height='40' title='Site de programas' alt='assets/img/png/uptodown.png' />"
-		},
-		{
-			"title": "Icon Finder",
-			"href": "https://www.iconfinder.com/",
-			"target": "_iconfinder",
-			"img": "<img src='assets/img/png/iconfinder.png' width='40' height='40' title='Baixar icones diversos' alt='assets/img/png/iconfinder.png' />"
-		},
-		{
-			"title": "Spins Fedora",
-			"href": "https://spins.fedoraproject.org/pt_BR/",
-			"target": "_spins-fedora",
-			"img": "<img src='assets/img/png/fedora-spins.png' width='40' height='40' title='Linux Fedora - Várias arquiteturas de interface gráfica' alt='assets/img/png/fedora-spins.png' />"
-		},
-		{
-			"title": "Ubuntu cdimg",
-			"href": "http://cdimage.ubuntu.com/",
-			"target": "_ubuntu_cdimg",
-			"img": "<img src='assets/img/png/ubuntu_cdimg.png' width='40' height='40' title='Ubuntu - imagens iso para instalação do sistema' alt='assets/img/png/ubuntu_cdimg.png' />"
-		},
-		{
-			"title": "LinuxMint",
-			"href": "https://www.linuxmint.com/",
-			"target": "_linuxmint",
-			"img": "<img src='assets/img/png/linuxmint.png' width='40' height='40' title='LinuxMint' alt='assets/img/png/linuxmint.png' />"
-		},
-		{
-			"title": "Lubuntu",
-			"href": "https://lubuntu.me",
-			"target": "_lubuntu",
-			"img": "<img src='assets/img/png/lubuntu.png' width='40' height='40' title='Lubuntu' alt='assets/img/png/lubuntu.png' />"
-		},
-		{
-			"title": "Wallpapers Abyss",
-			"href": "https://wall.alphacoders.com/finding_wallpapers.php?lang-Portuguese",
-			"target": "_wallpapers-abyss",
-			"img": "<img src='assets/img/png/wallpapers-abyss.png' width='40' height='40' title='Telas de fundo para computador' alt='assets/img/png/wallpapers-abyss.png' />"
-		},
-		{
-			"title": "Deviant Art",
-			"href": "https://www.deviantart.com/",
-			"target": "_deviant-art",
-			"img": "<img src='assets/img/png/deviant-art.png' width='40' height='40' title='Temas para sistema operacional' alt='assets/img/png/deviant-art.png' />"
-		},
-		{
-			"title": "Gnome-look",
-			"href": "https://www.gnome-look.org",
-			"target": "_gnome-look",
-			"img": "<img src='assets/img/png/gnome-look.png' width='40' height='40' title='Temas para sistema operacional' alt='assets/img/png/gnome-look.png' />"
-		},
-		{
-			"title": "Cinnamon Spices",
-			"href": "https://cinnamon-spices.linuxmint.com/",
-			"target": "_cinnamon-spices",
-			"img": "<img src='assets/img/png/cinnamon-spices.png' width='40' height='40' title='Temas entre outros para interface Cinnamon' alt='assets/img/png/cinnamon-spices.png' />"
-		},
-		{
-			"title": "FreeFileSync",
-			"href": "https://freefilesync.org/",
-			"target": "_freefilesync",
-			"img": "<img src='assets/img/png/freefilesync.png' width='40' height='40' title='Sincronizador de arquivos (backup em pendrive)' alt='assets/img/png/freefilesync.png' />"
-		},
-		{
-			"title": "Iron Browser",
-			"href": "https://www.srware.net/en/software_srware_iron_download.php",
-			"target": "_iron-browser",
-			"img": "<img src='assets/img/png/iron-browser.png' width='40' height='40' title='Navegador da web' alt='assets/img/png/iron-browser.png' />"
-		},
-		{
-			"title": "Vivaldi browser",
-			"href": "https://vivaldi.com/pt-br/",
-			"target": "_vivaldi",
-			"img": "<img src='assets/img/png/vivaldi.png' width='40' height='40' title='Navegador da web' alt='assets/img/png/vivaldi.png' />"
-		},
-		{
-			"title": "Tor browser",
-			"href": "https://www.torproject.org/download/",
-			"target": "_tor-browser",
-			"img": "<img src='assets/img/png/tor-browser.png' width='40' height='40' title='Navegador da web' alt='assets/img/png/tor-browser.png' />"
-		},
-		{
-			"title": "Palemoon browser",
-			"href": "http://www.palemoon.org",
-			"target": "_palemoon",
-			"img": "<img src='assets/img/png/palemoon.png' width='40' height='40' title='Navegador da web' alt='assets/img/png/palemoon.png' />"
-		},
-		{
-			"title": "Adobe Flash Player",
-			"href": "https://get.adobe.com/br/flashplayer/",
-			"target": "_flashplayer",
-			"img": "<img src='assets/img/png/flash_player.png' width='40' height='40' title='Plugin Adobe Flash Player' alt='assets/img/png/flash_player.png' />"
-		},
-		{
-			"title": "Rufus",
-			"href": "https://rufus.akeo.ie",
-			"target": "_rufus",
-			"img": "<img src='assets/img/png/rufus.png' width='40' height='40' title='Criador de pendrive de boot' alt='assets/img/png/rufus.png' />"
-		},
-		{
-			"title": "WPS Office",
-			"href": "http://wps-community.org/downloads",
-			"target": "_wps",
-			"img": "<img src='assets/img/png/wps.png' width='40' height='40' title='Office chinês, muito similar ao MSOffice' alt='assets/img/png/wps.png' />"
-		},
-		{
-			"title": "Gimp",
-			"href": "https://www.gimp.org/",
-			"target": "_gimp",
-			"img": "<img src='assets/img/png/gimp.png' width='40' height='40' title='Programa para edição de imagens' alt='assets/img/png/gimp.png' />"
-		},
-		{
-			"title": "CCleaner",
-			"href": "https://www.ccleaner.com/pt-br/ccleaner/download/standard",
-			"target": "_ccleaner",
-			"img": "<img src='assets/img/png/ccleaner.png' width='40' height='40' title='Programa para correções do sistema' alt='assets/img/png/ccleaner.png' />"
-		},
-		{
-			"title": "VirtualBox",
-			"href": "https://www.virtualbox.org",
-			"target": "_virtualbox",
-			"img": "<img src='assets/img/png/virtualbox.png' width='40' height='40' title='Programa para virtualização de sistemas' alt='assets/img/png/virtualbox.png' />"
-		},
-		{
-			"title": "Docer",
-			"href": "https://docero.com.br",
-			"target": "_docero",
-			"img": "<img src='assets/img/png/docer.png' width='40' height='40' title='Baixar livros grátis' alt='assets/img/png/docer.png' />"
-		}
-	],
-/*	
-================================================================================
 Serviços
 ================================================================================
 */
@@ -985,6 +821,170 @@ Serviços
 			"href": "https://www.draw.io",
 			"target": "_draw",
 			"img": "<img src='assets/img/png/draw.png' width='40' height='40' title='Criar diagramas online' alt='assets/img/png/draw.png' />"
+		}
+	],
+/*	
+================================================================================
+Úteis
+================================================================================
+*/
+	"uteis":
+	[
+		{
+			"title": "4Shared",
+			"href": "http://www.4shared.com",
+			"target": "_forshared",
+			"img": "<img src='assets/img/png/4shared.png' width='40' height='40' title='4Shared' alt='assets/img/png/4shared.png' />"
+		},
+		{
+			"title": "Vagalume músicas",
+			"href": "http://www.vagalume.com.br",
+			"target": "_vagalume",
+			"img": "<img src='assets/img/png/vagalumemusicas.png' width='40' height='40' title='Vagalume músicas' alt='assets/img/png/vagalumemusicas.png' />"
+		},
+		{
+			"title": "Planeta Rei",
+			"href": "http://www.planetarei.com.br/100anos/index.htm",
+			"target": "_planetarei",
+			"img": "<img src='assets/img/png/planeta-rei.png' width='40' height='40' title='100 anos da música' alt='assets/img/png/planeta-rei.png' />"
+		},
+		{
+			"title": "Baixaki",
+			"href": "http://www.baixaki.com.br",
+			"target": "_baixaki",
+			"img": "<img src='assets/img/png/baixaki.png' width='40' height='40' title='Baixaki' alt='assets/img/png/baixaki.png' />"
+		},
+		{
+			"title": "UpToDown",
+			"href": "http://br.uptodown.com/",
+			"target": "_uptodown",
+			"img": "<img src='assets/img/png/uptodown.png' width='40' height='40' title='Site de programas' alt='assets/img/png/uptodown.png' />"
+		},
+		{
+			"title": "Icon Finder",
+			"href": "https://www.iconfinder.com/",
+			"target": "_iconfinder",
+			"img": "<img src='assets/img/png/iconfinder.png' width='40' height='40' title='Baixar icones diversos' alt='assets/img/png/iconfinder.png' />"
+		},
+		{
+			"title": "Spins Fedora",
+			"href": "https://spins.fedoraproject.org/pt_BR/",
+			"target": "_spins-fedora",
+			"img": "<img src='assets/img/png/fedora-spins.png' width='40' height='40' title='Linux Fedora - Várias arquiteturas de interface gráfica' alt='assets/img/png/fedora-spins.png' />"
+		},
+		{
+			"title": "Ubuntu cdimg",
+			"href": "http://cdimage.ubuntu.com/",
+			"target": "_ubuntu_cdimg",
+			"img": "<img src='assets/img/png/ubuntu_cdimg.png' width='40' height='40' title='Ubuntu - imagens iso para instalação do sistema' alt='assets/img/png/ubuntu_cdimg.png' />"
+		},
+		{
+			"title": "LinuxMint",
+			"href": "https://www.linuxmint.com/",
+			"target": "_linuxmint",
+			"img": "<img src='assets/img/png/linuxmint.png' width='40' height='40' title='LinuxMint' alt='assets/img/png/linuxmint.png' />"
+		},
+		{
+			"title": "Lubuntu",
+			"href": "https://lubuntu.me",
+			"target": "_lubuntu",
+			"img": "<img src='assets/img/png/lubuntu.png' width='40' height='40' title='Lubuntu' alt='assets/img/png/lubuntu.png' />"
+		},
+		{
+			"title": "Wallpapers Abyss",
+			"href": "https://wall.alphacoders.com/finding_wallpapers.php?lang-Portuguese",
+			"target": "_wallpapers-abyss",
+			"img": "<img src='assets/img/png/wallpapers-abyss.png' width='40' height='40' title='Telas de fundo para computador' alt='assets/img/png/wallpapers-abyss.png' />"
+		},
+		{
+			"title": "Deviant Art",
+			"href": "https://www.deviantart.com/",
+			"target": "_deviant-art",
+			"img": "<img src='assets/img/png/deviant-art.png' width='40' height='40' title='Temas para sistema operacional' alt='assets/img/png/deviant-art.png' />"
+		},
+		{
+			"title": "Gnome-look",
+			"href": "https://www.gnome-look.org",
+			"target": "_gnome-look",
+			"img": "<img src='assets/img/png/gnome-look.png' width='40' height='40' title='Temas para sistema operacional' alt='assets/img/png/gnome-look.png' />"
+		},
+		{
+			"title": "Cinnamon Spices",
+			"href": "https://cinnamon-spices.linuxmint.com/",
+			"target": "_cinnamon-spices",
+			"img": "<img src='assets/img/png/cinnamon-spices.png' width='40' height='40' title='Temas entre outros para interface Cinnamon' alt='assets/img/png/cinnamon-spices.png' />"
+		},
+		{
+			"title": "FreeFileSync",
+			"href": "https://freefilesync.org/",
+			"target": "_freefilesync",
+			"img": "<img src='assets/img/png/freefilesync.png' width='40' height='40' title='Sincronizador de arquivos (backup em pendrive)' alt='assets/img/png/freefilesync.png' />"
+		},
+		{
+			"title": "Iron Browser",
+			"href": "https://www.srware.net/en/software_srware_iron_download.php",
+			"target": "_iron-browser",
+			"img": "<img src='assets/img/png/iron-browser.png' width='40' height='40' title='Navegador da web compatível com o Chrome' alt='assets/img/png/iron-browser.png' />"
+		},
+		{
+			"title": "Vivaldi browser",
+			"href": "https://vivaldi.com/pt-br/",
+			"target": "_vivaldi",
+			"img": "<img src='assets/img/png/vivaldi.png' width='40' height='40' title='Navegador da web (mais elaborado) compatível com o Chrome' alt='assets/img/png/vivaldi.png' />"
+		},
+		{
+			"title": "Palemoon browser",
+			"href": "http://www.palemoon.org",
+			"target": "_palemoon",
+			"img": "<img src='assets/img/png/palemoon.png' width='40' height='40' title='Navegador (leve) da web similar ao Firefox' alt='assets/img/png/palemoon.png' />"
+		},
+		{
+			"title": "Tor browser",
+			"href": "https://www.torproject.org/download/",
+			"target": "_tor-browser",
+			"img": "<img src='assets/img/png/tor-browser.png' width='40' height='40' title='Navegação sigilosa na web' alt='assets/img/png/tor-browser.png' />"
+		},
+		{
+			"title": "Adobe Flash Player",
+			"href": "https://get.adobe.com/br/flashplayer/",
+			"target": "_flashplayer",
+			"img": "<img src='assets/img/png/flash_player.png' width='40' height='40' title='Plugin Adobe Flash Player' alt='assets/img/png/flash_player.png' />"
+		},
+		{
+			"title": "Rufus",
+			"href": "https://rufus.akeo.ie",
+			"target": "_rufus",
+			"img": "<img src='assets/img/png/rufus.png' width='40' height='40' title='Criador de pendrive de boot' alt='assets/img/png/rufus.png' />"
+		},
+		{
+			"title": "WPS Office",
+			"href": "http://wps-community.org/downloads",
+			"target": "_wps",
+			"img": "<img src='assets/img/png/wps.png' width='40' height='40' title='Office muito similar ao MSOffice' alt='assets/img/png/wps.png' />"
+		},
+		{
+			"title": "Gimp",
+			"href": "https://www.gimp.org/",
+			"target": "_gimp",
+			"img": "<img src='assets/img/png/gimp.png' width='40' height='40' title='Programa para edição de imagens' alt='assets/img/png/gimp.png' />"
+		},
+		{
+			"title": "CCleaner",
+			"href": "https://www.ccleaner.com/pt-br/ccleaner/download/standard",
+			"target": "_ccleaner",
+			"img": "<img src='assets/img/png/ccleaner.png' width='40' height='40' title='Programa para correções do sistema' alt='assets/img/png/ccleaner.png' />"
+		},
+		{
+			"title": "VirtualBox",
+			"href": "https://www.virtualbox.org",
+			"target": "_virtualbox",
+			"img": "<img src='assets/img/png/virtualbox.png' width='40' height='40' title='Programa para virtualização de sistemas' alt='assets/img/png/virtualbox.png' />"
+		},
+		{
+			"title": "Docer",
+			"href": "https://docero.com.br",
+			"target": "_docero",
+			"img": "<img src='assets/img/png/docer.png' width='40' height='40' title='Baixar livros grátis' alt='assets/img/png/docer.png' />"
 		}
 	]
 };
