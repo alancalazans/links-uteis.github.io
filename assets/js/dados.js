@@ -352,8 +352,8 @@ Ensino
 		},
 		{
 			"title": "STA MARIA",
-			"href": "http://www.santamariamg.com.br/?s=ir&unidade=0&unidadepesquisa=0",
-			"target": "_STA_MARIA",
+			"href": "https://santamaria.pucminas.br/coracao-eucaristico/",
+			"target": "_sta-maria",
 			"img": "<img src='assets/img/png/colegiostamaria.png' width='40' height='40' title='Colégio Sta Maria' alt='assets/img/png/colegiostamaria.png' />"
 		},
 		{
