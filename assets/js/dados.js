@@ -5,7 +5,7 @@ var dados = {
 		'<li class="active"><a href="#" id="emails" onclick="clickLink(this);">E-mails</a></li>',
 		'<li class="inactive"><a href="#" id="redesocial" onclick="clickLink(this);">Rede Social</a></li>',
 		'<li class="inactive"><a href="#" id="filmes" onclick="clickLink(this);">Filmes</a></li>',
-		'<li class="inactive"><a href="#" id="midia" onclick="clickLink(this);">Mídia</a></li>',
+		'<li class="inactive"><a href="#" id="radios" onclick="clickLink(this);">Rádios</a></li>',
 		'<li class="inactive"><a href="#" id="concursos" onclick="clickLink(this);">Concursos</a></li>',
 		'<li class="inactive"><a href="#" id="enem" onclick="clickLink(this);">ENEM</a></li>',
 		'<li class="inactive"><a href="#" id="ensino" onclick="clickLink(this);">Ensino</a></li>',
@@ -429,6 +429,12 @@ Filmes
 			"href": "https://www.youtube.com/user/Calisthenicmovement/playlists",
 			"target": "_calisthenicmovement",
 			"img": "<img src='assets/img/png/calisthenicmovement.png' width='40' height='40' title='Canal sobre calistenia (ginástica)' alt='assets/img/png/calisthenicmovement.png' />"
+		},
+		{
+			"title": "TV online",
+			"href": "assets/html/tv_web/index.html",
+			"target": "_tv-online",
+			"img": "<img src='assets/html/tv_web/assets/img/png/tv.png' width='40' height='40' title='TV online' alt='assets/html/tv_web/assets/img/png/tv.png' />"
 		}
 	],
 /*	
@@ -501,10 +507,10 @@ Loterias
 	],
 /*	
 ================================================================================
-Mídia
+Rádios
 ================================================================================
 */
-	"midia":
+	"radios":
 	[
 		{
 			"title": "Alvorada FM",
@@ -553,12 +559,6 @@ Mídia
 			"href": "assets/html/radios/index.html",
 			"target": "_radios-online",
 			"img": "<img src='assets/html/radios/assets/img/png/radio.png' width='40' height='40' title='Rádios online' alt='assets/html/radios/assets/img/png/radio.png' />"
-		},
-		{
-			"title": "TV online",
-			"href": "assets/html/tv_web/index.html",
-			"target": "_tv-online",
-			"img": "<img src='assets/html/tv_web/assets/img/png/tv.png' width='40' height='40' title='TV online' alt='assets/html/tv_web/assets/img/png/tv.png' />"
 		}
 	],
 /*	
