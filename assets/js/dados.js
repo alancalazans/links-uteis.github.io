@@ -18,7 +18,7 @@ var dados = {
 		'<li class="inactive"><a href="#" id="servicos" onclick="clickLink(this);">Serviços</a></li>',
 		'<li class="inactive"><a href="#" id="diversos" onclick="clickLink(this);">Diversos</a></li>'
 	],
-/*	
+/*
 ================================================================================
 Bancos
 ================================================================================
@@ -56,7 +56,7 @@ Bancos
 			"img": "<img src='assets/img/png/itau.png' width='40' height='40' title='Itaú' alt='assets/img/png/itau.png' />"
 		}
 	],
-/*	
+/*
 ================================================================================
 Concursos
 ================================================================================
@@ -82,7 +82,7 @@ Concursos
 			"img": "<img src='assets/img/png/jc_concursos.png' width='40' height='40' title='JC-Concursos' alt='assets/img/png/jc_concursos.png' />"
 		}
 	],
-/*	
+/*
 ================================================================================
 Des-Soft
 ================================================================================
@@ -216,19 +216,13 @@ Des-Soft
 			"img": "<img src='assets/img/png/encycolorpedia.png' width='40' height='40' title='Todas as variantes de cores da web' alt='assets/img/png/encycolorpedia.png' />"
 		}
 	],
-/*	
+/*
 ================================================================================
 Diversos
 ================================================================================
 */
 	"diversos":
 	[
-		{
-			"title": "Groups PEPped",
-			"href": "https://groups.google.com/group/pepped?msg=new&lnk=gcis&hl=pt-BR",
-			"target": "_pepped",
-			"img": "<img src='assets/img/png/groupspepped.png' width='40' height='40' title='Groups PEPped' alt='assets/img/png/groupspepped.png' />"
-		},
 		{
 			"title": "Portal do Serv.",
 			"href": "https://www.servidor.gov.br",
@@ -258,9 +252,15 @@ Diversos
 			"href": "https://www.ufmg.br/ceu/site/home",
 			"target": "_ceu",
 			"img": "<img src='assets/img/png/ceu.png' width='40' height='40' title='Centro Esportivo Universitário da UFMG' alt='assets/img/png/ceu.png' />"
+		},
+		{
+			"title": "Groups PEPped",
+			"href": "https://groups.google.com/group/pepped?msg=new&lnk=gcis&hl=pt-BR",
+			"target": "_pepped",
+			"img": "<img src='assets/img/png/groupspepped.png' width='40' height='40' title='Groups PEPped' alt='assets/img/png/groupspepped.png' />"
 		}
 	],
-/*	
+/*
 ================================================================================
 Emails
 ================================================================================
@@ -325,7 +325,7 @@ Emails
 			"img": "<img src='assets/img/png/geekie-games.png' width='40' height='40' title='geekie-games' alt='assets/img/png/geekie-games.png' />"
 		}
 	],
-/*	
+/*
 ================================================================================
 Ensino
 ================================================================================
@@ -375,7 +375,7 @@ Ensino
 			"img": "<img src='assets/img/png/nova-acropole.png' width='40' height='40' title='Nova Acrópole - Filosofia' alt='assets/img/png/nova-acropole.png' />"
 		}
 	],
-/*	
+/*
 ================================================================================
 Filmes
 ================================================================================
@@ -437,7 +437,7 @@ Filmes
 			"img": "<img src='assets/html/tv_web/assets/img/png/tv.png' width='40' height='40' title='TV online' alt='assets/html/tv_web/assets/img/png/tv.png' />"
 		}
 	],
-/*	
+/*
 ================================================================================
 Loterias
 ================================================================================
@@ -505,7 +505,7 @@ Loterias
 			"img": "<img src='assets/img/png/lotofacil.png' width='40' height='40' title='LOTOFÁCIL' alt='assets/img/png/lotofacil.png' />"
 		}
 	],
-/*	
+/*
 ================================================================================
 Rádios
 ================================================================================
@@ -561,7 +561,7 @@ Rádios
 			"img": "<img src='assets/html/radios/assets/img/png/radio.png' width='40' height='40' title='Rádios online' alt='assets/html/radios/assets/img/png/radio.png' />"
 		}
 	],
-/*	
+/*
 ================================================================================
 Nuvem
 ================================================================================
@@ -587,7 +587,7 @@ Nuvem
 			"img": "<img src='assets/img/png/ondrive.png' width='40' height='40' title='OnDrive' alt='assets/img/png/ondrive.png' />"
 		}
 	],
-/*	
+/*
 ================================================================================
 Notícias
 ================================================================================
@@ -631,7 +631,7 @@ Notícias
 			"img": "<img src='assets/img/png/soubh.png' width='40' height='40' title='Atividades e eventos em BH' alt='assets/img/png/soubh.png' />"
 		}
 	],
-/*	
+/*
 ================================================================================
 Pesquisa
 ================================================================================
@@ -675,7 +675,7 @@ Pesquisa
 			"img": "<img src='assets/img/png/bingtradutor.png' width='40' height='40' title='Bing Tradutor' alt='assets/img/png/bing.png' />"
 		}
 	],
-/*	
+/*
 ================================================================================
 Rede social
 ================================================================================
@@ -719,7 +719,7 @@ Rede social
 			"img": "<img src='assets/img/png/linkedin.png' width='40' height='40' title='Linkedin' alt='assets/img/png/linkedin.png' />"
 		}
 	],
-/*	
+/*
 ================================================================================
 Serviços
 ================================================================================
@@ -823,7 +823,7 @@ Serviços
 			"img": "<img src='assets/img/png/draw.png' width='40' height='40' title='Criar diagramas online' alt='assets/img/png/draw.png' />"
 		}
 	],
-/*	
+/*
 ================================================================================
 Úteis
 ================================================================================
