@@ -208,12 +208,6 @@ Des-Soft
 			"href": "http://rosettacode.org/wiki/Rosetta_Code",
 			"target": "_rosettacode",
 			"img": "<img src='assets/img/png/rosettacode.png' width='40' height='40' title='Exemplos de códigos' alt='assets/img/png/rosettacode.png' />"
-		},
-		{
-			"title": "Encycolorpedia",
-			"href": "https://encycolorpedia.pt",
-			"target": "_encycolorpedia",
-			"img": "<img src='assets/img/png/encycolorpedia.png' width='40' height='40' title='Todas as variantes de cores da web' alt='assets/img/png/encycolorpedia.png' />"
 		}
 	],
 /*
@@ -821,6 +815,12 @@ Serviços
 			"href": "https://www.draw.io",
 			"target": "_draw",
 			"img": "<img src='assets/img/png/draw.png' width='40' height='40' title='Criar diagramas online' alt='assets/img/png/draw.png' />"
+		},
+		{
+			"title": "Encycolorpedia",
+			"href": "https://encycolorpedia.pt",
+			"target": "_encycolorpedia",
+			"img": "<img src='assets/img/png/encycolorpedia.png' width='40' height='40' title='Todas as variantes de cores da web' alt='assets/img/png/encycolorpedia.png' />"
 		}
 	],
 /*
