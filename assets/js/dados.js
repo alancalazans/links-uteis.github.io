@@ -429,6 +429,12 @@ Filmes
 			"href": "assets/html/tv_web/index.html",
 			"target": "_tv-online",
 			"img": "<img src='assets/html/tv_web/assets/img/png/tv.png' width='40' height='40' title='TV online' alt='assets/html/tv_web/assets/img/png/tv.png' />"
+		},
+		{
+			"title": "Netflix",
+			"href": "https://www.netflix.com/br/",
+			"target": "_netflix",
+			"img": "<img src='assets/img/png/netflix.png' width='40' height='40' title='Netflix' alt='assets/img/png/netflix.png' />"
 		}
 	],
 /*
@@ -919,6 +925,12 @@ Serviços
 			"href": "https://freefilesync.org/",
 			"target": "_freefilesync",
 			"img": "<img src='assets/img/png/freefilesync.png' width='40' height='40' title='Sincronizador de arquivos (backup em pendrive)' alt='assets/img/png/freefilesync.png' />"
+		},
+		{
+			"title": "Slimjet Browser",
+			"href": "https://www.slimjet.com/pt/",
+			"target": "_slimjet-browser",
+			"img": "<img src='assets/img/png/slimjet.png' width='40' height='40' title='Navegador da web compatível com o Chrome' alt='assets/img/png/slimjet.png' />"
 		},
 		{
 			"title": "Iron Browser",
