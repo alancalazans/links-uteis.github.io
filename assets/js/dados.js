@@ -351,6 +351,12 @@ Ensino
 			"img": "<img src='assets/img/png/colegiostamaria.png' width='40' height='40' title='Colégio Sta Maria' alt='assets/img/png/colegiostamaria.png' />"
 		},
 		{
+			"title": "COLTEC",
+			"href": "http://www.coltec.ufmg.br/coltec-ufmg/",
+			"target": "_coltec",
+			"img": "<img src='assets/img/png/coltec.png' width='40' height='40' title='COLTEC UFMG' alt='assets/img/png/coltec.png' />"
+		},
+		{
 			"title": "UFMG",
 			"href": "https://www.ufmg.br/",
 			"target": "_ufmg",
@@ -877,6 +883,12 @@ Serviços
 			"href": "https://spins.fedoraproject.org/pt_BR/",
 			"target": "_spins-fedora",
 			"img": "<img src='assets/img/png/fedora-spins.png' width='40' height='40' title='Linux Fedora - Várias arquiteturas de interface gráfica' alt='assets/img/png/fedora-spins.png' />"
+		},
+		{
+			"title": "ZorinOS",
+			"href": "https://zorinos.com/download/",
+			"target": "_zorin-os",
+			"img": "<img src='assets/img/png/zorin-os.png' width='40' height='40' title='Linux ZorinOS' alt='assets/img/png/zorin-os.png' />"
 		},
 		{
 			"title": "Ubuntu cdimg",
