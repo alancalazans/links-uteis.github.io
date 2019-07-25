@@ -561,10 +561,10 @@ Rádios
 			"img": "<img src='assets/img/png/radios.com.br.png' width='40' height='40' title='Rádios.com.br' alt='assets/img/png/radios.com.br.png' />"
 		},
 		{
-			"title": "Rádios online",
+			"title": "Streams de Rádios",
 			"href": "assets/html/radios/index.html",
-			"target": "_radios-online",
-			"img": "<img src='assets/html/radios/assets/img/png/radio.png' width='40' height='40' title='Rádios online' alt='assets/html/radios/assets/img/png/radio.png' />"
+			"target": "_streams",
+			"img": "<img src='assets/html/radios/assets/img/png/radio.png' width='40' height='40' title='Streams de Rádios' alt='assets/html/radios/assets/img/png/radio.png' />"
 		},
 		{
 			"title": "FM Stream",
