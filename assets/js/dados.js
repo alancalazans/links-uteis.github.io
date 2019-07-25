@@ -519,6 +519,12 @@ Rádios
 	"radios":
 	[
 		{
+			"title": "CBN BH",
+			"href": "http://cbn.globoradio.globo.com/Player/playerAoVivoBH.htm",
+			"target": "_cbn_bh",
+			"img": "<img src='assets/img/png/cbn.png' width='40' height='40' title='CBN BH' alt='assets/img/png/cbn.png' />"
+		},
+		{
 			"title": "Alvorada FM",
 			"href": "https://www.alvoradafm.com.br/player",
 			"target": "_alvoradafm",
