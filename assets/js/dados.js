@@ -565,6 +565,12 @@ Rádios
 			"href": "assets/html/radios/index.html",
 			"target": "_radios-online",
 			"img": "<img src='assets/html/radios/assets/img/png/radio.png' width='40' height='40' title='Rádios online' alt='assets/html/radios/assets/img/png/radio.png' />"
+		},
+		{
+			"title": "FM Stream",
+			"href": "http://fmstream.org/index.php?c=B&o=top&n=1600",
+			"target": "_fmstream",
+			"img": "<img src='assets/img/png/fmstream.png' width='40' height='40' title='FM Stream' alt='assets/img/png/fmstream.png' />"
 		}
 	],
 /*
