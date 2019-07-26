@@ -524,6 +524,18 @@ Rádios
 			"target": "_cbn_bh",
 			"img": "<img src='assets/img/png/cbn.png' width='40' height='40' title='CBN BH' alt='assets/img/png/cbn.png' />"
 		},
+    {
+      "title": "Band News FM",
+      "href": "https://radios.band.uol.com.br/?radio=bandnews-bh",
+      "target": "_bandnews_fm",
+      "img": "<img src='assets/img/png/bandnews_fm.png' width='40' height='40' title='Band News FM' alt='assets/img/png/bandnews_fm.png' />"
+    },
+    {
+      "title": "Tune in radio",
+      "href": "https://tunein.com/radio/home/",
+      "target": "_tunein_radio",
+      "img": "<img src='assets/img/png/tunein_radio.png' width='40' height='40' title='Band News FM' alt='assets/img/png/tunein_radio.png' />"
+    },
 		{
 			"title": "Alvorada FM",
 			"href": "https://www.alvoradafm.com.br/player",
