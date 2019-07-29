@@ -513,86 +513,6 @@ Loterias
 	],
 /*
 ================================================================================
-Rádios
-================================================================================
-*/
-	"radios":
-	[
-		{
-			"title": "CBN BH",
-			"href": "http://cbn.globoradio.globo.com/Player/playerAoVivoBH.htm",
-			"target": "_cbn_bh",
-			"img": "<img src='assets/img/png/cbn.png' width='40' height='40' title='CBN BH' alt='assets/img/png/cbn.png' />"
-		},
-    {
-      "title": "Band News FM",
-      "href": "https://radios.band.uol.com.br/?radio=bandnews-bh",
-      "target": "_bandnews_fm",
-      "img": "<img src='assets/img/png/bandnews_fm.png' width='40' height='40' title='Band News FM' alt='assets/img/png/bandnews_fm.png' />"
-    },
-    {
-      "title": "Tune in radio",
-      "href": "https://tunein.com/radio/home/",
-      "target": "_tunein_radio",
-      "img": "<img src='assets/img/png/tunein_radio.png' width='40' height='40' title='Band News FM' alt='assets/img/png/tunein_radio.png' />"
-    },
-		{
-			"title": "Alvorada FM",
-			"href": "https://www.alvoradafm.com.br/player",
-			"target": "_alvoradafm",
-			"img": "<img src='assets/img/png/alvoradafm.png' width='40' height='40' title='Alvorada FM' alt='assets/img/png/alvoradafm.png' />"
-		},
-		{
-			"title": "Antena 1",
-			"href": "https://www.antena1.com.br/aovivo",
-			"target": "_antena_1",
-			"img": "<img src='assets/img/png/antena1.png' width='40' height='40' title='Antena 1' alt='assets/img/png/antena1.png' />"
-		},
-		{
-			"title": "CDL FM",
-			"href": "http://fm1029.com.br/plus/",
-			"target": "_cdlfm",
-			"img": "<img src='assets/img/png/cdl.png' width='40' height='40' title='Rádio FM do Coselho de dirigentes lojistas de BH' alt='assets/img/png/cdl.png' />"
-		},
-		{
-			"title": "Itatiaia",
-			"href": "http://www.itatiaia.com.br/aovivo",
-			"target": "_itatiaia",
-			"img": "<img src='assets/img/png/itatiaia.png' width='40' height='40' title='Itatiaia' alt='assets/img/png/itatiaia.png' />"
-		},
-		{
-			"title": "107.5 FM",
-			"href": "http://radio107fm.com/plus/",
-			"target": "_107fm",
-			"img": "<img src='assets/img/png/107fm.png' width='40' height='40' title='Rádio 107.5 FM' alt='assets/img/png/107fm.png' />"
-		},
-		{
-			"title": "Radios ao vivo",
-			"href": "http://www.radiosaovivo.net",
-			"target": "_radiosaovivo",
-			"img": "<img src='assets/img/png/radiosaovivo.net.png' width='40' height='40' title='Rádios ao vivo' alt='assets/img/png/radiosaovivo.net.png' />"
-		},
-		{
-			"title": "Radios.com.br",
-			"href": "https://www.radios.com.br",
-			"target": "_radios.com.br",
-			"img": "<img src='assets/img/png/radios.com.br.png' width='40' height='40' title='Rádios.com.br' alt='assets/img/png/radios.com.br.png' />"
-		},
-		{
-			"title": "Streams de Rádios",
-			"href": "assets/html/radios/index.html",
-			"target": "_streams",
-			"img": "<img src='assets/html/radios/assets/img/png/radio.png' width='40' height='40' title='Streams de Rádios' alt='assets/html/radios/assets/img/png/radio.png' />"
-		},
-		{
-			"title": "FM Stream",
-			"href": "http://fmstream.org/index.php?c=B&o=top&n=1600",
-			"target": "_fmstream",
-			"img": "<img src='assets/img/png/fmstream.png' width='40' height='40' title='FM Stream' alt='assets/img/png/fmstream.png' />"
-		}
-	],
-/*
-================================================================================
 Nuvem
 ================================================================================
 */
@@ -705,6 +625,86 @@ Pesquisa
 			"img": "<img src='assets/img/png/bingtradutor.png' width='40' height='40' title='Bing Tradutor' alt='assets/img/png/bing.png' />"
 		}
 	],
+/*
+================================================================================
+Rádios
+================================================================================
+*/
+  "radios":
+  [
+    {
+      "title": "CBN BH",
+      "href": "http://cbn.globoradio.globo.com/Player/playerAoVivoBH.htm",
+      "target": "_cbn_bh",
+      "img": "<img src='assets/img/png/cbn.png' width='40' height='40' title='CBN BH' alt='assets/img/png/cbn.png' />"
+    },
+    {
+      "title": "Band News FM",
+      "href": "https://radios.band.uol.com.br/?radio=bandnews-bh",
+      "target": "_bandnews_fm",
+      "img": "<img src='assets/img/png/bandnews_fm.png' width='40' height='40' title='Band News FM' alt='assets/img/png/bandnews_fm.png' />"
+    },
+    {
+      "title": "Tune in radio",
+      "href": "https://tunein.com/radio/home/",
+      "target": "_tunein_radio",
+      "img": "<img src='assets/img/png/tunein_radio.png' width='40' height='40' title='Band News FM' alt='assets/img/png/tunein_radio.png' />"
+    },
+    {
+      "title": "Alvorada FM",
+      "href": "https://www.alvoradafm.com.br/player",
+      "target": "_alvoradafm",
+      "img": "<img src='assets/img/png/alvoradafm.png' width='40' height='40' title='Alvorada FM' alt='assets/img/png/alvoradafm.png' />"
+    },
+    {
+      "title": "Antena 1",
+      "href": "https://www.antena1.com.br/aovivo",
+      "target": "_antena_1",
+      "img": "<img src='assets/img/png/antena1.png' width='40' height='40' title='Antena 1' alt='assets/img/png/antena1.png' />"
+    },
+    {
+      "title": "CDL FM",
+      "href": "http://fm1029.com.br/plus/",
+      "target": "_cdlfm",
+      "img": "<img src='assets/img/png/cdl.png' width='40' height='40' title='Rádio FM do Coselho de dirigentes lojistas de BH' alt='assets/img/png/cdl.png' />"
+    },
+    {
+      "title": "Itatiaia",
+      "href": "http://www.itatiaia.com.br/aovivo",
+      "target": "_itatiaia",
+      "img": "<img src='assets/img/png/itatiaia.png' width='40' height='40' title='Itatiaia' alt='assets/img/png/itatiaia.png' />"
+    },
+    {
+      "title": "107.5 FM",
+      "href": "http://radio107fm.com/plus/",
+      "target": "_107fm",
+      "img": "<img src='assets/img/png/107fm.png' width='40' height='40' title='Rádio 107.5 FM' alt='assets/img/png/107fm.png' />"
+    },
+    {
+      "title": "Radios ao vivo",
+      "href": "http://www.radiosaovivo.net",
+      "target": "_radiosaovivo",
+      "img": "<img src='assets/img/png/radiosaovivo.net.png' width='40' height='40' title='Rádios ao vivo' alt='assets/img/png/radiosaovivo.net.png' />"
+    },
+    {
+      "title": "Radios.com.br",
+      "href": "https://www.radios.com.br",
+      "target": "_radios.com.br",
+      "img": "<img src='assets/img/png/radios.com.br.png' width='40' height='40' title='Rádios.com.br' alt='assets/img/png/radios.com.br.png' />"
+    },
+    {
+      "title": "FM Stream",
+      "href": "http://fmstream.org/index.php?c=B&o=top&n=1600",
+      "target": "_fmstream",
+      "img": "<img src='assets/img/png/fmstream.png' width='40' height='40' title='FM Stream' alt='assets/img/png/fmstream.png' />"
+    },
+    {
+      "title": "Streams de Rádios",
+      "href": "assets/html/radios/index.html",
+      "target": "_streams",
+      "img": "<img src='assets/html/radios/assets/img/png/radio.png' width='40' height='40' title='Streams de Rádios' alt='assets/html/radios/assets/img/png/radio.png' />"
+    }
+  ],
 /*
 ================================================================================
 Rede social
