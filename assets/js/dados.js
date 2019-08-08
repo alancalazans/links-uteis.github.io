@@ -363,6 +363,12 @@ Ensino
 			"img": "<img src='assets/img/png/ufmg.png' width='40' height='40' title='Univ. Federal de Minas Gerais' alt='assets/img/png/ufmg.png' />"
 		},
 		{
+			"title": "ITA - VESTIBULAR",
+			"href": "http://www.vestibular.ita.br/",
+			"target": "_ita",
+			"img": "<img src='assets/img/png/ita.png' width='100' height='40' title='ITA - VESTIBULAR' alt='assets/img/png/ita.png' />"
+		},		
+		{
 			"title": "Fernando Cascais",
 			"href": "https://fernandocascais.wordpress.com/",
 			"target": "_fernando_cascais",
