@@ -1017,6 +1017,12 @@ Serviços
 			"img": "<img src='assets/img/png/rufus.png' width='40' height='40' title='Criador de pendrive de boot' alt='assets/img/png/rufus.png' />"
 		},
 		{
+			"title": "UNetbootin",
+			"href": "https://unetbootin.github.io/linux_download.html",
+			"target": "_unetbootin",
+			"img": "<img src='assets/img/png/unetbootin.png' width='40' height='40' title='Criador de pendrive de boot' alt='assets/img/png/unetbootin.png' />"
+		},
+		{
 			"title": "WPS Office",
 			"href": "http://wps-community.org/downloads",
 			"target": "_wps",
