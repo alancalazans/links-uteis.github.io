@@ -763,6 +763,12 @@ Serviços
 	"servicos":
 	[
 		{
+			"title": "LeLivros",
+			"href": "http://lelivros.love/",
+			"target": "_lelivros",
+			"img": "<img src='assets/img/png/lelivros.png' width='40' height='40' title='LeLivros' alt='assets/img/png/lelivros.png' />"
+		},
+		{
 			"title": "Correios",
 			"href": "http://www.correios.com.br",
 			"target": "_correios",
