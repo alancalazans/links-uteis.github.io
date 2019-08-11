@@ -933,12 +933,6 @@ Serviços
 			"img": "<img src='assets/img/png/linuxmint.png' width='40' height='40' title='LinuxMint' alt='assets/img/png/linuxmint.png' />"
 		},
 		{
-			"title": "Deepin Linux",
-			"href": "https://www.deepin.org/pt/",
-			"target": "_deepin",
-			"img": "<img src='assets/img/png/deepin.png' width='40' height='40' title='Deepin Linux' alt='assets/img/png/deepin.png' />"
-		},
-		{
 			"title": "Lubuntu",
 			"href": "https://lubuntu.me",
 			"target": "_lubuntu",
