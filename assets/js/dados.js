@@ -769,6 +769,12 @@ Serviços
 			"img": "<img src='assets/img/png/lelivros.png' width='40' height='40' title='LeLivros' alt='assets/img/png/lelivros.png' />"
 		},
 		{
+			"title": "Docer",
+			"href": "https://docero.com.br",
+			"target": "_docero",
+			"img": "<img src='assets/img/png/docer.png' width='40' height='40' title='Baixar livros grátis' alt='assets/img/png/docer.png' />"
+		},
+		{
 			"title": "Correios",
 			"href": "http://www.correios.com.br",
 			"target": "_correios",
@@ -1045,12 +1051,6 @@ Serviços
 			"href": "https://www.virtualbox.org",
 			"target": "_virtualbox",
 			"img": "<img src='assets/img/png/virtualbox.png' width='40' height='40' title='Programa para virtualização de sistemas' alt='assets/img/png/virtualbox.png' />"
-		},
-		{
-			"title": "Docer",
-			"href": "https://docero.com.br",
-			"target": "_docero",
-			"img": "<img src='assets/img/png/docer.png' width='40' height='40' title='Baixar livros grátis' alt='assets/img/png/docer.png' />"
 		}
 	]
 };
