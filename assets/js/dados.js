@@ -793,6 +793,12 @@ Serviços
 			"img": "<img src='assets/img/png/bhtrans.png' width='40' height='40' title='Itinerários e horários dos ônibus de BH' alt='assets/img/png/bhtrans.png' />"
 		},
 		{
+			"title": "Cartões BHBUS",
+			"href": "https://www.bhbus.com.br/cartoes",
+			"target": "_transfacil",
+			"img": "<img src='assets/img/png/transfacil.png' width='40' height='40' title='Seus cartões do BHBUS' alt='assets/img/png/transfacil.png' />"
+		},
+		{
 			"title": "Lorem Ipsum",
 			"href": "http://www.lipsum.com",
 			"target": "_lipsum",
