@@ -90,6 +90,12 @@ Des-Soft
 	"dessoft":
 	[
 		{
+			"title": "Xampp",
+			"href": "https://www.apachefriends.org/pt_br/download.html",
+			"target": "_xampp",
+			"img": "<img src='assets/img/png/xampp.png' width='40' height='40' title='Interpretador JavaScript para Desktop' alt='assets/img/png/xampp.png' />"
+		},
+		{
 			"title": "NodeJS",
 			"href": "https://nodejs.org/en/",
 			"target": "_nodejs",
