@@ -93,7 +93,7 @@ Des-Soft
 			"title": "Xampp",
 			"href": "https://www.apachefriends.org/pt_br/download.html",
 			"target": "_xampp",
-			"img": "<img src='assets/img/png/xampp.png' width='40' height='40' title='Interpretador JavaScript para Desktop' alt='assets/img/png/xampp.png' />"
+			"img": "<img src='assets/img/png/xampp.png' width='40' height='40' title='Servidor de Desenvolvimento Apache' alt='assets/img/png/xampp.png' />"
 		},
 		{
 			"title": "NodeJS",
