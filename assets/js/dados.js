@@ -363,6 +363,12 @@ Ensino
 			"img": "<img src='assets/img/png/coltec.png' width='40' height='40' title='COLTEC UFMG' alt='assets/img/png/coltec.png' />"
 		},
 		{
+			"title": "Colégio Militar BH",
+			"href": "http://www.cmbh.eb.mil.br/",
+			"target": "_cmbh",
+			"img": "<img src='assets/img/png/cmbh.png' width='40' height='40' title='Colégio Militar' alt='assets/img/png/cmbh.png' />"
+		},
+		{
 			"title": "UFMG",
 			"href": "https://www.ufmg.br/",
 			"target": "_ufmg",
