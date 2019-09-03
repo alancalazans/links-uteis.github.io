@@ -96,6 +96,12 @@ Des-Soft
 			"img": "<img src='assets/img/png/xampp.png' width='40' height='40' title='Servidor de Desenvolvimento Apache' alt='assets/img/png/xampp.png' />"
 		},
 		{
+			"title": "VueJS",
+			"href": "https://br.vuejs.org/v2/guide/index.html",
+			"target": "_vuejs",
+			"img": "<img src='assets/img/png/vuejs.png' width='40' height='40' title='VueJS - Framework para construção de interfaces web' alt='assets/img/png/vuejs.png' />"
+		},
+		{
 			"title": "NodeJS",
 			"href": "https://nodejs.org/en/",
 			"target": "_nodejs",
