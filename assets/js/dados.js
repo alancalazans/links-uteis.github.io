@@ -905,6 +905,12 @@ Serviços
 			"href": "https://encycolorpedia.pt",
 			"target": "_encycolorpedia",
 			"img": "<img src='assets/img/png/encycolorpedia.png' width='40' height='40' title='Todas as variantes de cores da web' alt='assets/img/png/encycolorpedia.png' />"
+		},
+		{
+			"title": "Despertador",
+			"href": "https://relogioonline.com.br/#",
+			"target": "_despertador",
+			"img": "<img src='assets/img/png/despertador.png' width='40' height='40' title='Despertador online' alt='assets/img/png/despertador.png' />"
 		}
 	],
 /*
