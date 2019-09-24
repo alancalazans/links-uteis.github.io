@@ -132,6 +132,18 @@ Des-Soft
 			"img": "<img src='assets/img/png/cdnjs.png' width='100' height='40' title='Para baixar módulos javascript' alt='assets/img/png/cdnjs.png' />"
 		},
 		{
+			"title": "Vim",
+			"href": "https://www.vim.org/",
+			"target": "_vim",
+			"img": "<img src='assets/img/png/vim.png' width='40' height='40' title='Editor Vim' alt='assets/img/png/vim.png' />"
+		},
+		{
+			"title": "NeoVim",
+			"href": "https://github.com/neovim/neovim",
+			"target": "_neovim",
+			"img": "<img src='assets/img/png/neovim.png' width='40' height='40' title='Editor NeoVim (fork do vim)' alt='assets/img/png/neovim.png' />"
+		},
+		{
 			"title": "Komodo Edit",
 			"href": "https://www.activestate.com/komodo-edit",
 			"target": "_komodo-edit",
