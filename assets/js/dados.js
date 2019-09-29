@@ -1077,6 +1077,12 @@ Serviços
 			"img": "<img src='assets/img/png/unetbootin.png' width='40' height='40' title='Criador de pendrive de boot' alt='assets/img/png/unetbootin.png' />"
 		},
 		{
+			"title": "FreeOffice",
+			"href": "https://www.freeoffice.com/pt/",
+			"target": "_freeoffice",
+			"img": "<img src='assets/img/png/freeoffice.png' width='40' height='40' title='Office muito similar ao MSOffice' alt='assets/img/png/freeoffice.png' />"
+		},
+		{
 			"title": "WPS Office",
 			"href": "http://wps-community.org/downloads",
 			"target": "_wps",
