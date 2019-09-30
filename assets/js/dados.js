@@ -1029,10 +1029,10 @@ Serviços
 			"img": "<img src='assets/img/png/freefilesync.png' width='40' height='40' title='Sincronizador de arquivos (backup em pendrive)' alt='assets/img/png/freefilesync.png' />"
 		},
 		{
-			"title": "Slimjet Browser",
-			"href": "https://www.slimjet.com/pt/",
-			"target": "_slimjet-browser",
-			"img": "<img src='assets/img/png/slimjet.png' width='40' height='40' title='Navegador da web compatível com o Chrome' alt='assets/img/png/slimjet.png' />"
+			"title": "Min Browser",
+			"href": "https://minbrowser.github.io/min/",
+			"target": "_min",
+			"img": "<img src='assets/img/png/min.png' width='40' height='40' title='Navegador da web minimalista' alt='assets/img/png/min.png' />"
 		},
 		{
 			"title": "Iron Browser",
@@ -1053,10 +1053,10 @@ Serviços
 			"img": "<img src='assets/img/png/palemoon.png' width='40' height='40' title='Navegador (leve) da web similar ao Firefox' alt='assets/img/png/palemoon.png' />"
 		},
 		{
-			"title": "Tor browser",
-			"href": "https://www.torproject.org/download/",
-			"target": "_tor-browser",
-			"img": "<img src='assets/img/png/tor-browser.png' width='40' height='40' title='Navegação sigilosa na web' alt='assets/img/png/tor-browser.png' />"
+			"title": "Seamonkey",
+			"href": "http://www.seamonkey-project.org/",
+			"target": "_seamonkey",
+			"img": "<img src='assets/img/png/seamonkey.png' width='40' height='40' title='Navegador da web' alt='assets/img/png/seamonkey.png' />"
 		},
 		{
 			"title": "Adobe Flash Player",
