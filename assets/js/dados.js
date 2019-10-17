@@ -403,7 +403,7 @@ Ensino
 			"href": "http://www.vestibular.ita.br/",
 			"target": "_ita",
 			"img": "<img src='assets/img/png/ita.png' width='100' height='40' title='ITA - VESTIBULAR' alt='assets/img/png/ita.png' />"
-		},		
+		},
 		{
 			"title": "Fernando Cascais",
 			"href": "https://fernandocascais.wordpress.com/",
@@ -551,6 +551,12 @@ Loterias
 			"href": "http://www1.caixa.gov.br/loterias/loterias/lotofacil/lotofacil_resultado.asp",
 			"target": "_lotofacil",
 			"img": "<img src='assets/img/png/lotofacil.png' width='40' height='40' title='LOTOFÁCIL' alt='assets/img/png/lotofacil.png' />"
+		},
+		{
+			"title": "Apostas online",
+			"href": "https://www.loteriasonline.caixa.gov.br/silce-web/#/home",
+			"target": "_loteriasonline",
+			"img": "<img src='assets/img/png/loteriaonline.png' width='40' height='40' title='Apostas online' alt='assets/img/png/loteriaonline.png' />"
 		}
 	],
 /*
