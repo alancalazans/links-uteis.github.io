@@ -1023,6 +1023,12 @@ Serviços
 			"img": "<img src='assets/img/png/gnome-look.png' width='40' height='40' title='Temas para sistema operacional' alt='assets/img/png/gnome-look.png' />"
 		},
 		{
+			"title": "XFCE-look",
+			"href": "https://www.xfce-look.org/",
+			"target": "_xfce-look",
+			"img": "<img src='assets/img/png/xfce-look.png' width='40' height='40' title='Temas para sistema operacional' alt='assets/img/png/xfce-look.png' />"
+		},	
+		{
 			"title": "Cinnamon Spices",
 			"href": "https://cinnamon-spices.linuxmint.com/",
 			"target": "_cinnamon-spices",
