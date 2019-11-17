@@ -712,7 +712,7 @@ Rádios
     },
     {
       "title": "CDL FM",
-      "href": "http://stream.izap.com.br:443/1029fm",
+      "href": "http://fm1029.com.br/plus/",
       "target": "_cdlfm",
       "img": "<img src='assets/img/png/cdl.png' width='40' height='40' title='Rádio FM do Coselho de dirigentes lojistas de BH' alt='assets/img/png/cdl.png' />"
     },
