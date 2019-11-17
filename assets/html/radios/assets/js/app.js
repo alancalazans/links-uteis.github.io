@@ -4,7 +4,7 @@ $(document).ready(function(){
 			ready: function () {
 				$(this).jPlayer("setMedia", {
 					title: "CDL FM - Belo Horizonte",
-					mp3: "http://stream.izap.com.br:443/1029fm"
+					mp3: "http://streaming.xtremdesign.net:8028/;"
 				});
 			},
 			swfPath: "assets/js/jPlayer-2.9.2/dist/jplayer",
