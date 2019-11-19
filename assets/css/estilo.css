@@ -6,15 +6,17 @@ body {font-family: "Trebuchet MS", Arial, Helvetica, sans-serif; background-colo
 
 .borda {border-radius: 8px;}
 
-nav {width: 160px; height: 530px; padding-top: 10px; line-height: 30px; margin: 5px 0 0 0; float: left; text-align: center; background-color: #494640;}
+nav {width: 160px; height: 530px; padding-top: 10px; line-height: 30px; margin: 5px 0 0 0; float: left; text-align: left; background-color: #494640;}
 
 nav ul {width: 160px; list-style: none; margin: 0 auto;}
 
 nav li {display: inline-block; margin: 0;}
 
+nav li img {margin-left: 15%; margin-right: 2%;}
+
 nav a:link, nav a:visited {width: 160px; height: 33px; font-weight: bold; color: #FFFFFF; display: inline-block; text-decoration: none;}
 
-nav a:hover, nav a:active, nav .active a:link, nav .active a:visited {color: #000; font-weight: bold; background: #daa520;}
+nav a:hover, nav a:active, nav .active a:link, nav .active a:visited {color: #000; font-weight: bold; background: #ffe4c4;}
 
 section {width: 880px; height: 100%; float: right; margin: 5px 0; padding-top: 10px; background-color: #978f81;}
 
