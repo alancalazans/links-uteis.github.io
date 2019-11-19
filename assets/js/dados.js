@@ -1,22 +1,54 @@
 var dados = {
 	"links":
 	[
-		'<li class="inactive"><a href="#" id="pesquisa" onclick="clickLink(this);">Pesquisa</a></li>',
-		'<li class="active"><a href="#" id="emails" onclick="clickLink(this);">E-mails</a></li>',
-		'<li class="inactive"><a href="#" id="redesocial" onclick="clickLink(this);">Rede Social</a></li>',
-		'<li class="inactive"><a href="#" id="filmes" onclick="clickLink(this);">Filmes</a></li>',
-		'<li class="inactive"><a href="#" id="radios" onclick="clickLink(this);">Rádios</a></li>',
-		'<li class="inactive"><a href="#" id="concursos" onclick="clickLink(this);">Concursos</a></li>',
-		'<li class="inactive"><a href="#" id="enem" onclick="clickLink(this);">ENEM</a></li>',
-		'<li class="inactive"><a href="#" id="ensino" onclick="clickLink(this);">Ensino</a></li>',
-		'<li class="inactive"><a href="#" id="noticias" onclick="clickLink(this);">Noticias</a></li>',
-		'<li class="inactive"><a href="#" id="uteis" onclick="clickLink(this);">Úteis</a></li>',
-		'<li class="inactive"><a href="#" id="bancos" onclick="clickLink(this);">Bancos</a></li>',
-		'<li class="inactive"><a href="#" id="dessoft" onclick="clickLink(this);">Des-Soft</a></li>',
-		'<li class="inactive"><a href="#" id="loterias" onclick="clickLink(this);">Loterias</a></li>',
-		'<li class="inactive"><a href="#" id="nuvem" onclick="clickLink(this);">Nuvem</a></li>',
-		'<li class="inactive"><a href="#" id="servicos" onclick="clickLink(this);">Serviços</a></li>',
-		'<li class="inactive"><a href="#" id="diversos" onclick="clickLink(this);">Diversos</a></li>'
+		`<li class="inactive"><a href="#" id="pesquisa" onclick="clickLink(this);">
+		<img src='assets/img/ico_menu/pesquisa.png' width='20' height='20'>
+		Pesquisa</a></li>`,
+		`<li class="active"><a href="#" id="emails" onclick="clickLink(this);">
+		<img src='assets/img/ico_menu/email.png' width='20' height='20'>
+		E-mails</a></li>`,
+		`<li class="inactive"><a href="#" id="redesocial" onclick="clickLink(this);">
+		<img src='assets/img/ico_menu/rede.png' width='20' height='20'>
+		Rede Social</a></li>`,
+		`<li class="inactive"><a href="#" id="filmes" onclick="clickLink(this);">
+		<img src='assets/img/ico_menu/filme.png' width='20' height='20'>
+		Filmes</a></li>`,
+		`<li class="inactive"><a href="#" id="radios" onclick="clickLink(this);">
+		<img src='assets/img/ico_menu/radio.png' width='20' height='20'>
+		Rádios</a></li>`,
+		`<li class="inactive"><a href="#" id="concursos" onclick="clickLink(this);">
+		<img src='assets/img/ico_menu/concurso.png' width='20' height='20'>
+		Concursos</a></li>`,
+		`<li class="inactive"><a href="#" id="enem" onclick="clickLink(this);">
+		<img src='assets/img/ico_menu/enem.png' width='20' height='20'>
+		ENEM</a></li>`,
+		`<li class="inactive"><a href="#" id="ensino" onclick="clickLink(this);">
+		<img src='assets/img/ico_menu/ensino.png' width='20' height='20'>
+		Ensino</a></li>`,
+		`<li class="inactive"><a href="#" id="noticias" onclick="clickLink(this);">
+		<img src='assets/img/ico_menu/noticias.png' width='20' height='20'>
+		Noticias</a></li>`,
+		`<li class="inactive"><a href="#" id="uteis" onclick="clickLink(this);">
+		<img src='assets/img/ico_menu/uteis.png' width='20' height='20'>
+		Úteis</a></li>`,
+		`<li class="inactive"><a href="#" id="bancos" onclick="clickLink(this);">
+		<img src='assets/img/ico_menu/bancos.png' width='20' height='20'>
+		Bancos</a></li>`,
+		`<li class="inactive"><a href="#" id="dessoft" onclick="clickLink(this);">
+		<img src='assets/img/ico_menu/software.png' width='20' height='20'>
+		Des-Soft</a></li>`,
+		`<li class="inactive"><a href="#" id="loterias" onclick="clickLink(this);">
+		<img src='assets/img/ico_menu/loterias.png' width='20' height='20'>
+		Loterias</a></li>`,
+		`<li class="inactive"><a href="#" id="nuvem" onclick="clickLink(this);">
+		<img src='assets/img/ico_menu/nuvem.png' width='20' height='20'>
+		Nuvem</a></li>`,
+		`<li class="inactive"><a href="#" id="servicos" onclick="clickLink(this);">
+		<img src='assets/img/ico_menu/servicos.png' width='20' height='20'>
+		Serviços</a></li>`,
+		`<li class="inactive"><a href="#" id="diversos" onclick="clickLink(this);">
+		<img src='assets/img/ico_menu/diversos.png' width='20' height='20'>
+		Diversos</a></li>`
 	],
 /*
 ================================================================================
@@ -975,6 +1007,12 @@ Serviços
 			"img": "<img src='assets/img/png/iconfinder.png' width='40' height='40' title='Baixar icones diversos' alt='assets/img/png/iconfinder.png' />"
 		},
 		{
+			"title": "Flaticon",
+			"href": "https://www.flaticon.com/br?utm_term=free icons&utm_campaign=fi_busqueda_brasil&utm_source=adwords&utm_medium=ppc&hsa_acc=5490559948&hsa_cam=1841778624&hsa_grp=70091914939&hsa_ad=346006066075&hsa_src=g&hsa_tgt=kwd-22932361&hsa_kw=free icons&hsa_mt=b&hsa_net=adwords&hsa_ver=3&gclid=EAIaIQobChMI1fmf9Yv25QIVVwiRCh1PXgEoEAAYASAAEgLMTvD_BwE",
+			"target": "_flaticon",
+			"img": "<img src='assets/img/png/flaticon.png' width='40' height='40' title='Baixar icones diversos' alt='assets/img/png/flaticon.png' />"
+		},
+		{
 			"title": "Spins Fedora",
 			"href": "https://spins.fedoraproject.org/pt_BR/",
 			"target": "_spins-fedora",
@@ -1027,7 +1065,7 @@ Serviços
 			"href": "https://www.xfce-look.org/",
 			"target": "_xfce-look",
 			"img": "<img src='assets/img/png/xfce-look.png' width='40' height='40' title='Temas para sistema operacional' alt='assets/img/png/xfce-look.png' />"
-		},	
+		},
 		{
 			"title": "Cinnamon Spices",
 			"href": "https://cinnamon-spices.linuxmint.com/",
@@ -1041,28 +1079,10 @@ Serviços
 			"img": "<img src='assets/img/png/freefilesync.png' width='40' height='40' title='Sincronizador de arquivos (backup em pendrive)' alt='assets/img/png/freefilesync.png' />"
 		},
 		{
-			"title": "Min Browser",
-			"href": "https://minbrowser.github.io/min/",
-			"target": "_min",
-			"img": "<img src='assets/img/png/min.png' width='40' height='40' title='Navegador da web minimalista' alt='assets/img/png/min.png' />"
-		},
-		{
-			"title": "Iron Browser",
-			"href": "https://www.srware.net/en/software_srware_iron_download.php",
-			"target": "_iron-browser",
-			"img": "<img src='assets/img/png/iron-browser.png' width='40' height='40' title='Navegador da web compatível com o Chrome' alt='assets/img/png/iron-browser.png' />"
-		},
-		{
 			"title": "Vivaldi browser",
 			"href": "https://vivaldi.com/pt-br/",
 			"target": "_vivaldi",
 			"img": "<img src='assets/img/png/vivaldi.png' width='40' height='40' title='Navegador da web (mais elaborado) compatível com o Chrome' alt='assets/img/png/vivaldi.png' />"
-		},
-		{
-			"title": "Palemoon browser",
-			"href": "http://www.palemoon.org",
-			"target": "_palemoon",
-			"img": "<img src='assets/img/png/palemoon.png' width='40' height='40' title='Navegador (leve) da web similar ao Firefox' alt='assets/img/png/palemoon.png' />"
 		},
 		{
 			"title": "Seamonkey",
