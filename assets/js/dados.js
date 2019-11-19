@@ -5,19 +5,19 @@ var dados = {
 		<img src='assets/img/ico_menu/pesquisa.png' width='20' height='20'>
 		Pesquisa</a></li>`,
 		`<li class="active"><a href="#" id="emails" onclick="clickLink(this);">
-		<img src='assets/img/ico_menu/email.png' width='20' height='20'>
-		E-mails</a></li>`,
+		<img src='assets/img/ico_menu/emails.png' width='20' height='20'>
+		Emails</a></li>`,
 		`<li class="inactive"><a href="#" id="redesocial" onclick="clickLink(this);">
-		<img src='assets/img/ico_menu/rede.png' width='20' height='20'>
+		<img src='assets/img/ico_menu/rede_social.png' width='20' height='20'>
 		Rede Social</a></li>`,
 		`<li class="inactive"><a href="#" id="filmes" onclick="clickLink(this);">
-		<img src='assets/img/ico_menu/filme.png' width='20' height='20'>
+		<img src='assets/img/ico_menu/filmes.png' width='20' height='20'>
 		Filmes</a></li>`,
 		`<li class="inactive"><a href="#" id="radios" onclick="clickLink(this);">
-		<img src='assets/img/ico_menu/radio.png' width='20' height='20'>
+		<img src='assets/img/ico_menu/radios.png' width='20' height='20'>
 		Rádios</a></li>`,
 		`<li class="inactive"><a href="#" id="concursos" onclick="clickLink(this);">
-		<img src='assets/img/ico_menu/concurso.png' width='20' height='20'>
+		<img src='assets/img/ico_menu/concursos.png' width='20' height='20'>
 		Concursos</a></li>`,
 		`<li class="inactive"><a href="#" id="enem" onclick="clickLink(this);">
 		<img src='assets/img/ico_menu/enem.png' width='20' height='20'>
@@ -35,7 +35,7 @@ var dados = {
 		<img src='assets/img/ico_menu/bancos.png' width='20' height='20'>
 		Bancos</a></li>`,
 		`<li class="inactive"><a href="#" id="dessoft" onclick="clickLink(this);">
-		<img src='assets/img/ico_menu/software.png' width='20' height='20'>
+		<img src='assets/img/ico_menu/des_soft.png' width='20' height='20'>
 		Des-Soft</a></li>`,
 		`<li class="inactive"><a href="#" id="loterias" onclick="clickLink(this);">
 		<img src='assets/img/ico_menu/loterias.png' width='20' height='20'>
