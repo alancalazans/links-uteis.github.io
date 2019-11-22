@@ -1013,6 +1013,12 @@ Serviços
 			"img": "<img src='assets/img/png/flaticon.png' width='40' height='40' title='Baixar icones diversos' alt='assets/img/png/flaticon.png' />"
 		},
 		{
+			"title": "Debian",
+			"href": "https://www.debian.org/distrib/",
+			"target": "_debian",
+			"img": "<img src='assets/img/png/debian.png' width='40' height='40' title='Linux Debian' alt='assets/img/png/debian.png' />"
+		},
+		{
 			"title": "Spins Fedora",
 			"href": "https://spins.fedoraproject.org/pt_BR/",
 			"target": "_spins-fedora",
