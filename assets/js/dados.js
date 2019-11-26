@@ -264,6 +264,12 @@ Des-Soft
 			"href": "http://rosettacode.org/wiki/Rosetta_Code",
 			"target": "_rosettacode",
 			"img": "<img src='assets/img/png/rosettacode.png' width='40' height='40' title='Exemplos de códigos' alt='assets/img/png/rosettacode.png' />"
+		},
+		{
+			"title": "VisJS",
+			"href": "https://almende.github.io/vis/",
+			"target": "_visjs",
+			"img": "<img src='assets/img/png/visjs.png' width='40' height='40' title='VisJS - Gráficos em javascript' alt='assets/img/png/visjs.png' />"
 		}
 	],
 /*
