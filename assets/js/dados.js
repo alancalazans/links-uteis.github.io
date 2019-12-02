@@ -505,18 +505,6 @@ Filmes
 			"img": "<img src='assets/img/png/globoplay.png' width='40' height='40' title='Globo Play' alt='assets/img/png/globoplay.png' />"
 		},
 		{
-			"title": "Calistenia",
-			"href": "https://www.youtube.com/user/Calisthenicmovement/playlists",
-			"target": "_calisthenicmovement",
-			"img": "<img src='assets/img/png/calisthenicmovement.png' width='40' height='40' title='Canal sobre calistenia (ginástica)' alt='assets/img/png/calisthenicmovement.png' />"
-		},
-		{
-			"title": "TV online",
-			"href": "assets/html/tv_web/index.html",
-			"target": "_tv-online",
-			"img": "<img src='assets/html/tv_web/assets/img/png/tv.png' width='40' height='40' title='TV online' alt='assets/html/tv_web/assets/img/png/tv.png' />"
-		},
-		{
 			"title": "Netflix",
 			"href": "https://www.netflix.com/br/",
 			"target": "_netflix",
