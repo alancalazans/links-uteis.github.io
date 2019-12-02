@@ -230,9 +230,9 @@ Des-Soft
 			"img": "<img src='assets/img/png/bootstrap.png' width='40' height='40' title='Framework para trabalhar com layout de site' alt='assets/img/png/bootstrap.png' />"
 		},
 		{
-			"title": "Bootstrap 4",
+			"title": "GetBootstrap 4",
 			"href": "https://getbootstrap.com.br/",
-			"target": "_bootstrap4",
+			"target": "_getbootstrap4",
 			"img": "<img src='assets/img/png/bootstrap4.png' width='40' height='40' title='Framework para trabalhar com layout de site' alt='assets/img/png/bootstrap4.png' />"
 		},
 		{
