@@ -425,10 +425,10 @@ Ensino
 			"img": "<img src='assets/img/png/cmbh.png' width='40' height='40' title='Colégio Militar' alt='assets/img/png/cmbh.png' />"
 		},
 		{
-			"title": "Copeve/Cefet(MG)",
-			"href": "https://www.copeve.cefetmg.br/",
-			"target": "_copeve",
-			"img": "<img src='assets/img/png/copeve.png' width='40' height='40' title='Copeve/Cefet(MG)' alt='assets/img/png/copeve.png' />"
+			"title": "Cefet(MG)",
+			"href": "https://www.cefetmg.br",
+			"target": "_cefet_mg",
+			"img": "<img src='assets/img/png/cefet_mg.png' width='40' height='40' title='Copeve/Cefet(MG)' alt='assets/img/png/cefet_mg.png' />"
 		},
 		{
 			"title": "UFMG",
