@@ -200,6 +200,12 @@ Des-Soft
 			"img": "<img src='assets/img/png/micro.png' width='40' height='40' title='Micro Editor' alt='assets/img/png/micro.png' />"
 		},
 		{
+			"title": "Golang",
+			"href": "https://golang.org",
+			"target": "_go",
+			"img": "<img src='assets/img/png/go.png' width='40' height='40' title='Golang' alt='assets/img/png/go.png' />"
+		},
+		{
 			"title": "Lazarus",
 			"href": "http://www.lazarus-ide.org/",
 			"target": "_lazarus",
