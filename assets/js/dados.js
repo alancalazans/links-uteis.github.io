@@ -1031,12 +1031,6 @@ Serviços
 			"img": "<img src='assets/img/png/fedora-spins.png' width='40' height='40' title='Linux Fedora - Várias arquiteturas de interface gráfica' alt='assets/img/png/fedora-spins.png' />"
 		},
 		{
-			"title": "ZorinOS",
-			"href": "https://zorinos.com/download/",
-			"target": "_zorin-os",
-			"img": "<img src='assets/img/png/zorin-os.png' width='40' height='40' title='Linux ZorinOS' alt='assets/img/png/zorin-os.png' />"
-		},
-		{
 			"title": "Ubuntu cdimg",
 			"href": "http://cdimage.ubuntu.com/",
 			"target": "_ubuntu_cdimg",
@@ -1101,6 +1095,12 @@ Serviços
 			"href": "http://www.seamonkey-project.org/",
 			"target": "_seamonkey",
 			"img": "<img src='assets/img/png/seamonkey.png' width='40' height='40' title='Navegador da web' alt='assets/img/png/seamonkey.png' />"
+		},
+		{
+			"title": "Firefox-Nightly",
+			"href": "https://www.mozilla.org/en-US/firefox/all/#product-desktop-nightly",
+			"target": "_firefox-nightly",
+			"img": "<img src='assets/img/png/firefox-nightly.png' width='40' height='40' title='Fork do Firefox' alt='assets/img/png/firefox-nightly.png' />"
 		},
 		{
 			"title": "Adobe Flash Player",
