@@ -1103,6 +1103,12 @@ Serviços
 			"img": "<img src='assets/img/png/firefox-nightly.png' width='40' height='40' title='Fork do Firefox' alt='assets/img/png/firefox-nightly.png' />"
 		},
 		{
+			"title": "Waterfox",
+			"href": "https://www.waterfox.net/releases/",
+			"target": "_waterfox",
+			"img": "<img src='assets/img/png/waterfox.png' width='40' height='40' title='Waterfox browser' alt='assets/img/png/waterfox.png' />"
+		},
+		{
 			"title": "Adobe Flash Player",
 			"href": "https://get.adobe.com/br/flashplayer/",
 			"target": "_flashplayer",
