@@ -2,11 +2,11 @@
 
 body {font-family: "Trebuchet MS", Arial, Helvetica, sans-serif; background-color: #272822;}
 
-#container {width: 1050px; height: 530px; margin: 0 auto; margin-top: 5px;}
+#container {width: 1050px; height: 560px; margin: 0 auto; margin-top: 5px;}
 
 .borda {border-radius: 8px;}
 
-nav {width: 160px; height: 530px; padding-top: 10px; line-height: 30px; margin: 5px 0 0 0; float: left; text-align: left; background-color: #494640;}
+nav {width: 160px; height: 100%; padding-top: 10px; line-height: 30px; margin: 5px 0 0 0; float: left; text-align: left; background-color: #494640;}
 
 nav ul {width: 160px; list-style: none; margin: 0 auto;}
 

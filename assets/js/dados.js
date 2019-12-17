@@ -28,6 +28,9 @@ var dados = {
 		`<li class="inactive"><a href="#" id="noticias" onclick="clickLink(this);">
 		<img src='assets/img/ico_menu/noticias.png' width='20' height='20'>
 		Noticias</a></li>`,
+		`<li class="inactive"><a href="#" id="linux" onclick="clickLink(this);">
+		<img src='assets/img/ico_menu/linux.png' width='20' height='20'>
+		Linux</a></li>`,
 		`<li class="inactive"><a href="#" id="uteis" onclick="clickLink(this);">
 		<img src='assets/img/ico_menu/uteis.png' width='20' height='20'>
 		Úteis</a></li>`,
@@ -537,6 +540,44 @@ Filmes
 	],
 /*
 ================================================================================
+Linux
+================================================================================
+*/
+	"linux":
+	[
+		{
+			"title": "Debian",
+			"href": "https://www.debian.org/distrib/",
+			"target": "_debian",
+			"img": "<img src='assets/img/png/debian.png' width='40' height='40' title='Linux Debian' alt='assets/img/png/debian.png' />"
+		},
+		{
+			"title": "Spins Fedora",
+			"href": "https://spins.fedoraproject.org/pt_BR/",
+			"target": "_spins-fedora",
+			"img": "<img src='assets/img/png/fedora-spins.png' width='40' height='40' title='Linux Fedora - Várias arquiteturas de interface gráfica' alt='assets/img/png/fedora-spins.png' />"
+		},
+		{
+			"title": "Ubuntu cdimg",
+			"href": "http://cdimage.ubuntu.com/",
+			"target": "_ubuntu_cdimg",
+			"img": "<img src='assets/img/png/ubuntu_cdimg.png' width='40' height='40' title='Ubuntu - imagens iso para instalação do sistema' alt='assets/img/png/ubuntu_cdimg.png' />"
+		},
+		{
+			"title": "LinuxMint",
+			"href": "https://www.linuxmint.com/",
+			"target": "_linuxmint",
+			"img": "<img src='assets/img/png/linuxmint.png' width='40' height='40' title='LinuxMint' alt='assets/img/png/linuxmint.png' />"
+		},
+		{
+			"title": "Lubuntu",
+			"href": "https://lubuntu.me",
+			"target": "_lubuntu",
+			"img": "<img src='assets/img/png/lubuntu.png' width='40' height='40' title='Lubuntu' alt='assets/img/png/lubuntu.png' />"
+		}
+	],
+/*
+================================================================================
 Loterias
 ================================================================================
 */
@@ -1017,36 +1058,6 @@ Serviços
 			"href": "https://www.flaticon.com/br?utm_term=free icons&utm_campaign=fi_busqueda_brasil&utm_source=adwords&utm_medium=ppc&hsa_acc=5490559948&hsa_cam=1841778624&hsa_grp=70091914939&hsa_ad=346006066075&hsa_src=g&hsa_tgt=kwd-22932361&hsa_kw=free icons&hsa_mt=b&hsa_net=adwords&hsa_ver=3&gclid=EAIaIQobChMI1fmf9Yv25QIVVwiRCh1PXgEoEAAYASAAEgLMTvD_BwE",
 			"target": "_flaticon",
 			"img": "<img src='assets/img/png/flaticon.png' width='40' height='40' title='Baixar icones diversos' alt='assets/img/png/flaticon.png' />"
-		},
-		{
-			"title": "Debian",
-			"href": "https://www.debian.org/distrib/",
-			"target": "_debian",
-			"img": "<img src='assets/img/png/debian.png' width='40' height='40' title='Linux Debian' alt='assets/img/png/debian.png' />"
-		},
-		{
-			"title": "Spins Fedora",
-			"href": "https://spins.fedoraproject.org/pt_BR/",
-			"target": "_spins-fedora",
-			"img": "<img src='assets/img/png/fedora-spins.png' width='40' height='40' title='Linux Fedora - Várias arquiteturas de interface gráfica' alt='assets/img/png/fedora-spins.png' />"
-		},
-		{
-			"title": "Ubuntu cdimg",
-			"href": "http://cdimage.ubuntu.com/",
-			"target": "_ubuntu_cdimg",
-			"img": "<img src='assets/img/png/ubuntu_cdimg.png' width='40' height='40' title='Ubuntu - imagens iso para instalação do sistema' alt='assets/img/png/ubuntu_cdimg.png' />"
-		},
-		{
-			"title": "LinuxMint",
-			"href": "https://www.linuxmint.com/",
-			"target": "_linuxmint",
-			"img": "<img src='assets/img/png/linuxmint.png' width='40' height='40' title='LinuxMint' alt='assets/img/png/linuxmint.png' />"
-		},
-		{
-			"title": "Lubuntu",
-			"href": "https://lubuntu.me",
-			"target": "_lubuntu",
-			"img": "<img src='assets/img/png/lubuntu.png' width='40' height='40' title='Lubuntu' alt='assets/img/png/lubuntu.png' />"
 		},
 		{
 			"title": "Wallpapers Abyss",
