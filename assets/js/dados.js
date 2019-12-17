@@ -320,6 +320,18 @@ Diversos
 			"href": "https://groups.google.com/group/pepped?msg=new&lnk=gcis&hl=pt-BR",
 			"target": "_pepped",
 			"img": "<img src='assets/img/png/groupspepped.png' width='40' height='40' title='Groups PEPped' alt='assets/img/png/groupspepped.png' />"
+		},
+		{
+			"title": "Vagalume músicas",
+			"href": "http://www.vagalume.com.br",
+			"target": "_vagalume",
+			"img": "<img src='assets/img/png/vagalumemusicas.png' width='40' height='40' title='Vagalume músicas' alt='assets/img/png/vagalumemusicas.png' />"
+		},
+		{
+			"title": "Planeta Rei",
+			"href": "http://www.planetarei.com.br/100anos/index.htm",
+			"target": "_planetarei",
+			"img": "<img src='assets/img/png/planeta-rei.png' width='40' height='40' title='100 anos da música' alt='assets/img/png/planeta-rei.png' />"
 		}
 	],
 /*
@@ -983,18 +995,6 @@ Serviços
 			"img": "<img src='assets/img/png/4shared.png' width='40' height='40' title='4Shared' alt='assets/img/png/4shared.png' />"
 		},
 		{
-			"title": "Vagalume músicas",
-			"href": "http://www.vagalume.com.br",
-			"target": "_vagalume",
-			"img": "<img src='assets/img/png/vagalumemusicas.png' width='40' height='40' title='Vagalume músicas' alt='assets/img/png/vagalumemusicas.png' />"
-		},
-		{
-			"title": "Planeta Rei",
-			"href": "http://www.planetarei.com.br/100anos/index.htm",
-			"target": "_planetarei",
-			"img": "<img src='assets/img/png/planeta-rei.png' width='40' height='40' title='100 anos da música' alt='assets/img/png/planeta-rei.png' />"
-		},
-		{
 			"title": "Baixaki",
 			"href": "http://www.baixaki.com.br",
 			"target": "_baixaki",
@@ -1155,6 +1155,12 @@ Serviços
 			"href": "https://www.virtualbox.org",
 			"target": "_virtualbox",
 			"img": "<img src='assets/img/png/virtualbox.png' width='40' height='40' title='Programa para virtualização de sistemas' alt='assets/img/png/virtualbox.png' />"
+		},
+		{
+			"title": "360 Total Security",
+			"href": "https://www.360totalsecurity.com/pt/download-free-antivirus/",
+			"target": "_360",
+			"img": "<img src='assets/img/png/360.png' width='40' height='40' title='Antivírus' alt='assets/img/png/360.png' />"
 		}
 	]
 };
