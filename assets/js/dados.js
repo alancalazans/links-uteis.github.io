@@ -546,6 +546,12 @@ Linux
 	"linux":
 	[
 		{
+			"title": "LinuxMint",
+			"href": "https://www.linuxmint.com/",
+			"target": "_linuxmint",
+			"img": "<img src='assets/img/png/linuxmint.png' width='40' height='40' title='LinuxMint' alt='assets/img/png/linuxmint.png' />"
+		},
+		{
 			"title": "Debian",
 			"href": "https://www.debian.org/distrib/",
 			"target": "_debian",
@@ -558,22 +564,16 @@ Linux
 			"img": "<img src='assets/img/png/fedora-spins.png' width='40' height='40' title='Linux Fedora - Várias arquiteturas de interface gráfica' alt='assets/img/png/fedora-spins.png' />"
 		},
 		{
-			"title": "Ubuntu cdimg",
-			"href": "http://cdimage.ubuntu.com/",
-			"target": "_ubuntu_cdimg",
-			"img": "<img src='assets/img/png/ubuntu_cdimg.png' width='40' height='40' title='Ubuntu - imagens iso para instalação do sistema' alt='assets/img/png/ubuntu_cdimg.png' />"
-		},
-		{
-			"title": "LinuxMint",
-			"href": "https://www.linuxmint.com/",
-			"target": "_linuxmint",
-			"img": "<img src='assets/img/png/linuxmint.png' width='40' height='40' title='LinuxMint' alt='assets/img/png/linuxmint.png' />"
-		},
-		{
 			"title": "Lubuntu",
 			"href": "https://lubuntu.me",
 			"target": "_lubuntu",
 			"img": "<img src='assets/img/png/lubuntu.png' width='40' height='40' title='Lubuntu' alt='assets/img/png/lubuntu.png' />"
+		},
+		{
+			"title": "Ubuntu cdimg",
+			"href": "http://cdimage.ubuntu.com/",
+			"target": "_ubuntu_cdimg",
+			"img": "<img src='assets/img/png/ubuntu_cdimg.png' width='40' height='40' title='Ubuntu - imagens iso para instalação do sistema' alt='assets/img/png/ubuntu_cdimg.png' />"
 		}
 	],
 /*
