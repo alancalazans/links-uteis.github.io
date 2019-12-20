@@ -553,16 +553,16 @@ Filmes
 			'img': '<img src="assets/img/png/seriesfilmestorrent.png" width="40" height="40" title="Séries filmes torrent" alt="assets/img/png/seriesfilmestorrent.png" />'
 		},
 		{
-			'title': 'Baixe de tudo',
-			'href': 'http://www.baixedetudo.net/',
-			'target': '_baixandodetudo',
-			'img': '<img src="assets/img/png/baixedetudo.png" width="40" height="40" title="Baixe de tudo" alt="assets/img/png/baixedetudo.png" />'
+			'title': 'MegatorrentsHD',
+			'href': 'http://www.megatorrentshd.org/',
+			'target': '_megatorrentshd',
+			'img': '<img src="assets/img/png/megatorrentshd.png" width="40" height="40" title="Megatorrentshd" alt="assets/img/png/megatorrentshd.png" />'
 		},
 		{
-			'title': 'Filmes dublados',
-			'href': 'https://www.baixarfilmesdublados.net/',
-			'target': '_BaixarFilmes',
-			'img': '<img src="assets/img/png/filmesdublados.png" width="40" height="40" title="Filmes dublados" alt="assets/img/png/filmesdublados.png" />'
+			'title': 'The pirate filmes HD',
+			'href': 'https://www.thepiratefilmeshd.biz/',
+			'target': '_thepiratefilmeshd',
+			'img': '<img src="assets/img/png/thepiratefilmeshd.png" width="40" height="40" title="The pirate filmes HD" alt="assets/img/png/thepiratefilmeshd.png" />'
 		},
 		{
 			'title': 'Torrent filmes',
