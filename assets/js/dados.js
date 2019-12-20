@@ -547,10 +547,10 @@ Filmes
 			'img': '<img src="assets/img/png/youtube.png" width="40" height="40" title="Youtube" alt="assets/img/png/youtube.png" />'
 		},
 		{
-			'title': 'Comando Torrents',
-			'href': 'https://www.comandotorrents.com',
-			'target': '_comandotorrents',
-			'img': '<img src="assets/img/png/comando_torrents.png" width="40" height="40" title="Comando Torrents" alt="assets/img/png/comando_torrents.png" />'
+			'title': 'Series filmes torrent',
+			'href': 'https://www.seriesfilmestorrent.com/',
+			'target': '_seriesfilmestorrent',
+			'img': '<img src="assets/img/png/seriesfilmestorrent.png" width="40" height="40" title="Séries filmes torrent" alt="assets/img/png/seriesfilmestorrent.png" />'
 		},
 		{
 			'title': 'Baixe de tudo',
