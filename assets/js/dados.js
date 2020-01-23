@@ -1196,7 +1196,7 @@ Serviços
 		},
 		{
 			'title': 'WPS Office',
-			'href': 'http://wps-community.org/downloads',
+			'href': 'https://www.wps.com/',
 			'target': '_wps',
 			'img': '<img src="assets/img/png/wps.png" width="40" height="40" title="Office muito similar ao MSOffice" alt="assets/img/png/wps.png" />'
 		},
