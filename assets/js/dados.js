@@ -521,7 +521,7 @@ Ensino
 			'img': '<img src="assets/img/png/fernandocascais.png" width="30" height="40" title="Site sobre Magia e Ocultismo" alt="assets/img/png/fernandocascais.png" />'
 		},
 		{
-			'title': 'Caos e conhecimento',
+			'title': 'Espir. e Metaf.',
 			'href': 'http://filosofiasdouniverso.blogspot.com/2011/11/biblioteca-espiritualista-e-metafisica.html',
 			'target': '_espiritualista',
 			'img': '<img src="assets/img/png/espiritualidade.png" width="30" height="40" title="Biblioteca Espiritualista e Metafísica online" alt="assets/img/png/espiritualidade.png" />'
