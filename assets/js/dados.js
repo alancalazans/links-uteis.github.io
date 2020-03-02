@@ -965,6 +965,12 @@ Serviços
 	'servicos':
 	[
 		{
+			'title': 'Localizar Cel.',
+			'href': 'https://myaccount.google.com/find-your-phone',
+			'target': '_mobile',
+			'img': '<img src="assets/img/png/mobile.png" width="40" height="40" title="Localizar Celular" alt="assets/img/png/mobile.png" />'
+		},
+		{
 			'title': 'LeLivros',
 			'href': 'http://lelivros.love/',
 			'target': '_lelivros',
