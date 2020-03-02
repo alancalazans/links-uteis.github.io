@@ -500,7 +500,13 @@ Ensino
 			'title': 'Cefet(MG)',
 			'href': 'https://www.cefetmg.br',
 			'target': '_cefet_mg',
-			'img': '<img src="assets/img/png/cefet_mg.png" width="40" height="40" title="Copeve/Cefet(MG)" alt="assets/img/png/cefet_mg.png" />'
+			'img': '<img src="assets/img/png/cefet_mg.png" width="40" height="40" title="Cefet(MG)" alt="assets/img/png/cefet_mg.png" />'
+		},
+		{
+			'title': 'Cefet/Copeve',
+			'href': 'https://www.copeve.cefetmg.br',
+			'target': '_cefet_copeve',
+			'img': '<img src="assets/img/png/cefet_copeve.png" width="40" height="40" title="Copeve/Cefet(MG)" alt="assets/img/png/cefet_copeve.png" />'
 		},
 		{
 			'title': 'UFMG',
