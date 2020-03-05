@@ -1,40 +1,34 @@
 var dados = {
 	"links":
 	[
-		// Pesquisa
+		// Bancos
 		`<li class="inactive">
-			<a href="#" id="pesquisa" onclick="clickLink(this);">
-				<img src="assets/img/ico_menu/pesquisa.png" width="20" height="20">Pesquisa
-			</a>
-		</li>`,
-		// Emails
-		`<li class="active">
-			<a href="#" id="emails" onclick="clickLink(this);">
-				<img src="assets/img/ico_menu/emails.png" width="20" height="20">Emails
-			</a>
-		</li>`,
-		// Rede Social
-		`<li class="inactive">
-			<a href="#" id="redesocial" onclick="clickLink(this);">
-				<img src="assets/img/ico_menu/rede_social.png" width="20" height="20">Rede Social
-			</a>
-		</li>`,
-		// Filmes
-		`<li class="inactive">
-			<a href="#" id="filmes" onclick="clickLink(this);">
-				<img src="assets/img/ico_menu/filmes.png" width="20" height="20">Filmes
-			</a>
-		</li>`,
-		// Rádios
-		`<li class="inactive">
-			<a href="#" id="radios" onclick="clickLink(this);">
-				<img src="assets/img/ico_menu/radios.png" width="20" height="20">Rádios
+			<a href="#" id="bancos" onclick="clickLink(this);">
+				<img src="assets/img/ico_menu/bancos.png" width="20" height="20">Bancos
 			</a>
 		</li>`,
 		// Concursos
 		`<li class="inactive">
 			<a href="#" id="concursos" onclick="clickLink(this);">
 				<img src="assets/img/ico_menu/concursos.png" width="20" height="20">Concursos
+			</a>
+		</li>`,
+		// Des-Soft
+		`<li class="inactive">
+			<a href="#" id="dessoft" onclick="clickLink(this);">
+				<img src="assets/img/ico_menu/des_soft.png" width="20" height="20">Des-Soft
+			</a>
+		</li>`,
+		// Diversos
+		`<li class="inactive">
+			<a href="#" id="diversos" onclick="clickLink(this);">
+				<img src="assets/img/ico_menu/diversos.png" width="20" height="20">Diversos
+			</a>
+		</li>`,
+		// Emails
+		`<li class="active">
+			<a href="#" id="emails" onclick="clickLink(this);">
+				<img src="assets/img/ico_menu/emails.png" width="20" height="20">Emails
 			</a>
 		</li>`,
 		// ENEM
@@ -49,10 +43,10 @@ var dados = {
 				<img src="assets/img/ico_menu/ensino.png" width="20" height="20">Ensino
 			</a>
 		</li>`,
-		// Notícias
+		// Filmes
 		`<li class="inactive">
-			<a href="#" id="noticias" onclick="clickLink(this);">
-				<img src="assets/img/ico_menu/noticias.png" width="20" height="20">Notícias
+			<a href="#" id="filmes" onclick="clickLink(this);">
+				<img src="assets/img/ico_menu/filmes.png" width="20" height="20">Filmes
 			</a>
 		</li>`,
 		// Linux
@@ -61,28 +55,16 @@ var dados = {
 				<img src="assets/img/ico_menu/linux.png" width="20" height="20">Linux
 			</a>
 		</li>`,
-		// Úteis
-		`<li class="inactive">
-			<a href="#" id="uteis" onclick="clickLink(this);">
-				<img src="assets/img/ico_menu/uteis.png" width="20" height="20">Úteis
-			</a>
-		</li>`,
-		// Bancos
-		`<li class="inactive">
-			<a href="#" id="bancos" onclick="clickLink(this);">
-				<img src="assets/img/ico_menu/bancos.png" width="20" height="20">Bancos
-			</a>
-		</li>`,
-		// Des-Soft
-		`<li class="inactive">
-			<a href="#" id="dessoft" onclick="clickLink(this);">
-				<img src="assets/img/ico_menu/des_soft.png" width="20" height="20">Des-Soft
-			</a>
-		</li>`,
 		// Loterias
 		`<li class="inactive">
 			<a href="#" id="loterias" onclick="clickLink(this);">
 				<img src="assets/img/ico_menu/loterias.png" width="20" height="20">Loterias
+			</a>
+		</li>`,
+		// Notícias
+		`<li class="inactive">
+			<a href="#" id="noticias" onclick="clickLink(this);">
+				<img src="assets/img/ico_menu/noticias.png" width="20" height="20">Notícias
 			</a>
 		</li>`,
 		// Nuvem
@@ -91,16 +73,34 @@ var dados = {
 				<img src="assets/img/ico_menu/nuvem.png" width="20" height="20">Nuvem
 			</a>
 		</li>`,
+		// Pesquisa
+		`<li class="inactive">
+			<a href="#" id="pesquisa" onclick="clickLink(this);">
+				<img src="assets/img/ico_menu/pesquisa.png" width="20" height="20">Pesquisa
+			</a>
+		</li>`,
+		// Rádios
+		`<li class="inactive">
+			<a href="#" id="radios" onclick="clickLink(this);">
+				<img src="assets/img/ico_menu/radios.png" width="20" height="20">Rádios
+			</a>
+		</li>`,
+		// Rede Social
+		`<li class="inactive">
+			<a href="#" id="redesocial" onclick="clickLink(this);">
+				<img src="assets/img/ico_menu/rede_social.png" width="20" height="20">Rede Social
+			</a>
+		</li>`,
 		// Serviços
 		`<li class="inactive">
 			<a href="#" id="servicos" onclick="clickLink(this);">
 				<img src="assets/img/ico_menu/servicos.png" width="20" height="20">Serviços
 			</a>
 		</li>`,
-		// Diversos
+		// Úteis
 		`<li class="inactive">
-			<a href="#" id="diversos" onclick="clickLink(this);">
-				<img src="assets/img/ico_menu/diversos.png" width="20" height="20">Diversos
+			<a href="#" id="uteis" onclick="clickLink(this);">
+				<img src="assets/img/ico_menu/uteis.png" width="20" height="20">Úteis
 			</a>
 		</li>`
 	],
