@@ -497,16 +497,22 @@ Ensino
 			'img': '<img src="assets/img/png/cmbh.png" width="40" height="40" title="Colégio Militar" alt="assets/img/png/cmbh.png" />'
 		},
 		{
-			'title': 'Cefet(MG)',
+			'title': 'CEFET-MG',
 			'href': 'https://www.cefetmg.br',
 			'target': '_cefet_mg',
 			'img': '<img src="assets/img/png/cefet_mg.png" width="40" height="40" title="Cefet(MG)" alt="assets/img/png/cefet_mg.png" />'
 		},
 		{
-			'title': 'Cefet/Copeve',
+			'title': 'CEFET/COPEVE',
 			'href': 'https://www.copeve.cefetmg.br',
 			'target': '_cefet_copeve',
 			'img': '<img src="assets/img/png/cefet_copeve.png" width="40" height="40" title="Copeve/Cefet(MG)" alt="assets/img/png/cefet_copeve.png" />'
+		},
+		{
+			'title': 'SIGAA/CEFET-MG',
+			'href': 'https://sig.cefetmg.br/admin/public/loginunificado/index.jsf',
+			'target': '_sigaa',
+			'img': '<img src="assets/img/png/sigaa.png" width="40" height="40" title="SIGAA" alt="assets/img/png/sigaa.png" />'
 		},
 		{
 			'title': 'UFMG',
