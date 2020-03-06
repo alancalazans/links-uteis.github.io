@@ -1177,16 +1177,16 @@ Serviços
 			'img': '<img src="assets/img/png/seamonkey.png" width="40" height="40" title="Navegador da web" alt="assets/img/png/seamonkey.png" />'
 		},
 		{
-			'title': 'Firefox-Nightly',
-			'href': 'https://www.mozilla.org/en-US/firefox/all/#product-desktop-nightly',
-			'target': '_firefox-nightly',
-			'img': '<img src="assets/img/png/firefox-nightly.png" width="40" height="40" title="Fork do Firefox" alt="assets/img/png/firefox-nightly.png" />'
+			'title': 'Palemoon',
+			'href': 'http://www.palemoon.org/',
+			'target': '_palemoon',
+			'img': '<img src="assets/img/png/palemoon.png" width="40" height="40" title="Palemoon browser" alt="assets/img/png/palemoon.png" />'
 		},
 		{
-			'title': 'Waterfox',
-			'href': 'https://www.waterfox.net/releases/',
-			'target': '_waterfox',
-			'img': '<img src="assets/img/png/waterfox.png" width="40" height="40" title="Waterfox browser" alt="assets/img/png/waterfox.png" />'
+			'title': 'Yandex',
+			'href': 'https://browser.yandex.com/',
+			'target': '_yandex',
+			'img': '<img src="assets/img/png/yandex.png" width="40" height="40" title="Yandex browser" alt="assets/img/png/yandex.png" />'
 		},
 		{
 			'title': 'Adobe Flash Player',
