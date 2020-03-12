@@ -983,6 +983,12 @@ Serviços
 			'img': '<img src="assets/img/png/mobile.png" width="40" height="40" title="Localizar Celular" alt="assets/img/png/mobile.png" />'
 		},
 		{
+			'title': 'Sist. Acrés. Legais',
+			'href': 'http://sal.receita.fazenda.gov.br/PortalSalInternet/faces/pages/calcContribuicoesCI/filiadosApos/selecionarOpcoesCalculoApos.xhtml',
+			'target': '_sal',
+			'img': '<img src="assets/img/png/sal.png" width="40" height="40" title="Sistema de Acréscimos Legais" alt="assets/img/png/sal.png" />'
+		},
+		{
 			'title': 'LeLivros',
 			'href': 'http://lelivros.love/',
 			'target': '_lelivros',
