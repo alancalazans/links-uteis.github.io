@@ -1177,28 +1177,28 @@ Serviços
 			'img': '<img src="assets/img/png/freefilesync.png" width="40" height="40" title="Sincronizador de arquivos (backup em pendrive)" alt="assets/img/png/freefilesync.png" />'
 		},
 		{
+			'title': 'SlimJet browser',
+			'href': 'https://www.slimjet.com/pt/',
+			'target': '_slimjet',
+			'img': '<img src="assets/img/png/slimjet.png" width="40" height="40" title="Navegador da web" alt="assets/img/png/slimjet.png" />'
+		},
+		{
 			'title': 'Vivaldi browser',
 			'href': 'https://vivaldi.com/pt-br/',
 			'target': '_vivaldi',
-			'img': '<img src="assets/img/png/vivaldi.png" width="40" height="40" title="Navegador da web (mais elaborado) compatível com o Chrome" alt="assets/img/png/vivaldi.png" />'
+			'img': '<img src="assets/img/png/vivaldi.png" width="40" height="40" title="Navegador da web" alt="assets/img/png/vivaldi.png" />'
 		},
 		{
-			'title': 'Seamonkey',
+			'title': 'Palemoon browser',
+			'href': 'http://www.palemoon.org/',
+			'target': '_palemoon',
+			'img': '<img src="assets/img/png/palemoon.png" width="40" height="40" title="Navegador da web" alt="assets/img/png/palemoon.png" />'
+		},
+		{
+			'title': 'Seamonkey browser',
 			'href': 'http://www.seamonkey-project.org/',
 			'target': '_seamonkey',
 			'img': '<img src="assets/img/png/seamonkey.png" width="40" height="40" title="Navegador da web" alt="assets/img/png/seamonkey.png" />'
-		},
-		{
-			'title': 'Palemoon',
-			'href': 'http://www.palemoon.org/',
-			'target': '_palemoon',
-			'img': '<img src="assets/img/png/palemoon.png" width="40" height="40" title="Palemoon browser" alt="assets/img/png/palemoon.png" />'
-		},
-		{
-			'title': 'Yandex',
-			'href': 'https://browser.yandex.com/',
-			'target': '_yandex',
-			'img': '<img src="assets/img/png/yandex.png" width="40" height="40" title="Yandex browser" alt="assets/img/png/yandex.png" />'
 		},
 		{
 			'title': 'Adobe Flash Player',
