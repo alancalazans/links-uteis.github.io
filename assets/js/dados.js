@@ -224,6 +224,12 @@ Des-Soft
 			'img': '<img src="assets/img/png/vim.png" width="40" height="40" title="Editor Vim" alt="assets/img/png/vim.png" />'
 		},
 		{
+			'title': 'TextAdept',
+			'href': 'https://foicica.com/textadept/',
+			'target': '_textadept',
+			'img': '<img src="assets/img/png/textadept.png" width="40" height="40" title="Editor TextAdept" alt="assets/img/png/textadept.png" />'
+		},
+		{
 			'title': 'NeoVim',
 			'href': 'https://github.com/neovim/neovim',
 			'target': '_neovim',
