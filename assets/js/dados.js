@@ -336,6 +336,18 @@ Des-Soft
 			'href': 'https://almende.github.io/vis/',
 			'target': '_visjs',
 			'img': '<img src="assets/img/png/visjs.png" width="40" height="40" title="VisJS - Gráficos em javascript" alt="assets/img/png/visjs.png" />'
+		},
+		{
+			'title': 'Icon Finder',
+			'href': 'https://www.iconfinder.com/',
+			'target': '_iconfinder',
+			'img': '<img src="assets/img/png/iconfinder.png" width="40" height="40" title="Baixar icones diversos" alt="assets/img/png/iconfinder.png" />'
+		},
+		{
+			'title': 'Flaticon',
+			'href': 'https://www.flaticon.com/br?utm_term=free icons&utm_campaign=fi_busqueda_brasil&utm_source=adwords&utm_medium=ppc&hsa_acc=5490559948&hsa_cam=1841778624&hsa_grp=70091914939&hsa_ad=346006066075&hsa_src=g&hsa_tgt=kwd-22932361&hsa_kw=free icons&hsa_mt=b&hsa_net=adwords&hsa_ver=3&gclid=EAIaIQobChMI1fmf9Yv25QIVVwiRCh1PXgEoEAAYASAAEgLMTvD_BwE',
+			'target': '_flaticon',
+			'img': '<img src="assets/img/png/flaticon.png" width="40" height="40" title="Baixar icones diversos" alt="assets/img/png/flaticon.png" />'
 		}
 	],
 /*
@@ -392,6 +404,18 @@ Diversos
 			'href': 'http://www.planetarei.com.br/100anos/index.htm',
 			'target': '_planetarei',
 			'img': '<img src="assets/img/png/planeta-rei.png" width="40" height="40" title="100 anos da música" alt="assets/img/png/planeta-rei.png" />'
+		},
+		{
+			'title': 'Lorem Ipsum',
+			'href': 'http://www.lipsum.com',
+			'target': '_lipsum',
+			'img': '<img src="assets/img/png/lorem_ipsum.png" width="40" height="40" title="Conjunto de frases e texto para testes" alt="assets/img/png/lorem_ipsum.png" />'
+		},
+		{
+			'title': 'Mussum Ipsum',
+			'href': 'http://www.mussumipsum.com',
+			'target': '_mussumipsum',
+			'img': '<img src="assets/img/png/mussum_ipsum.png" width="40" height="40" title="Conjunto de frases e texto para testes" alt="assets/img/png/mussum_ipsum.png" />'
 		}
 	],
 /*
@@ -661,6 +685,18 @@ Linux
 			'href': 'https://cinnamon-spices.linuxmint.com/',
 			'target': '_cinnamon-spices',
 			'img': '<img src="assets/img/png/cinnamon-spices.png" width="40" height="40" title="Temas entre outros para interface Cinnamon" alt="assets/img/png/cinnamon-spices.png" />'
+		},
+		{
+			'title': 'Wallpapers Abyss',
+			'href': 'https://wall.alphacoders.com/finding_wallpapers.php?lang-Portuguese',
+			'target': '_wallpapers-abyss',
+			'img': '<img src="assets/img/png/wallpapers-abyss.png" width="40" height="40" title="Telas de fundo para computador" alt="assets/img/png/wallpapers-abyss.png" />'
+		},
+		{
+			'title': 'Deviant Art',
+			'href': 'https://www.deviantart.com/',
+			'target': '_deviant-art',
+			'img': '<img src="assets/img/png/deviant-art.png" width="40" height="40" title="Temas para sistema operacional" alt="assets/img/png/deviant-art.png" />'
 		}
 	],
 /*
@@ -983,6 +1019,12 @@ Serviços
 	'servicos':
 	[
 		{
+			'title': 'Slides',
+			'href': 'https://slides.com/',
+			'target': '_slides',
+			'img': '<img src="assets/img/png/slides.png" width="40" height="40" title="Criando slides de apresentação" alt="assets/img/png/slides.png" />'
+		},
+		{
 			'title': 'Localizar Cel.',
 			'href': 'https://myaccount.google.com/find-your-phone',
 			'target': '_mobile',
@@ -1029,18 +1071,6 @@ Serviços
 			'href': 'https://www.bhbus.com.br/cartoes',
 			'target': '_transfacil',
 			'img': '<img src="assets/img/png/transfacil.png" width="40" height="40" title="Seus cartões do BHBUS" alt="assets/img/png/transfacil.png" />'
-		},
-		{
-			'title': 'Lorem Ipsum',
-			'href': 'http://www.lipsum.com',
-			'target': '_lipsum',
-			'img': '<img src="assets/img/png/lorem_ipsum.png" width="40" height="40" title="Conjunto de frases e texto para testes" alt="assets/img/png/lorem_ipsum.png" />'
-		},
-		{
-			'title': 'Mussum Ipsum',
-			'href': 'http://www.mussumipsum.com',
-			'target': '_mussumipsum',
-			'img': '<img src="assets/img/png/mussum_ipsum.png" width="40" height="40" title="Conjunto de frases e texto para testes" alt="assets/img/png/mussum_ipsum.png" />'
 		},
 		{
 			'title': 'Print Friendly',
@@ -1137,30 +1167,6 @@ Serviços
 			'href': 'http://br.uptodown.com/',
 			'target': '_uptodown',
 			'img': '<img src="assets/img/png/uptodown.png" width="40" height="40" title="Site de programas" alt="assets/img/png/uptodown.png" />'
-		},
-		{
-			'title': 'Icon Finder',
-			'href': 'https://www.iconfinder.com/',
-			'target': '_iconfinder',
-			'img': '<img src="assets/img/png/iconfinder.png" width="40" height="40" title="Baixar icones diversos" alt="assets/img/png/iconfinder.png" />'
-		},
-		{
-			'title': 'Flaticon',
-			'href': 'https://www.flaticon.com/br?utm_term=free icons&utm_campaign=fi_busqueda_brasil&utm_source=adwords&utm_medium=ppc&hsa_acc=5490559948&hsa_cam=1841778624&hsa_grp=70091914939&hsa_ad=346006066075&hsa_src=g&hsa_tgt=kwd-22932361&hsa_kw=free icons&hsa_mt=b&hsa_net=adwords&hsa_ver=3&gclid=EAIaIQobChMI1fmf9Yv25QIVVwiRCh1PXgEoEAAYASAAEgLMTvD_BwE',
-			'target': '_flaticon',
-			'img': '<img src="assets/img/png/flaticon.png" width="40" height="40" title="Baixar icones diversos" alt="assets/img/png/flaticon.png" />'
-		},
-		{
-			'title': 'Wallpapers Abyss',
-			'href': 'https://wall.alphacoders.com/finding_wallpapers.php?lang-Portuguese',
-			'target': '_wallpapers-abyss',
-			'img': '<img src="assets/img/png/wallpapers-abyss.png" width="40" height="40" title="Telas de fundo para computador" alt="assets/img/png/wallpapers-abyss.png" />'
-		},
-		{
-			'title': 'Deviant Art',
-			'href': 'https://www.deviantart.com/',
-			'target': '_deviant-art',
-			'img': '<img src="assets/img/png/deviant-art.png" width="40" height="40" title="Temas para sistema operacional" alt="assets/img/png/deviant-art.png" />'
 		}
 	],
 /*
