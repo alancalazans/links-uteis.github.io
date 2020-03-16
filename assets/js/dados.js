@@ -224,6 +224,12 @@ Des-Soft
 			'img': '<img src="assets/img/png/vim.png" width="40" height="40" title="Editor Vim" alt="assets/img/png/vim.png" />'
 		},
 		{
+			'title': 'CudaText',
+			'href': 'http://uvviewsoft.com/cudatext/index.html',
+			'target': '_cudatext',
+			'img': '<img src="assets/img/png/cudatext.png" width="40" height="40" title="Editor CudaText" alt="assets/img/png/cudatext.png" />'
+		},
+		{
 			'title': 'TextAdept',
 			'href': 'https://foicica.com/textadept/',
 			'target': '_textadept',
