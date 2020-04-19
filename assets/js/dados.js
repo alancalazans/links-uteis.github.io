@@ -585,6 +585,12 @@ Ensino
 			'href': 'https://gskpro.com/pt-br/',
 			'target': '_gsk',
 			'img': '<img src="assets/img/png/gsk.png" width="40" height="40" title="Artigos científicos" alt="assets/img/png/gsk.png" />'
+		},
+		{
+			'title': 'SCI-HUB',
+			'href': 'https://blog.even3.com.br/scihub/',
+			'target': '_sci-hub',
+			'img': '<img src="assets/img/png/sci-hub.png" width="40" height="40" title="Artigos científicos" alt="assets/img/png/sci-hub.png" />'
 		}
 	],
 /*
