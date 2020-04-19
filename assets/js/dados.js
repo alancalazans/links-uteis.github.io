@@ -579,6 +579,12 @@ Ensino
 			'href': 'http://www.nova-acropole.org.br/',
 			'target': '_nova-acropole',
 			'img': '<img src="assets/img/png/nova-acropole.png" width="40" height="40" title="Nova Acrópole - Filosofia" alt="assets/img/png/nova-acropole.png" />'
+		},
+		{
+			'title': 'gsk',
+			'href': 'https://gskpro.com/pt-br/',
+			'target': '_gsk',
+			'img': '<img src="assets/img/png/gsk.png" width="40" height="40" title="Artigos científicos" alt="assets/img/png/gsk.png" />'
 		}
 	],
 /*
@@ -1037,7 +1043,7 @@ Serviços
 			'img': '<img src="assets/img/png/mobile.png" width="40" height="40" title="Localizar Celular" alt="assets/img/png/mobile.png" />'
 		},
 		{
-			'title': 'Sist. Acrés. Legais',
+			'title': 'INSS',
 			'href': 'http://sal.receita.fazenda.gov.br/PortalSalInternet/faces/pages/calcContribuicoesCI/filiadosApos/selecionarOpcoesCalculoApos.xhtml',
 			'target': '_sal',
 			'img': '<img src="assets/img/png/sal.png" width="40" height="40" title="Sistema de Acréscimos Legais" alt="assets/img/png/sal.png" />'
