@@ -588,7 +588,7 @@ Ensino
 		},
 		{
 			'title': 'SCI-HUB',
-			'href': 'https://sci-hub.tw/',
+			'href': 'https://blog.even3.com.br/scihub/',
 			'target': '_sci-hub',
 			'img': '<img src="assets/img/png/sci-hub.png" width="40" height="40" title="Artigos científicos" alt="assets/img/png/sci-hub.png" />'
 		}
