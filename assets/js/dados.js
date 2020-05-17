@@ -1049,6 +1049,30 @@ Serviços
 			'img': '<img src="assets/img/png/stackedit.png" width="40" height="40" title="Editor MarkDown" alt="assets/img/png/stackedit.png" />'
 		},
 		{
+			'title': 'MDLive-Preview',
+			'href': 'https://markdownlivepreview.com/',
+			'target': '_mdlivepreview',
+			'img': '<img src="assets/img/png/mdlivepreview.png" width="40" height="40" title="Editor MarkDown" alt="assets/img/png/mdlivepreview.png" />'
+		},
+		{
+			'title': 'Draw',
+			'href': 'https://www.draw.io',
+			'target': '_draw',
+			'img': '<img src="assets/img/png/draw.png" width="40" height="40" title="Criar diagramas online" alt="assets/img/png/draw.png" />'
+		},
+		{
+			'title': 'Encycolorpedia',
+			'href': 'https://encycolorpedia.pt',
+			'target': '_encycolorpedia',
+			'img': '<img src="assets/img/png/encycolorpedia.png" width="40" height="40" title="Todas as variantes de cores da web" alt="assets/img/png/encycolorpedia.png" />'
+		},
+		{
+			'title': 'Ulist',
+			'href': 'https://guihkx.github.io/ulist/',
+			'target': '_ulist',
+			'img': '<img src="assets/img/png/ulist.png" width="40" height="40" title="Baixar lista de links da play list do canal do youtube" alt="assets/img/png/ulist.png" />'
+		},
+		{
 			'title': 'Localizar Cel.',
 			'href': 'https://myaccount.google.com/find-your-phone',
 			'target': '_mobile',
@@ -1151,24 +1175,6 @@ Serviços
 			'img': '<img src="assets/img/png/kaissara.png" width="40" height="40" title="Viação Kaissara" alt="assets/img/png/kaissara.png" />'
 		},
 		{
-			'title': 'Ulist',
-			'href': 'https://guihkx.github.io/ulist/',
-			'target': '_ulist',
-			'img': '<img src="assets/img/png/ulist.png" width="40" height="40" title="Baixar lista de links da play list do canal do youtube" alt="assets/img/png/ulist.png" />'
-		},
-		{
-			'title': 'Draw',
-			'href': 'https://www.draw.io',
-			'target': '_draw',
-			'img': '<img src="assets/img/png/draw.png" width="40" height="40" title="Criar diagramas online" alt="assets/img/png/draw.png" />'
-		},
-		{
-			'title': 'Encycolorpedia',
-			'href': 'https://encycolorpedia.pt',
-			'target': '_encycolorpedia',
-			'img': '<img src="assets/img/png/encycolorpedia.png" width="40" height="40" title="Todas as variantes de cores da web" alt="assets/img/png/encycolorpedia.png" />'
-		},
-		{
 			'title': 'Despertador',
 			'href': 'https://relogioonline.com.br/#',
 			'target': '_despertador',
@@ -1179,12 +1185,6 @@ Serviços
 			'href': 'http://www.4shared.com',
 			'target': '_forshared',
 			'img': '<img src="assets/img/png/4shared.png" width="40" height="40" title="4Shared" alt="assets/img/png/4shared.png" />'
-		},
-		{
-			'title': 'Baixaki',
-			'href': 'http://www.baixaki.com.br',
-			'target': '_baixaki',
-			'img': '<img src="assets/img/png/baixaki.png" width="40" height="40" title="Baixaki" alt="assets/img/png/baixaki.png" />'
 		},
 		{
 			'title': 'UpToDown',
