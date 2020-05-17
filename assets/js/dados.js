@@ -1043,6 +1043,12 @@ Serviços
 			'img': '<img src="assets/img/png/slides.png" width="40" height="40" title="Criando slides de apresentação" alt="assets/img/png/slides.png" />'
 		},
 		{
+			'title': 'StackEdit',
+			'href': 'https://stackedit.io/app#',
+			'target': '_stackedit',
+			'img': '<img src="assets/img/png/stackedit.png" width="40" height="40" title="Editor MarkDown" alt="assets/img/png/stackedit.png" />'
+		},
+		{
 			'title': 'Localizar Cel.',
 			'href': 'https://myaccount.google.com/find-your-phone',
 			'target': '_mobile',
