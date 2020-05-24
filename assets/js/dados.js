@@ -497,6 +497,18 @@ Ensino
 	'ensino':
 	[
 		{
+			'title': 'PUC Minas',
+			'href': 'http://portal.pucminas.br/main/',
+			'target': '_pucminas',
+			'img': '<img src="assets/img/png/pucminas.png" width="40" height="40" title="PUC Minas" alt="assets/img/png/pucminas.png" />'
+		},
+		{
+			'title': 'PUC Virtual',
+			'href': 'https://www.pucminas.br/PucVirtual/Paginas/default.aspx',
+			'target': '_pucvirtual',
+			'img': '<img src="assets/img/png/pucvirtual.png" width="40" height="40" title="PUC Virtual EAD" alt="assets/img/png/pucvirtual.png" />'
+		},
+		{
 			'title': 'Esc Virtual Bradesco',
 			'href': 'https://www.ev.org.br',
 			'target': '_escvirtual',
