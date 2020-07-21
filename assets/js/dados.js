@@ -1295,6 +1295,12 @@ Serviços
 			'href': 'https://www.360totalsecurity.com/pt/download-free-antivirus/',
 			'target': '_360',
 			'img': '<img src="assets/img/png/360.png" width="40" height="40" title="Antivírus" alt="assets/img/png/360.png" />'
+		},
+		{
+			'title': 'Fontawesome',
+			'href': 'https://fontawesome.com/icons?d=gallery',
+			'target': '_fontawesome',
+			'img': '<img src="assets/img/png/fontawesome.png" width="40" height="40" title="Icones" alt="assets/img/png/fontawesome.png" />'
 		}
 	]
 };
