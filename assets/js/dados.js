@@ -871,6 +871,12 @@ Notícias
 			'href': 'http://www.soubh.com.br/',
 			'target': '_soubh',
 			'img': '<img src="assets/img/png/soubh.png" width="40" height="40" title="Atividades e eventos em BH" alt="assets/img/png/soubh.png" />'
+		},
+		{
+			'title': 'NewsAPI',
+			'href': 'https://feedsnewsapi.herokuapp.com/',
+			'target': '_newsapi',
+			'img': '<img src="assets/img/png/newsapi.png" width="40" height="40" title="NewsAPI Google" alt="assets/img/png/newsapi.png" />'
 		}
 	],
 /*
