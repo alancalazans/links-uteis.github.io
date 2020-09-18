@@ -509,6 +509,12 @@ Ensino
 			'img': '<img src="assets/img/png/pucvirtual.png" width="40" height="40" title="PUC Virtual EAD" alt="assets/img/png/pucvirtual.png" />'
 		},
 		{
+			'title': 'Verde',
+			'href': 'http://maratona.crc.pucminas.br',
+			'target': '_verde',
+			'img': '<img src="assets/img/png/verde.png" width="40" height="40" title="Verde" alt="assets/img/png/verde.png" />'
+		},
+		{
 			'title': 'Esc Virtual Bradesco',
 			'href': 'https://www.ev.org.br',
 			'target': '_escvirtual',
