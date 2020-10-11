@@ -1215,13 +1215,19 @@ Serviços
 			'href': 'http://br.uptodown.com/',
 			'target': '_uptodown',
 			'img': '<img src="assets/img/png/uptodown.png" width="40" height="40" title="Site de programas" alt="assets/img/png/uptodown.png" />'
+		},
+		{
+			'title': 'Dillinger',
+			'href': 'https://dillinger.io/',
+			'target': '_dillinger',
+			'img': '<img src="assets/img/png/dillinger.png" width="40" height="40" title="Markdown Editor" alt="assets/img/png/dillinger.png" />'
 		}
 	],
-/*
-================================================================================
-Úteis
-================================================================================
-*/
+	/*
+		 ================================================================================
+		 Úteis
+		 ================================================================================
+	 */
 	'uteis':
 	[
 		{
