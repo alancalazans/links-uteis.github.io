@@ -705,6 +705,12 @@ Linux
 			'img': '<img src="assets/img/png/ubuntu_cdimg.png" width="40" height="40" title="Ubuntu - imagens iso para instalação do sistema" alt="assets/img/png/ubuntu_cdimg.png" />'
 		},
 		{
+			'title': 'Linux Lite',
+			'href': 'https://www.linuxliteos.com/',
+			'target': '_linuxlite',
+			'img': '<img src="assets/img/png/linuxlite.png" width="40" height="40" title="Linux Lite" alt="assets/img/png/linuxlite.png" />'
+		},
+		{
 			'title': 'Gnome-look',
 			'href': 'https://www.gnome-look.org',
 			'target': '_gnome-look',
