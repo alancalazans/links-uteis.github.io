@@ -606,7 +606,7 @@ Ensino
 		},
 		{
 			'title': 'SCI-HUB',
-			'href': 'https://sci-hub.tw/',
+			'href': 'https://scihub.wikicn.top/',
 			'target': '_sci-hub',
 			'img': '<img src="assets/img/png/sci-hub.png" width="40" height="40" title="Artigos científicos" alt="assets/img/png/sci-hub.png" />'
 		}
@@ -709,6 +709,12 @@ Linux
 			'href': 'https://www.linuxliteos.com/',
 			'target': '_linuxlite',
 			'img': '<img src="assets/img/png/linuxlite.png" width="40" height="40" title="Linux Lite" alt="assets/img/png/linuxlite.png" />'
+		},
+		{
+			'title': 'Debian Unofficial',
+			'href': 'https://cdimage.debian.org/cdimage/unofficial/non-free/cd-including-firmware/',
+			'target': '_debian_unofficial',
+			'img': '<img src="assets/img/png/debian_unofficial.png" width="40" height="40" title="Debian Unofficial" alt="assets/img/png/debian_unofficial.png" />'
 		},
 		{
 			'title': 'Gnome-look',
@@ -900,7 +906,7 @@ Pesquisa
 	[
 		{
 			'title': 'Google',
-			'href': 'https://www.google.com.br/webhp?lr=lang_pt',
+			'href': 'https://www.google.com',
 			'target': '_google',
 			'img': '<img src="assets/img/png/google.png" width="40" height="40" title="Google" alt="assets/img/png/google.png" />'
 		},
