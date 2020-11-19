@@ -1127,6 +1127,12 @@ Serviços
 			'img': '<img src="assets/img/png/sal.png" width="40" height="40" title="Sistema de Acréscimos Legais" alt="assets/img/png/sal.png" />'
 		},
 		{
+			'title': 'ZLibrary',
+			'href': 'https://pt.singlelogin.org/',
+			'target': '_zlibrary',
+			'img': '<img src="assets/img/png/zlibrary.png" width="40" height="40" title="Baixar livros e artigos grátis" alt="assets/img/png/zlibrary.png" />'
+		},
+		{
 			'title': 'LeLivros',
 			'href': 'http://lelivros.love/',
 			'target': '_lelivros',
