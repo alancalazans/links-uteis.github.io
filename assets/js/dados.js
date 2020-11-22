@@ -661,6 +661,12 @@ Filmes
 			'img': '<img src="assets/img/png/globoplay.png" width="40" height="40" title="Globo Play" alt="assets/img/png/globoplay.png" />'
 		},
 		{
+			'title': 'SBT',
+			'href': 'https://www.sbt.com.br/ao-vivo',
+			'target': '_sbt',
+			'img': '<img src="assets/img/png/sbt.png" width="40" height="40" title="SBT ao vivo" alt="assets/img/png/sbt.png" />'
+		},
+		{
 			'title': 'Netflix',
 			'href': 'https://www.netflix.com/br/',
 			'target': '_netflix',
@@ -739,6 +745,12 @@ Linux
 			'href': 'https://wall.alphacoders.com/finding_wallpapers.php?lang-Portuguese',
 			'target': '_wallpapers-abyss',
 			'img': '<img src="assets/img/png/wallpapers-abyss.png" width="40" height="40" title="Telas de fundo para computador" alt="assets/img/png/wallpapers-abyss.png" />'
+		},
+		{
+			'title': 'Wallpaperflare',
+			'href': 'https://www.wallpaperflare.com/',
+			'target': '_wallpaperflare',
+			'img': '<img src="assets/img/png/wallpaperflare.png" width="40" height="40" title="Wallpapers" alt="assets/img/png/wallpaperflare.png" />'
 		},
 		{
 			'title': 'Deviant Art',
