@@ -747,7 +747,7 @@ Linux
 			'img': '<img src="assets/img/png/wallpapers-abyss.png" width="40" height="40" title="Telas de fundo para computador" alt="assets/img/png/wallpapers-abyss.png" />'
 		},
 		{
-			'title': 'Wallpaperflare',
+			'title': 'Wallpaper Flare',
 			'href': 'https://www.wallpaperflare.com/',
 			'target': '_wallpaperflare',
 			'img': '<img src="assets/img/png/wallpaperflare.png" width="40" height="40" title="Wallpapers" alt="assets/img/png/wallpaperflare.png" />'
