@@ -687,10 +687,22 @@ Linux
 			'img': '<img src="assets/img/png/linuxmint.png" width="40" height="40" title="LinuxMint" alt="assets/img/png/linuxmint.png" />'
 		},
 		{
+			'title': 'MXLinux',
+			'href': 'https://mxlinux.org',
+			'target': '_mxlinux',
+			'img': '<img src="assets/img/png/mxlinux.png" width="40" height="40" title="MXLinux" alt="assets/img/png/mxlinux.png" />'
+		},
+		{
 			'title': 'Debian',
 			'href': 'https://www.debian.org/distrib/',
 			'target': '_debian',
 			'img': '<img src="assets/img/png/debian.png" width="40" height="40" title="Linux Debian" alt="assets/img/png/debian.png" />'
+		},
+		{
+			'title': 'Debian Unofficial',
+			'href': 'https://cdimage.debian.org/cdimage/unofficial/non-free/cd-including-firmware/',
+			'target': '_debian_unofficial',
+			'img': '<img src="assets/img/png/debian_unofficial.png" width="40" height="40" title="Debian Unofficial" alt="assets/img/png/debian_unofficial.png" />'
 		},
 		{
 			'title': 'Spins Fedora',
@@ -715,12 +727,6 @@ Linux
 			'href': 'https://www.linuxliteos.com/',
 			'target': '_linuxlite',
 			'img': '<img src="assets/img/png/linuxlite.png" width="40" height="40" title="Linux Lite" alt="assets/img/png/linuxlite.png" />'
-		},
-		{
-			'title': 'Debian Unofficial',
-			'href': 'https://cdimage.debian.org/cdimage/unofficial/non-free/cd-including-firmware/',
-			'target': '_debian_unofficial',
-			'img': '<img src="assets/img/png/debian_unofficial.png" width="40" height="40" title="Debian Unofficial" alt="assets/img/png/debian_unofficial.png" />'
 		},
 		{
 			'title': 'Gnome-look',
