@@ -662,7 +662,7 @@ Filmes
 		},
 		{
 			'title': 'SBT',
-			'href': 'https://www.sbt.com.br/ao-vivo',
+			'href': 'https://youtu.be/ABVQXgr2LW4',
 			'target': '_sbt',
 			'img': '<img src="assets/img/png/sbt.png" width="40" height="40" title="SBT ao vivo" alt="assets/img/png/sbt.png" />'
 		},
