@@ -705,6 +705,12 @@ Linux
 			'img': '<img src="assets/img/png/debian_unofficial.png" width="40" height="40" title="Debian Unofficial" alt="assets/img/png/debian_unofficial.png" />'
 		},
 		{
+			'title': 'Q4OS',
+			'href': 'https://q4os.org/',
+			'target': '_q4os',
+			'img': '<img src="assets/img/png/q4os.png" width="40" height="40" title="Linux baseado em Debian" alt="assets/img/png/q4os.png" />'
+		},
+		{
 			'title': 'Spins Fedora',
 			'href': 'https://spins.fedoraproject.org/pt_BR/',
 			'target': '_spins-fedora',
