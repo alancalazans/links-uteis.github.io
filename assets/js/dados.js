@@ -690,19 +690,25 @@ Linux
 			'title': 'MXLinux',
 			'href': 'https://mxlinux.org',
 			'target': '_mxlinux',
-			'img': '<img src="assets/img/png/mxlinux.png" width="40" height="40" title="MXLinux" alt="assets/img/png/mxlinux.png" />'
+			'img': '<img src="assets/img/png/mxlinux.png" width="40" height="40" title="Linux baseado em Debian" alt="assets/img/png/mxlinux.png" />'
 		},
 		{
 			'title': 'Debian',
 			'href': 'https://www.debian.org/distrib/',
 			'target': '_debian',
-			'img': '<img src="assets/img/png/debian.png" width="40" height="40" title="Linux Debian" alt="assets/img/png/debian.png" />'
+			'img': '<img src="assets/img/png/debian.png" width="40" height="40" title="Linux Debian official" alt="assets/img/png/debian.png" />'
 		},
 		{
 			'title': 'Debian Unofficial',
 			'href': 'https://cdimage.debian.org/cdimage/unofficial/non-free/cd-including-firmware/',
 			'target': '_debian_unofficial',
 			'img': '<img src="assets/img/png/debian_unofficial.png" width="40" height="40" title="Debian Unofficial" alt="assets/img/png/debian_unofficial.png" />'
+		},
+		{
+			'title': 'Bunsenlabs',
+			'href': 'https://www.bunsenlabs.org/',
+			'target': '_bunsenlabs',
+			'img': '<img src="assets/img/png/bunsenlabs.png" width="40" height="40" title="Linux baseado em Debian" alt="assets/img/png/bunsenlabs.png" />'
 		},
 		{
 			'title': 'Q4OS',
