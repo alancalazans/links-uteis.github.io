@@ -1269,6 +1269,12 @@ Serviços
 			'href': 'http://br.uptodown.com/',
 			'target': '_uptodown',
 			'img': '<img src="assets/img/png/uptodown.png" width="40" height="40" title="Site de programas" alt="assets/img/png/uptodown.png" />'
+		},
+		{
+			'title': 'Tourão bar e rest.',
+			'href': 'https://deliveryapp.neemo.com.br/delivery/7231/menu',
+			'target': '_tourao',
+			'img': '<img src="assets/img/png/tourao.png" width="60" height="40" title="Tourão bar e restaurante" alt="assets/img/png/tourao.png" />'
 		}
 	],
 	/*
