@@ -364,10 +364,10 @@ Diversos
 	'diversos':
 	[
 		{
-			'title': 'Portal do Serv.',
-			'href': 'https://www.servidor.gov.br',
-			'target': '_sigepe',
-			'img': '<img src="assets/img/png/sigepe.png" width="40" height="40" title="Funcionalismo Público Federal" alt="assets/img/png/sigepe.png" />'
+			'title': 'Sigac',
+			'href': 'https://sso.gestaodeacesso.planejamento.gov.br/cassso/login',
+			'target': '_sigac',
+			'img': '<img src="assets/img/png/sigac.png" width="40" height="40" title="Sistema de Gestão de Acesso" alt="assets/img/png/sigac.png" />'
 		},
 		{
 			'title': 'Cardápio Setorial',
