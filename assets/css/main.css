@@ -13,21 +13,19 @@ body {
 }
 
 #container {
-	width: 500px;
+	width: 450px;
 	height: 500px;
 	margin: 10px auto;
 }
 
 #menu {
 	float: left;
-	margin-right: 30px;
 	width: 150px;
 	height: 500px;
 	overflow-y: scroll;
 }
 
 #sites {
-	margin-left: 10px;
 	width: 300px;
 	height: 500px;
 	overflow-y: scroll;

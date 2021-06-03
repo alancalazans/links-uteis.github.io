@@ -18,7 +18,7 @@ goSites = () => {
 	fetch('assets/templates/sites.jade')
 	.then(response => response.text())
 	.then(html => {
-		dados = getJson('sites.json');
+		dados = getJson('assets/json/sites.json');
 		dados.then(json => {
 			sites = json;
 			document.getElementById('sites').innerHTML = jade.compile(html)(); 
@@ -47,7 +47,7 @@ clickCategoria = (el) => {
 fetch('assets/templates/menu.jade')
 .then(response => response.text())
 .then(html => {
-	dados = getJson('menu.json');
+	dados = getJson('assets/json/menu.json');
 	dados.then(json => {
 		menu = json;
 		document.getElementById('menu').innerHTML = jade.compile(html)();
