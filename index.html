@@ -1,114 +1,29 @@
-<!DOCTYPE html>
-<html lang="pt-BR">
+<!doctype html>
+<html lang="pt-br">
 <head>
-	<meta charset="UTF-8">
-	<title>Links úteis</title>
-	<link rel="stylesheet" type="text/css" href="assets/css/estilo.css">
-	<link rel="stylesheet" type="text/css" href="assets/css/utils.css">
+	<!-- Meta tags -->
+	<meta charset="utf-8">
+	<title>Links-uteis</title>
+	<meta name="author" content="">
+	<meta name="description" content="">
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+  <link rel="stylesheet" href="assets/css/main.css">
+	
+	<script src="assets/js/lib/jade.min.js"></script>
+
 	<link rel="shortcut icon" type="image/x-icon" href="assets/img/ico/link.jpg">
-	<script type="text/javascript" src="assets/js/dados.js"></script>
 </head>
+
 <body>
 
 	<div id="container">
-
-		<nav class="borda menu">
-			<ul id="menu">
-				<script type="text/javascript">
-					for (var key in dados.links) {
-						window.document.write(dados.links[key]);
-					}
-				</script>
-			</ul>
-		</nav>
-
-		<section class="borda">
-			<article class="borda transparency"></article>
-		</section>
-		
+	  <div id="menu"></div>
+    <div id="sites"></div>
 	</div>
 
-	<script type="text/javascript">
-		var html = '';
-		var tag_article = document.getElementsByClassName('transparency');
-		var categoria = dados.emails;
-		setContent();
-
-		function clickLink(tag_a) {
-			if (tag_a.parentNode.getAttribute('class') == 'active') return false;
-			html = '';
-			var tag_li = document.getElementsByClassName('active')[0];
-			tag_li.setAttribute('class', 'inactive');
-			tag_a.parentNode.setAttribute('class', 'active');
-			categoria = tag_a.getAttribute('id');
-			switch (categoria) {
-				case 'emails':
-					categoria = dados.emails;
-					break;
-				case 'redesocial':
-					categoria = dados.redesocial;
-					break;
-				case 'noticias':
-					categoria = dados.noticias;
-					break;
-				case 'pesquisa':
-					categoria = dados.pesquisa;
-					break;
-				case 'filmes':
-					categoria = dados.filmes;
-					break;
-				case 'bancos':
-					categoria = dados.bancos;
-					break;
-				case 'ensino':
-					categoria = dados.ensino;
-					break;
-				case 'loterias':
-					categoria = dados.loterias;
-					break;
-				case 'nuvem':
-					categoria = dados.nuvem;
-					break;
-				case 'concursos':
-					categoria = dados.concursos;
-					break;
-				case 'enem':
-					categoria = dados.enem;
-					break;
-				case 'radios':
-					categoria = dados.radios;
-					break;
-				case 'linux':
-					categoria = dados.linux;
-					break;
-				case 'uteis':
-					categoria = dados.uteis;
-					break;
-				case 'servicos':
-					categoria = dados.servicos;
-					break;
-				case 'dessoft':
-					categoria = dados.dessoft;
-					break;
-				case 'diversos':
-					categoria = dados.diversos;
-					break;
-			}
-			setContent();
-			return false;
-		}
-
-		function setContent() {
-			for (var key in categoria) {
-				html+='<div class="links">';
-				html+='<a href="'+categoria[key].href+'" target="'+categoria[key].target+'">';
-				html+=categoria[key].img;
-				html+='<br>'+categoria[key].title;
-				html+='</a>';
-				html+='</div>';
-			}
-			tag_article[0].innerHTML = html;
-		}
-	</script>
 </body>
+
+<script src="assets/js/main.js"></script>
+
 </html>

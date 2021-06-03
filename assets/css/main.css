@@ -1,0 +1,46 @@
+* {
+		margin: 0;
+		padding: 0;
+		-webkit-box-sizing: border-box;
+			 -moz-box-sizing: border-box;
+						box-sizing: border-box;
+}
+
+body {
+	font-family: 'Trebuchet MS', Helvetica, sans-serif;
+	font-size: 14px;
+	//font-weight: bold;
+}
+
+#container {
+	width: 500px;
+	height: 500px;
+	margin: 10px auto;
+}
+
+#menu {
+	float: left;
+	margin-right: 30px;
+	width: 150px;
+	height: 500px;
+	overflow-y: scroll;
+}
+
+#sites {
+	margin-left: 10px;
+	width: 300px;
+	height: 500px;
+	overflow-y: scroll;
+}
+
+button {
+	margin-bottom: 10px;
+	width: 125px;
+	font-size: 16px;
+	border-radius: 6px;
+	padding: 5px;
+	cursor: pointer;
+	border: none;
+}
+
+.active { background: #069cc2; }
