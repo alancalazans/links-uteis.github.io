@@ -19,10 +19,6 @@ body {
 	margin: 10px auto;
 }
 
-@media only screen and (max-device-width: 985px) {
-  #container { width: 450px; }
-}
-
 #menu {
 	float: left;
 	width: 150px;
@@ -33,6 +29,12 @@ body {
 #sites {
 	height: 500px;
 	overflow-y: scroll;
+}
+
+@media only screen and (max-device-width: 985px) {
+  #container { width: 450px; height: 800px;}
+  #menu { height: 800px; }
+  #sites { height: 800px; }
 }
 
 button {
