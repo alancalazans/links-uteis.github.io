@@ -14,12 +14,12 @@ body {
 }
 
 #container {
-	width: 1024px;
+	width: 985px;
 	height: 500px;
 	margin: 10px auto;
 }
 
-@media only screen and (max-device-width: 900px) {
+@media only screen and (max-device-width: 985px) {
   #container { width: 450px; }
 }
 
