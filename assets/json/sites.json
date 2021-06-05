@@ -1266,6 +1266,13 @@
       "target": "_tourao",
       "img": "tourao.png",
       "description": "Encomendas online de refeições"
+    },
+    {
+      "title": "Canva",
+      "href": "https://deliveryapp.neemo.com.br/delivery/7231/menu",
+      "target": "_canva",
+      "img": "canva.png",
+      "description": "Colaboração e criação de designers"
     }
   ],
   "Uteis":
