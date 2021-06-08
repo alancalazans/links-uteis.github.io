@@ -7,7 +7,7 @@
 }
 
 body {
-	background-color: #272822;
+	background-color: #5f6061;
 	font-family: 'Trebuchet MS', Helvetica, sans-serif;
 	font-size: 14px;
 	//font-weight: bold;
@@ -38,6 +38,7 @@ body {
 }
 
 button {
+	background-color: #181A1B;
 	margin-bottom: 10px;
 	width: 125px;
 	font-size: 16px;
@@ -48,3 +49,5 @@ button {
 }
 
 .active { background: #069cc2; }
+
+.legenda { color: #FFFFFF; }
