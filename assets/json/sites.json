@@ -546,6 +546,20 @@
       "target": "_sci-hub",
       "img": "sci-hub.png",
       "description": "Publicações científicas"
+    },
+    {
+      "title": "LeLivros",
+      "href": "http://lelivros.love/",
+      "target": "_lelivros",
+      "img": "lelivros.png",
+      "description": "Repositório de arquivos de livros"
+    },
+    {
+      "title": "Docer",
+      "href": "https://docero.com.br",
+      "target": "_docero",
+      "img": "docer.png",
+      "description": "Repositório de arquivos de livros"
     }
   ],
   "Filmes":
@@ -706,27 +720,6 @@
       "target": "_cinnamon-spices",
       "img": "cinnamon-spices.png",
       "description": "Repositório de temas e ícones para Linux da arquitetura de interface Cinnamon"
-    },
-    {
-      "title": "Wallpapers Abyss",
-      "href": "https://wall.alphacoders.com/finding_wallpapers.php?lang-Portuguese",
-      "target": "_wallpapers-abyss",
-      "img": "wallpapers-abyss.png",
-      "description": "Repositórios com diversos Wallpapers (imagens de fundo para desktop)"
-    },
-    {
-      "title": "Wallpaper Flare",
-      "href": "https://www.wallpaperflare.com/",
-      "target": "_wallpaperflare",
-      "img": "wallpaperflare.png",
-      "description": "Repositórios com diversos Wallpapers (imagens de fundo para desktop)"
-    },
-    {
-      "title": "Deviant Art",
-      "href": "https://www.deviantart.com/",
-      "target": "_deviant-art",
-      "img": "deviant-art.png",
-      "description": "Temas, icones e wallpappers para desktop"
     }
   ],
   "Loterias":
@@ -1142,20 +1135,6 @@
       "description": "Repositório de arquivos de livros"
     },
     {
-      "title": "LeLivros",
-      "href": "http://lelivros.love/",
-      "target": "_lelivros",
-      "img": "lelivros.png",
-      "description": "Repositório de arquivos de livros"
-    },
-    {
-      "title": "Docer",
-      "href": "https://docero.com.br",
-      "target": "_docero",
-      "img": "docer.png",
-      "description": "Repositório de arquivos de livros"
-    },
-    {
       "title": "Correios",
       "href": "http://www.correios.com.br",
       "target": "_correios",
@@ -1273,6 +1252,27 @@
       "target": "_tourao",
       "img": "tourao.png",
       "description": "Encomendas online de refeições"
+    },
+    {
+      "title": "Wallpapers Abyss",
+      "href": "https://wall.alphacoders.com/finding_wallpapers.php?lang-Portuguese",
+      "target": "_wallpapers-abyss",
+      "img": "wallpapers-abyss.png",
+      "description": "Repositórios com diversos Wallpapers (imagens de fundo para desktop)"
+    },
+    {
+      "title": "Wallpaper Flare",
+      "href": "https://www.wallpaperflare.com/",
+      "target": "_wallpaperflare",
+      "img": "wallpaperflare.png",
+      "description": "Repositórios com diversos Wallpapers (imagens de fundo para desktop)"
+    },
+    {
+      "title": "Deviant Art",
+      "href": "https://www.deviantart.com/",
+      "target": "_deviant-art",
+      "img": "deviant-art.png",
+      "description": "Temas, icones e wallpappers para desktop"
     }
   ],
   "Uteis":
