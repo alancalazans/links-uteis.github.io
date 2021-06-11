@@ -20,6 +20,7 @@ body {
 }
 
 #menu {
+	margin-top: 5px;
 	float: left;
 	width: 150px;
 	height: 500px;
@@ -27,6 +28,7 @@ body {
 }
 
 #sites {
+	margin-top: 5px;
 	height: 500px;
 	overflow-y: scroll;
 }
