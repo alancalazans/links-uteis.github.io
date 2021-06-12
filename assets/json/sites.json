@@ -659,18 +659,18 @@
       "description": "Sistema Operacional Debian não oficial"
     },
     {
+      "title": "Devuan",
+      "href": "https://www.devuan.org/",
+      "target": "_devuan",
+      "img": "devuan.png",
+      "description": "Sistema Operacional Devuan fork do Debian"
+    },
+    {
       "title": "Bunsenlabs",
       "href": "https://www.bunsenlabs.org/",
       "target": "_bunsenlabs",
       "img": "bunsenlabs.png",
       "description": "Sistema Operacional baseado em Debian com interface OpenBox"
-    },
-    {
-      "title": "Q4OS",
-      "href": "https://q4os.org/",
-      "target": "_q4os",
-      "img": "q4os.png",
-      "description": "Sistema Operacional baseado em Debian com interface LXQT"
     },
     {
       "title": "Spins Fedora",
