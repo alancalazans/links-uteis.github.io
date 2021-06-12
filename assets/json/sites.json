@@ -116,6 +116,13 @@
       "description": "Editor de código conservador para os veteranos"
     },
     {
+      "title": "Vim Book",
+      "href": "https://vimbook.gitbook.io/vimbook/",
+      "target": "_vim-book",
+      "img": "vim-book.png",
+      "description": "Guia do Editor de código Vim"
+    },
+    {
       "title": "CudaText",
       "href": "http://uvviewsoft.com/cudatext/index.html",
       "target": "_cudatext",
