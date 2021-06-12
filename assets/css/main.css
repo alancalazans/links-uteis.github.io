@@ -16,10 +16,11 @@ body {
 #container {
 	width: 985px;
 	height: 500px;
-	margin: 10px auto;
+	margin: 0 auto;
 }
 
 #menu {
+	padding: 5px;
 	margin-top: 5px;
 	float: left;
 	width: 150px;
@@ -28,6 +29,7 @@ body {
 }
 
 #sites {
+	padding: 5px;
 	margin-top: 5px;
 	height: 500px;
 	overflow-y: scroll;
@@ -40,12 +42,12 @@ body {
 }
 
 button {
+	padding: 5px;
 	background-color: #181A1B;
 	margin-bottom: 10px;
 	width: 125px;
 	font-size: 16px;
 	border-radius: 6px;
-	padding: 5px;
 	cursor: pointer;
 	border: none;
 }
