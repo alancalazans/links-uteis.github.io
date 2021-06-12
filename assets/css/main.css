@@ -14,24 +14,21 @@ body {
 }
 
 #container {
+	padding: 5px;
 	width: 985px;
 	height: 500px;
 	margin: 0 auto;
 }
 
 #menu {
-	padding: 5px;
-	margin-top: 5px;
 	float: left;
 	width: 150px;
-	height: 500px;
+	height: 490px;
 	overflow-y: scroll;
 }
 
 #sites {
-	padding: 5px;
-	margin-top: 5px;
-	height: 500px;
+	height: 490px;
 	overflow-y: scroll;
 }
 
