@@ -567,7 +567,14 @@
       "target": "_docero",
       "img": "docer.png",
       "description": "Repositório de arquivos de livros"
-    }
+    },
+    {
+			"title": "ZLibrary",
+			"href": "https://pt.singlelogin.org/",
+			"target": "_zlibrary",
+			"img": "zlibrary.png",
+			"description": "Download de livros"
+		}
   ],
   "Filmes":
   [
@@ -1133,13 +1140,6 @@
       "target": "_sal",
       "img": "sal.png",
       "description": "INSS página do calculo de contribuição"
-    },
-    {
-      "title": "ZLibrary",
-      "href": "https://pt.singlelogin.org/",
-      "target": "_zlibrary",
-      "img": "zlibrary.png",
-      "description": "Repositório de arquivos de livros"
     },
     {
       "title": "Correios",
