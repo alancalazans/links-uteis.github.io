@@ -14,22 +14,21 @@ body {
 }
 
 #container {
+	padding: 5px;
 	width: 985px;
 	height: 500px;
-	margin: 10px auto;
+	margin: 0 auto;
 }
 
 #menu {
-	margin-top: 5px;
 	float: left;
 	width: 150px;
-	height: 500px;
+	height: 490px;
 	overflow-y: scroll;
 }
 
 #sites {
-	margin-top: 5px;
-	height: 500px;
+	height: 490px;
 	overflow-y: scroll;
 }
 
@@ -40,12 +39,12 @@ body {
 }
 
 button {
+	padding: 5px;
 	background-color: #181A1B;
 	margin-bottom: 10px;
 	width: 125px;
 	font-size: 16px;
 	border-radius: 6px;
-	padding: 5px;
 	cursor: pointer;
 	border: none;
 }
