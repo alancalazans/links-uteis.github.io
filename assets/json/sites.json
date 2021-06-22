@@ -574,6 +574,20 @@
 			"target": "_zlibrary",
 			"img": "zlibrary.png",
 			"description": "Download de livros"
+		},
+    {
+			"title": "PDF -> AZW3",
+			"href": "https://pdf2kindle.com/pt/",
+			"target": "_pdfazw",
+			"img": "pdf_azw.png",
+			"description": "Converte PDF -> AZW3 para kindle"
+		},
+    {
+			"title": "CloudConvert",
+			"href": "https://cloudconvert.com/",
+			"target": "_cloudconvert",
+			"img": "cloudconvert.png",
+			"description": "Converte alguns arquivos p/ outros formatos"
 		}
   ],
   "Filmes":
