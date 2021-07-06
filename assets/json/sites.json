@@ -1341,11 +1341,11 @@
       "description": "Navegador de internet minimalista baseado em Firefox"
     },
     {
-      "title": "Adobe Flash Player",
-      "href": "https://get.adobe.com/br/flashplayer/",
-      "target": "_flashplayer",
-      "img": "flash_player.png",
-      "description": "Download do Plugin Adobe flash player"
+      "title": "Waterfox",
+      "href": "https://www.waterfox.net/download/",
+      "target": "_waterfox",
+      "img": "waterfox.png",
+      "description": "Navegador de internet open source baseado em Firefox"
     },
     {
       "title": "Rufus",
