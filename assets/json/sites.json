@@ -158,6 +158,13 @@
       "description": "Editor de código gratuito e multiplataforma da Microsoft"
     },
     {
+      "title": "VSCodium",
+      "href": "https://github.com/VSCodium/vscodium/releases",
+      "target": "_vscodium",
+      "img": "vscodium.png",
+      "description": "Editor de código gratuito e multiplataforma da comunidade"
+    },
+    {
       "title": "Atom IDE",
       "href": "https://atom.io/",
       "target": "_atom-ide",
