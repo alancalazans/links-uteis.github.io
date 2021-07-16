@@ -621,18 +621,11 @@
 			"description": "Site de filmes para download"
 		},
 		{
-			"title": "The pirate filmes HD",
-			"href": "https://www.thepiratefilmeshd.biz/",
-			"target": "_thepiratefilmeshd",
-			"img": "thepiratefilmeshd.png",
-			"description": "Site de filmes para downloads"
-		},
-		{
-			"title": "Torrent filmes",
-			"href": "https://torrentfilmes.net",
-			"target": "_torrent-filmes",
-			"img": "torrent-filmes.png",
-			"description": "Site de filmes para downloads"
+			"title": "Como eu Baixo",
+			"href": "https://comoeubaixo.com/",
+			"target": "_comoeubaixo",
+			"img": "comoeubaixo.png",
+			"description": "Download de Filmes e Séries em Diversos Servidores"
 		},
 		{
 			"title": "Yes Filmes",
