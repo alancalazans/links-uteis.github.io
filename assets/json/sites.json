@@ -1320,6 +1320,13 @@
 			"description": "Programa de sincronização de arquivos do computador com média externa"
 		},
 		{
+			"title": "Typora",
+			"href": "https://www.typora.io/",
+			"target": "_typora",
+			"img": "typora.png",
+			"description": "Editor markdown"
+		},
+		{
 			"title": "SlimJet browser",
 			"href": "https://www.slimjet.com/pt/",
 			"target": "_slimjet",
