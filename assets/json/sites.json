@@ -666,6 +666,13 @@
 			"description": "Sistema Operacional baseado em Ubuntu Linux"
 		},
 		{
+			"title": "Sparky Linux",
+			"href": "https://sparkylinux.org/",
+			"target": "_sparkylinux",
+			"img": "sparkylinux.png",
+			"description": "Sistema Operacional baseado em Debian"
+		},
+		{
 			"title": "MXLinux",
 			"href": "https://mxlinux.org",
 			"target": "_mxlinux",
