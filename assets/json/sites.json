@@ -75,7 +75,7 @@
 		},
 		{
 			"title": "Clojure",
-			"href": "https://dotnet.microsoft.com/download",
+			"href": "https://clojure.org/",
 			"target": "_clojure",
 			"img": "clojure.png",
 			"description": "Clojure é uma linguagem de programação dinâmica e de propósito geral"
