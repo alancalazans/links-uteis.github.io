@@ -67,18 +67,25 @@
 			"description": "ASDF-VM é uma ferramenta de linha de comando para gerenciar versões de runtime de várias linguagens de programação"
 		},
 		{
-			"title": "Xampp",
-			"href": "https://www.apachefriends.org/pt_br/download.html",
-			"target": "_xampp",
-			"img": "xampp.png",
-			"description": "Servidor de Desenvolvimento em PHP com Banco de Dados"
-		},
-		{
 			"title": "DotNet Core",
 			"href": "https://dotnet.microsoft.com/download",
 			"target": "_dotnetcore",
 			"img": "dotnetcore.png",
 			"description": ".NET Core é uma plataforma de desenvolvedor de código aberto, multiplataforma e gratuita para construir muitos tipos diferentes de aplicativos."
+		},
+		{
+			"title": "Clojure",
+			"href": "https://dotnet.microsoft.com/download",
+			"target": "_clojure",
+			"img": "clojure.png",
+			"description": "Clojure é uma linguagem de programação dinâmica e de propósito geral"
+		},
+		{
+			"title": "Xampp",
+			"href": "https://www.apachefriends.org/pt_br/download.html",
+			"target": "_xampp",
+			"img": "xampp.png",
+			"description": "Servidor de Desenvolvimento em PHP com Banco de Dados"
 		},
 		{
 			"title": "VueJS",
