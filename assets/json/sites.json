@@ -989,6 +989,13 @@
 	"Radios":
 	[
 		{
+			"title": "Streams de Rádios",
+			"href": "assets/html/radios/index.html",
+			"target": "_streams",
+			"img": "radio.png",
+			"description": "Diversos streams de rádios"
+		},
+		{
 			"title": "CBN BH",
 			"href": "http://cbn.globoradio.globo.com/Player/playerAoVivoBH.htm",
 			"target": "_cbn_bh",
@@ -1063,13 +1070,6 @@
 			"href": "http://fmstream.org/index.php?c=B&o=top&n=1600",
 			"target": "_fmstream",
 			"img": "fmstream.png",
-			"description": "Diversos streams de rádios"
-		},
-		{
-			"title": "Streams de Rádios",
-			"href": "assets/html/radios/index.html",
-			"target": "_streams",
-			"img": "radio.png",
 			"description": "Diversos streams de rádios"
 		}
 	],
