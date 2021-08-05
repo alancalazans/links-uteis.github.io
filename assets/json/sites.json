@@ -892,6 +892,13 @@
 	"Noticias":
 	[
 		{
+			"title": "NewsAPI",
+			"href": "https://feedsnewsapi.herokuapp.com/",
+			"target": "_newsapi",
+			"img": "newsapi.png",
+			"description": "Site concentrador de notícias da NewsAPI"
+		},
+		{
 			"title": "MSN Brasil",
 			"href": "http://www.msn.com/pt-br/?ocid=iehp",
 			"target": "_msn",
@@ -932,13 +939,6 @@
 			"target": "_soubh",
 			"img": "soubh.png",
 			"description": "Notícias sobre em eventos em Belo Horizonte"
-		},
-		{
-			"title": "NewsAPI",
-			"href": "https://feedsnewsapi.herokuapp.com/",
-			"target": "_newsapi",
-			"img": "newsapi.png",
-			"description": "Site concentrador de notícias da NewsAPI"
 		}
 	],
 	"Pesquisa":
