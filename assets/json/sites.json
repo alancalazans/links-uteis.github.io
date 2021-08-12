@@ -158,6 +158,13 @@
 			"description": "Editor de código da Apache Foundation"
 		},
 		{
+			"title": "Eclipse",
+			"href": "https://www.eclipse.org/downloads/packages/",
+			"target": "_eclipse",
+			"img": "eclipse.png",
+			"description": "Editor de código da Eclipse Foundation"
+		},
+		{
 			"title": "TextAdept",
 			"href": "https://foicica.com/textadept/",
 			"target": "_textadept",
