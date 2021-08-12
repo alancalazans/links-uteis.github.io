@@ -151,6 +151,13 @@
 			"description": "Editor de código"
 		},
 		{
+			"title": "Netbeans",
+			"href": "https://netbeans.apache.org/",
+			"target": "_netbeans",
+			"img": "netbeans.png",
+			"description": "Editor de código da Apache Foundation"
+		},
+		{
 			"title": "TextAdept",
 			"href": "https://foicica.com/textadept/",
 			"target": "_textadept",
