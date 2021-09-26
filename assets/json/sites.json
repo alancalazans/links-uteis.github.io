@@ -1432,6 +1432,13 @@
 			"description": "Programa para criar pendrive de boot"
 		},
 		{
+			"title": "Onlyoffice",
+			"href": "https://www.onlyoffice.com/pt/download-docs.aspx#docs-community",
+			"target": "_onlyoffice",
+			"img": "onlyoffice.png",
+			"description": "OnlyOffice versão comunitária deste office"
+		},
+		{
 			"title": "FreeOffice",
 			"href": "https://www.freeoffice.com/pt/",
 			"target": "_freeoffice",
