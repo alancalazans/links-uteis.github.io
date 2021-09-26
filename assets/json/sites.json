@@ -701,6 +701,13 @@
 	"Linux":
 	[
 		{
+			"title": "FerenOS",
+			"href": "https://ferenos.weebly.com/",
+			"target": "_ferenos",
+			"img": "feren_os.png",
+			"description": "Sistema Operacional baseado em Ubuntu e Debian"
+		},
+		{
 			"title": "LinuxMint",
 			"href": "https://www.linuxmint.com/",
 			"target": "_linuxmint",
