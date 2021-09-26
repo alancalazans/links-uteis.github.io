@@ -409,6 +409,13 @@
 			"description": "Servidor de e-mail da Microsoft"
 		},
 		{
+			"title": "Outlook",
+			"href": "https://outlook.live.com/owa/",
+			"target": "_outlook",
+			"img": "outlook.png",
+			"description": "Servidor de e-mail da Microsoft"
+		},
+		{
 			"title": "Yahoo",
 			"href": "https://login.yahoo.com/?.src=ym&.partner=none&.lang=pt-BR&.intl=br&.done=https%3A%2F%2Fmail.yahoo.com%2Fd%3F.intl%3Dbr%26.lang%3Dpt-BR%26.partner%3Dnone%26.src%3Dfp",
 			"target": "_yahoo",
