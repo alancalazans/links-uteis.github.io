@@ -1177,6 +1177,13 @@
 			"description": "Criação de arquivos markdown online"
 		},
 		{
+			"title": "Snappea",
+			"href": "https://www.snappea.com/",
+			"target": "_snappea",
+			"img": "snappea.png",
+			"description": "Baixar vídeo ou audio do youtube"
+		},
+		{
 			"title": "Draw",
 			"href": "https://www.draw.io",
 			"target": "_draw",
