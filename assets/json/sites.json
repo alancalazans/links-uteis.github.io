@@ -701,6 +701,13 @@
 	"Linux":
 	[
 		{
+			"title": "Opção Linux",
+			"href": "https://www.blogopcaolinux.com.br/",
+			"target": "_opcaolinux",
+			"img": "opcao_linux.png",
+			"description": "Blog Opção Linux oferece suporte a 4 distribuições (Debian, Fedora, Ubuntu e o openSUSE), com o passo a passo (detalhado e com imagens) de instalação e a configuração após instalação das mesmas"
+		},
+		{
 			"title": "FerenOS",
 			"href": "https://ferenos.weebly.com/",
 			"target": "_ferenos",
