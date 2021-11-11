@@ -792,6 +792,13 @@
 			"description": "Imagens ISOs de diversas distribuições e arquiteturas de interface baseadas em Ubuntu"
 		},
 		{
+			"title": "Bodhi Linux",
+			"href": "https://www.bodhilinux.com/",
+			"target": "bodhilinux",
+			"img": "bodhi.png",
+			"description": "Linux baseado em Ubuntu"
+		},
+		{
 			"title": "Linux Lite",
 			"href": "https://www.linuxliteos.com/",
 			"target": "_linuxlite",
