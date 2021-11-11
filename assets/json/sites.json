@@ -708,6 +708,13 @@
 			"description": "Blog Opção Linux oferece suporte a 4 distribuições (Debian, Fedora, Ubuntu e o openSUSE), com o passo a passo (detalhado e com imagens) de instalação e a configuração após instalação das mesmas"
 		},
 		{
+			"title": "Garuda Linux",
+			"href": "https://garudalinux.org",
+			"target": "_garudalinux",
+			"img": "garuda.png",
+			"description": "Sistema Operacional baseado em Arch"
+		},
+		{
 			"title": "FerenOS",
 			"href": "https://ferenos.weebly.com/",
 			"target": "_ferenos",
