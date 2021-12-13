@@ -6,6 +6,9 @@
     "category": "Concursos",
     "icon": "concursos.png"
   },{
+    "category": "CriptoMoedas",
+    "icon": "criptomoedas.png"
+  },{
     "category": "Desenv. soft.",
     "icon": "des_soft.png"
   },{
