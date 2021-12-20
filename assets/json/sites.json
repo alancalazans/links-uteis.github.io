@@ -74,7 +74,14 @@
 			"description": "Carteira de Cripto Moedas"
 		},
 		{
-			"title": "My Account",
+			"title": "ExpressCrypto",
+			"href": "https://expresscrypto.io/",
+			"target": "_expresscrypto",
+			"img": "expresscrypto.png",
+			"description": "Carteira de Cripto Moedas"
+		},
+		{
+			"title": "ETHmargex",
 			"href": "https://ethmargex.com/",
 			"target": "_myaccount",
 			"img": "ethereum.png",
