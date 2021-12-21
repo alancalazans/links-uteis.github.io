@@ -81,6 +81,20 @@
 			"description": "Carteira de Cripto Moedas"
 		},
 		{
+			"title": "Bitcoincyclone",
+			"href": "https://bitcoincyclone.com/",
+			"target": "_bitcoincyclone",
+			"img": "bitcoincyclone.png",
+			"description": "Mineradora de Cripto Moedas"
+		},
+		{
+			"title": "ECMining",
+			"href": "https://www.ecmining.club/",
+			"target": "_ecmining",
+			"img": "ecmining.png",
+			"description": "Mineradora de Cripto Moedas"
+		},
+		{
 			"title": "ETHmargex",
 			"href": "https://ethmargex.com/",
 			"target": "_myaccount",
