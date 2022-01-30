@@ -1430,13 +1430,6 @@
 			"target": "_deviant-art",
 			"img": "deviant-art.png",
 			"description": "Temas, icones e wallpappers para desktop"
-		},
-		{
-			"title": "Get face vídeo",
-			"href": "https://www.getfvid.com/pt",
-			"target": "_getfvid",
-			"img": "getfvid.png",
-			"description": "Download vídeos do Facebook"
 		}
 	],
 	"Uteis":
