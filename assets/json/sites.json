@@ -981,6 +981,13 @@
 			"target": "_ondrive",
 			"img": "ondrive.png",
 			"description": "Drive virtual da Microsoft"
+		},
+		{
+			"title": "iCloud",
+			"href": "https://www.icloud.com/",
+			"target": "_icloud",
+			"img": "icloud.png",
+			"description": "O iCloud é o serviço da Apple que armazena com segurança as suas informações pessoais, as mantém atualizadas em todos os seus dispositivos e facilita o compartilhamento de suas fotos, arquivos e muito mais com amigos e familiares."
 		}
 	],
 	"Noticias":
