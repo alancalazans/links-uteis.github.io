@@ -362,6 +362,27 @@
 			"target": "_flaticon",
 			"img": "flaticon.png",
 			"description": "Site com diversos icones para baixar"
+		},
+		{
+			"title": "ResizePixel",
+			"href": "https://www.resizepixel.com/pt",
+			"target": "_resizepixel",
+			"img": "rs.png",
+			"description": "Serviço de redimensionamento de imagem"
+		},
+		{
+			"title": "IMGonline",
+			"href": "https://www.imgonline.com.ua/eng/replace-color.php",
+			"target": "_imgonline",
+			"img": "imgonline.png",
+			"description": "Trocar com de imagem"
+		},
+		{
+			"title": "PNGIMG",
+			"href": "http://pngimg.com/",
+			"target": "_pngimg",
+			"img": "pngimg.png",
+			"description": "Site com diversas imagens png para baixar"
 		}
 	],
 	"Diversos":
