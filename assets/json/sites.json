@@ -74,13 +74,6 @@
 			"description": "Carteira de Cripto Moedas"
 		},
 		{
-			"title": "ExpressCrypto",
-			"href": "https://expresscrypto.io/",
-			"target": "_expresscrypto",
-			"img": "expresscrypto.png",
-			"description": "Carteira de Cripto Moedas"
-		},
-		{
 			"title": "Bitcoincyclone",
 			"href": "https://bitcoincyclone.com/",
 			"target": "_bitcoincyclone",
@@ -106,7 +99,7 @@
 	[
 		{
 			"title": "ASDF",
-			"href": "https://asdf-vm.com/#/core-manage-asdf-vm",
+			"href": "https://asdf-vm.com/pt-br/",
 			"target": "_asdf",
 			"img": "asdf.png",
 			"description": "ASDF-VM é uma ferramenta de linha de comando para gerenciar versões de runtime de várias linguagens de programação"
@@ -383,6 +376,13 @@
 			"target": "_pngimg",
 			"img": "pngimg.png",
 			"description": "Site com diversas imagens png para baixar"
+		},
+		{
+			"title": "Fontawesome",
+			"href": "https://fontawesome.com/icons?d=gallery",
+			"target": "_fontawesome",
+			"img": "fontawesome.png",
+			"description": "Ícones para download"
 		}
 	],
 	"Diversos":
@@ -456,6 +456,13 @@
 			"target": "_mussumipsum",
 			"img": "mussum_ipsum.png",
 			"description": "Massa de textos para testes em programação"
+		},
+		{
+			"title": "Archive",
+			"href": "https://archive.org/",
+			"target": "_archive",
+			"img": "archive.png",
+			"description": "Arquivo de sites extintos"
 		}
 	],
 	"Emails":
@@ -691,6 +698,13 @@
 			"description": "Download de livros"
 		},
 		{
+			"title": "PDFDrive",
+			"href": "https://www.pdfdrive.com/",
+			"target": "_pdfdrive",
+			"img": "pdfdrive.png",
+			"description": "Download de livros"
+		},
+		{
 			"title": "PDF -> AZW3",
 			"href": "https://pdf2kindle.com/pt/",
 			"target": "_pdfazw",
@@ -788,13 +802,6 @@
 			"description": "Sistema Operacional baseado em Arch"
 		},
 		{
-			"title": "FerenOS",
-			"href": "https://ferenos.weebly.com/",
-			"target": "_ferenos",
-			"img": "feren_os.png",
-			"description": "Sistema Operacional baseado em Ubuntu e Debian"
-		},
-		{
 			"title": "LinuxMint",
 			"href": "https://www.linuxmint.com/",
 			"target": "_linuxmint",
@@ -837,13 +844,6 @@
 			"description": "Sistema Operacional Devuan fork do Debian"
 		},
 		{
-			"title": "Bunsenlabs",
-			"href": "https://www.bunsenlabs.org/",
-			"target": "_bunsenlabs",
-			"img": "bunsenlabs.png",
-			"description": "Sistema Operacional baseado em Debian com interface OpenBox"
-		},
-		{
 			"title": "Spins Fedora",
 			"href": "https://spins.fedoraproject.org/pt_BR/",
 			"target": "_spins-fedora",
@@ -858,25 +858,11 @@
 			"description": "Fork do Mandriva Linux"
 		},
 		{
-			"title": "Lubuntu",
-			"href": "https://lubuntu.me",
-			"target": "_lubuntu",
-			"img": "lubuntu.png",
-			"description": "Sistema Operacional baseado em Ubuntu com interface LXDE e LXQT"
-		},
-		{
 			"title": "Ubuntu cdimg",
 			"href": "http://cdimage.ubuntu.com/",
 			"target": "_ubuntu_cdimg",
 			"img": "ubuntu_cdimg.png",
 			"description": "Imagens ISOs de diversas distribuições e arquiteturas de interface baseadas em Ubuntu"
-		},
-		{
-			"title": "Bodhi Linux",
-			"href": "https://www.bodhilinux.com/",
-			"target": "bodhilinux",
-			"img": "bodhi.png",
-			"description": "Linux baseado em Ubuntu"
 		},
 		{
 			"title": "Linux Lite",
@@ -1477,20 +1463,6 @@
 			"description": "Programa de sincronização de arquivos do computador com média externa"
 		},
 		{
-			"title": "Typora",
-			"href": "https://www.typora.io/",
-			"target": "_typora",
-			"img": "typora.png",
-			"description": "Editor markdown"
-		},
-		{
-			"title": "SlimJet browser",
-			"href": "https://www.slimjet.com/pt/",
-			"target": "_slimjet",
-			"img": "slimjet.png",
-			"description": "Navegador de internet baseado em Google Chrome"
-		},
-		{
 			"title": "Vivaldi browser",
 			"href": "https://vivaldi.com/pt-br/",
 			"target": "_vivaldi",
@@ -1503,20 +1475,6 @@
 			"target": "_palemoon",
 			"img": "palemoon.png",
 			"description": "Navegador de internet baseado em Firefox"
-		},
-		{
-			"title": "Seamonkey browser",
-			"href": "http://www.seamonkey-project.org/",
-			"target": "_seamonkey",
-			"img": "seamonkey.png",
-			"description": "Navegador de internet minimalista baseado em Firefox"
-		},
-		{
-			"title": "Waterfox",
-			"href": "https://www.waterfox.net/download/",
-			"target": "_waterfox",
-			"img": "waterfox.png",
-			"description": "Navegador de internet open source baseado em Firefox"
 		},
 		{
 			"title": "Rufus",
@@ -1580,13 +1538,6 @@
 			"target": "_360",
 			"img": "360.png",
 			"description": "Ativírus"
-		},
-		{
-			"title": "Fontawesome",
-			"href": "https://fontawesome.com/icons?d=gallery",
-			"target": "_fontawesome",
-			"img": "fontawesome.png",
-			"description": "Ícones para download"
 		}
 	]
 }
