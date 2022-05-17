@@ -1463,6 +1463,13 @@
 			"description": "Programa de sincronização de arquivos do computador com média externa"
 		},
 		{
+			"title": "Chrome web store",
+			"href": "https://chrome.google.com/webstore/category/extensions?hl=pt-br",
+			"target": "_extensions_chrome",
+			"img": "extensions_chrome.png",
+			"description": "Extensões para Google Chrome Browser"
+		},
+		{
 			"title": "Vivaldi browser",
 			"href": "https://vivaldi.com/pt-br/",
 			"target": "_vivaldi",
