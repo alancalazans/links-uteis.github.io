@@ -140,6 +140,20 @@
 			"description": "Linguagem de programação Javascript independente de navegador de internet"
 		},
 		{
+			"title": "Perl6",
+			"href": "https://rakudo.org/",
+			"target": "_rakudo",
+			"img": "rakudo.png",
+			"description": "Implementação da linguagem de programação Perl6"
+		},
+		{
+			"title": "Perl6 - Guia",
+			"href": "http://pt.perl6intro.com/",
+			"target": "_rakudo-guia",
+			"img": "rakudo-guia.png",
+			"description": "Guia da linguagem de programação Perl6"
+		},
+		{
 			"title": "NodeWebKit",
 			"href": "https://nwjs.io/",
 			"target": "_nwjs",
