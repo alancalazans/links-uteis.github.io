@@ -154,6 +154,13 @@
 			"description": "Guia da linguagem de programação Perl6"
 		},
 		{
+			"title": "Perl6 - Modules",
+			"href": "https://modules.raku.org/",
+			"target": "_rakudo-modules",
+			"img": "rakudo-modules.png",
+			"description": "Módulos da linguagem de programação Perl6"
+		},
+		{
 			"title": "NodeWebKit",
 			"href": "https://nwjs.io/",
 			"target": "_nwjs",
