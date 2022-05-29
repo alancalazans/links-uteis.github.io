@@ -105,6 +105,13 @@
 			"description": "ASDF-VM é uma ferramenta de linha de comando para gerenciar versões de runtime de várias linguagens de programação"
 		},
 		{
+			"title": "ASDF - plugins",
+			"href": "https://github.com/asdf-vm/asdf-plugins",
+			"target": "_asdf-plugins",
+			"img": "asdf-plugins.png",
+			"description": "ASDF-plugins para várias linguagens de programação"
+		},
+		{
 			"title": "DotNet Core",
 			"href": "https://dotnet.microsoft.com/download",
 			"target": "_dotnetcore",
@@ -140,7 +147,7 @@
 			"description": "Linguagem de programação Javascript independente de navegador de internet"
 		},
 		{
-			"title": "Perl6",
+			"title": "Raku/Perl6",
 			"href": "https://rakudo.org/",
 			"target": "_rakudo",
 			"img": "rakudo.png",
@@ -151,14 +158,21 @@
 			"href": "http://pt.perl6intro.com/",
 			"target": "_rakudo-guia",
 			"img": "rakudo-guia.png",
-			"description": "Guia da linguagem de programação Perl6"
+			"description": "Guia de Perl6"
+		},
+		{
+			"title": "Raku - Docs",
+			"href": "https://docs.raku.org/",
+			"target": "_raku-docs",
+			"img": "raku-docs.png",
+			"description": "Docs Raku/Perl6"
 		},
 		{
 			"title": "Perl6 - Modules",
 			"href": "https://modules.raku.org/",
 			"target": "_rakudo-modules",
 			"img": "rakudo-modules.png",
-			"description": "Módulos da linguagem de programação Perl6"
+			"description": "Módulos para Perl6"
 		},
 		{
 			"title": "NodeWebKit",
@@ -872,6 +886,13 @@
 			"description": "Diversas interfaces do Sistema Operacional Fedora"
 		},
 		{
+			"title": "openSUSE tumbleweed",
+			"href": "https://download.opensuse.org/tumbleweed/iso/",
+			"target": "_opensuse",
+			"img": "opensuse.png",
+			"description": "openSUSE tumbleweed images iso"
+		},
+		{
 			"title": "Mageia Linux",
 			"href": "https://www.mageia.org/pt-br/",
 			"target": "_mageia",
@@ -895,8 +916,8 @@
 		{
 			"title": "Gnome-look",
 			"href": "https://www.gnome-look.org",
-			"target": "_gnome-look",
-			"img": "gnome-look.png",
+			"target": "_gnomelook",
+			"img": "gnomelook.png",
 			"description": "Repositório de temas e ícones para Linux"
 		},
 		{
