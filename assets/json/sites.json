@@ -418,6 +418,13 @@
 			"target": "_fontawesome",
 			"img": "fontawesome.png",
 			"description": "Ícones para download"
+		},
+		{
+			"title": "HTML Caracteres",
+			"href": "http://arquivo.devmedia.com.br/artigos/devmedia/html-entities.html",
+			"target": "_characters",
+			"img": "devmedia.png",
+			"description": "Caracteres especias de HTML"
 		}
 	],
 	"Diversos":
