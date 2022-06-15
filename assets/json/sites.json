@@ -1056,13 +1056,6 @@
 	"Noticias":
 	[
 		{
-			"title": "NewsAPI",
-			"href": "https://feedsnewsapi.herokuapp.com/",
-			"target": "_newsapi",
-			"img": "newsapi.png",
-			"description": "Site concentrador de notícias da NewsAPI"
-		},
-		{
 			"title": "MSN Brasil",
 			"href": "http://www.msn.com/pt-br/?ocid=iehp",
 			"target": "_msn",
