@@ -879,13 +879,6 @@
 			"description": "Sistema Operacional Debian não oficial"
 		},
 		{
-			"title": "LiliDog",
-			"href": "https://sourceforge.net/projects/lilidog/files/Releases/",
-			"target": "_lilidog",
-			"img": "lilidog.png",
-			"description": "Sistema Operacional baseado em Debian com arquitetura de interface OpenBox"
-		},
-		{
 			"title": "Devuan",
 			"href": "https://www.devuan.org/",
 			"target": "_devuan",
