@@ -29,60 +29,56 @@
 		let radios = [
 			{
 				id: 1,
-				name: 'Saudade FM - SP, Brasil',
-				url: 'http://20793.live.streamtheworld.com/SAUDADE_FMAAC.aac'				
-			},			{
-				id: 2,
 				name: 'Alvorada FM 94.9 - MG, Brasil',
 				url: 'http://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_ALVORADAAAC.aac'				
 			},
 			{
-				id: 3,
+				id: 2,
 				name: 'CDL FM, MG, Brasil',
 				url: 'https://9595.brasilstream.com.br/stream'
 			},					
 			{
-				id: 4,
+				id: 3,
 				name: '98 FM - MG, Brasil',
 				url: 'http://9554.brasilstream.com.br/stream'
 			},					
 			{
-				id: 5,
+				id: 4,
 				name: 'Radio 80FM - SP, Brazil',
 				url: 'http://centova1.euroti.com.br:9020/stream'
 			},
 			{
-				id: 6,
+				id: 5,
 				name: 'Tribuna FM 99.1 - ES, Brasil',
 				url: 'http://cast.midiaip.com.br:6060/stream'
 			},
 			{
-				id: 7,
+				id: 6,
 				name: 'Antena1 - ES, Brasil',
 				url: 'https://antenaone.crossradio.com.br/stream/1;'
 			},
 			{
-				id: 8,
+				id: 7,
 				name: 'Jovempan 99.1 FM - MG, Brasil',
 				url: 'http://8a3c.live.upx.net.br:8036/stream.mp3'
 			},
 			{
-				id: 9,
+				id: 8,
 				name: 'UFMG 104.5 FM, MG, Brasil',
 				url: 'http://150.164.63.210:8000/stream'
 			},
 			{
-				id: 10,
+				id: 9,
 				name: 'Brazilian FM - DF, Brasil',
 				url: 'http://s17.maxcast.com.br:8228/live'
 			},
 			{
-				id: 11,
+				id: 10,
 				name: 'Itatiaia - MG, Brasil',
 				url: 'http://8903.brasilstream.com.br:8903/stream'
 			},
 			{
-				id: 12,
+				id: 11,
 				name: 'Ind FM - Passos de Minas - MG, Brasil',
 				url: 'http://player.xcast.com.br/proxy/6996/stream'
 			}
