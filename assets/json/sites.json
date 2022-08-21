@@ -252,6 +252,13 @@
 			"description": "Alternativa ao editor vim e bastante similar a este em vários aspectos"
 		},
 		{
+			"title": "NeoVim-QT",
+			"href": "https://github.com/equalsraf/neovim-qt",
+			"target": "_neovim-qt",
+			"img": "neovim.png",
+			"description": "Alternativa ao editor vim e bastante similar a este em vários aspectos"
+		},
+		{
 			"title": "Komodo Edit",
 			"href": "https://www.activestate.com/komodo-edit",
 			"target": "_komodo-edit",
