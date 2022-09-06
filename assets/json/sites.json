@@ -217,13 +217,6 @@
 			"description": "Guia do Editor de código Vim"
 		},
 		{
-			"title": "CudaText",
-			"href": "http://uvviewsoft.com/cudatext/index.html",
-			"target": "_cudatext",
-			"img": "cudatext.png",
-			"description": "Editor de código"
-		},
-		{
 			"title": "Netbeans",
 			"href": "https://netbeans.apache.org/",
 			"target": "_netbeans",
@@ -257,13 +250,6 @@
 			"target": "_neovim-qt",
 			"img": "neovim.png",
 			"description": "Alternativa ao editor vim e bastante similar a este em vários aspectos"
-		},
-		{
-			"title": "Komodo Edit",
-			"href": "https://www.activestate.com/komodo-edit",
-			"target": "_komodo-edit",
-			"img": "komodo-edit.png",
-			"description": "Editor de código"
 		},
 		{
 			"title": "Visual Studio Code",
@@ -396,6 +382,13 @@
 			"href": "https://www.flaticon.com/br?utm_term=free icons&utm_campaign=fi_busqueda_brasil&utm_source=adwords&utm_medium=ppc&hsa_acc=5490559948&hsa_cam=1841778624&hsa_grp=70091914939&hsa_ad=346006066075&hsa_src=g&hsa_tgt=kwd-22932361&hsa_kw=free icons&hsa_mt=b&hsa_net=adwords&hsa_ver=3&gclid=EAIaIQobChMI1fmf9Yv25QIVVwiRCh1PXgEoEAAYASAAEgLMTvD_BwE",
 			"target": "_flaticon",
 			"img": "flaticon.png",
+			"description": "Site com diversos icones para baixar"
+		},
+		{
+			"title": "Icon-Icons",
+			"href": "https://icon-icons.com/pt/",
+			"target": "_icon-icons",
+			"img": "icons-free.png",
 			"description": "Site com diversos icones para baixar"
 		},
 		{
@@ -790,27 +783,6 @@
 			"target": "_seriesfilmestorrent",
 			"img": "seriesfilmestorrent.png",
 			"description": "Site de filmes para download"
-		},
-		{
-			"title": "MegatorrentsHD",
-			"href": "http://www.megatorrentshd.org/",
-			"target": "_megatorrentshd",
-			"img": "megatorrentshd.png",
-			"description": "Site de filmes para download"
-		},
-		{
-			"title": "Como eu Baixo",
-			"href": "https://comoeubaixo.com/",
-			"target": "_comoeubaixo",
-			"img": "comoeubaixo.png",
-			"description": "Download de Filmes e Séries em Diversos Servidores"
-		},
-		{
-			"title": "Yes Filmes",
-			"href": "http://yesfilmes.org/",
-			"target": "_yesfilmes",
-			"img": "yesfilmes.png",
-			"description": "Site de filmes para downloads"
 		},
 		{
 			"title": "Globo Play",
