@@ -15,27 +15,17 @@ body {
 
 #container {
 	padding: 5px;
-	width: 985px;
-	height: 500px;
 	margin: 0 auto;
 }
 
 #menu {
 	float: left;
 	width: 150px;
-	height: 490px;
 	overflow-y: scroll;
 }
 
 #sites {
-	height: 490px;
 	overflow-y: scroll;
-}
-
-@media only screen and (max-device-width: 985px) {
-  #container { width: 450px; height: 800px;}
-  #menu { height: 800px; }
-  #sites { height: 800px; }
 }
 
 button {
