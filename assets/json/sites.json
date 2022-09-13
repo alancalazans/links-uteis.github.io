@@ -413,13 +413,6 @@
 			"description": "Site com diversas imagens png para baixar"
 		},
 		{
-			"title": "Rapid Tables",
-			"href": "https://www.rapidtables.com/convert/color/rgb-to-hex.html",
-			"target": "_rapidtables",
-			"img": "rapidtables.png",
-			"description": "Site para obter código de cores personalizadas"
-		},
-		{
 			"title": "Fontawesome",
 			"href": "https://fontawesome.com/icons?d=gallery",
 			"target": "_fontawesome",
@@ -441,6 +434,13 @@
 			"href": "https://sso.gestaodeacesso.planejamento.gov.br/cassso/login",
 			"target": "_sigac",
 			"img": "sigac.png",
+			"description": "Site de gestão do funcionalismo público federal"
+		},
+		{
+			"title": "SouGov",
+			"href": "https://sougov.economia.gov.br/sougov/Home",
+			"target": "_sougov",
+			"img": "sougov.png",
 			"description": "Site de gestão do funcionalismo público federal"
 		},
 		{
