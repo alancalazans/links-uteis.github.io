@@ -792,13 +792,6 @@
 			"description": "Youtube vídeos"
 		},
 		{
-			"title": "Series filmes torrent",
-			"href": "https://www.seriesfilmestorrent.com/",
-			"target": "_seriesfilmestorrent",
-			"img": "seriesfilmestorrent.png",
-			"description": "Site de filmes para download"
-		},
-		{
 			"title": "Globo Play",
 			"href": "https://globoplay.globo.com/",
 			"target": "_globoplay",
@@ -884,20 +877,6 @@
 			"target": "_spins-fedora",
 			"img": "fedora-spins.png",
 			"description": "Diversas interfaces do Sistema Operacional Fedora"
-		},
-		{
-			"title": "openSUSE tumbleweed",
-			"href": "https://download.opensuse.org/tumbleweed/iso/",
-			"target": "_opensuse",
-			"img": "opensuse.png",
-			"description": "openSUSE tumbleweed images iso"
-		},
-		{
-			"title": "Mageia Linux",
-			"href": "https://www.mageia.org/pt-br/",
-			"target": "_mageia",
-			"img": "mageia.png",
-			"description": "Fork do Mandriva Linux"
 		},
 		{
 			"title": "Ubuntu cdimg",
@@ -1270,6 +1249,13 @@
 	],
 	"Servicos":
 	[
+		{
+			"title": "ICPEdu",
+			"href": "https://pessoal.icpedu.rnp.br/home",
+			"target": "_icpedu",
+			"img": "icpedu.png",
+			"description": "Emissão de certificado digital pessoal"
+		},
 		{
 			"title": "Canva",
 			"href": "https://www.canva.com/pt_br/",
