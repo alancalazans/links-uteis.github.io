@@ -1250,6 +1250,13 @@
 	"Servicos":
 	[
 		{
+			"title": "ChatOpenAI",
+			"href": "https://chat.openai.com/chat",
+			"target": "_chatopenai",
+			"img": "chat_open_ai.png",
+			"description": "Chat com Inteligência Artificial"
+		},
+		{
 			"title": "ICPEdu",
 			"href": "https://pessoal.icpedu.rnp.br/home",
 			"target": "_icpedu",
