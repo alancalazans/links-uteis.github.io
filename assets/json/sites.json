@@ -430,6 +430,13 @@
 	"Diversos":
 	[
 		{
+			"title": "GOB-MG",
+			"href": "https://www.gobmg.org.br/",
+			"target": "_gob",
+			"img": "gobmg.png",
+			"description": "Grande Oriente do Brasil - Minas Gerais (Maçonaria)"
+		},
+		{
 			"title": "Sigac",
 			"href": "https://sso.gestaodeacesso.planejamento.gov.br/cassso/login",
 			"target": "_sigac",
