@@ -1264,6 +1264,13 @@
 			"description": "Chat com Inteligência Artificial"
 		},
 		{
+			"title": "AlternativeTo",
+			"href": "https://alternativeto.net/",
+			"target": "_alternativeto",
+			"img": "alternativeto.png",
+			"description": "Alternativas para softwares"
+		},
+		{
 			"title": "ICPEdu",
 			"href": "https://pessoal.icpedu.rnp.br/home",
 			"target": "_icpedu",
