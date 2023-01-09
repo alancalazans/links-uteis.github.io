@@ -112,6 +112,20 @@
 			"description": "ASDF-plugins para várias linguagens de programação"
 		},
 		{
+			"title": "Ionic Framework",
+			"href": "https://ionicframework.com/",
+			"target": "_ionic",
+			"img": "ionic.png",
+			"description": "Framework para a criação de apps mobile baseadas em NodeJS"
+		},
+		{
+			"title": "CapacitorJS",
+			"href": "https://capacitorjs.com/",
+			"target": "_capacitor",
+			"img": "capacitor.png",
+			"description": "O Capacitor é um tempo de execução nativo de código aberto para criar aplicativos nativos da Web. Crie aplicativos multiplataforma para iOS, Android e Progressive Web Apps com JavaScript, HTML e CSS."
+		},
+		{
 			"title": "DotNet Core",
 			"href": "https://dotnet.microsoft.com/download",
 			"target": "_dotnetcore",
@@ -187,13 +201,6 @@
 			"target": "_electronjs",
 			"img": "electronjs.png",
 			"description": "Framework para a criação de apps desktop baseadas em NodeJS"
-		},
-		{
-			"title": "Ionic Framework",
-			"href": "https://ionicframework.com/",
-			"target": "_ionic",
-			"img": "ionic.png",
-			"description": "Framework para a criação de apps mobile baseadas em NodeJS"
 		},
 		{
 			"title": "CDNJS",
