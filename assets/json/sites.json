@@ -133,8 +133,8 @@
 			"description": "Servidor de Desenvolvimento em PHP com Banco de Dados"
 		},
 		{
-			"title": "VueJS",
-			"href": "https://br.vuejs.org/v2/guide/index.html",
+			"title": "VueJS v3",
+			"href": "https://vuejsbr-docs-next.netlify.app/guide/introduction.html#o-que-e-vue-js",
 			"target": "_vuejs",
 			"img": "vuejs.png",
 			"description": "Biblioteca em JS para construção da parte visual do site"
