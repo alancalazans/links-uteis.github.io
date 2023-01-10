@@ -792,8 +792,15 @@
 	"Filmes":
 	[
 		{
-			"title": "Rede Canais",
+			"title": "Grey's Anatomy",
 			"href": "https://redecanais.to/a-anatomia-de-grey-grey%e2%80%99s-anatomy-dublado-legendado-lista-de-episodios_27d205524.html",
+			"target": "_greys_anatomy",
+			"img": "rede_canais.png",
+			"description": "Rede canais"
+		},
+		{
+			"title": "Rede Canais",
+			"href": "https://redecanais.to/",
 			"target": "_rede_canais",
 			"img": "rede_canais.png",
 			"description": "Rede canais"
