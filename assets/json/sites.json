@@ -1278,6 +1278,13 @@
 			"description": "Chat com Inteligência Artificial"
 		},
 		{
+			"title": "AwesomeAPI",
+			"href": "https://docs.awesomeapi.com.br/",
+			"target": "_awesomeapi",
+			"img": "awesomeapi.png",
+			"description": "Consultar criptomoedas e CEP."
+		},
+		{
 			"title": "AlternativeTo",
 			"href": "https://alternativeto.net/",
 			"target": "_alternativeto",
