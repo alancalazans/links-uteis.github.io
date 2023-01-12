@@ -322,18 +322,11 @@
 			"description": "Pacote de NodeJS para trabalhar com banco Sqlite3"
 		},
 		{
-			"title": "Bootstrap 3",
-			"href": "http://getbootstrap.com.br/docs/3.3/",
+			"title": "Bootstrap",
+			"href": "https://getbootstrap.com/docs/",
 			"target": "_bootstrap",
 			"img": "bootstrap.png",
-			"description": "Site de framework de estilização de sites"
-		},
-		{
-			"title": "GetBootstrap 4",
-			"href": "https://getbootstrap.com.br/",
-			"target": "_getbootstrap4",
-			"img": "bootstrap4.png",
-			"description": "Site de framework de estilização de sites"
+			"description": "Estilização de sites"
 		},
 		{
 			"title": "w3schools",
