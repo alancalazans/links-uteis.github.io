@@ -154,6 +154,13 @@
 			"description": "Biblioteca em JS para construção da parte visual do site"
 		},
 		{
+			"title": "NodeJS Guia",
+			"href": "https://nodejs.reativa.dev/introduction",
+			"target": "_node_guide",
+			"img": "node_guide.png",
+			"description": "Guia do desenvolvedor autodidata em NodeJS"
+		},
+		{
 			"title": "NodeJS",
 			"href": "https://nodejs.org/en/",
 			"target": "_nodejs",
@@ -315,11 +322,11 @@
 			"description": "Site com orientações sobre o Editor de código Vim"
 		},
 		{
-			"title": "nedb",
-			"href": "https://github.com/louischatriot/nedb",
-			"target": "_nedb",
-			"img": "nedb.png",
-			"description": "Pacote de NodeJS para trabalhar com banco Sqlite3"
+			"title": "AlaSQL",
+			"href": "http://alasql.org/",
+			"target": "_alasql",
+			"img": "alasql.png",
+			"description": "Lib sql ←→ json"
 		},
 		{
 			"title": "Bootstrap",
@@ -369,6 +376,13 @@
 			"target": "_visjs",
 			"img": "visjs.png",
 			"description": "Lib JavaScript para criação de diagramas dinâmicos"
+		},
+		{
+			"title": "Simple Icons",
+			"href": "https://simpleicons.org/",
+			"target": "_simpleicons",
+			"img": "simpleicons.png",
+			"description": "Site com diversos icones gratuitos para baixar"
 		},
 		{
 			"title": "Icon Finder",
