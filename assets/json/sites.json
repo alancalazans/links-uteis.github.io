@@ -98,6 +98,13 @@
 	"Desenv. soft.":
 	[
 		{
+			"title": "SQL",
+			"href": "https://blog.betrybe.com/sql/",
+			"target": "_sql",
+			"img": "sql.png",
+			"description": "SQL: O que é e como usar os principais comandos básicos SQL"
+		},
+		{
 			"title": "ASDF",
 			"href": "https://asdf-vm.com/pt-br/",
 			"target": "_asdf",
@@ -222,13 +229,6 @@
 			"target": "_vim",
 			"img": "vim.png",
 			"description": "Editor de código conservador para os veteranos"
-		},
-		{
-			"title": "Vim Book",
-			"href": "https://vimbook.gitbook.io/vimbook/",
-			"target": "_vim-book",
-			"img": "vim-book.png",
-			"description": "Guia do Editor de código Vim"
 		},
 		{
 			"title": "Netbeans",
