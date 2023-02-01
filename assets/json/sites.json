@@ -203,11 +203,18 @@
 			"description": "Módulos para Perl6"
 		},
 		{
+			"title": "NeutralinoJS",
+			"href": "https://neutralino.js.org/",
+			"target": "_neutralinojs",
+			"img": "neutralinojs.png",
+			"description": "Framework para a criação de apps desktop hibridas com NeutralinoJS"
+		},
+		{
 			"title": "NodeWebKit",
 			"href": "https://nwjs.io/",
 			"target": "_nwjs",
 			"img": "nodewebkit.png",
-			"description": "Framework para a criação de apps desktop baseadas em NodeJS"
+			"description": "Framework para a criação de apps desktop hibridas com NodeWebKit"
 		},
 		{
 			"title": "ElectronJS",
