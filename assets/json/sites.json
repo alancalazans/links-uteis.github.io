@@ -105,6 +105,13 @@
 			"description": "SQL: O que é e como usar os principais comandos básicos SQL"
 		},
 		{
+			"title": "Public APIs",
+			"href": "https://github.com/public-apis/public-apis",
+			"target": "_public_apis",
+			"img": "public_apis.png",
+			"description": "Catálogo de APIs públicas"
+		},
+		{
 			"title": "ASDF",
 			"href": "https://asdf-vm.com/pt-br/",
 			"target": "_asdf",
