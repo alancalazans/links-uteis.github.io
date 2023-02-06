@@ -294,6 +294,13 @@
 			"description": "Editor de código gratuito e multiplataforma da comunidade"
 		},
 		{
+			"title": "Lite-XL",
+			"href": "https://lite-xl.com/",
+			"target": "_lite-xl",
+			"img": "lite-xl.png",
+			"description": "Editor de código construido em C e Lua"
+		},
+		{
 			"title": "Atom IDE",
 			"href": "https://atom.io/",
 			"target": "_atom-ide",
