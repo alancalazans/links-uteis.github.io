@@ -1122,6 +1122,13 @@
 			"description": "Site de pesquisa do Google"
 		},
 		{
+			"title": "You.com",
+			"href": "https://you.com/",
+			"target": "_you.com",
+			"img": "you.com.png",
+			"description": "Site de pesquisa com IA do you.com"
+		},
+		{
 			"title": "Bing pesquisa",
 			"href": "http://www.bing.com/?scope=web&mkt=pt-BR",
 			"target": "_mapsgoogle",
