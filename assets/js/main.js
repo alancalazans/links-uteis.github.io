@@ -1,9 +1,9 @@
-var categoria="Emails",
+var categoria="Pesquisa",
 		menu,
 		sites,
 		dados;
 
-getJson = (file) => { 
+getJson = (file) => {
 	return fetch(file)
 	.then(res => res.json())
 	.then(json => {
@@ -21,7 +21,7 @@ goSites = () => {
 		dados = getJson('assets/json/sites.json');
 		dados.then(json => {
 			sites = json;
-			document.getElementById('sites').innerHTML = jade.compile(html)(); 
+			document.getElementById('sites').innerHTML = jade.compile(html)();
 		});
 	})
 	.catch(error => {
