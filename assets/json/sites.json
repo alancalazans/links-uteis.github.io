@@ -1447,6 +1447,13 @@
 			"description": "Rodoviária de Belo Horizonte"
 		},
 		{
+			"title": "SendAnywhere",
+			"href": "https://slides.com/",
+			"target": "_send-anywhere",
+			"img": "send-anywhere.png",
+			"description": "Serviço para envio de arquivos para outro dispositivo"
+		},
+		{
 			"title": "Slides",
 			"href": "https://slides.com/",
 			"target": "_slides",
