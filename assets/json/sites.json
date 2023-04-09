@@ -273,6 +273,13 @@
 			"description": "Editor de código construido em C e Lua"
 		},
 		{
+			"title": "Live Editor",
+			"href": "https://mermaid.live/",
+			"target": "_liveeditor",
+			"img": "mermaid.js.png",
+			"description": "Editor de diagramas usando mermaid.js"
+		},
+		{
 			"title": "Mermaid",
 			"href": "https://mermaid.js.org/",
 			"target": "_mermaid",
