@@ -228,7 +228,7 @@
 			"href": "https://www.imgonline.com.ua/eng/replace-color.php",
 			"target": "_imgonline",
 			"img": "imgonline.png",
-			"description": "Trocar com de imagem"
+			"description": "Trocar cor de imagem"
 		},
 		{
 			"title": "Icon Finder",
@@ -488,13 +488,6 @@
 			"target": "_xampp",
 			"img": "xampp.png",
 			"description": "Servidor de Desenvolvimento em PHP com Banco de Dados"
-		},
-		{
-			"title": "Zettlr",
-			"href": "https://www.zettlr.com/",
-			"target": "_zettlr",
-			"img": "zettlr.png",
-			"description": "Editor Markdown"
 		}
 	],
 	"Diversos": [
@@ -1671,6 +1664,13 @@
 			"target": "_wps",
 			"img": "wps.png",
 			"description": "Ferramenta de escritório gratuita para download"
+		},
+		{
+			"title": "Zettlr",
+			"href": "https://www.zettlr.com/",
+			"target": "_zettlr",
+			"img": "zettlr.png",
+			"description": "Editor Markdown"
 		}
 	]
 }
