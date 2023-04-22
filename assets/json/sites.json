@@ -217,6 +217,13 @@
 			"description": "Caracteres especias de HTML"
 		},
 		{
+			"title": "HTML5\nBOILERPLATE",
+			"href": "https://html5boilerplate.com/",
+			"target": "_html5boilerplate",
+			"img": "html5boilerplate.png",
+			"description": "Template p/ projeto web"
+		},
+		{
 			"title": "IMGonline",
 			"href": "https://www.imgonline.com.ua/eng/replace-color.php",
 			"target": "_imgonline",
