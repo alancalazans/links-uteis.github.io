@@ -322,6 +322,13 @@
 			"description": "Framework para a criação de apps desktop hibridas com NeutralinoJS"
 		},
 		{
+			"title": "Nim-lang",
+			"href": "https://nim-lang.org/",
+			"target": "_nim-lang",
+			"img": "nim-lang.png",
+			"description": "Linguagem de programação Nim"
+		},
+		{
 			"title": "NodeJS",
 			"href": "https://nodejs.org/en/",
 			"target": "_nodejs",
