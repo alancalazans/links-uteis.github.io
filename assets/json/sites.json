@@ -1617,6 +1617,13 @@
 			"description": "Editor e imagem avançado"
 		},
 		{
+			"title": "MarkText",
+			"href": "https://github.com/marktext/marktext",
+			"target": "_marktext",
+			"img": "marktext.png",
+			"description": "Editor Markdown"
+		},
+		{
 			"title": "Onlyoffice",
 			"href": "https://www.onlyoffice.com/pt/download-docs.aspx#docs-community",
 			"target": "_onlyoffice",
@@ -1636,6 +1643,13 @@
 			"target": "_rufus",
 			"img": "rufus.png",
 			"description": "Programa criar pendrive de boot"
+		},
+		{
+			"title": "Typora",
+			"href": "https://typora.io/",
+			"target": "_typora",
+			"img": "typora.png",
+			"description": "Editor Markdown"
 		},
 		{
 			"title": "UNetbootin",
