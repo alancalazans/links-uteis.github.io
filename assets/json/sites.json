@@ -68,13 +68,6 @@
 			"description": "Corretora de Cripto Moedas"
 		},
 		{
-			"title": "Bitcoincyclone",
-			"href": "https://bitcoincyclone.com/",
-			"target": "_bitcoincyclone",
-			"img": "bitcoincyclone.png",
-			"description": "Mineradora de Cripto Moedas"
-		},
-		{
 			"title": "ECMining",
 			"href": "https://www.ecmining.club/",
 			"target": "_ecmining",
