@@ -66,20 +66,6 @@
 			"target": "_binance",
 			"img": "binance.png",
 			"description": "Corretora de Cripto Moedas"
-		},
-		{
-			"title": "ETHmargex",
-			"href": "https://ethmargex.com/",
-			"target": "_myaccount",
-			"img": "ethereum.png",
-			"description": "Mineradora de Ethereum"
-		},
-		{
-			"title": "FaucetPay",
-			"href": "https://faucetpay.io/",
-			"target": "_faucetpay",
-			"img": "faucetpay.png",
-			"description": "Carteira de Cripto Moedas"
 		}
 	],
 	"Desenv. soft.": [
