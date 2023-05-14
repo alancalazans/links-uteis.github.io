@@ -1617,6 +1617,13 @@
 			"description": "Programa criar pendrive de boot"
 		},
 		{
+			"title": "Translate-shell",
+			"href": "https://github.com/soimort/translate-shell",
+			"target": "_translate-shell",
+			"img": "translate-shell.png",
+			"description": "Tradutor do google para shell linux"
+		},
+		{
 			"title": "Typora",
 			"href": "https://typora.io/",
 			"target": "_typora",
