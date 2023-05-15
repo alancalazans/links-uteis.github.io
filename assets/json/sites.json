@@ -1618,7 +1618,7 @@
 		},
 		{
 			"title": "Translate-shell",
-			"href": "https://github.com/soimort/translate-shell",
+			"href": "https://www.soimort.org/translate-shell/",
 			"target": "_translate-shell",
 			"img": "translate-shell.png",
 			"description": "Tradutor do google para shell linux"
