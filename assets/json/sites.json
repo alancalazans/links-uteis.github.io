@@ -406,6 +406,13 @@
 			"description": "SQL: O que é e como usar os principais comandos básicos SQL"
 		},
 		{
+			"title": "SweetAlert2",
+			"href": "https://sweetalert2.github.io/",
+			"target": "_sweetalert2",
+			"img": "sweetalert2.png",
+			"description": "Customizar caixa de diálogo `Alert()`"
+		},
+		{
 			"title": "TextAdept",
 			"href": "https://foicica.com/textadept/",
 			"target": "_textadept",
