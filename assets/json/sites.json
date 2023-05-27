@@ -1307,6 +1307,13 @@
 			"description": "Consultar criptomoedas e CEP."
 		},
 		{
+			"title": "BAI Chat",
+			"href": "https://chatbot.theb.ai/#/chat",
+			"target": "_baichat",
+			"img": "baichat.png",
+			"description": "ChatGPT sem logar"
+		},
+		{
 			"title": "BH Trans",
 			"href": "http://servicosbhtrans.pbh.gov.br/bhtrans/e-servicos/e-servicos.asp?servico=S01&opcao=QUADRO%20DE%20HORÁRIOS%20DE%20ÔNIBUS",
 			"target": "_bhtrans",
@@ -1615,6 +1622,13 @@
 			"target": "_rufus",
 			"img": "rufus.png",
 			"description": "Programa criar pendrive de boot"
+		},
+		{
+			"title": "TGPT",
+			"href": "https://github.com/aandrew-me/tgpt",
+			"target": "_tgpt",
+			"img": "tgpt.png",
+			"description": "ChatGPT no terminal"
 		},
 		{
 			"title": "Translate-shell",
