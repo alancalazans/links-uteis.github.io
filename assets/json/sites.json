@@ -822,13 +822,6 @@
 			"description": "Programação da Globo de filmes, series, jornalismo, novelas, documentários etc..."
 		},
 		{
-			"title": "Grey's Anatomy",
-			"href": "https://redecanais.to/a-anatomia-de-grey-grey%e2%80%99s-anatomy-dublado-legendado-lista-de-episodios_27d205524.html",
-			"target": "_greys_anatomy",
-			"img": "rede_canais.png",
-			"description": "Rede canais"
-		},
-		{
 			"title": "Netflix",
 			"href": "https://www.netflix.com/br/",
 			"target": "_netflix",
@@ -836,18 +829,18 @@
 			"description": "Programação de filmes, series, documentários etc..."
 		},
 		{
-			"title": "Rede Canais",
-			"href": "https://redecanais.to/",
-			"target": "_rede_canais",
-			"img": "rede_canais.png",
-			"description": "Rede canais"
-		},
-		{
 			"title": "SBT",
 			"href": "https://youtu.be/ABVQXgr2LW4",
 			"target": "_sbt",
 			"img": "sbt.png",
 			"description": "Canal do SBT no Youtube"
+		},
+		{
+			"title": "VizerHD",
+			"href": "https://vizerhd.com/",
+			"target": "_vizerhd",
+			"img": "vizerhd.png",
+			"description": "Filmes e séries"
 		},
 		{
 			"title": "Youtube",
