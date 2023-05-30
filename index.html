@@ -28,22 +28,25 @@
 
 	<script>
 
-		function js_onload_code (){
-			var largura = window.innerWidth
-					document.documentElement.clientWidth
-					document.body.clientWidth;
+		function sizeOfThings(){
+			var windowWidth = window.innerWidth;
+			var windowHeight = window.innerHeight;
 
-			var altura = window.innerHeight
-					document.documentElement.clientHeight
-					document.body.clientHeight;
+			var screenWidth = screen.width;
+			var screenHeight = screen.height;
 
-			document.getElementById('container').style.height = `${altura-10}px`;
-			document.getElementById('container').style.width = `${largura-100}px`;
-			document.getElementById('menu').style.height = `${altura-10}px`;
-			document.getElementById('sites').style.height = `${altura-10}px`;
-		}
+			document.getElementById('container').style.height = (windowHeight-10).toString() + 'px';
+			document.getElementById('container').style.width = (windowWidth-100).toString() + 'px';
+			document.getElementById('menu').style.height = (windowHeight-10).toString() + 'px';
+			document.getElementById('sites').style.height = (windowHeight-10).toString() + 'px';
 
-		js_onload_code();
+		};
+
+		sizeOfThings();
+
+		window.addEventListener('resize', function(){
+				sizeOfThings();
+		});
 
 	</script>
 </body>
