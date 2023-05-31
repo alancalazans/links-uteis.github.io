@@ -2,55 +2,46 @@
 <html lang="pt-br">
 <head>
 	<!-- Meta tags -->
-	<meta charset="UTF-8">
 	<title>Links-uteis - Sites mais acessados e úteis</title>
+	<meta charset="UTF-8">
 	<meta name="description" content="Endereços de sites mais importantes e interessantes em um clique.">
-	<link rel="canonical" href="https://alancalazans.github.io/links-uteis.github.io/">
 	<meta name="author" content="Alan Calazans">
 	<meta name="robots" content="index, nofollow">
 	<meta http-equiv="X-UA-Compatible" content="IE-edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
+	<link rel="canonical" href="https://alancalazans.github.io/links-uteis.github.io/">
   <link rel="stylesheet" href="assets/css/main.css">
+  <link rel="icon" href="assets/img/ico/link.png">
 
 	<script src="assets/js/lib/jade.min.js"></script>
-
-
-	<link rel="icon" href="assets/img/ico/link.png">
 </head>
-
 <body>
-
 	<div id="container" style="height:; width:;">
 		<div id="menu" style="height:;"></div>
 		<div id="sites" style="height:;"></div>
 	</div>
 
 	<script>
+		var windowWidth, windowHeight;
+		//var screenWidth, screenHeight;
 
-		function sizeOfThings(){
-			var windowWidth = window.innerWidth;
-			var windowHeight = window.innerHeight;
-
-			var screenWidth = screen.width;
-			var screenHeight = screen.height;
+		const sizeOfThings = () => {
+			windowWidth = window.innerWidth;
+			windowHeight = window.innerHeight;
+			//screenWidth = screen.width;
+			//screenHeight = screen.height;
 
 			document.getElementById('container').style.height = (windowHeight-10).toString() + 'px';
 			document.getElementById('container').style.width = (windowWidth-100).toString() + 'px';
 			document.getElementById('menu').style.height = (windowHeight-10).toString() + 'px';
 			document.getElementById('sites').style.height = (windowHeight-10).toString() + 'px';
-
 		};
 
 		sizeOfThings();
 
-		window.addEventListener('resize', function(){
-				sizeOfThings();
-		});
-
+		window.addEventListener('resize', () => { sizeOfThings() });
 	</script>
+	<script src="assets/js/main.js"></script>
 </body>
-
-<script src="assets/js/main.js"></script>
-
 </html>
