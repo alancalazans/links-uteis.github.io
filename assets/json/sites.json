@@ -38,20 +38,6 @@
 	],
 	"Concursos": [
 		{
-			"title": "Concursos abertos",
-			"href": "https://www.concursosabertos.com.br/",
-			"target": "_concursos_abertos",
-			"img": "concursos_abertos.png",
-			"description": "Site sobre concursos públicos"
-		},
-		{
-			"title": "JC-Concursos",
-			"href": "http://jcconcursos.uol.com.br/portal/index.html",
-			"target": "_jc_concursos",
-			"img": "jc_concursos.png",
-			"description": "Site sobre concursos públicos"
-		},
-		{
 			"title": "PCI concursos",
 			"href": "http://www.pciconcursos.com.br/concursos",
 			"target": "_pciconcursos",
