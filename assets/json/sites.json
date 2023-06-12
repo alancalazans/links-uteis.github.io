@@ -1482,6 +1482,13 @@
 			"description": "Criação de arquivos markdown online"
 		},
 		{
+			"title": "TinyWow",
+			"href": "https://tinywow.com/tools",
+			"target": "_tinywow",
+			"img": "tinywow.png",
+			"description": "Diversos aplicativos online para vários fins"
+		},
+		{
 			"title": "Toques celular",
 			"href": "http://toqueparacelular.com.br/",
 			"target": "_toques",
