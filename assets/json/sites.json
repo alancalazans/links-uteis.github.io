@@ -1279,6 +1279,13 @@
 			"description": "Repositório de arquivos diversos"
 		},
 		{
+			"title": "AIZZY",
+			"href": "https://app.aizzy.ai/",
+			"target": "_aizzy",
+			"img": "aizzy.png",
+			"description": "Serviço de AI"
+		},
+		{
 			"title": "AlternativeTo",
 			"href": "https://alternativeto.net/",
 			"target": "_alternativeto",
