@@ -1391,6 +1391,13 @@
 			"description": "Diversos códigos de cores"
 		},
 		{
+			"title": "GrátisPNG",
+			"href": "https://www.gratispng.com/",
+			"target": "_gratispng",
+			"img": "gratispng.png",
+			"description": "Diversas imagens"
+		},
+		{
 			"title": "ICPEdu",
 			"href": "https://pessoal.icpedu.rnp.br/home",
 			"target": "_icpedu",
