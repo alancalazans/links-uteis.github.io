@@ -801,6 +801,13 @@
 	],
 	"Filmes": [
 		{
+			"title": "Flix Torrentx",
+			"href": "https://flixtorrentx.com.br/",
+			"target": "_flixtorrentx",
+			"img": "flixtorrentx.png",
+			"description": "Download de filmes e series"
+		},
+		{
 			"title": "Globo Play",
 			"href": "https://globoplay.globo.com/",
 			"target": "_globoplay",
@@ -820,13 +827,6 @@
 			"target": "_sbt",
 			"img": "sbt.png",
 			"description": "Canal do SBT no Youtube"
-		},
-		{
-			"title": "VizerHD",
-			"href": "https://vizerhd.com/",
-			"target": "_vizerhd",
-			"img": "vizerhd.png",
-			"description": "Filmes e séries"
 		},
 		{
 			"title": "Youtube",
