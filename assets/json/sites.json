@@ -1561,6 +1561,13 @@
 	],
 	"Uteis": [
 		{
+			"title": "Appimagehub",
+			"href": "https://www.appimagehub.com/",
+			"target": "_appimagehub",
+			"img": "appimagehub.png",
+			"description": "Aplicativos portáteis para Linux"
+		},
+		{
 			"title": "360 Total Security",
 			"href": "https://www.360totalsecurity.com/pt/download-free-antivirus/",
 			"target": "_360",
