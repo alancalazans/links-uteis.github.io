@@ -801,13 +801,6 @@
 	],
 	"Filmes": [
 		{
-			"title": "Flix Torrentx",
-			"href": "https://flixtorrentx.com.br/",
-			"target": "_flixtorrentx",
-			"img": "flixtorrentx.png",
-			"description": "Download de filmes e series"
-		},
-		{
 			"title": "Globo Play",
 			"href": "https://globoplay.globo.com/",
 			"target": "_globoplay",
