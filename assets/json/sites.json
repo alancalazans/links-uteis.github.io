@@ -1300,6 +1300,13 @@
 			"description": "ChatGPT sem logar"
 		},
 		{
+			"title": "Bard",
+			"href": "https://bard.google.com/",
+			"target": "_bard",
+			"img": "bard.png",
+			"description": "BardAI"
+		},
+		{
 			"title": "BH Trans",
 			"href": "http://servicosbhtrans.pbh.gov.br/bhtrans/e-servicos/e-servicos.asp?servico=S01&opcao=QUADRO%20DE%20HORÁRIOS%20DE%20ÔNIBUS",
 			"target": "_bhtrans",
