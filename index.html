@@ -14,34 +14,14 @@
   <link rel="stylesheet" href="assets/css/main.css">
   <link rel="icon" href="assets/img/ico/link.png">
 
-	<script src="assets/js/lib/jade.min.js"></script>
+	<script src="assets/vendor/jade/jade.min.js"></script>
+	<script src="assets/js/module/aux.js"></script>
+	<script src="assets/js/main.js" defer></script>
 </head>
 <body>
-	<div id="container" style="height:; width:;">
-		<div id="menu" style="height:;"></div>
-		<div id="sites" style="height:;"></div>
+	<div id="container">
+		<div id="menu"></div>
+		<div id="sites"></div>
 	</div>
-
-	<script>
-		var windowWidth, windowHeight;
-		//var screenWidth, screenHeight;
-
-		const sizeOfThings = () => {
-			windowWidth = window.innerWidth;
-			windowHeight = window.innerHeight;
-			//screenWidth = screen.width;
-			//screenHeight = screen.height;
-
-			document.getElementById('container').style.height = (windowHeight-10).toString() + 'px';
-			document.getElementById('container').style.width = (windowWidth-100).toString() + 'px';
-			document.getElementById('menu').style.height = (windowHeight-10).toString() + 'px';
-			document.getElementById('sites').style.height = (windowHeight-10).toString() + 'px';
-		};
-
-		sizeOfThings();
-
-		window.addEventListener('resize', () => { sizeOfThings() });
-	</script>
-	<script src="assets/js/main.js"></script>
 </body>
 </html>
