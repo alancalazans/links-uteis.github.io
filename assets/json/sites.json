@@ -119,6 +119,13 @@
 			"description": "Clojure é uma linguagem de programação dinâmica e de propósito geral"
 		},
 		{
+			"title": "Crystal-lang",
+			"href": "https://crystal-lang.org/",
+			"target": "_crystal_lang",
+			"img": "crystal_lang.png",
+			"description": "Linguagem baseada em Ruby e compilada"
+		},
+		{
 			"title": "DotNet Core",
 			"href": "https://dotnet.microsoft.com/download",
 			"target": "_dotnetcore",
@@ -376,6 +383,13 @@
 			"target": "_rosettacode",
 			"img": "rosettacode.png",
 			"description": "Site com conteúdos sobre diversas linguagens de programação"
+		},
+		{
+			"title": "Rust-lang",
+			"href": "https://www.rust-lang.org/",
+			"target": "_rust_lang",
+			"img": "rust_lang.png",
+			"description": "Linguagem de programação compilada"
 		},
 		{
 			"title": "Simple Icons",
