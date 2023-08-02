@@ -189,6 +189,13 @@
 			"description": "Template p/ projeto web"
 		},
 		{
+			"title": "HTML\nCHEATSHEET",
+			"href": "https://htmlcheatsheet.com/",
+			"target": "_htmlcheatsheet",
+			"img": "htmlcheatsheet.png",
+			"description": "HTML Cheat Sheet"
+		},
+		{
 			"title": "IMGonline",
 			"href": "https://www.imgonline.com.ua/eng/replace-color.php",
 			"target": "_imgonline",
