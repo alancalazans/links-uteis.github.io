@@ -1687,6 +1687,13 @@
 			"description": "Programa para criar pendrive de boot"
 		},
 		{
+			"title": "Ventoy",
+			"href": "https://www.ventoy.net/en/index.html",
+			"target": "_ventoy",
+			"img": "ventoy.png",
+			"description": "Programa para criar pendrive de boot"
+		},
+		{
 			"title": "VirtualBox",
 			"href": "https://www.virtualbox.org",
 			"target": "_virtualbox",
