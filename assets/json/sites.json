@@ -915,6 +915,13 @@
 			"description": "Sistema Operacional baseado em Debian"
 		},
 		{
+			"title": "OpenSUSE\nTumbleWeed",
+			"href": "https://get.opensuse.org/pt_BR/",
+			"target": "_opensusetumbleweed",
+			"img": "opensuse_tumbleweed.png",
+			"description": "OpenSUSE TumbleWeed"
+		},
+		{
 			"title": "Opção Linux",
 			"href": "https://www.blogopcaolinux.com.br/",
 			"target": "_opcaolinux",
