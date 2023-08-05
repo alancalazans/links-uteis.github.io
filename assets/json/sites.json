@@ -852,6 +852,13 @@
 	],
 	"Linux": [
 		{
+			"title": "AntiX\nLinux",
+			"href": "https://antixlinux.com/",
+			"target": "_antix",
+			"img": "antix.png",
+			"description": "Linux baseado em Debian"
+		},
+		{
 			"title": "Cinnamon Spices",
 			"href": "https://cinnamon-spices.linuxmint.com/",
 			"target": "_cinnamon-spices",
