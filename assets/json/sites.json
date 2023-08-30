@@ -1226,6 +1226,13 @@
 			"description": "Rádio Itatiaia"
 		},
 		{
+			"title": "Rádio 80FM",
+			"href": "http://centova.euroti.com.br:9020/stream1",
+			"target": "_radio80fm",
+			"img": "radio80fm.png",
+			"description": "Rádio na web"
+		},
+		{
 			"title": "Radios ao vivo",
 			"href": "http://www.radiosaovivo.net",
 			"target": "_radiosaovivo",
