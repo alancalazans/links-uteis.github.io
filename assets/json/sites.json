@@ -1374,7 +1374,7 @@
 			"href": "https://chat.openai.com/chat",
 			"target": "_chatopenai",
 			"img": "chat_open_ai.png",
-			"description": "Chat com Inteligência Artificial"
+			"description": "Chat de Inteligência Artificial"
 		},
 		{
 			"title": "CloudConvert",
@@ -1438,6 +1438,13 @@
 			"target": "_gratispng",
 			"img": "gratispng.png",
 			"description": "Diversas imagens"
+		},
+		{
+			"title": "h2oGPT",
+			"href": "https://gpt-gm.h2o.ai/",
+			"target": "_h2ogpt",
+			"img": "h2ogpt.png",
+			"description": "Chat de Inteligência Artificial"
 		},
 		{
 			"title": "ICPEdu",
