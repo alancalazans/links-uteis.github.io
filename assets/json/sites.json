@@ -434,6 +434,13 @@
 			"description": "Editor de código conservador para os veteranos"
 		},
 		{
+			"title": "Vim Wiki",
+			"href": "https://pt.wikibooks.org/wiki/Vim",
+			"target": "_vim",
+			"img": "vim.png",
+			"description": "Guia do vim"
+		},
+		{
 			"title": "VisJS",
 			"href": "https://almende.github.io/vis/",
 			"target": "_visjs",
