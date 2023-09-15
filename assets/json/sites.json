@@ -217,6 +217,13 @@
 			"description": "Site com diversos icones para baixar"
 		},
 		{
+			"title": "Icons8",
+			"href": "https://icons8.com.br/",
+			"target": "_icons8",
+			"img": "icons8.png",
+			"description": "Site com diversos icones para baixar"
+		},
+		{
 			"title": "Ionic Brazil",
 			"href": "https://github.com/IonicBrazil/guia-do-desenvolvedor",
 			"target": "_ionicbrazil",
