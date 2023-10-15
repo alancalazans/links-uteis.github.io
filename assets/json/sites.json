@@ -1559,6 +1559,13 @@
 			"description": "Criação de arquivos markdown online"
 		},
 		{
+			"title": "TalkAI",
+			"href": "https://talkai.info/pt/chat/",
+			"target": "_talkAI",
+			"img": "talkAI.png",
+			"description": "ChatGPT"
+		},
+		{
 			"title": "TinyWow",
 			"href": "https://tinywow.com/tools",
 			"target": "_tinywow",
