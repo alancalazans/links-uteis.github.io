@@ -1,5 +1,9 @@
 [
   {
+    "category": "AI",
+    "icon": "ai.png"
+  },
+  {
     "category": "Bancos",
     "icon": "bancos.png"
   },

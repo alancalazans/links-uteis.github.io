@@ -1,4 +1,48 @@
 {
+	"AI": [
+		{
+			"title": "BAI Chat",
+			"href": "https://chatbot.theb.ai/#/chat",
+			"target": "_baichat",
+			"img": "baichat.png",
+			"description": "ChatGPT sem logar"
+		},
+		{
+			"title": "Bard",
+			"href": "https://bard.google.com/",
+			"target": "_bard",
+			"img": "bard.png",
+			"description": "BardAI"
+		},
+		{
+			"title": "ChatOpenAI",
+			"href": "https://chat.openai.com/chat",
+			"target": "_chatopenai",
+			"img": "chat_open_ai.png",
+			"description": "Chat de Inteligência Artificial"
+		},
+		{
+			"title": "FlowGPT",
+			"href": "https://flowgpt.com/",
+			"target": "_flowgpt",
+			"img": "flowgpt.png",
+			"description": "ChatGPT"
+		},
+		{
+			"title": "h2oGPT",
+			"href": "https://gpt-gm.h2o.ai/",
+			"target": "_h2ogpt",
+			"img": "h2ogpt.png",
+			"description": "Chat de Inteligência Artificial"
+		},
+		{
+			"title": "TalkAI",
+			"href": "https://talkai.info/pt/chat/",
+			"target": "_talkAI",
+			"img": "talkAI.png",
+			"description": "ChatGPT"
+		}
+	],
 	"Bancos": [
 		{
 			"title": "Banco do Brasil S/A",
@@ -1349,20 +1393,6 @@
 			"description": "Consultar criptomoedas e CEP."
 		},
 		{
-			"title": "BAI Chat",
-			"href": "https://chatbot.theb.ai/#/chat",
-			"target": "_baichat",
-			"img": "baichat.png",
-			"description": "ChatGPT sem logar"
-		},
-		{
-			"title": "Bard",
-			"href": "https://bard.google.com/",
-			"target": "_bard",
-			"img": "bard.png",
-			"description": "BardAI"
-		},
-		{
 			"title": "BH Trans",
 			"href": "http://servicosbhtrans.pbh.gov.br/bhtrans/e-servicos/e-servicos.asp?servico=S01&opcao=QUADRO%20DE%20HORÁRIOS%20DE%20ÔNIBUS",
 			"target": "_bhtrans",
@@ -1382,13 +1412,6 @@
 			"target": "_transfacil",
 			"img": "transfacil.png",
 			"description": "Cartões de transporte do BHBUS"
-		},
-		{
-			"title": "ChatOpenAI",
-			"href": "https://chat.openai.com/chat",
-			"target": "_chatopenai",
-			"img": "chat_open_ai.png",
-			"description": "Chat de Inteligência Artificial"
 		},
 		{
 			"title": "CloudConvert",
@@ -1447,25 +1470,11 @@
 			"description": "Diversos códigos de cores"
 		},
 		{
-			"title": "FlowGPT",
-			"href": "https://flowgpt.com/",
-			"target": "_flowgpt",
-			"img": "flowgpt.png",
-			"description": "ChatGPT"
-		},
-		{
 			"title": "GrátisPNG",
 			"href": "https://www.gratispng.com/",
 			"target": "_gratispng",
 			"img": "gratispng.png",
 			"description": "Diversas imagens"
-		},
-		{
-			"title": "h2oGPT",
-			"href": "https://gpt-gm.h2o.ai/",
-			"target": "_h2ogpt",
-			"img": "h2ogpt.png",
-			"description": "Chat de Inteligência Artificial"
 		},
 		{
 			"title": "ICPEdu",
@@ -1564,13 +1573,6 @@
 			"target": "_stackedit",
 			"img": "stackedit.png",
 			"description": "Criação de arquivos markdown online"
-		},
-		{
-			"title": "TalkAI",
-			"href": "https://talkai.info/pt/chat/",
-			"target": "_talkAI",
-			"img": "talkAI.png",
-			"description": "ChatGPT"
 		},
 		{
 			"title": "TinyWow",
