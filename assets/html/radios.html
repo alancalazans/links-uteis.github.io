@@ -1,90 +1,105 @@
 <!DOCTYPE html>
 <html lang="pt-br">
-	<head>
-		<meta charset="utf-8">
-		<title>Rádios</title>
-		<meta name="description" content="">
-		<meta name="viewport" content="width=device-width, initial-scale=1">
-		<style>
-			* { margin: 0; padding: 0 }
-			body { background-color: #5f6061; }
-			.wrapper {
-				margin-top: 10px;
-				width: 500px; margin: 0 auto;
-				display: grid;
-				grid-template-columns: 200px 300px;
-			}
-			.secao { margin-top: 20px; }
-			p { text-align: middle; }
-		</style>
-	</head>
-	<body>
-		<div class="wrapper">
-			<!-- Rádio 80 FM - Hits anos 80 -->
-			<div class="secao">
-				<p style="color: white; font-size: 20px; font-weight: bold;">Rádio 80 FM - Hits anos 80</p>
-			</div>
-			<div class="secao">
-				<audio class="som" controls>
-					<source src="http://centova.euroti.com.br:9020/stream1" type="audio/mp3" />
-				</audio>
-			</div>
-			<!-- Alvorada FM 94.9 - MG, Brasil -->
-			<div class="secao">
-				<p style="color: white; font-size: 20px; font-weight: bold;">Alvorada FM 94.9 - MG, Brasil</p>
-			</div>
-			<div class="secao">
-				<audio class="som" controls>
-					<source src="http://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_ALVORADAAAC.aac" type="audio/aac" />
-				</audio>
-			</div>
-			<!-- Brazilian FM - DF, Brasil -->
-			<div class="secao">
-				<p style="color: white; font-size: 20px; font-weight: bold;">Brazilian FM - DF, Brasil</p>
-			</div>
-			<div class="secao">
-				<audio class="som" controls>
-					<source src="http://s17.maxcast.com.br:8228/live" type="audio/mp3" />
-				</audio>
-			</div>
-			<!-- CDL FM, MG, Brasil -->
-			<div class="secao">
-				<p style="color: white; font-size: 20px; font-weight: bold;">CDL FM, MG, Brasil</p>
-			</div>
-			<div class="secao">
-				<audio class="som" controls>
-					<source src="https://9595.brasilstream.com.br/stream" type="audio/mp3" />
-				</audio>
-			</div>
-			<!-- Antena1 - ES, Brasil -->
-			<div class="secao">
-				<p style="color: white; font-size: 20px; font-weight: bold;">Antena1 - ES, Brasil</p>
-			</div>
-			<div class="secao">
-				<audio class="som" controls>
-					<source src="https://antenaone.crossradio.com.br/stream/1;" type="audio/mp3" />
-				</audio>
-			</div>
-			<!-- Transamérica Hits - Belo Horizonte, MG, Brazil -->
-			<div class="secao">
-				<p style="color: white; font-size: 20px; font-weight: bold;">Transamérica Hits - Belo Horizonte, MG, Brazil</p>
-			</div>
-			<div class="secao">
-				<audio class="som" controls>
-					<source src="http://playerservices.streamtheworld.com/api/livestream-redirect/RT_BHAAC.a
-ac" type="audio/aac" />
-				</audio>
-			</div>
-		</div>
+<head>
+  <meta charset="utf-8">
+  <title>Rádios</title>
+  <meta name="description" content="">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+    }
 
-		<script>
-			const som = document.getElementsByClassName('som');
+    body {
+      background-color: #5f6061;
+    }
 
-			(() => {
-				for(let i=0; i<som.length; i++) {
-					som[i].volume = 0.10;
-				}
-			})();
-		</script>
-	</body>
+    .wrapper {
+      margin-top: 10px;
+      width: 500px;
+      margin: 0 auto;
+      display: grid;
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+      gap: 20px;
+    }
+
+    .secao {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      text-align: center;
+    }
+
+    p {
+      color: white;
+      font-size: 20px;
+      font-weight: bold;
+    }
+
+    audio {
+      width: 100%;
+      max-width: 300px;
+    }
+
+  </style>
+</head>
+
+<body>
+  <div class="wrapper">
+    <!-- Rádio 80 FM - Hits anos 80 -->
+    <div class="secao">
+      <p>Rádio 80 FM</p>
+      <audio class="som" controls>
+        <source src="http://centova.euroti.com.br:9020/stream1" type="audio/mp3" />
+      </audio>
+    </div>
+    <!-- Alvorada FM 94.9 - MG, Brasil -->
+    <div class="secao">
+      <p>Alvorada FM 94.9</p>
+      <audio class="som" controls>
+        <source src="http://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_ALVORADAAAC.aac" type="audio/aac" />
+      </audio>
+    </div>
+    <!-- Brazilian FM - DF, Brasil -->
+    <div class="secao">
+      <p>Brazilian FM</p>
+      <audio class="som" controls>
+        <source src="http://s17.maxcast.com.br:8228/live" type="audio/mp3" />
+      </audio>
+    </div>
+    <!-- CDL FM, MG, Brasil -->
+    <div class="secao">
+      <p>CDL FM</p>
+      <audio class="som" controls>
+        <source src="https://9595.brasilstream.com.br/stream" type="audio/mp3" />
+      </audio>
+    </div>
+    <!-- Antena1 - ES, Brasil -->
+    <div class="secao">
+      <p>Antena1 - ES</p>
+      <audio class="som" controls>
+        <source src="https://antenaone.crossradio.com.br/stream/1;" type="audio/mp3" />
+      </audio>
+    </div>
+    <!-- Transamérica Hits - Belo Horizonte, MG, Brazil -->
+    <div class="secao">
+      <p>Transamérica Hits</p>
+      <audio class="som" controls>
+        <source src="http://playerservices.streamtheworld.com/api/livestream-redirect/RT_BHAAC.aac" type="audio/aac" />
+      </audio>
+    </div>
+  </div>
+
+  <script>
+    const som = document.getElementsByClassName('som');
+
+    (() => {
+      for (let i = 0; i < som.length; i++) {
+        som[i].volume = 0.10;
+      }
+    })();
+  </script>
+</body>
 </html>
