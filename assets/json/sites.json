@@ -41,6 +41,13 @@
 			"target": "_talkAI",
 			"img": "talkAI.png",
 			"description": "ChatGPT"
+		},
+		{
+			"title": "ZZZ Code.AI",
+			"href": "https://zzzcode.ai/",
+			"target": "_zzzcodeai",
+			"img": "zzzcodeai.png",
+			"description": "AI para desenvolvedores"
 		}
 	],
 	"Bancos": [
@@ -880,6 +887,13 @@
 	],
 	"Filmes": [
 		{
+			"title": "FlixTorrent",
+			"href": "https://flixtorrent.com.br/",
+			"target": "_flixtorrent",
+			"img": "flixtorrent.png",
+			"description": "Baixar filmes e series"
+		},
+		{
 			"title": "Globo Play",
 			"href": "https://globoplay.globo.com/",
 			"target": "_globoplay",
@@ -887,11 +901,18 @@
 			"description": "Programação da Globo de filmes, series, jornalismo, novelas, documentários etc..."
 		},
 		{
-			"title": "Netflix",
-			"href": "https://www.netflix.com/br/",
-			"target": "_netflix",
-			"img": "netflix.png",
-			"description": "Programação de filmes, series, documentários etc..."
+			"title": "Limon Torrent",
+			"href": "https://limontorrent.com/",
+			"target": "_limontorrent",
+			"img": "limontorrent.png",
+			"description": "Baixar filmes e series"
+		},
+		{
+			"title": "Mais Filmes\nE Series",
+			"href": "https://maisfilmeseseries.com/",
+			"target": "_maisfilmeseseries",
+			"img": "maisfilmeseseries.png",
+			"description": "Baixar filmes e series"
 		},
 		{
 			"title": "SBT",
