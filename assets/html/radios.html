@@ -1,115 +1,79 @@
 <!DOCTYPE html>
 <html lang="pt-br">
-<head>
-  <meta charset="utf-8">
-  <title>Rádios</title>
-  <meta name="description" content="">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <style>
-  * {
-    margin: 0;
-    padding: 0;
-  }
+  <head>
+    <meta charset="utf-8">
+    <title>Web Rádio</title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <style>
+    
+    	* {
+    		margin: 0;
+    		padding: 0;
+    		-webkit-box-sizing: border-box;
+    			 -moz-box-sizing: border-box;
+    						box-sizing: border-box;
+    	}
 
-  body {
-    background-color: #5f6061;
-  }
-
-  .wrapper {
-    margin-top: 10px;
-    width: 500px;
-    margin: 0 auto;
-    display: grid;
-    grid-template-columns: repeat(2, minmax(0, 1fr));
-    gap: 20px;
-  }
-
-  #titulo {
-    width: 500px;
-    margin: 10px auto;
-    text-align: center;
-    color: white;
-  }
-
-  .secao {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    text-align: center;
-  }
-
-  p {
-    color: white;
-    font-size: 20px;
-    font-weight: bold;
-  }
-
-  audio {
-    width: 100%;
-    max-width: 300px;
-  }
-
-  </style>
-</head>
-
-<body>
-  <div id="titulo">
-    <h1>Web rádio</h1>
-  </div>
-  <div class="wrapper">
-    <!-- Transamérica Hits - Belo Horizonte, MG, Brazil -->
-    <div class="secao">
-      <p>Transamérica Hits</p>
-      <audio controls>
-        <source src="http://playerservices.streamtheworld.com/api/livestream-redirect/RT_BHAAC.aac" type="audio/aac" />
-      </audio>
-    </div>
-    <!-- Alvorada FM 94.9 - MG, Brasil -->
-    <div class="secao">
-      <p>Alvorada FM 94.9</p>
-      <audio controls>
-        <source src="http://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_ALVORADAAAC.aac" type="audio/aac" />
-      </audio>
-    </div>
-    <!-- Brazilian FM - DF, Brasil -->
-    <div class="secao">
-      <p>Brazilian FM</p>
-      <audio controls>
-        <source src="http://s17.maxcast.com.br:8228/live" type="audio/mp3" />
-      </audio>
-    </div>
-    <!-- CDL FM, MG, Brasil -->
-    <div class="secao">
-      <p>CDL FM</p>
-      <audio controls>
-        <source src="https://9595.brasilstream.com.br/stream" type="audio/mp3" />
-      </audio>
-    </div>
-    <!-- Antena1 - ES, Brasil -->
-    <div class="secao">
-      <p>Antena1 - ES</p>
-      <audio controls>
-        <source src="https://antenaone.crossradio.com.br/stream/1;" type="audio/mp3" />
-      </audio>
-    </div>
-    <!-- Rádio 80 FM - Hits anos 80 -->
-    <div class="secao">
-      <p>Rádio 80 FM</p>
-      <audio controls>
-        <source src="http://centova.euroti.com.br:9020/stream1" type="audio/mp3" />
-      </audio>
-    </div>
-  </div>
-
-  <script>
-    var audio = document.getElementsByTagName('audio');
-
-    (() => {
-      for (let i = 0; i < audio.length; i++) {
-        audio[i].volume = 0.1;
+    	body {
+        background-color: #5f6061;
       }
-    })();
-  </script>
-</body>
+
+      h1, label { color: white; }
+    
+    	label, select {
+    		font-family: 'Trebuchet MS', Helvetica, sans-serif;
+    		font-size: 16px;
+    		font-weight: bold;
+    	}
+
+    	#titulo, #content, label {
+        margin: 10px 0 10px 0;
+    	}
+
+    	#container {
+        width: 400px;
+        margin: 5% auto;
+        text-align: center;
+    	}
+    
+    </style>
+  </head>
+  <body>
+    <div id="container">
+      <div id="titulo">
+        <h1>Web rádio</h1>
+      </div>
+
+      <select id="combo" name="combo">
+        <option disabled selected>Escolha rádio</option>
+        <option value="http://centova.euroti.com.br:9020/stream1">Rádio 80 FM</option>
+        <option value="http://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_ALVORADAAAC.aac">Alvorada FM 94.9</option>
+        <option value="http://s17.maxcast.com.br:8228/live">Brazilian FM</option>
+        <option value="https://antenaone.crossradio.com.br/stream/1;">Antena1</option>
+        <option value="https://9595.brasilstream.com.br/stream">CDL FM</option>
+        <option value="http://playerservices.streamtheworld.com/api/livestream-redirect/RT_BHAAC.aac">Transamérica Hits</option>
+      </select>
+
+      <p id="content"></p>
+    </div>
+  
+    <script>
+      const combo = document.getElementById('combo');
+
+      // Adicionar o event listener
+      combo.addEventListener('change', function() {
+        // Ação a ser executada quando a opção selecionada for alterada
+        let url = combo.value,
+            texto = combo.innerText;
+        document.getElementById('content').innerHTML = `<audio controls>
+  <source src="${url}" type="application/x-mpegURL">
+  <source src="${url}" type="audio/aac">
+  <source src="${url}" type="audio/mpeg">
+  Seu navegador não suporta reprodução de áudio.
+</audio>`;
+      document.getElementsByTagName('audio')[0].volume = 0.1;
+      });
+    </script>
+  </body>
 </html>
