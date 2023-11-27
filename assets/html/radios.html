@@ -2,11 +2,11 @@
 <html lang="pt-br">
   <head>
     <meta charset="utf-8">
-    <title>Web Rádio</title>
+    <title>Web rádio</title>
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <style>
-    
+
     	* {
     		margin: 0;
     		padding: 0;
@@ -20,7 +20,7 @@
       }
 
       h1, label { color: white; }
-    
+
     	label, select {
     		font-family: 'Trebuchet MS', Helvetica, sans-serif;
     		font-size: 16px;
@@ -36,7 +36,7 @@
         margin: 5% auto;
         text-align: center;
     	}
-    
+
     </style>
   </head>
   <body>
@@ -47,17 +47,17 @@
 
       <select id="combo" name="combo">
         <option disabled selected>Escolha rádio</option>
-        <option value="http://centova.euroti.com.br:9020/stream1">Rádio 80 FM</option>
         <option value="http://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_ALVORADAAAC.aac">Alvorada FM 94.9</option>
-        <option value="http://s17.maxcast.com.br:8228/live">Brazilian FM</option>
         <option value="https://antenaone.crossradio.com.br/stream/1;">Antena1</option>
+        <option value="http://s17.maxcast.com.br:8228/live">Brazilian FM</option>
         <option value="https://9595.brasilstream.com.br/stream">CDL FM</option>
+        <option value="http://centova.euroti.com.br:9020/stream1">Rádio 80 FM</option>
         <option value="http://playerservices.streamtheworld.com/api/livestream-redirect/RT_BHAAC.aac">Transamérica Hits</option>
       </select>
 
       <p id="content"></p>
     </div>
-  
+
     <script>
       const combo = document.getElementById('combo');
 
