@@ -6,47 +6,57 @@
   <meta name="description" content="">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <style>
-    * {
-      margin: 0;
-      padding: 0;
-    }
+  * {
+    margin: 0;
+    padding: 0;
+  }
 
-    body {
-      background-color: #5f6061;
-    }
+  body {
+    background-color: #5f6061;
+  }
 
-    .wrapper {
-      margin-top: 10px;
-      width: 500px;
-      margin: 0 auto;
-      display: grid;
-      grid-template-columns: repeat(2, minmax(0, 1fr));
-      gap: 20px;
-    }
+  .wrapper {
+    margin-top: 10px;
+    width: 500px;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 20px;
+  }
 
-    .secao {
-      display: flex;
-      flex-direction: column;
-      justify-content: center;
-      align-items: center;
-      text-align: center;
-    }
+  #titulo {
+    width: 500px;
+    margin: 10px auto;
+    text-align: center;
+    color: white;
+  }
 
-    p {
-      color: white;
-      font-size: 20px;
-      font-weight: bold;
-    }
+  .secao {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
 
-    audio {
-      width: 100%;
-      max-width: 300px;
-    }
+  p {
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+  }
+
+  audio {
+    width: 100%;
+    max-width: 300px;
+  }
 
   </style>
 </head>
 
 <body>
+  <div id="titulo">
+    <h1>Web rádio</h1>
+  </div>
   <div class="wrapper">
     <!-- Rádio 80 FM - Hits anos 80 -->
     <div class="secao">
