@@ -1506,7 +1506,7 @@
 		},
 		{
 			"title": "INSS",
-			"href": "http://sal.receita.fazenda.gov.br/PortalSalInternet/faces/pages/calcContribuicoesCI/filiadosApos/selecionarOpcoesCalculoApos.xhtml",
+			"href": "https://www.gov.br/pt-br/servicos/emitir-gps-para-pagamento-de-contribuicoes-previdenciarias",
 			"target": "_sal",
 			"img": "sal.png",
 			"description": "INSS página do calculo de contribuição"
