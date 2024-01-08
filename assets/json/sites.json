@@ -1491,6 +1491,13 @@
 			"description": "Diversas imagens"
 		},
 		{
+			"title": "Gov.br",
+			"href": "https://acesso.gov.br/",
+			"target": "_gov.br",
+			"img": "gov.br.png",
+			"description": "Portal oficial do governo do Brasil para serviços digitais. Ele serve como uma plataforma centralizada para fornecer acesso a diversos serviços e informações governamentais online."
+		},
+		{
 			"title": "ICPEdu",
 			"href": "https://pessoal.icpedu.rnp.br/home",
 			"target": "_icpedu",
