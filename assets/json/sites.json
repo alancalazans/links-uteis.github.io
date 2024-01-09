@@ -177,6 +177,13 @@
 			"description": "Linguagem baseada em Ruby e compilada"
 		},
 		{
+			"title": "Customtkinter",
+			"href": "https://customtkinter.tomschimansky.com/",
+			"target": "_customtkinter",
+			"img": "customtkinter.png",
+			"description": "Uma biblioteca de UI python moderna e personalizável baseada em Tkinter"
+		},
+		{
 			"title": "DotNet Core",
 			"href": "https://dotnet.microsoft.com/download",
 			"target": "_dotnetcore",
