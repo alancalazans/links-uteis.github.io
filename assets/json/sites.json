@@ -15,6 +15,13 @@
 			"description": "BardAI"
 		},
 		{
+			"title": "chat.lmsys",
+			"href": "https://chat.lmsys.org/",
+			"target": "_chat.lmsys",
+			"img": "chat.lmsys.png",
+			"description": "Chat de Inteligência Artificial"
+		},
+		{
 			"title": "ChatOpenAI",
 			"href": "https://chat.openai.com/chat",
 			"target": "_chatopenai",
