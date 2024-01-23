@@ -184,6 +184,13 @@
 			"description": "Linguagem baseada em Ruby e compilada"
 		},
 		{
+			"title": "Cursor Editor",
+			"href": "https://cursor.sh/",
+			"target": "_cursor.sh",
+			"img": "cursor.sh.png",
+			"description": "O primeiro editor de código com IA"
+		},
+		{
 			"title": "Customtkinter",
 			"href": "https://customtkinter.tomschimansky.com/",
 			"target": "_customtkinter",
