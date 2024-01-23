@@ -219,6 +219,13 @@
 			"description": "Site com diversos icones para baixar"
 		},
 		{
+			"title": "FMHY",
+			"href": "https://fmhy.pages.dev/",
+			"target": "_fmhy",
+			"img": "fmhy.png",
+			"description": "A maior coleção de coisas grátis da internet!"
+		},
+		{
 			"title": "Fontawesome",
 			"href": "https://fontawesome.com/icons?d=gallery",
 			"target": "_fontawesome",
