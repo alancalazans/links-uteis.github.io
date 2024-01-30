@@ -1075,79 +1075,16 @@
 		{
 			"title": "Apostas online",
 			"href": "https://www.loteriasonline.caixa.gov.br/silce-web/#/home",
-			"target": "_loteriasonline",
-			"img": "loteriaonline.png",
+			"target": "_loterias_caixa",
+			"img": "loterias_caixa.png",
 			"description": "Apostas online da Caixa Econômica Federal"
 		},
 		{
-			"title": "DUPLASENA",
-			"href": "http://www1.caixa.gov.br/loterias/loterias/duplasena/duplasena_resultado.asp",
-			"target": "_duplasena",
-			"img": "dupla-sena.png",
-			"description": "Resultados da DUPLASENA"
-		},
-		{
-			"title": "FEDERAL",
-			"href": "http://www1.caixa.gov.br/loterias/loterias/federal/federal_resultado.asp",
-			"target": "_federal",
-			"img": "federal.png",
-			"description": "Resultados da Loteria Federal"
-		},
-		{
-			"title": "INSTANTÂNEA",
-			"href": "http://www1.caixa.gov.br/loterias/loterias/loteriainst/como_jogar.asp",
-			"target": "_loteriainst",
-			"img": "instantanea.png",
-			"description": "Resultados da loteria INSTANTÂNEA"
-		},
-		{
-			"title": "LOTECA",
-			"href": "http://www1.caixa.gov.br/loterias/loterias/loteca/loteca_resultado.asp",
-			"target": "_loteca",
-			"img": "loteca.png",
-			"description": "Resultados da LOTECA"
-		},
-		{
-			"title": "LOTOFÁCIL",
-			"href": "http://www1.caixa.gov.br/loterias/loterias/lotofacil/lotofacil_resultado.asp",
-			"target": "_lotofacil",
-			"img": "lotofacil.png",
-			"description": "Resultados da LOTOFÁCIL"
-		},
-		{
-			"title": "LOTOGOL",
-			"href": "http://www1.caixa.gov.br/loterias/loterias/lotogol/lotogol_resultado.asp",
-			"target": "_lotogol",
-			"img": "lotogol.png",
-			"description": "Resultados da LOTOGOL"
-		},
-		{
-			"title": "LOTOMANIA",
-			"href": "http://www1.caixa.gov.br/loterias/loterias/lotomania/lotomania_resultado.asp",
-			"target": "_lotomania",
-			"img": "lotomania.png",
-			"description": "Resultados da LOTOMANIA"
-		},
-		{
-			"title": "MEGASENA",
-			"href": "http://www1.caixa.gov.br/loterias/loterias/megasena/megasena_resultado.asp",
-			"target": "_mega",
-			"img": "mega-sena.png",
-			"description": "Resultados da MEGASENA"
-		},
-		{
-			"title": "QUINA",
-			"href": "http://www1.caixa.gov.br/loterias/loterias/quina/quina_resultado.asp",
-			"target": "_quina",
-			"img": "quina.png",
-			"description": "Resultados da QUINA"
-		},
-		{
-			"title": "TIMEMANIA",
-			"href": "http://www1.caixa.gov.br/loterias/loterias/timemania/timemania_resultado.asp",
-			"target": "_timemania",
-			"img": "timemania.png",
-			"description": "Resultados da TIMEMANIA"
+			"title": "Sorte Online",
+			"href": "https://www.sorteonline.com.br/",
+			"target": "_sorte_online",
+			"img": "sorte_online.png",
+			"description": "Bolões de loterias da Caixa"
 		}
 	],
 	"Nuvem": [
