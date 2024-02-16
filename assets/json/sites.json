@@ -1001,6 +1001,13 @@
 			"description": "Sistema Operacional baseado em Arch"
 		},
 		{
+			"title": "GetMyOS",
+			"href": "https://www.getmyos.com/",
+			"target": "_getmyos",
+			"img": "getmyos.png",
+			"description": "Últimas imagens iso de várias OS"
+		},
+		{
 			"title": "Gnome-look",
 			"href": "https://www.gnome-look.org",
 			"target": "_gnomelook",
