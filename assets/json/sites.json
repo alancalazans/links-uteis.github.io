@@ -8,11 +8,11 @@
 			"description": "ChatGPT sem logar"
 		},
 		{
-			"title": "Bard",
-			"href": "https://bard.google.com/",
-			"target": "_bard",
-			"img": "bard.png",
-			"description": "BardAI"
+			"title": "Gemini",
+			"href": "https://gemini.google.com/app",
+			"target": "_gemini",
+			"img": "gemini.png",
+			"description": "Gemini AI"
 		},
 		{
 			"title": "chat.lmsys",
