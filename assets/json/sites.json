@@ -394,6 +394,13 @@
 			"description": "Linguagem de programação Nim"
 		},
 		{
+			"title": "Nim-eBook",
+			"href": "https://ssalewski.de/nimprogramming.html",
+			"target": "_nim-lang",
+			"img": "nim-lang.png",
+			"description": "eBook online da Linguagem Nim"
+		},
+		{
 			"title": "NodeJS",
 			"href": "https://nodejs.org/en/",
 			"target": "_nodejs",
