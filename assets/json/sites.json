@@ -396,7 +396,7 @@
 		{
 			"title": "Nim-eBook",
 			"href": "https://ssalewski.de/nimprogramming.html",
-			"target": "_nim-lang",
+			"target": "_nim-ebook",
 			"img": "nim-lang.png",
 			"description": "eBook online da Linguagem Nim"
 		},
