@@ -973,6 +973,13 @@
 			"description": "Linux baseado em Debian"
 		},
 		{
+			"title": "Bodhi\nLinux",
+			"href": "https://www.bodhilinux.com/",
+			"target": "_bodhilinux",
+			"img": "bodhilinux.png",
+			"description": "Linux baseado em Ubuntu"
+		},
+		{
 			"title": "Cinnamon Spices",
 			"href": "https://cinnamon-spices.linuxmint.com/",
 			"target": "_cinnamon-spices",
