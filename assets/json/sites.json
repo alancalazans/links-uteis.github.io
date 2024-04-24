@@ -8,6 +8,13 @@
 			"description": "ChatGPT sem logar"
 		},
 		{
+			"title": "FeynChat",
+			"href": "https://feyn.chat/",
+			"target": "_feynchat",
+			"img": "feynchat.png",
+			"description": "Chat "
+		},
+		{
 			"title": "Gemini",
 			"href": "https://gemini.google.com/app",
 			"target": "_gemini",
@@ -1622,6 +1629,13 @@
 			"target": "_kaissara",
 			"img": "kaissara.png",
 			"description": "Transporte Interestudual de passageiros Viação Kaissara"
+		},
+		{
+			"title": "Virus Total",
+			"href": "https://www.virustotal.com/gui/home/upload",
+			"target": "_virustotal",
+			"img": "virustotal.png",
+			"description": "Checa se arquivo contém vírus"
 		},
 		{
 			"title": "Wallpaper Flare",
