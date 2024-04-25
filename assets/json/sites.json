@@ -8,11 +8,11 @@
 			"description": "ChatGPT sem logar"
 		},
 		{
-			"title": "FeynChat",
+			"title": "Feyn Chat",
 			"href": "https://feyn.chat/",
 			"target": "_feynchat",
 			"img": "feynchat.png",
-			"description": "Chat "
+			"description": "Feyn Chat - GPT 4 Turbo"
 		},
 		{
 			"title": "Gemini",
@@ -1715,6 +1715,13 @@
 			"target": "_marktext",
 			"img": "marktext.png",
 			"description": "Editor Markdown"
+		},
+		{
+			"title": "Microsoft Edge",
+			"href": "https://www.microsoft.com/pt-br/edge/download?form=MA13FJ",
+			"target": "_edge",
+			"img": "edge.png",
+			"description": "Navegador Edge da Microsoft"
 		},
 		{
 			"title": "Onlyoffice",
