@@ -366,6 +366,13 @@
 			"description": "Editor de código gratuito, multiplaforma, alternativo e experimental de console"
 		},
 		{
+			"title": "MomentJS",
+			"href": "https://momentjs.com/",
+			"target": "_momentjs",
+			"img": "momentjs.png",
+			"description": "Analise, valide, manipule e exiba datas e horas em JavaScript."
+		},
+		{
 			"title": "NeoVim",
 			"href": "https://github.com/neovim/neovim",
 			"target": "_neovim",
