@@ -457,6 +457,13 @@
 			"description": "Site com diversas imagens png para baixar"
 		},
 		{
+			"title": "Poetry",
+			"href": "https://python-poetry.org/docs/",
+			"target": "_poetry",
+			"img": "poetry.png",
+			"description": "Poetry é uma ferramenta para gerenciamento de dependências e empacotamento em Python"
+		},
+		{
 			"title": "Public APIs",
 			"href": "https://github.com/public-apis/public-apis",
 			"target": "_public_apis",
