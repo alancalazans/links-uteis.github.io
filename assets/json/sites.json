@@ -1,11 +1,18 @@
 {
 	"AI": [
 		{
+			"title": "AI SDK",
+			"href": "https://sdk.vercel.ai/",
+			"target": "_ai-sdk",
+			"img": "ai-sdk.png",
+			"description": "AI Vercel"
+		},
+		{
 			"title": "BAI Chat",
 			"href": "https://chatbot.theb.ai/#/chat",
 			"target": "_baichat",
 			"img": "baichat.png",
-			"description": "ChatGPT sem logar"
+			"description": "BAI Chat"
 		},
 		{
 			"title": "Feyn Chat",
