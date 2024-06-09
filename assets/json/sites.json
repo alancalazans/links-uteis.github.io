@@ -1305,6 +1305,13 @@
 			"description": "Rádio Itatiaia"
 		},
 		{
+			"title": "Radio Garden",
+			"href": "https://radio.garden/",
+			"target": "_radio_garden",
+			"img": "radio_garden.png",
+			"description": "Rádios online em todo mundo"
+		},
+		{
 			"title": "Radios ao vivo",
 			"href": "http://www.radiosaovivo.net",
 			"target": "_radiosaovivo",
