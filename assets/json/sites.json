@@ -1001,6 +1001,13 @@
 			"description": "Linux baseado em Ubuntu"
 		},
 		{
+			"title": "Calculate\nLinux",
+			"href": "https://www.calculate-linux.org/",
+			"target": "_calculate_linux",
+			"img": "calculate_linux.png",
+			"description": "Linux baseado em Gentoo"
+		},
+		{
 			"title": "Cinnamon Spices",
 			"href": "https://cinnamon-spices.linuxmint.com/",
 			"target": "_cinnamon-spices",
