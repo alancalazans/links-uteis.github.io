@@ -15,20 +15,6 @@
 			"description": "BAI Chat"
 		},
 		{
-			"title": "Feyn Chat",
-			"href": "https://feyn.chat/",
-			"target": "_feynchat",
-			"img": "feynchat.png",
-			"description": "Feyn Chat - GPT 4 Turbo"
-		},
-		{
-			"title": "Gemini",
-			"href": "https://gemini.google.com/app",
-			"target": "_gemini",
-			"img": "gemini.png",
-			"description": "Gemini AI"
-		},
-		{
 			"title": "chat.lmsys",
 			"href": "https://chat.lmsys.org/",
 			"target": "_chat.lmsys",
@@ -43,11 +29,32 @@
 			"description": "Chat de Inteligência Artificial"
 		},
 		{
+			"title": "Feyn Chat",
+			"href": "https://feyn.chat/",
+			"target": "_feynchat",
+			"img": "feynchat.png",
+			"description": "Feyn Chat - GPT 4 Turbo"
+		},
+		{
 			"title": "FlowGPT",
 			"href": "https://flowgpt.com/",
 			"target": "_flowgpt",
 			"img": "flowgpt.png",
 			"description": "ChatGPT"
+		},
+		{
+			"title": "Gemini",
+			"href": "https://gemini.google.com/app",
+			"target": "_gemini",
+			"img": "gemini.png",
+			"description": "Gemini AI"
+		},
+		{
+			"title": "GPT-4o",
+			"href": "https://gpt4o.so/app",
+			"target": "_gpt4o",
+			"img": "gpt4o.png",
+			"description": "GPT-4o"
 		},
 		{
 			"title": "h2oGPT",
@@ -245,13 +252,6 @@
 			"target": "_flaticon",
 			"img": "flaticon.png",
 			"description": "Site com diversos icones para baixar"
-		},
-		{
-			"title": "FMHY",
-			"href": "https://fmhy.pages.dev/",
-			"target": "_fmhy",
-			"img": "fmhy.png",
-			"description": "A maior coleção de coisas grátis da internet!"
 		},
 		{
 			"title": "Fontawesome",
@@ -1503,6 +1503,13 @@
 			"target": "_encycolorpedia",
 			"img": "encycolorpedia.png",
 			"description": "Diversos códigos de cores"
+		},
+		{
+			"title": "FMHY",
+			"href": "https://fmhy.net/",
+			"target": "_fmhy",
+			"img": "fmhy.png",
+			"description": "A maior coleção de coisas grátis da internet!"
 		},
 		{
 			"title": "GrátisPNG",
