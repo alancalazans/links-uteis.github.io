@@ -64,6 +64,13 @@
 			"description": "Chat de Inteligência Artificial"
 		},
 		{
+			"title": "Lite Icoding",
+			"href": "https://lite.icoding.ink/",
+			"target": "_liteicoding",
+			"img": "liteicoding.png",
+			"description": "AI"
+		},
+		{
 			"title": "TalkAI",
 			"href": "https://talkai.info/pt/chat/",
 			"target": "_talkAI",
