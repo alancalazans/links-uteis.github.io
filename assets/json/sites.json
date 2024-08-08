@@ -19,14 +19,21 @@
 			"href": "https://chat.lmsys.org/",
 			"target": "_chat.lmsys",
 			"img": "chat.lmsys.png",
-			"description": "Chat de Inteligência Artificial"
+			"description": "Chat de inteligência artificial"
+		},
+		{
+			"title": "ChatK",
+			"href": "https://chat.oaichat.cc/",
+			"target": "_chatk",
+			"img": "chatk.png",
+			"description": "Chat de inteligência artificial"
 		},
 		{
 			"title": "ChatOpenAI",
 			"href": "https://chat.openai.com/chat",
 			"target": "_chatopenai",
 			"img": "chat_open_ai.png",
-			"description": "Chat de Inteligência Artificial"
+			"description": "Chat de inteligência artificial"
 		},
 		{
 			"title": "Feyn Chat",
@@ -34,6 +41,13 @@
 			"target": "_feynchat",
 			"img": "feynchat.png",
 			"description": "Feyn Chat - GPT 4 Turbo"
+		},
+		{
+			"title": "FFA Chat",
+			"href": "https://ffa.chat/",
+			"target": "_ffachat",
+			"img": "ffachat.png",
+			"description": "Chat de inteligência artificial"
 		},
 		{
 			"title": "FlowGPT",
@@ -61,7 +75,7 @@
 			"href": "https://gpt.h2o.ai/",
 			"target": "_h2ogpt",
 			"img": "h2ogpt.png",
-			"description": "Chat de Inteligência Artificial"
+			"description": "Chat de inteligência artificial"
 		},
 		{
 			"title": "Lite Icoding",
