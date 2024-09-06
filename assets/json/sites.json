@@ -704,13 +704,6 @@
 			"description": "Site de gestão do funcionalismo público federal"
 		},
 		{
-			"title": "SouGov",
-			"href": "https://sougov.economia.gov.br/sougov/Home",
-			"target": "_sougov",
-			"img": "sougov.png",
-			"description": "Site de gestão do funcionalismo público federal"
-		},
-		{
 			"title": "UFMG Portal Atend.",
 			"href": "https://sistemas.ufmg.br/atendimento/",
 			"target": "_ufmg_atendimento",
@@ -1629,6 +1622,13 @@
 			"target": "_soar",
 			"img": "soar.png",
 			"description": "Converte texto em audio"
+		},
+		{
+			"title": "SouGov",
+			"href": "https://gov.br/sougov",
+			"target": "_sougov",
+			"img": "sougov.png",
+			"description": "Site de gestão do funcionalismo público federal"
 		},
 		{
 			"title": "Sound of Text",
