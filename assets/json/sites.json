@@ -78,6 +78,13 @@
 		"description": "Chat de inteligência artificial"
 	},
 	{
+		"title": "HappyAPI",
+		"href": "http://happyapi.org/",
+		"target": "_happyapi",
+		"img": "happyapi.png",
+		"description": "Chat de inteligência artificial"
+	},
+	{
 		"title": "Lite Icoding",
 		"href": "https://lite.icoding.ink/",
 		"target": "_liteicoding",
