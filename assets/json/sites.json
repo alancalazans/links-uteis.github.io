@@ -948,6 +948,13 @@
 		"description": "Colégio Stª Maria - Unidade Coração Eucarístico"
 	},
 	{
+		"title": "TecConcursos",
+		"href": "https://www.tecconcursos.com.br/",
+		"target": "_tec_concursos",
+		"img": "tec_concursos.png",
+		"description": "Plataforma de estudo para concursos"
+	},
+	{
 		"title": "UEMG",
 		"href": "http://www.daeuemg.mg.gov.br/a1dw/emitirdae.do",
 		"target": "_uemg",
