@@ -92,6 +92,13 @@
 		"description": "AI"
 	},
 	{
+		"title": "NextChat",
+		"href": "https://chat.typegpt.net/",
+		"target": "_nextchat",
+		"img": "nextchat.png",
+		"description": "AI"
+	},
+	{
 		"title": "TalkAI",
 		"href": "https://talkai.info/pt/chat/",
 		"target": "_talkAI",
