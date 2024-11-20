@@ -19,15 +19,15 @@
 				background-color: #5f6061;
 			}
 
-			h1, label { color: white; }
+			h1, h3 { color: white; }
 
-			label, select {
+			select {
 				font-family: 'Trebuchet MS', Helvetica, sans-serif;
 				font-size: 16px;
 				font-weight: bold;
 			}
 
-			#titulo, #content, label {
+			.section, #content {
 				margin: 10px 0 10px 0;
 			}
 
@@ -41,7 +41,7 @@
 	</head>
 	<body>
 		<div id="container">
-			<div>
+			<div class="section">
 				<h1>Web rádio</h1>
 			</div>
 
@@ -57,7 +57,7 @@
 
 			<p id="content"></p>
 			
-			<div>
+			<div class="section">
 				<h3>Volume:</h3>
 				<!-- Controle de volume -->
 				<input type="range" id="volumeSlider" min="0" max="1" step="0.01" value="0.03">
