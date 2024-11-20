@@ -1,80 +1,100 @@
 <!DOCTYPE html>
 <html lang="pt-br">
-  <head>
-    <meta charset="utf-8">
-    <title>Web rádio</title>
-    <meta name="description" content="">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <style>
+	<head>
+		<meta charset="utf-8">
+		<title>Web rádio</title>
+		<meta name="description" content="">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<style>
 
-    	* {
-    		margin: 0;
-    		padding: 0;
-    		-webkit-box-sizing: border-box;
-    			 -moz-box-sizing: border-box;
-    						box-sizing: border-box;
-    	}
+			* {
+				margin: 0;
+				padding: 0;
+				-webkit-box-sizing: border-box;
+					 -moz-box-sizing: border-box;
+								box-sizing: border-box;
+			}
 
-    	body {
-        background-color: #5f6061;
-      }
+			body {
+				background-color: #5f6061;
+			}
 
-      h1, label { color: white; }
+			h1, label { color: white; }
 
-    	label, select {
-    		font-family: 'Trebuchet MS', Helvetica, sans-serif;
-    		font-size: 16px;
-    		font-weight: bold;
-    	}
+			label, select {
+				font-family: 'Trebuchet MS', Helvetica, sans-serif;
+				font-size: 16px;
+				font-weight: bold;
+			}
 
-    	#titulo, #content, label {
-        margin: 10px 0 10px 0;
-    	}
+			#titulo, #content, label {
+				margin: 10px 0 10px 0;
+			}
 
-    	#container {
-        width: 400px;
-        margin: 5% auto;
-        text-align: center;
-    	}
+			#container {
+				width: 400px;
+				margin: 5% auto;
+				text-align: center;
+			}
 
-    </style>
-  </head>
-  <body>
-    <div id="container">
-      <div id="titulo">
-        <h1>Web rádio</h1>
-      </div>
+		</style>
+	</head>
+	<body>
+		<div id="container">
+			<div>
+				<h1>Web rádio</h1>
+			</div>
 
-      <select id="combo" name="combo">
-        <option disabled selected>Escolha rádio</option>
-        <option value="http://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_ALVORADAAAC.aac">Alvorada FM 94.9</option>
-        <option value="https://antenaone.crossradio.com.br/stream/1;">Antena1</option>
-        <option value="http://s17.maxcast.com.br:8228/live">Brazilian FM</option>
-        <option value="https://9595.brasilstream.com.br/stream">CDL FM</option>
-        <option value="http://centova4.transmissaodigital.com:20020/autodj">Master Vision Anos 80</option>
-        <option value="http://play8.tikast.com/proxy/lavozdelanostalgia?mp=/stream">La Voz de la Nostalgia</option>
-        <option value="https://streaming.escuchanosonline.com:7006/;">Rádio 80 FM Buenos Aires</option>
-      </select>
+			<select id="combo" name="combo">
+				<option disabled selected>Escolha rádio</option>
+				<option value="http://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_ALVORADAAAC.aac">Alvorada FM 94.9</option>
+				<option value="https://antenaone.crossradio.com.br/stream/1;">Antena1</option>
+				<option value="http://s17.maxcast.com.br:8228/live">Brazilian FM</option>
+				<option value="https://9595.brasilstream.com.br/stream">CDL FM</option>
+				<option value="https://scdn.nrjaudio.fm/fr/30201/mp3_128.mp3?cdn_path=audio_lbs10&access_token=370f0224453d44c0ab712305062257f4">Chérie FM</option>
+				<option value="https://edge08.streamonkey.net/nostalgie-live/stream/mp3">Nostalgie</option>
+			</select>
 
-      <p id="content"></p>
-    </div>
+			<p id="content"></p>
+			
+			<div>
+				<h3>Volume:</h3>
+				<!-- Controle de volume -->
+				<input type="range" id="volumeSlider" min="0" max="1" step="0.01" value="0.03">
+			</div>
+		</div>
 
-    <script>
-      const combo = document.getElementById('combo');
+		<script>
+						// Seleciona o elemento combo
+			const combo = document.getElementById('combo'),
+						// Seleciona o elemento de controle deslizante
+						volumeSlider = document.getElementById('volumeSlider');
 
-      // Adicionar o event listener
-      combo.addEventListener('change', function() {
-        // Ação a ser executada quando a opção selecionada for alterada
-        let url = combo.value,
-            texto = combo.innerText;
-        document.getElementById('content').innerHTML = `<audio controls>
-  <source src="${url}" type="application/x-mpegURL">
-  <source src="${url}" type="audio/aac">
-  <source src="${url}" type="audio/mpeg">
-  Seu navegador não suporta reprodução de áudio.
+			let audio = undefined;
+
+			// Adicionar o event listener
+			combo.addEventListener('change', function() {
+				// Ação a ser executada quando a opção selecionada for alterada
+				let url = combo.value,
+						texto = combo.innerText;
+				document.getElementById('content')
+.innerHTML = `<audio controls>
+	<source src="${url}" type="application/x-mpegURL">
+	<source src="${url}" type="audio/aac">
+	<source src="${url}" type="audio/mpeg">
+	Seu navegador não suporta reprodução de áudio.
 </audio>`;
-      document.getElementsByTagName('audio')[0].volume = 0.1;
-      });
-    </script>
-  </body>
+
+				// Seleciona o elemento de audio
+				audio = document.getElementsByTagName('audio')[0];
+				// Define o volume inicial
+				audio.volume = volumeSlider.value; // Volume máximo
+			});
+
+			// Adiciona um evento para o controle deslizante
+			volumeSlider.addEventListener('input', function() {
+				audio.volume = this.value; // Altera o volume do vídeo
+			});
+		</script>
+	</body>
 </html>
