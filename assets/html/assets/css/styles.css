@@ -1,0 +1,33 @@
+* {
+	margin: 0;
+	padding: 0;
+	-webkit-box-sizing: border-box;
+		 -moz-box-sizing: border-box;
+					box-sizing: border-box;
+}
+
+body {
+	background-color: #5f6061;
+}
+
+h1, h3 { color: white; }
+
+select {
+	font-family: 'Trebuchet MS', Helvetica, sans-serif;
+	font-size: 16px;
+	font-weight: bold;
+}
+
+.section, #content {
+	margin: 10px 0 10px 0;
+}
+
+#container {
+	width: 400px;
+	margin: 5% auto;
+	text-align: center;
+}
+
+#volumeSlider {
+	width: 70%;
+}

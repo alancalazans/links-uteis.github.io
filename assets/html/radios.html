@@ -1,167 +1,31 @@
 <!DOCTYPE html>
 <html lang="pt-br">
+	<head>
+		<meta charset="utf-8">
+		<title>Web rádio</title>
+		<meta name="description" content="">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<link rel="stylesheet" href="assets/css/styles.css">
+		<link rel="shortcut icon" href="assets/img/png/radio.png">
+		<script src="assets/js/radios.js"></script>
+		<script src="assets/js/funcAux.js"></script>
+		<script src="assets/js/main.js" defer></script>
+	</head>
+	<body>
+		<div id="container">
+			<div class="section">
+				<h1>Web rádio</h1>
+			</div>
 
-<head>
+			<div id="comboSelect" class="section"></div>
 
-	<meta charset="utf-8">
-	<title>Web rádio</title>
-	<meta name="description" content="">
-	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<style>
+			<div id="elAudio" class="section"></div>
 
-		* {
-			margin: 0;
-			padding: 0;
-			-webkit-box-sizing: border-box;
-				 -moz-box-sizing: border-box;
-							box-sizing: border-box;
-		}
-
-		body {
-			background-color: #5f6061;
-		}
-
-		h1, h3 { color: white; }
-
-		select {
-			font-family: 'Trebuchet MS', Helvetica, sans-serif;
-			font-size: 16px;
-			font-weight: bold;
-		}
-
-		.section, #content {
-			margin: 10px 0 10px 0;
-		}
-
-		#container {
-			width: 400px;
-			margin: 5% auto;
-			text-align: center;
-		}
-
-		#volumeSlider {
-			width: 70%;
-		}
-
-	</style>
-	<script src="radios.js"></script>
-	<link rel="shortcut icon" href="radio.png">
-</head>
-
-<body>
-
-	<div id="container">
-		<div class="section">
-			<h1>Web rádio</h1>
+			<div class="section">
+				<h3>Volume:</h3>
+				<!-- Controle de volume -->
+				<input type="range" id="volumeSlider" min="0" max="1" step="0.01" value="0.03">
+			</div>
 		</div>
-
-		<div id="comboSelect" class="section"></div>
-
-		<div id="elAudio" class="section"></div>
-
-		<div class="section">
-			<h3>Volume:</h3>
-			<!-- Controle de volume -->
-			<input type="range" id="volumeSlider" min="0" max="1" step="0.01" value="0.03">
-		</div>
-	</div>
-
-	<script>
-		// Seleciona o elemento de controle deslizante
-		const volumeSlider = document.getElementById('volumeSlider');
-
-		let audio = undefined;
-
-		const createRadioSelect = (radios) => {
-			// Cria o elemento <select>
-			const select = document.createElement("select");
-			select.id = "combo";
-			select.name = "combo";
-
-			// Cria a opção inicial (desabilitada e selecionada por padrão)
-			const defaultOption = document.createElement("option");
-			defaultOption.textContent = "Escolha rádio";
-			defaultOption.disabled = true;
-			defaultOption.selected = true;
-			select.appendChild(defaultOption);
-
-			// Adiciona as opções do JSON
-			radios.forEach(radio => {
-				const option = document.createElement("option");
-				option.value = radio.url; // Define a URL como valor
-				option.textContent = radio.name; // Define o nome como texto visível
-				select.appendChild(option);
-			});
-
-			return select;
-		}
-
-		const criarPlayerAudio = (url) => {
-			// Criar elemento audio
-			const audioElement = document.createElement('audio');
-			audioElement.setAttribute('controls', '');
-
-			// Criar sources
-			const tiposAudio = [
-				'application/x-mpegURL',
-				'audio/aac',
-				'audio/mpeg'
-			];
-
-			// Adicionar cada source ao elemento audio
-			tiposAudio.forEach(tipo => {
-				const sourceElement = document.createElement('source');
-				sourceElement.setAttribute('src', url);
-				sourceElement.setAttribute('type', tipo);
-				audioElement.appendChild(sourceElement);
-			});
-
-			// Adicionar mensagem de fallback
-			const fallbackText = document.createTextNode('Seu navegador não suporta reprodução de áudio.');
-			audioElement.appendChild(fallbackText);
-
-			return audioElement;
-		}
-
-		// Cria dinamicamente tag select
-		document.getElementById('comboSelect').appendChild(createRadioSelect(radiosJson));
-		// Referência da tag select criada
-		const combo = document.getElementById('combo');
-
-		// Adicionar o event listener
-		combo.addEventListener('change', function() {
-			// Ação a ser executada quando a opção selecionada for alterada
-			let url = combo.value,
-					texto = combo.innerText;
-
-			/*
-				Para substituir o conteúdo anterior ao invés de acrescentar,
-				você pode usar o método innerHTML ou replaceChildren.
-				Aqui estão exemplos de como fazer isso:
-
-				Usando replaceChildren:
-					document.getElementById('elAudio').replaceChildren(criarPlayerAudio(url));
-
-				Usando innerHTML:
-					document.getElementById('elAudio').innerHTML = '';
-					document.getElementById('elAudio').appendChild(criarPlayerAudio(url));
-			
-				Ou de forma mais concisa:
-			*/
-			document.getElementById('elAudio').innerHTML = criarPlayerAudio(url).outerHTML;
-
-			// Seleciona o elemento de audio
-			audio = document.getElementsByTagName('audio')[0];
-			// Define o volume inicial
-			audio.volume = volumeSlider.value; // Volume máximo
-		});
-
-		// Adiciona um evento para o controle deslizante
-		volumeSlider.addEventListener('input', function() {
-			audio.volume = this.value; // Altera o volume do vídeo
-		});
-	</script>
-
-</body>
-
+	</body>
 </html>
