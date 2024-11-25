@@ -6,7 +6,6 @@ const radiosJson = [
 	{ name: "Chérie FM", url: "https://scdn.nrjaudio.fm/fr/30201/mp3_128.mp3?cdn_path=audio_lbs10&access_token=370f0224453d44c0ab712305062257f4" },
 	{ name: "Destinos em Músicas 80 e 90", url: "https://sv11.hdradios.net:6868/;" },
 	{ name: "Gazeta FM (RS)", url: "https://radio.hostspry.com.br/8002/stream" },
-	{ name: "Interativa FM (SP)", url: "https://r6.ciclano.io:15090/stream" },
 	{ name: "Jovem Pan FM (BH)", url: "https://r13.ciclano.io:15115/stream" },
 	{ name: "Minuano FM (RS)", url: "https://audiostream.i9suaradio.com:1415/stream" },
 	{ name: "Nativa (RS)", url: "https://r16.ciclano.io:15026/stream" },
