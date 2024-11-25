@@ -1773,6 +1773,13 @@
 		"description": "Extensões para Google Chrome Browser"
 	},
 	{
+		"title": "Firefox-Developer",
+		"href": "https://www.mozilla.org/pt-BR/firefox/developer/",
+		"target": "_firefox-developer",
+		"img": "firefox-developer.png",
+		"description": "Navegador da Web"
+	},
+	{
 		"title": "FreeFileSync",
 		"href": "https://freefilesync.org/",
 		"target": "_freefilesync",
