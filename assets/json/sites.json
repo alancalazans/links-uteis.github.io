@@ -64,6 +64,13 @@
 		"description": "Gemini AI"
 	},
 	{
+		"title": "GizAI",
+		"href": "https://www.giz.ai/",
+		"target": "_giz-ai",
+		"img": "giz-ai.png",
+		"description": "AI"
+	},
+	{
 		"title": "GPT-4o",
 		"href": "https://gpt4o.so/app",
 		"target": "_gpt4o",
