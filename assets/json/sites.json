@@ -1759,6 +1759,13 @@
 		"description": "Navegador Edge da Microsoft"
 	},
 	{
+		"title": "Min Browser",
+		"href": "https://minbrowser.org/",
+		"target": "_min-browser",
+		"img": "min-browser.png",
+		"description": "Navegador Min"
+	},
+	{
 		"title": "Onlyoffice",
 		"href": "https://www.onlyoffice.com/pt/download-docs.aspx#docs-community",
 		"target": "_onlyoffice",
@@ -1785,6 +1792,13 @@
 		"target": "_tgpt",
 		"img": "tgpt.png",
 		"description": "ChatGPT no terminal"
+	},
+	{
+		"title": "Tor Browser",
+		"href": "https://github.com/TheTorProject/gettorbrowser/releases/",
+		"target": "_tor-browser",
+		"img": "tor-browser.png",
+		"description": "Navegador Tor"
 	},
 	{
 		"title": "Translate-shell",

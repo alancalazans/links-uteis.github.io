@@ -5,22 +5,22 @@ const aux = {
   screenAdjust: () => {
     var windowWidth, windowHeight;
     //var screenWidth, screenHeight;
-    
+
     const sizeOfThings = () => {
     	windowWidth = window.innerWidth;
     	windowHeight = window.innerHeight;
     	//screenWidth = screen.width;
     	//screenHeight = screen.height;
-    
+
     	document.getElementById('container').style.height = (windowHeight-10).toString() + 'px';
     	document.getElementById('container').style.width = (windowWidth-100).toString() + 'px';
     	document.getElementById('menu').style.height = (windowHeight-10).toString() + 'px';
     	document.getElementById('sites').style.height = (windowHeight-10).toString() + 'px';
     };
-    
+
     sizeOfThings();
-    
-    window.addEventListener('resize', () => { sizeOfThings() });    
+
+    window.addEventListener('resize', () => { sizeOfThings() });
   },
   /*----------------------------------------
    * getJson(file)
