@@ -8,18 +8,25 @@
 		"description": "BAI Chat"
 	},
 	{
-		"title": "chat.lmsys",
+		"title": "Chat LMSYS",
 		"href": "https://chat.lmsys.org/",
 		"target": "_chat.lmsys",
 		"img": "chat.lmsys.png",
-		"description": "Chat de inteligência artificial"
+		"description": "Chat LMSYS"
+	},
+	{
+		"title": "ChatGPT",
+		"href": "https://chatgpt.com/",
+		"target": "_chatgpt",
+		"img": "chatgpt.png",
+		"description": "Chat GPT"
 	},
 	{
 		"title": "ChatK",
 		"href": "https://chat.oaichat.cc/",
 		"target": "_chatk",
 		"img": "chatk.png",
-		"description": "Chat de inteligência artificial"
+		"description": "Chat K"
 	},
 	{
 		"title": "Gemini",
@@ -33,7 +40,7 @@
 		"href": "https://www.giz.ai/",
 		"target": "_giz-ai",
 		"img": "giz-ai.png",
-		"description": "AI"
+		"description": "Giz AI"
 	},
 	{
 		"title": "GPT-4o",
@@ -47,7 +54,7 @@
 		"href": "https://chat.typegpt.net/",
 		"target": "_nextchat",
 		"img": "nextchat.png",
-		"description": "AI"
+		"description": "NextChat"
 	}
 ],
 "Bancos": [
