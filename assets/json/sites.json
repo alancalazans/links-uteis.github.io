@@ -1,13 +1,6 @@
 {
 "AI": [
 	{
-		"title": "AI SDK",
-		"href": "https://sdk.vercel.ai/",
-		"target": "_ai-sdk",
-		"img": "ai-sdk.png",
-		"description": "AI Vercel"
-	},
-	{
 		"title": "BAI Chat",
 		"href": "https://chatbot.theb.ai/#/chat",
 		"target": "_baichat",
@@ -27,34 +20,6 @@
 		"target": "_chatk",
 		"img": "chatk.png",
 		"description": "Chat de inteligência artificial"
-	},
-	{
-		"title": "ChatOpenAI",
-		"href": "https://chat.openai.com/chat",
-		"target": "_chatopenai",
-		"img": "chat_open_ai.png",
-		"description": "Chat de inteligência artificial"
-	},
-	{
-		"title": "Feyn Chat",
-		"href": "https://feyn.chat/",
-		"target": "_feynchat",
-		"img": "feynchat.png",
-		"description": "Feyn Chat - GPT 4 Turbo"
-	},
-	{
-		"title": "FFA Chat",
-		"href": "https://ffa.chat/",
-		"target": "_ffachat",
-		"img": "ffachat.png",
-		"description": "Chat de inteligência artificial"
-	},
-	{
-		"title": "FlowGPT",
-		"href": "https://flowgpt.com/",
-		"target": "_flowgpt",
-		"img": "flowgpt.png",
-		"description": "ChatGPT"
 	},
 	{
 		"title": "Gemini",
@@ -78,46 +43,11 @@
 		"description": "GPT-4o"
 	},
 	{
-		"title": "h2oGPT",
-		"href": "https://gpt.h2o.ai/",
-		"target": "_h2ogpt",
-		"img": "h2ogpt.png",
-		"description": "Chat de inteligência artificial"
-	},
-	{
-		"title": "HappyAPI",
-		"href": "http://happyapi.org/",
-		"target": "_happyapi",
-		"img": "happyapi.png",
-		"description": "Chat de inteligência artificial"
-	},
-	{
-		"title": "Lite Icoding",
-		"href": "https://lite.icoding.ink/",
-		"target": "_liteicoding",
-		"img": "liteicoding.png",
-		"description": "AI"
-	},
-	{
 		"title": "NextChat",
 		"href": "https://chat.typegpt.net/",
 		"target": "_nextchat",
 		"img": "nextchat.png",
 		"description": "AI"
-	},
-	{
-		"title": "TalkAI",
-		"href": "https://talkai.info/pt/chat/",
-		"target": "_talkAI",
-		"img": "talkAI.png",
-		"description": "ChatGPT"
-	},
-	{
-		"title": "ZZZ Code.AI",
-		"href": "https://zzzcode.ai/",
-		"target": "_zzzcodeai",
-		"img": "zzzcodeai.png",
-		"description": "AI para desenvolvedores"
 	}
 ],
 "Bancos": [
