@@ -1,6 +1,13 @@
 {
 "AI": [
 	{
+		"title": "AI Assistant",
+		"href": "https://aiassistantbot.netlify.app/",
+		"target": "_ai-assistant",
+		"img": "ai-assistant.png",
+		"description": "AI Assistant Bot"
+	},
+	{
 		"title": "BAI Chat",
 		"href": "https://chatbot.theb.ai/#/chat",
 		"target": "_baichat",
