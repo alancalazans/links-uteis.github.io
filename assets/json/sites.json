@@ -597,14 +597,14 @@
 		"description": "Servidor de Desenvolvimento em PHP com Banco de Dados"
 	},
 	{
-		"title": "Zang Lang",
+		"title": "Zang\nLanguage",
 		"href": "https://github.com/cmspeedrunner/Zang",
 		"target": "_zanglanguage",
 		"img": "zanglanguage.png",
 		"description": "Linguagem de multipropósito"
-	}
+	},
 	{
-		"title": "Zig Lang",
+		"title": "ZigLang",
 		"href": "https://ziglang.org/",
 		"target": "_ziglang",
 		"img": "ziglang.png",
