@@ -595,6 +595,20 @@
 		"target": "_xampp",
 		"img": "xampp.png",
 		"description": "Servidor de Desenvolvimento em PHP com Banco de Dados"
+	},
+	{
+		"title": "Zang Lang",
+		"href": "https://github.com/cmspeedrunner/Zang",
+		"target": "_zanglanguage",
+		"img": "zanglanguage.png",
+		"description": "Linguagem de multipropósito"
+	}
+	{
+		"title": "Zig Lang",
+		"href": "https://ziglang.org/",
+		"target": "_ziglang",
+		"img": "ziglang.png",
+		"description": "Linguagem de multipropósito"
 	}
 ],
 "Diversos": [
@@ -1724,11 +1738,11 @@
 		"description": "Extensões para Google Chrome Browser"
 	},
 	{
-		"title": "Firefox-Developer",
-		"href": "https://www.mozilla.org/pt-BR/firefox/developer/",
-		"target": "_firefox-developer",
-		"img": "firefox-developer.png",
-		"description": "Navegador da Web"
+		"title": "Firefox All",
+		"href": "https://www.mozilla.org/pt-BR/firefox/all/",
+		"target": "_firefox-all",
+		"img": "firefox-all.png",
+		"description": "Todos os browsers Firefox"
 	},
 	{
 		"title": "FreeFileSync",
