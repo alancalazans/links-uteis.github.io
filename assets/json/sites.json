@@ -693,7 +693,7 @@
 	},
 	{
 		"title": "Hotmail",
-		"href": "http://www.hotmail.com",
+		"href": "https://login.live.com/login.srf?wa=wsignin1.0&rpsnv=167&ct=1734046827&rver=7.5.2211.0&wp=MBI_SSL&wreply=https%3a%2f%2foutlook.live.com%2fowa%2f%3fnlp%3d1%26cobrandid%3dab0455a0-8d03-46b9-b18b-df2f57b9e44c%26RpsCsrfState%3d13b4cc65-96b4-d9d7-8037-94fa3962c05d&id=292841&aadredir=1&CBCXT=out&lw=1&fl=dob%2cflname%2cwld&cobrandid=ab0455a0-8d03-46b9-b18b-df2f57b9e44c",
 		"target": "_hotmail",
 		"img": "hotmail.png",
 		"description": "Servidor de e-mail da Microsoft"
