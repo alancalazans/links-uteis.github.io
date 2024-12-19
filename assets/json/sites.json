@@ -1773,6 +1773,13 @@
 		"description": "Editor e imagem avançado"
 	},
 	{
+		"title": "IconArchive",
+		"href": "https://iconarchive.com/",
+		"target": "_iconarchive",
+		"img": "iconarchive.png",
+		"description": "Download de ícones"
+	},
+	{
 		"title": "MarkText",
 		"href": "https://github.com/marktext/marktext",
 		"target": "_marktext",
@@ -1792,6 +1799,13 @@
 		"target": "_min-browser",
 		"img": "min-browser.png",
 		"description": "Navegador Min"
+	},
+	{
+		"title": "Obsidian",
+		"href": "https://obsidian.md/",
+		"target": "_obsidian",
+		"img": "obsidian.png",
+		"description": "Software para registro de notas em markdown"
 	},
 	{
 		"title": "Onlyoffice",
