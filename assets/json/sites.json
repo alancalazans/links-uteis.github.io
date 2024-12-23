@@ -628,7 +628,7 @@
 	},
 	{
 		"title": "Cardápio Setorial",
-		"href": "http://www.fump.ufmg.br/cardapio.aspx",
+		"href": "https://fump.ufmg.br/cardapio-do-dia/",
 		"target": "_setorial",
 		"img": "setorial.png",
 		"description": "Restaurante Universitário UFMG"
