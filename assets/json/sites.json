@@ -8,6 +8,13 @@
 		"description": "AI Assistant Bot"
 	},
 	{
+		"title": "AI Assistant\nFork",
+		"href": "https://aiassistantbot.surge.sh/",
+		"target": "_ai-assistant",
+		"img": "ai-assistant.png",
+		"description": "AI Assistant Bot"
+	},
+	{
 		"title": "BAI Chat",
 		"href": "https://chatbot.theb.ai/#/chat",
 		"target": "_baichat",
