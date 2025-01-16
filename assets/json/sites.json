@@ -1878,6 +1878,13 @@
 		"description": "Programa para criar pendrive de boot"
 	},
 	{
+		"title": "Ungoogled\nChromium",
+		"href": "https://ungoogled-software.github.io/ungoogled-chromium-binaries/",
+		"target": "_ungoogled-chromium",
+		"img": "ungoogled-chromium.png",
+		"description": "Chromium browser"
+	},
+	{
 		"title": "Ventoy",
 		"href": "https://www.ventoy.net/en/index.html",
 		"target": "_ventoy",
