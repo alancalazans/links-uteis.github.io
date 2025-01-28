@@ -478,6 +478,13 @@
 		"description": "Poetry é uma ferramenta para gerenciamento de dependências e empacotamento em Python"
 	},
 	{
+		"title": "Powershell",
+		"href": "https://learn.microsoft.com/pt-br/powershell/",
+		"target": "_powershell",
+		"img": "powershell.png",
+		"description": "Powershell"
+	},
+	{
 		"title": "Public APIs",
 		"href": "https://github.com/public-apis/public-apis",
 		"target": "_public_apis",
@@ -597,10 +604,10 @@
 		"description": "Biblioteca em JS para construção da parte visual do site"
 	},
 	{
-		"title": "w3schools",
-		"href": "https://www.w3schools.com/jquery/jquery_ref_selectors.asp",
+		"title": "W3Schools",
+		"href": "https://www.w3schools.com/",
 		"target": "_w3schools",
-		"img": "w3schools.com.png",
+		"img": "w3schools.png",
 		"description": "Sites com diversos conteúdos sobre linguagens de programação"
 	},
 	{
@@ -1801,11 +1808,11 @@
 		"description": "Navegador Edge da Microsoft"
 	},
 	{
-		"title": "Min Browser",
-		"href": "https://minbrowser.org/",
+		"title": "MinBrowser",
+		"href": "https://github.com/minbrowser/min",
 		"target": "_min-browser",
-		"img": "min-browser.png",
-		"description": "Navegador Min"
+		"img": "minbrowser.png",
+		"description": "Navegador Minimalista"
 	},
 	{
 		"title": "Obsidian",
