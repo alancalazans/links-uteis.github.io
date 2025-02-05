@@ -43,6 +43,13 @@
 		"description": "Chat K"
 	},
 	{
+		"title": "DeepSeek",
+		"href": "https://chat.deepseek.com/",
+		"target": "_chat.deepseek",
+		"img": "chat.deepseek.png",
+		"description": "Chat DeepSeek"
+	},
+	{
 		"title": "Gemini",
 		"href": "https://gemini.google.com/app",
 		"target": "_gemini",
