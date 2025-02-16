@@ -71,6 +71,13 @@
 		"description": "GPT-4o"
 	},
 	{
+		"title": "KimiAI",
+		"href": "https://kimi.moonshot.cn/",
+		"target": "_kimiai",
+		"img": "kimi.ai.png",
+		"description": "KimiAI"
+	},
+	{
 		"title": "NextChat",
 		"href": "https://chat.typegpt.net/",
 		"target": "_nextchat",
@@ -1062,6 +1069,13 @@
 		"target": "_debian_unofficial",
 		"img": "debian_unofficial.png",
 		"description": "Sistema Operacional Debian não oficial"
+	},
+	{
+		"title": "Deepin Linux",
+		"href": "https://www.deepin.org/index/en",
+		"target": "_deepinlinux",
+		"img": "deepinlinux.png",
+		"description": "Sistema Operacional Chinês baseado em Debian"
 	},
 	{
 		"title": "Devuan",
