@@ -464,6 +464,13 @@
 		"description": "Framework para a criação de apps desktop hibridas com NodeWebKit"
 	},
 	{
+		"title": "OCaml",
+		"href": "https://ocaml.org/",
+		"target": "_ocaml",
+		"img": "ocaml.png",
+		"description": "Linguagem de programação funcional"
+	},
+	{
 		"title": "Perl6 - Guia",
 		"href": "http://pt.perl6intro.com/",
 		"target": "_rakudo-guia",
