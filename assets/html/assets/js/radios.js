@@ -11,6 +11,6 @@ const radiosJson = [
 	{ name: "Nativa (RS)", url: "https://r16.ciclano.io:15026/stream" },
 	{ name: "Nostalgie", url: "https://edge08.streamonkey.net/nostalgie-live/stream/mp3" },
 	{ name: "Pop Rock FM (RS)", url: "https://cast2.youngtech.radio.br:8160/radio" },
-	{ name: "Transamérica Pop", url: "https://playerservices.streamtheworld.com/api/livestream-redirect/RT_RJAAC.aac" }
+	{ name: "Transamérica Pop", url: "https://playerservices.streamtheworld.com/api/livestream-redirect/RT_RJAAC.aac" },
+	{ name: "UFMG Educativa", url: "http://150.164.63.210:8000/stream" }
 ];
-
