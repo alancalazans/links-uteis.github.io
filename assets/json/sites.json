@@ -1652,6 +1652,13 @@
 		"description": "Serviço para envio de arquivos para outro dispositivo"
 	},
 	{
+		"title": "SCISPACE",
+		"href": "https://scispace.com/",
+		"target": "_scispace",
+		"img": "scispace.png",
+		"description": "Ferramentas de IA all-in-one para estudantes e pesquisadores"
+	},
+	{
 		"title": "Slides",
 		"href": "https://slides.com/",
 		"target": "_slides",
