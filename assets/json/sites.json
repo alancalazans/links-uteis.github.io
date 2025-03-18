@@ -90,6 +90,13 @@
 		"target": "_openevidence",
 		"img": "openevidence.png",
 		"description": "A principal plataforma de informações médicas alimentada por IA."
+	},
+	{
+		"title": "SCISPACE",
+		"href": "https://scispace.com/",
+		"target": "_scispace",
+		"img": "scispace.png",
+		"description": "Ferramentas de IA all-in-one para estudantes e pesquisadores"
 	}
 ],
 "Bancos": [
@@ -1650,13 +1657,6 @@
 		"target": "_send-anywhere",
 		"img": "send-anywhere.png",
 		"description": "Serviço para envio de arquivos para outro dispositivo"
-	},
-	{
-		"title": "SCISPACE",
-		"href": "https://scispace.com/",
-		"target": "_scispace",
-		"img": "scispace.png",
-		"description": "Ferramentas de IA all-in-one para estudantes e pesquisadores"
 	},
 	{
 		"title": "Slides",
