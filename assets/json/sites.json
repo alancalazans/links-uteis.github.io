@@ -1020,6 +1020,13 @@
 		"description": "Programação da Globo de filmes, series, jornalismo, novelas, documentários etc..."
 	},
 	{
+		"title": "Netcine",
+		"href": "https://netcinehd.li/",
+		"target": "_netcine",
+		"img": "netcine.png",
+		"description": "Filmes, séries..."
+	},
+	{
 		"title": "Rede Canais",
 		"href": "https://redecanais.mov/",
 		"target": "_redecanais",
