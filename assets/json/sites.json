@@ -43,6 +43,13 @@
 		"description": "Chat K"
 	},
 	{
+		"title": "Copilot\nMicrosoft",
+		"href": "https://copilot.microsoft.com/",
+		"target": "_copilot-microsoft",
+		"img": "copilot-microsoft.png",
+		"description": "Copilot Microsoft"
+	},
+	{
 		"title": "DeepSeek",
 		"href": "https://chat.deepseek.com/",
 		"target": "_chat.deepseek",
