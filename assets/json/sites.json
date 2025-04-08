@@ -1,15 +1,8 @@
 {
 "AI": [
 	{
-		"title": "AI Assistant",
-		"href": "https://aiassistantbot.netlify.app/",
-		"target": "_ai-assistant",
-		"img": "ai-assistant.png",
-		"description": "AI Assistant Bot"
-	},
-	{
 		"title": "AI Assistant\nFork",
-		"href": "https://aiassistantbot.surge.sh/",
+		"href": "https://aiassistantbot.pages.dev/",
 		"target": "_ai-assistant",
 		"img": "ai-assistant.png",
 		"description": "AI Assistant Bot"
@@ -34,13 +27,6 @@
 		"target": "_chatgpt",
 		"img": "chatgpt.png",
 		"description": "Chat GPT"
-	},
-	{
-		"title": "ChatK",
-		"href": "https://chat.oaichat.cc/",
-		"target": "_chatk",
-		"img": "chatk.png",
-		"description": "Chat K"
 	},
 	{
 		"title": "Copilot\nMicrosoft",
