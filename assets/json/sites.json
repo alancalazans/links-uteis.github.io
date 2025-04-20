@@ -85,6 +85,13 @@
 		"description": "A principal plataforma de informações médicas alimentada por IA."
 	},
 	{
+		"title": "SCIRA AI",
+		"href": "https://scira.ai/",
+		"target": "_scira-ai",
+		"img": "scira-ai.png",
+		"description": "AI"
+	}
+	{
 		"title": "SCISPACE",
 		"href": "https://scispace.com/",
 		"target": "_scispace",
@@ -1526,6 +1533,13 @@
 		"description": "Converte alguns arquivos p/ outros formatos"
 	},
 	{
+		"title": "Cobalt",
+		"href": "https://cobalt.tools/",
+		"target": "_cobalt",
+		"img": "cobalt.png",
+		"description": "Download de vídeos e audio"
+	},
+	{
 		"title": "Correios",
 		"href": "http://www.correios.com.br",
 		"target": "_correios",
@@ -1631,6 +1645,13 @@
 		"description": "Identificador online de músicas"
 	},
 	{
+		"title": "AMP4",
+		"href": "https://amp4.cc/",
+		"target": "_amp4",
+		"img": "amp4.png",
+		"description": "Download de vídeo e audio"
+	},
+	{
 		"title": "Print Friendly",
 		"href": "http://www.printfriendly.com/",
 		"target": "_print_friendly",
@@ -1664,6 +1685,13 @@
 		"target": "_slides",
 		"img": "slides.png",
 		"description": "Criação de apresentações online"
+	},
+	{
+		"title": "Slum",
+		"href": "https://slides.com/",
+		"target": "_slum",
+		"img": "slum.png",
+		"description": "Monitor em tempo real de biblioteca oculta nas sombras"
 	},
 	{
 		"title": "Snappea",
