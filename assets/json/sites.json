@@ -90,7 +90,7 @@
 		"target": "_scira-ai",
 		"img": "scira-ai.png",
 		"description": "AI"
-	}
+	},
 	{
 		"title": "SCISPACE",
 		"href": "https://scispace.com/",
@@ -1688,7 +1688,7 @@
 	},
 	{
 		"title": "Slum",
-		"href": "https://slides.com/",
+		"href": "https://open-slum.org/",
 		"target": "_slum",
 		"img": "slum.png",
 		"description": "Monitor em tempo real de biblioteca oculta nas sombras"
