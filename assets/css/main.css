@@ -1,42 +1,42 @@
 * {
-		margin: 0;
-		padding: 0;
-		-webkit-box-sizing: border-box;
-			 -moz-box-sizing: border-box;
-						box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    -webkit-box-sizing: border-box;
+       -moz-box-sizing: border-box;
+            box-sizing: border-box;
 }
 
 body {
-	background-color: #5f6061;
-	font-family: 'Trebuchet MS', Helvetica, sans-serif;
-	font-size: 14px;
-	//font-weight: bold;
+  background-color: #5f6061;
+  font-family: 'Trebuchet MS', Helvetica, sans-serif;
+  font-size: 14px;
+  //font-weight: bold;
 }
 
 #container {
-	padding: 5px;
-	margin: 0 auto;
+  padding: 5px;
+  margin: 0 auto;
 }
 
 #menu {
-	float: left;
-	width: 150px;
-	overflow-y: scroll;
+  float: left;
+  width: 150px;
+  overflow-y: scroll;
 }
 
 #sites {
-	overflow-y: scroll;
+  overflow-y: scroll;
 }
 
 button {
-	padding: 5px;
-	background-color: #181A1B;
-	margin-bottom: 10px;
-	width: 125px;
-	font-size: 16px;
-	border-radius: 6px;
-	cursor: pointer;
-	border: none;
+  padding: 5px;
+  background-color: #181A1B;
+  margin-bottom: 10px;
+  width: 125px;
+  font-size: 16px;
+  border-radius: 6px;
+  cursor: pointer;
+  border: none;
 }
 
 .active { background: #069cc2; }

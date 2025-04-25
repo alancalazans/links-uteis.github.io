@@ -1,10 +1,10 @@
 Site oficial dos módulos perl: https://metacpan.org/
 
 Antes das dependências do webserver propriamente, instalar:
-	
-	sudo cpan App::cpanminus
 
-E na sequência as dependências:	
+  sudo cpan App::cpanminus
 
-	sudo cpanm HTTP::Server::Simple
-	sudo cpanm File::Slurp
+E na sequência as dependências:
+
+  sudo cpanm HTTP::Server::Simple
+  sudo cpanm File::Slurp
