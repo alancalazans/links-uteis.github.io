@@ -583,6 +583,13 @@
     "description": "Customizar caixa de diálogo `Alert()`"
   },
   {
+    "title": "Tauri",
+    "href": "https://tauri.app/",
+    "target": "_tauri",
+    "img": "tauri.png",
+    "description": "Framework feito em Rust para criar apps multiplataforma c/ tecnologias web"
+  },
+  {
     "title": "TextAdept",
     "href": "https://foicica.com/textadept/",
     "target": "_textadept",
