@@ -29,6 +29,13 @@
     "description": "Chat GPT"
   },
   {
+    "title": "ChatXenaiTech",
+    "href": "https://chat.xenai.tech/",
+    "target": "_chatxenaitech",
+    "img": "chatxenaitech.png",
+    "description": "Chat Xenai Tech"
+  },
+  {
     "title": "Copilot\nMicrosoft",
     "href": "https://copilot.microsoft.com/",
     "target": "_copilot-microsoft",
