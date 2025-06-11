@@ -1829,6 +1829,13 @@
     "description": "Ativírus"
   },
   {
+    "title": "Brave Browser",
+    "href": "https://github.com/brave/brave-browser",
+    "target": "_bravebrowser",
+    "img": "bravebrowser.png",
+    "description": "Web Browser"
+  },
+  {
     "title": "CCleaner",
     "href": "https://www.ccleaner.com/pt-br/ccleaner/download/standard",
     "target": "_ccleaner",
