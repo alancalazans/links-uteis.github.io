@@ -1064,6 +1064,13 @@
 ],
 "Linux": [
   {
+    "title": "AnduinOS",
+    "href": "https://www.anduinos.com/",
+    "target": "_anduinos",
+    "img": "anduinos.png",
+    "description": "Linux baseado em Debian + Gnome interface"
+  },
+  {
     "title": "AntiX\nLinux",
     "href": "https://antixlinux.com/",
     "target": "_antix",
