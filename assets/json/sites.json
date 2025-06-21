@@ -50,6 +50,13 @@
     "description": "Chat DeepSeek"
   },
   {
+    "title": "ISH-AI-CHAT",
+    "href": "https://ish.junioralive.in/",
+    "target": "_ish-ai-chat",
+    "img": "ish-ai-chat.png",
+    "description": "ISH-AI-CHAT"
+  },
+  {
     "title": "Gemini",
     "href": "https://gemini.google.com/app",
     "target": "_gemini",
@@ -76,6 +83,13 @@
     "target": "_kimiai",
     "img": "kimi.ai.png",
     "description": "KimiAI"
+  },
+  {
+    "title": "MiniMax-AI",
+    "href": "https://chat.minimax.io/",
+    "target": "_minimax-ai",
+    "img": "minimax-ai.png",
+    "description": "MiniMax-AI"
   },
   {
     "title": "NextChat",
