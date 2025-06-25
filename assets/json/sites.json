@@ -387,6 +387,13 @@
     "description": "Ambiente online de experimentação de codificação de sites com preview"
   },
   {
+    "title": "Kate Editor",
+    "href": "https://kate-editor.org/pt-br/get-it/",
+    "target": "_kate-editor",
+    "img": "kate-editor.png",
+    "description": "Editor de código"
+  },
+  {
     "title": "Lazarus",
     "href": "http://www.lazarus-ide.org/",
     "target": "_lazarus",
