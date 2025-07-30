@@ -1554,6 +1554,13 @@
     "description": "Icones para download"
   },
   {
+    "title": "Calendário Brasil",
+    "href": "https://calendariodobrasil.com.br/",
+    "target": "_calendario-brasil",
+    "img": "calendario-brasil.png",
+    "description": "Calendário + feriados"
+  },
+  {
     "title": "Canva",
     "href": "https://www.canva.com/pt_br/",
     "target": "_canva",
