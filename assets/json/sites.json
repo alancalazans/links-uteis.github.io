@@ -1871,6 +1871,13 @@
     "description": "Web Browser"
   },
   {
+    "title": "BrowserOS",
+    "href": "https://github.com/browseros-ai/BrowserOS",
+    "target": "_browseros",
+    "img": "browseros.png",
+    "description": "BrowserOS navegador combinado com IA"
+  },
+  {
     "title": "CCleaner",
     "href": "https://www.ccleaner.com/pt-br/ccleaner/download/standard",
     "target": "_ccleaner",
