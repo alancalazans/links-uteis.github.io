@@ -36,6 +36,13 @@
     "description": "Chat Xenai Tech"
   },
   {
+    "title": "Chat with Z",
+    "href": "https://chat.z.ai/",
+    "target": "_chat-with-z",
+    "img": "chat-with-z.png",
+    "description": "Chat with Z"
+  },
+  {
     "title": "Copilot\nMicrosoft",
     "href": "https://copilot.microsoft.com/",
     "target": "_copilot-microsoft",
@@ -48,6 +55,13 @@
     "target": "_chat.deepseek",
     "img": "chat.deepseek.png",
     "description": "Chat DeepSeek"
+  },
+  {
+    "title": "Ernie",
+    "href": "https://chat.deepseek.com/",
+    "target": "_ernie",
+    "img": "ernie.png",
+    "description": "IA da Baidu"
   },
   {
     "title": "ISH-AI-CHAT",
@@ -118,6 +132,13 @@
     "target": "_scispace",
     "img": "scispace.png",
     "description": "Ferramentas de IA all-in-one para estudantes e pesquisadores"
+  },
+  {
+    "title": "StepFun",
+    "href": "https://stepfun.ai/chats/new",
+    "target": "_stepfun",
+    "img": "stepfun.png",
+    "description": "IA"
   }
 ],
 "Bancos": [
@@ -266,6 +287,13 @@
     "target": "_customtkinter",
     "img": "customtkinter.png",
     "description": "Uma biblioteca de UI python moderna e personalizável baseada em Tkinter"
+  },
+  {
+    "title": "Developer Puter",
+    "href": "https://developer.puter.com/tutorials/free-unlimited-openrouter-api/",
+    "target": "_developer-puter",
+    "img": "developer-puter.png",
+    "description": "API OpenRouter gratuita e ilimitada"
   },
   {
     "title": "DotNet Core",
