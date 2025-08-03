@@ -247,6 +247,13 @@
     "description": "Estilização de sites"
   },
   {
+    "title": "BunJS",
+    "href": "https://bun.com/",
+    "target": "_bunjs",
+    "img": "bunjs.png",
+    "description": "Bun é um tudo-em-um JavaScript runtime & toolkit"
+  },
+  {
     "title": "CapacitorJS",
     "href": "https://capacitorjs.com/",
     "target": "_capacitor",
@@ -1091,7 +1098,7 @@
   },
   {
     "title": "Rede Canais",
-    "href": "https://redecanais.mov/",
+    "href": "https://redecanais.gd/",
     "target": "_redecanais",
     "img": "redecanais.png",
     "description": "Baixar filmes e series"
