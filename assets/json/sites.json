@@ -1239,6 +1239,13 @@
     "description": "Blog Opção Linux oferece suporte a 4 distribuições (Debian, Fedora, Ubuntu e o openSUSE), com o passo a passo (detalhado e com imagens) de instalação e a configuração após instalação das mesmas"
   },
   {
+    "title": "PeppermintOS",
+    "href": "https://peppermintos.com/",
+    "target": "_peppermintos",
+    "img": "peppermintos.png",
+    "description": "Peppermint é um sistema operacional que fornece ao usuário a oportunidade de construir o sistema que melhor se adapta às suas necessidades"
+  },
+  {
     "title": "Sparky Linux",
     "href": "https://sparkylinux.org/",
     "target": "_sparkylinux",
