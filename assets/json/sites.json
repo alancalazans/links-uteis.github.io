@@ -139,6 +139,13 @@
     "target": "_stepfun",
     "img": "stepfun.png",
     "description": "IA"
+  },
+  {
+    "title": "Yupp",
+    "href": "https://yupp.ai/",
+    "target": "_yupp",
+    "img": "yupp.png",
+    "description": "IA"
   }
 ],
 "Bancos": [
