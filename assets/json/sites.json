@@ -29,6 +29,13 @@
     "description": "Chat GPT"
   },
   {
+    "title": "Chat Qwen AI",
+    "href": "https://chat.qwen.ai/",
+    "target": "_chatqwenai",
+    "img": "chatqwenai.png",
+    "description": "Chat Qwen AI"
+  },
+  {
     "title": "Chat Xenai\nTech",
     "href": "https://chat.xenai.tech/",
     "target": "_chatxenaitech",
@@ -329,6 +336,13 @@
     "target": "_electronjs",
     "img": "electronjs.png",
     "description": "Framework para a criação de apps desktop baseadas em NodeJS"
+  },
+  {
+    "title": "FirebaseStudio",
+    "href": "https://firebase.studio/",
+    "target": "_firebasestudio",
+    "img": "firebasestudio.png",
+    "description": "Ambiente de desenvolvimento com IA"
   },
   {
     "title": "Flaticon",
@@ -644,6 +658,13 @@
     "target": "_sql",
     "img": "sql.png",
     "description": "SQL: O que é e como usar os principais comandos básicos SQL"
+  },
+  {
+    "title": "SQLiteStudio",
+    "href": "https://github.com/pawelsalawa/sqlitestudio",
+    "target": "_sqlitestudio",
+    "img": "sqlitestudio.png",
+    "description": "SQLiteStudio"
   },
   {
     "title": "SweetAlert2",
@@ -1984,7 +2005,7 @@
   },
   {
     "title": "MarkText",
-    "href": "https://github.com/marktext/marktext",
+    "href": "https://github.com/Tkaixiang/marktext/",
     "target": "_marktext",
     "img": "marktext.png",
     "description": "Editor Markdown"
