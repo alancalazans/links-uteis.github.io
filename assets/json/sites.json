@@ -604,6 +604,13 @@
     "description": "Catálogo de APIs públicas"
   },
   {
+    "title": "Qwen-Coder3",
+    "href": "https://github.com/Mastersuek/qwen-coder",
+    "target": "_qwen-coder3",
+    "img": "github.png",
+    "description": "Qwen-Coder3 Agent (IA de terminal p/ desenvolvimento)"
+  },
+  {
     "title": "Raku - Docs",
     "href": "https://docs.raku.org/",
     "target": "_raku-docs",
