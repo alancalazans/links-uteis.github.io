@@ -352,6 +352,13 @@
     "description": "Site com diversos icones para baixar"
   },
   {
+    "title": "Flet",
+    "href": "https://flet.dev/",
+    "target": "_flet",
+    "img": "flet.png",
+    "description": "Crie aplicativos multiplataforma em Python com tecnologia Flutter"
+  },
+  {
     "title": "Fontawesome",
     "href": "https://fontawesome.com/icons?d=gallery",
     "target": "_fontawesome",
