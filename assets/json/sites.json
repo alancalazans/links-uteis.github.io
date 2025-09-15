@@ -366,6 +366,13 @@
     "description": "Ícones para download"
   },
   {
+    "title": "Gemini-cli",
+    "href": "https://github.com/google-gemini/gemini-cli",
+    "target": "_gemini-cli",
+    "img": "github.png",
+    "description": "Gemini-cli Agent (IA de terminal p/ desenvolvedores)"
+  },
+  {
     "title": "Golang",
     "href": "https://golang.org",
     "target": "_go",
