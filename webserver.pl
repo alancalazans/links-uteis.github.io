@@ -7,6 +7,8 @@ use HTTP::Server::Simple::CGI;
   package WebServer; use base 'HTTP::Server::Simple::CGI';
 
   use File::Slurp; # import read_file
+  use Cwd 'abs_path';
+  use File::Spec;
 
   my $nl = "\x0d\x0a";
 
@@ -25,86 +27,74 @@ use HTTP::Server::Simple::CGI;
 
   } # }}}
 
+  sub send_404 { # {{{
+    my $path_relative = shift;
+
+    print "HTTP/1.0 404 Not Found$nl$nl";
+    print "File '$path_relative' not found";
+
+  } # }}}
+
   sub serve_file { # {{{
 
     my $path_relative = shift;
     my $content_type  = shift;
 
-    print_header($content_type);
-
-    # Para exibir na página caminho e arquivo que esta sendo renderizado
-    #print STDOUT "serve_file: $path_relative\n";
-
     if (-e $path_relative) {
+      print_header($content_type);
       print read_file($path_relative, binmode => ":raw");
     }
     else {
-      print "file $path_relative not found";
+      send_404($path_relative);
     }
 
   } # }}}
 
-  sub handle_request { # {{{
+  my %mime_types = (
+    'html' => 'text/html',
+    'jade' => 'text/html',
+    'js'   => 'application/javascript',
+    'json' => 'application/json',
+    'css'  => 'text/css',
+    'png'  => 'image/png',
+    'jpg'  => 'image/jpeg',
+    'jpeg' => 'image/jpeg',
+    'ico'  => 'image/x-icon',
+    'txt'  => 'text/plain'
+  );
+
+  sub handle_request { # {{{ 
 
     my $self = shift;
     my $cgi  = shift;
 
-    my $path = $cgi -> path_info;
+    my $path = $cgi->path_info;
+    my $doc_root = abs_path('.');
+    my $file_path = File::Spec->catfile($doc_root, $path);
+    $file_path = abs_path($file_path);
+
+    if (index($file_path, $doc_root) != 0) {
+      print "HTTP/1.0 403 Forbidden$nl$nl";
+      print "Forbidden";
+      return;
+    }
 
     if ($path eq '/') {
-      if (-e 'index.html') {
-        serve_file ("index.html", 'text/html');
-      }
-      else {
-        print join "\n", glob('*');
-      }
-      return;
+      $path = '/index.html';
     }
 
-  #  See http://de.selfhtml.org/diverses/mimetypen.htm for Mime Types.
+    my ($ext) = $path =~ /\.([^.]+)$/;
 
-    if ($path =~ /\.htm$/  or $path =~ /\.html$/) {
-      serve_file (".$path", 'text/html');
-      return;
-    }
-    if ($path =~ /\.jade/  or $path =~ /\.html$/) {
-      serve_file (".$path", 'text/html');
-      return;
-    }
-    if ($path =~ /\.js$/ ) {
-      serve_file (".$path", 'application/javascript');
-      return;
-    }
-    if ($path =~ /\.txt$/) {
-      serve_file (".$path", 'text/plain');
-      return;
-    }
-    if ($path =~ /\.json$/) {
-      serve_file (".$path", 'text/plain');
-      return;
-    }
-    if ($path =~ /\.css$/ ) {
-      serve_file (".$path", 'text/css');
-      return;
-    }
-    if ($path =~ /\.png$/) {
-      serve_file (".$path", 'image/png');
-      return;
-    }
-    if ($path =~ /\.jpg$/ or $path =~ /\.jpeg/) {
-      serve_file (".$path", 'image/jpeg');
-      return;
-    }
-    if ($path =~ /\.ico$/) {
-      serve_file (".$path", 'image/x-icon');
+    if (defined $ext and exists $mime_types{$ext}) {
+      serve_file(substr($file_path, length($doc_root) + 1), $mime_types{$ext});
       return;
     }
 
     print STDERR "Unknown Mime type for $path\n";
 
-    serve_file( ".$path", 'text/plain');
+    serve_file(substr($file_path, length($doc_root) + 1), 'text/plain');
 
-  } # }}}
+  } # }}} 
 }
 
 # Use Port 8080 (http://localhost:8080)

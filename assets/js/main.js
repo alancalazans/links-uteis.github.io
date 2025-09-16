@@ -1,14 +1,16 @@
-var categoria = "Pesquisa",
+let categoria = "Pesquisa",
     dados,
     menu,
-    sites,
-    /* module */
-    clickCategory  = aux.clickCategory,
-    getJson        = aux.getJson,
-    goSites        = aux.goSites,
-    removeAtribute = aux.removeAtribute,
-    screenAdjust   = aux.screenAdjust,
-    setAtribute    = aux.setAtribute;
+    sites;
+
+const {
+  clickCategory,
+  getJson,
+  goSites,
+  removeAtribute,
+  screenAdjust,
+  setAtribute
+} = aux;
 
 screenAdjust();
 
@@ -20,10 +22,9 @@ fetch('assets/templates/menu.jade')
     menu = json;
     document.getElementById('menu').innerHTML = jade.compile(html)();
     setAtribute();
+    goSites();
   });
 })
 .catch(error => {
   console.log(error.message);
 });
-
-goSites();

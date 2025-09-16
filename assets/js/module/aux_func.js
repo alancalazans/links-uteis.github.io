@@ -3,7 +3,7 @@ const aux = {
    *--- screenAjust() ---
    *---------------------*/
   screenAdjust: () => {
-    var windowWidth, windowHeight;
+    let windowWidth, windowHeight;
     //var screenWidth, screenHeight;
 
     const sizeOfThings = () => {
@@ -60,17 +60,29 @@ const aux = {
    *--- goSites() ---
    *-----------------*/
   goSites: () => {
-    fetch('assets/templates/sites.jade')
-    .then(response => response.text())
-    .then(html => {
-      dados = getJson('assets/json/sites.json');
-      dados.then(json => {
-        sites = json;
-        document.getElementById('sites').innerHTML = jade.compile(html)();
-      });
-    })
-    .catch(error => {
-      console.log(error.message);
+    if (app.template) {
+      app.render(app.template);
+    } else {
+      fetch('assets/templates/sites.jade')
+        .then(response => response.text())
+        .then(html => {
+          app.template = jade.compile(html);
+          app.render(app.template);
+        })
+        .catch(error => {
+          console.log(error.message);
+        });
+    }
+  }
+};
+
+const app = {
+  template: null,
+  render: (template) => {
+    dados = aux.getJson('assets/json/sites.json');
+    dados.then(json => {
+      sites = json;
+      document.getElementById('sites').innerHTML = template();
     });
   }
-}
+};
