@@ -71,6 +71,13 @@
     "description": "IA da Baidu"
   },
   {
+    "title": "GeneratePromptAI",
+    "href": "https://generateprompt.ai/en/",
+    "target": "_generatePromptAI",
+    "img": "generatePromptAI.png",
+    "description": "Gere prompts de IA precisos e profissionais para ChatGPT, Claude, Gemini e muito mais. Melhore a qualidade da produção e aumente sua produtividade com os melhores resultados"
+  },
+  {
     "title": "ISH-AI-CHAT",
     "href": "https://ish.junioralive.in/",
     "target": "_ish-ai-chat",
