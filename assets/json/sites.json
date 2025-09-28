@@ -583,6 +583,20 @@
     "description": "Linguagem de programação funcional"
   },
   {
+    "title": "OpenCode",
+    "href": "https://github.com/sst/opencode",
+    "target": "_opencode",
+    "img": "github.png",
+    "description": "OpenCode Agent (IA de terminal p/ desenvolvedores)"
+  },
+  {
+    "title": "OpenRouter-AI",
+    "href": "https://openrouter.ai/",
+    "target": "_openrouter",
+    "img": "openrouter.png",
+    "description": "Coleção de modelos de IA"
+  },
+  {
     "title": "Perl6 - Guia",
     "href": "http://pt.perl6intro.com/",
     "target": "_rakudo-guia",
