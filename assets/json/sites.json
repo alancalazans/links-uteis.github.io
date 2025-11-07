@@ -1253,6 +1253,13 @@
     "description": "Sistema Operacional Devuan fork do Debian"
   },
   {
+    "title": "DistroWatch",
+    "href": "https://distrowatch.com/",
+    "target": "_distrowatch",
+    "img": "distrowatch.png",
+    "description": "DistroWatch é um site dedicado a disticur, revisar e manter-se atualizado sobre sistemas operacionais de código aberto. Este site concentra-se particularmente em distribuições Linux e versões de BSD"
+  },
+  {
     "title": "Garuda Linux",
     "href": "https://garudalinux.org",
     "target": "_garudalinux",
