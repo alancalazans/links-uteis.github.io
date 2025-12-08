@@ -1969,10 +1969,10 @@
 ],
 "Uteis": [
   {
-    "title": "Appimagehub",
-    "href": "https://www.appimagehub.com/",
-    "target": "_appimagehub",
-    "img": "appimagehub.png",
+    "title": "Apps-AppImages",
+    "href": "https://appimage.github.io/apps/",
+    "target": "_appimages",
+    "img": "appimages.png",
     "description": "Aplicativos portáteis para Linux"
   },
   {
