@@ -15,11 +15,11 @@
     "description": "BAI Chat"
   },
   {
-    "title": "Chat LMSYS",
-    "href": "https://chat.lmsys.org/",
-    "target": "_chat.lmsys",
-    "img": "chat.lmsys.png",
-    "description": "Chat LMSYS"
+    "title": "LMArena",
+    "href": "https://lmarena.ai/pt",
+    "target": "_lmarena",
+    "img": "lmarena.png",
+    "description": "LMArena AI"
   },
   {
     "title": "ChatGPT",
