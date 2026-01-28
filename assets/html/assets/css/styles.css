@@ -1,33 +1,268 @@
-* {
-  margin: 0;
-  padding: 0;
-  -webkit-box-sizing: border-box;
-     -moz-box-sizing: border-box;
-          box-sizing: border-box;
-}
+/* Inherits variables from ../css/main.css */
 
 body {
-  background-color: #5f6061;
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  background-color: var(--bg-color);
+  color: var(--text-primary);
+  overflow: hidden;
+  /* Prevent body scroll, handle in main */
 }
 
-h1, h3 { color: white; }
-
-select {
-  font-family: 'Trebuchet MS', Helvetica, sans-serif;
-  font-size: 16px;
-  font-weight: bold;
+#app {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  width: 100%;
 }
 
-.section, #content {
-  margin: 10px 0 10px 0;
+.page-header {
+  padding: 20px 40px;
+  background-color: var(--sidebar-bg);
+  border-bottom: 1px solid var(--border-color);
 }
 
-#container {
-  width: 400px;
-  margin: 5% auto;
+.page-header h1 {
+  font-size: 1.8rem;
+  color: var(--text-primary);
+  margin-bottom: 5px;
+}
+
+.subtitle {
+  color: var(--text-secondary);
+  font-size: 0.9rem;
+}
+
+#radio-container {
+  flex: 1;
+  overflow-y: auto;
+  padding: 40px;
+  background: radial-gradient(circle at top, #1f242c 0%, var(--bg-color) 70%);
+}
+
+#radio-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: 20px;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.radio-card {
+  background-color: var(--card-bg);
+  border: 1px solid var(--border-color);
+  border-radius: 12px;
+  padding: 24px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
   text-align: center;
+  cursor: pointer;
+  transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
+  position: relative;
+  overflow: hidden;
+  height: 160px;
+}
+
+.radio-card::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: linear-gradient(135deg, rgba(255, 255, 255, 0.05) 0%, transparent 100%);
+  opacity: 0;
+  transition: opacity 0.3s;
+}
+
+.radio-card:hover {
+  transform: translateY(-5px);
+  border-color: var(--accent-color);
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.3);
+}
+
+.radio-card:hover::before {
+  opacity: 1;
+}
+
+.radio-card.active {
+  border-color: var(--accent-color);
+  background-color: rgba(88, 166, 255, 0.1);
+  box-shadow: 0 0 0 2px rgba(88, 166, 255, 0.3);
+}
+
+.radio-icon {
+  font-size: 2.5rem;
+  margin-bottom: 15px;
+  color: var(--text-secondary);
+  transition: color 0.3s;
+}
+
+.radio-card:hover .radio-icon,
+.radio-card.active .radio-icon {
+  color: var(--accent-color);
+}
+
+.radio-name {
+  font-weight: 600;
+  font-size: 1rem;
+  color: var(--text-primary);
+}
+
+/* Player Bar */
+#player-bar {
+  background-color: var(--sidebar-bg);
+  border-top: 1px solid var(--border-color);
+  padding: 15px 40px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  box-shadow: 0 -4px 20px rgba(0, 0, 0, 0.2);
+  z-index: 100;
+  transform: translateY(100%);
+  transition: transform 0.4s cubic-bezier(0.16, 1, 0.3, 1);
+  height: 120px;
+}
+
+#player-bar.visible {
+  transform: translateY(0);
+}
+
+.station-info {
+  width: 200px;
+}
+
+#station-name {
+  font-weight: 700;
+  color: var(--accent-color);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+#station-status {
+  font-size: 0.8rem;
+  color: var(--text-secondary);
+}
+
+.audio-controls {
+  flex: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /* Ensure vertical centering */
+}
+
+#audio-wrapper {
+  display: flex;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+}
+
+audio {
+  width: 100%;
+  max-width: 500px;
+  height: auto;
+  /* Allow browser default size to avoid clipping */
+  min-height: 40px;
+  /* Baseline */
+  filter: invert(0.9) hue-rotate(180deg);
+  /* Simple dark mode hack for default audio player if not custom */
+  outline: none;
+  display: block;
+}
+
+/* Customizing audio player is hard, sticking to default with filter or custom layout wrapper */
+/* Actually, standard audio element is hard to style cross-browser.
+   For "Premium" feel, usually we build custom controls.
+   But for reliability with radio streams, the native player controls are safest.
+   The filter invert helps it look dark.
+*/
+
+.volume-control {
+  display: flex;
+  align-items: center;
+  width: 200px;
+  justify-content: flex-end;
+  gap: 10px;
+}
+
+.volume-icon {
+  color: var(--text-secondary);
 }
 
 #volumeSlider {
-  width: 70%;
+  width: 100px;
+  -webkit-appearance: none;
+  appearance: none;
+  height: 4px;
+  background: var(--border-color);
+  border-radius: 2px;
+  outline: none;
+}
+
+#volumeSlider::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  width: 16px;
+  height: 16px;
+  background: var(--accent-color);
+  border-radius: 50%;
+  cursor: pointer;
+  transition: transform 0.2s;
+}
+
+#volumeSlider::-webkit-slider-thumb:hover {
+  transform: scale(1.2);
+}
+
+/* Scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--border-color);
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--text-secondary);
+}
+
+@media (max-width: 768px) {
+  .page-header {
+    padding: 15px 20px;
+  }
+
+  #radio-container {
+    padding: 20px;
+  }
+
+  #radio-grid {
+    grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
+    gap: 15px;
+  }
+
+  #player-bar {
+    flex-direction: column;
+    height: auto;
+    padding: 15px 20px;
+    gap: 15px;
+  }
+
+  .station-info,
+  .audio-controls,
+  .volume-control {
+    width: 100%;
+    justify-content: center;
+    text-align: center;
+  }
 }
