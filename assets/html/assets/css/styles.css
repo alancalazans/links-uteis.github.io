@@ -37,15 +37,15 @@ body {
 #radio-container {
   flex: 1;
   overflow-y: auto;
-  padding: 40px;
+  padding: 1%;
   background: radial-gradient(circle at top, #1f242c 0%, var(--bg-color) 70%);
 }
 
 #radio-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
-  gap: 20px;
-  max-width: 1200px;
+  grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));
+  gap: 2%;
+  max-width: 100%;
   margin: 0 auto;
 }
 
@@ -53,7 +53,7 @@ body {
   background-color: var(--card-bg);
   border: 1px solid var(--border-color);
   border-radius: 12px;
-  padding: 24px;
+  padding: 2%;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -63,7 +63,7 @@ body {
   transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
   position: relative;
   overflow: hidden;
-  height: 160px;
+  height: 95%;
 }
 
 .radio-card::before {
@@ -124,7 +124,7 @@ body {
   z-index: 100;
   transform: translateY(100%);
   transition: transform 0.4s cubic-bezier(0.16, 1, 0.3, 1);
-  height: 400px;
+  height: 62%;
 }
 
 #player-bar.visible {
