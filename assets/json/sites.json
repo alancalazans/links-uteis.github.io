@@ -15,11 +15,11 @@
     "description": "BAI Chat"
   },
   {
-    "title": "LMArena",
-    "href": "https://lmarena.ai/pt",
-    "target": "_lmarena",
-    "img": "lmarena.png",
-    "description": "LMArena AI"
+    "title": "Arena",
+    "href": "https://arena.ai/pt",
+    "target": "_arena",
+    "img": "arena.png",
+    "description": "Arena AI"
   },
   {
     "title": "ChatGPT",
@@ -118,13 +118,6 @@
     "target": "_minimax-ai",
     "img": "minimax-ai.png",
     "description": "MiniMax-AI"
-  },
-  {
-    "title": "NextChat",
-    "href": "https://chat.typegpt.net/",
-    "target": "_nextchat",
-    "img": "nextchat.png",
-    "description": "NextChat"
   },
   {
     "title": "OpenEvidence",
