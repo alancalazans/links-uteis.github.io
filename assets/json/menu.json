@@ -8,6 +8,10 @@
     "icon": "bancos.png"
   },
   {
+    "category": "Caracteres Especiais",
+    "icon": "specialchars.png"
+  },
+  {
     "category": "Concursos",
     "icon": "concursos.png"
   },

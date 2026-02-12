@@ -192,6 +192,36 @@
     "description": "Banco"
   }
 ],
+"Caracteres Especiais": [
+  {
+    "title": "CharsHTML_1",
+    "href": "https://www.kingtecnologia.com/p/lista-de-caracteres-html.html",
+    "target": "_charshtml_1",
+    "img": "charshtml_1.png",
+    "description": "Caracteres HTML"
+  },
+  {
+    "title": "CharsHTML_2",
+    "href": "https://rotasul.net/tools/html-special-entities-char-list",
+    "target": "_charshtml_2",
+    "img": "charshtml_2.png",
+    "description": "Caracteres HTML"
+  },
+  {
+    "title": "CharsHTML_3",
+    "href": "https://symbl.cc/pt/html-entities/",
+    "target": "_charshtml_3",
+    "img": "charshtml_3.png",
+    "description": "Caracteres HTML"
+  },
+  {
+    "title": "CharsHTML_4",
+    "href": "https://begoodtool.com/htmlsymbols/pt",
+    "target": "_charshtml_4",
+    "img": "charshtml_4.png",
+    "description": "Caracteres HTML"
+  }
+],
 "Concursos": [
   {
     "title": "PCI concursos",
