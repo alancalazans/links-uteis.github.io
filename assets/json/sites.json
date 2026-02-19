@@ -78,13 +78,6 @@
     "description": "Gere prompts de IA precisos e profissionais para ChatGPT, Claude, Gemini e muito mais. Melhore a qualidade da produção e aumente sua produtividade com os melhores resultados"
   },
   {
-    "title": "ISH-AI-CHAT",
-    "href": "https://ish.junioralive.in/",
-    "target": "_ish-ai-chat",
-    "img": "ish-ai-chat.png",
-    "description": "ISH-AI-CHAT"
-  },
-  {
     "title": "Gemini",
     "href": "https://gemini.google.com/app",
     "target": "_gemini",
@@ -106,11 +99,25 @@
     "description": "GPT-4o"
   },
   {
-    "title": "KimiAI",
+    "title": "ISH-AI-CHAT",
+    "href": "https://ish.junioralive.in/",
+    "target": "_ish-ai-chat",
+    "img": "ish-ai-chat.png",
+    "description": "ISH-AI-CHAT"
+  },
+  {
+    "title": "Kimi-AI",
     "href": "https://kimi.moonshot.cn/",
     "target": "_kimiai",
     "img": "kimi.ai.png",
     "description": "KimiAI"
+  },
+  {
+    "title": "LongCat-AI",
+    "href": "https://longcat.chat/",
+    "target": "_longcat-ai",
+    "img": "longcat-ai.png",
+    "description": "LongCat AI"
   },
   {
     "title": "MiniMax-AI",
@@ -118,6 +125,13 @@
     "target": "_minimax-ai",
     "img": "minimax-ai.png",
     "description": "MiniMax-AI"
+  },
+  {
+    "title": "NoteBookLM",
+    "href": "https://notebooklm.google.com/",
+    "target": "_notebooklm",
+    "img": "notebooklm.png",
+    "description": "NoteBookLM"
   },
   {
     "title": "OpenEvidence",
