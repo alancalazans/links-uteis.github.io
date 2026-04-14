@@ -238,6 +238,20 @@
 ],
 "Concursos": [
   {
+    "title": "Concursos no Brasil",
+    "href": "https://concursosnobrasil.com/",
+    "target": "_concursosnobrasil",
+    "img": "concursosnobrasil.png",
+    "description": "Site sobre concursos públicos"
+  },
+  {
+    "title": "JC concursos",
+    "href": "https://jcconcursos.com.br/",
+    "target": "_jcconcursos",
+    "img": "jcconcursos.png",
+    "description": "Site sobre concursos públicos"
+  },
+  {
     "title": "PCI concursos",
     "href": "http://www.pciconcursos.com.br/concursos",
     "target": "_pciconcursos",
@@ -1205,7 +1219,7 @@
   },
   {
     "title": "Rede Canais",
-    "href": "https://redecanais.pe/",
+    "href": "https://redecanais.ph/",
     "target": "_redecanais",
     "img": "redecanais.png",
     "description": "Baixar filmes e series"
@@ -2144,6 +2158,13 @@
     "target": "_palemoon",
     "img": "palemoon.png",
     "description": "Navegador de internet baseado em Firefox"
+  },
+  {
+    "title": "qBittorrent Enhanced",
+    "href": "https://github.com/c0re100/qBittorrent-Enhanced-Edition/releases",
+    "target": "_qbittorrent",
+    "img": "qbittorrent.png",
+    "description": "Gerenciador de downloads"
   },
   {
     "title": "Rufus",
