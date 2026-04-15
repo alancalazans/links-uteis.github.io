@@ -1311,6 +1311,13 @@
     "description": "DistroWatch é um site dedicado a disticur, revisar e manter-se atualizado sobre sistemas operacionais de código aberto. Este site concentra-se particularmente em distribuições Linux e versões de BSD"
   },
   {
+    "title": "FerenOS",
+    "href": "https://ferenos.weebly.com/",
+    "target": "_ferenos",
+    "img": "ferenos.png",
+    "description": "Linux baseado em Ubuntu"
+  },
+  {
     "title": "Garuda Linux",
     "href": "https://garudalinux.org",
     "target": "_garudalinux",
