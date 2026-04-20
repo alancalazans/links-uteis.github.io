@@ -174,7 +174,7 @@
     "title": "Banco do Brasil S/A",
     "href": "http://www.bb.com.br",
     "target": "_bb",
-    "img": "banco-do-brasil.png",
+    "img": "bb.png",
     "description": "Banco"
   },
   {
@@ -186,7 +186,7 @@
   },
   {
     "title": "Credicom",
-    "href": "http://www.credicom.com.br",
+    "href": "https://www.sicoob.com.br/web/sicoobcredicom",
     "target": "_credicom",
     "img": "sicoob-credicom.png",
     "description": "Cooperativa, banco"
@@ -403,13 +403,6 @@
     "description": "Ambiente de desenvolvimento com IA"
   },
   {
-    "title": "Flaticon",
-    "href": "https://www.flaticon.com/br?utm_term=free icons&utm_campaign=fi_busqueda_brasil&utm_source=adwords&utm_medium=ppc&hsa_acc=5490559948&hsa_cam=1841778624&hsa_grp=70091914939&hsa_ad=346006066075&hsa_src=g&hsa_tgt=kwd-22932361&hsa_kw=free icons&hsa_mt=b&hsa_net=adwords&hsa_ver=3&gclid=EAIaIQobChMI1fmf9Yv25QIVVwiRCh1PXgEoEAAYASAAEgLMTvD_BwE",
-    "target": "_flaticon",
-    "img": "flaticon.png",
-    "description": "Site com diversos icones para baixar"
-  },
-  {
     "title": "Flet",
     "href": "https://flet.dev/",
     "target": "_flet",
@@ -445,13 +438,6 @@
     "description": "Guia de JavaScript da Mozilla"
   },
   {
-    "title": "HTML Caracteres",
-    "href": "http://arquivo.devmedia.com.br/artigos/devmedia/html-entities.html",
-    "target": "_characters",
-    "img": "devmedia.png",
-    "description": "Caracteres especias de HTML"
-  },
-  {
     "title": "HTML5\nBOILERPLATE",
     "href": "https://html5boilerplate.com/",
     "target": "_html5boilerplate",
@@ -471,27 +457,6 @@
     "target": "_imgonline",
     "img": "imgonline.png",
     "description": "Trocar cor de imagem"
-  },
-  {
-    "title": "Icon Finder",
-    "href": "https://www.iconfinder.com/",
-    "target": "_iconfinder",
-    "img": "iconfinder.png",
-    "description": "Site com diversos icones para baixar"
-  },
-  {
-    "title": "Icon-Icons",
-    "href": "https://icon-icons.com/pt/",
-    "target": "_icon-icons",
-    "img": "icons-free.png",
-    "description": "Site com diversos icones para baixar"
-  },
-  {
-    "title": "Icons8",
-    "href": "https://icons8.com.br/",
-    "target": "_icons8",
-    "img": "icons8.png",
-    "description": "Site com diversos icones para baixar"
   },
   {
     "title": "Ionic Brazil",
@@ -660,13 +625,6 @@
     "target": "_rakudo-modules",
     "img": "rakudo-modules.png",
     "description": "Módulos para Perl6"
-  },
-  {
-    "title": "PNGIMG",
-    "href": "http://pngimg.com/",
-    "target": "_pngimg",
-    "img": "pngimg.png",
-    "description": "Site com diversas imagens png para baixar"
   },
   {
     "title": "Poetry",
@@ -995,20 +953,6 @@
     "target": "_curso-enem-gratuito",
     "img": "curso-enem-gratuito.png",
     "description": "Conteúdos sobre o ENEM"
-  },
-  {
-    "title": "Geekie Games",
-    "href": "https://geekiegames.geekie.com.br/blog/",
-    "target": "_geekie-games",
-    "img": "geekie-games.png",
-    "description": "Conteúdos sobre o ENEM"
-  },
-  {
-    "title": "Questões ENEM",
-    "href": "http://www.ebc.com.br/educacao/questoesenem",
-    "target": "_questoes-enem",
-    "img": "questoes-enem.png",
-    "description": "Conteúdos sobre o ENEM"
   }
 ],
 "Ensino": [
@@ -1211,6 +1155,13 @@
     "description": "Programação da Globo de filmes, series, jornalismo, novelas, documentários etc..."
   },
   {
+    "title": "LordFlix",
+    "href": "https://lordflix.org",
+    "target": "_lordflix",
+    "img": "lordflix.png",
+    "description": "Filmes e Séries"
+  },
+  {
     "title": "Netcine",
     "href": "https://netcinehd.li/",
     "target": "_netcine",
@@ -1237,6 +1188,64 @@
     "target": "_youtube",
     "img": "youtube.png",
     "description": "Youtube vídeos"
+  }
+],
+"Icones e Imagens": [
+  {
+    "title": "Flaticon",
+    "href": "https://www.flaticon.com/br?utm_term=free icons&utm_campaign=fi_busqueda_brasil&utm_source=adwords&utm_medium=ppc&hsa_acc=5490559948&hsa_cam=1841778624&hsa_grp=70091914939&hsa_ad=346006066075&hsa_src=g&hsa_tgt=kwd-22932361&hsa_kw=free icons&hsa_mt=b&hsa_net=adwords&hsa_ver=3&gclid=EAIaIQobChMI1fmf9Yv25QIVVwiRCh1PXgEoEAAYASAAEgLMTvD_BwE",
+    "target": "_flaticon",
+    "img": "flaticon.png",
+    "description": "Site com diversos icones para baixar"
+  },
+  {
+    "title": "Icon Finder",
+    "href": "https://www.iconfinder.com/",
+    "target": "_iconfinder",
+    "img": "iconfinder.png",
+    "description": "Site com diversos icones para baixar"
+  },
+  {
+    "title": "Icon-Icons",
+    "href": "https://icon-icons.com/pt/",
+    "target": "_icon-icons",
+    "img": "icons-free.png",
+    "description": "Site com diversos icones para baixar"
+  },
+  {
+    "title": "Icons8",
+    "href": "https://icons8.com.br/",
+    "target": "_icons8",
+    "img": "icons8.png",
+    "description": "Site com diversos icones para baixar"
+  },
+  {
+    "title": "PNGIMG",
+    "href": "http://pngimg.com/",
+    "target": "_pngimg",
+    "img": "pngimg.png",
+    "description": "Site com diversas imagens png para baixar"
+  },
+  {
+    "title": "Vecteezy",
+    "href": "https://www.vecteezy.com",
+    "target": "_vecteezy",
+    "img": "vecteezy.png",
+    "description": "Ícones e imagens"
+  },
+  {
+    "title": "Wallpaper Flare",
+    "href": "https://www.wallpaperflare.com/",
+    "target": "_wallpaperflare",
+    "img": "wallpaperflare.png",
+    "description": "Repositórios com diversos Wallpapers (imagens de fundo para desktop)"
+  },
+  {
+    "title": "Wallpapers Abyss",
+    "href": "https://wall.alphacoders.com/finding_wallpapers.php?lang-Portuguese",
+    "target": "_wallpapers-abyss",
+    "img": "wallpapers-abyss.png",
+    "description": "Repositórios com diversos Wallpapers (imagens de fundo para desktop)"
   }
 ],
 "Linux": [
@@ -1448,10 +1457,10 @@
     "description": "O iCloud é o serviço da Apple que armazena com segurança as suas informações pessoais, as mantém atualizadas em todos os seus dispositivos e facilita o compartilhamento de suas fotos, arquivos e muito mais com amigos e familiares."
   },
   {
-    "title": "OnDrive",
+    "title": "OneDrive",
     "href": "https://onedrive.live.com",
-    "target": "_ondrive",
-    "img": "ondrive.png",
+    "target": "_onedrive",
+    "img": "onedrive.png",
     "description": "Drive virtual da Microsoft"
   }
 ],
@@ -1492,21 +1501,14 @@
     "description": "Notícias sobre em eventos em Belo Horizonte"
   },
   {
-    "title": "The weather channel",
+    "title": "Weather",
     "href": "https://weather.com/pt-BR/clima/hoje/l/-19.92,-43.93",
-    "target": "_the_weather_channel",
-    "img": "the_weather_channel.png",
+    "target": "_weather",
+    "img": "weather.png",
     "description": "Notícias de previsão e situação do tempo em todo mundo"
   }
 ],
 "Pesquisa": [
-  {
-    "title": "Bing Tradutor",
-    "href": "http://www.bing.com/?scope=web&mkt=pt-BR",
-    "target": "_mapsgoogle",
-    "img": "bingtradutor.png",
-    "description": "Serviço de tradução da Microsoft"
-  },
   {
     "title": "Bing pesquisa",
     "href": "http://www.bing.com/?scope=web&mkt=pt-BR",
@@ -1541,13 +1543,6 @@
     "target": "_mapsgoogle",
     "img": "googlemaps.png",
     "description": "Mapas das cidades do Google"
-  },
-  {
-    "title": "You.com",
-    "href": "https://you.com/",
-    "target": "_you.com",
-    "img": "you.com.png",
-    "description": "Site de pesquisa com IA do you.com"
   }
 ],
 "Radios": [
@@ -1573,25 +1568,11 @@
     "description": "Rádio Antena 1"
   },
   {
-    "title": "Band News FM",
-    "href": "https://radios.band.uol.com.br/?radio=bandnews-bh",
-    "target": "_bandnews_fm",
-    "img": "bandnews_fm.png",
-    "description": "Rádio Band News FM"
-  },
-  {
     "title": "CBN BH",
     "href": "https://www.radios.com.br/aovivo/radio-cbn-bh-1061-fm/8768",
     "target": "_cbn_bh",
     "img": "cbn.png",
     "description": "Rádio CBN Belo Horizonte"
-  },
-  {
-    "title": "CDL FM",
-    "href": "http://fm1029.com.br/plus/",
-    "target": "_cdlfm",
-    "img": "cdl.png",
-    "description": "Rádio CDL FM"
   },
   {
     "title": "FM Stream",
@@ -1639,7 +1620,7 @@
     "title": "Tune in radio",
     "href": "https://tunein.com/radio/home/",
     "target": "_tunein_radio",
-    "img": "tunein_radio.png",
+    "img": "tuneinradio.png",
     "description": "Diversas rádios em um só lugar"
   }
 ],
@@ -1673,18 +1654,18 @@
     "description": "Telegram Web"
   },
   {
-    "title": "Twitter",
-    "href": "https://twitter.com/login?lang=pt",
-    "target": "_twitter",
-    "img": "twitter.png",
-    "description": "Twitter"
-  },
-  {
     "title": "WhatsApp Web",
     "href": "https://web.whatsapp.com/",
     "target": "_whatsappweb",
     "img": "whatsapp-web.png",
     "description": "WhatsApp Web"
+  },
+  {
+    "title": "X",
+    "href": "https://x.com",
+    "target": "_x",
+    "img": "x.png",
+    "description": "X"
   }
 ],
 "Servicos": [
@@ -2009,20 +1990,6 @@
     "target": "_virustotal",
     "img": "virustotal.png",
     "description": "Checa se arquivo contém vírus"
-  },
-  {
-    "title": "Wallpaper Flare",
-    "href": "https://www.wallpaperflare.com/",
-    "target": "_wallpaperflare",
-    "img": "wallpaperflare.png",
-    "description": "Repositórios com diversos Wallpapers (imagens de fundo para desktop)"
-  },
-  {
-    "title": "Wallpapers Abyss",
-    "href": "https://wall.alphacoders.com/finding_wallpapers.php?lang-Portuguese",
-    "target": "_wallpapers-abyss",
-    "img": "wallpapers-abyss.png",
-    "description": "Repositórios com diversos Wallpapers (imagens de fundo para desktop)"
   },
   {
     "title": "Web2pdf",
