@@ -1,86 +1,86 @@
 [
   {
     "category": "AI",
-    "icon": "ai.png"
+    "icon": "ai.webp"
   },
   {
     "category": "Bancos",
-    "icon": "bancos.png"
+    "icon": "bancos.webp"
   },
   {
     "category": "Caracteres Especiais",
-    "icon": "specialchars.png"
+    "icon": "specialchars.webp"
   },
   {
     "category": "Concursos",
-    "icon": "concursos.png"
+    "icon": "concursos.webp"
   },
   {
     "category": "CriptoMoedas",
-    "icon": "criptomoedas.png"
+    "icon": "criptomoedas.webp"
   },
   {
     "category": "Desenv. soft.",
-    "icon": "des_soft.png"
+    "icon": "des_soft.webp"
   },
   {
     "category": "Diversos",
-    "icon": "diversos.png"
+    "icon": "diversos.webp"
   },
   {
     "category": "Emails",
-    "icon": "emails.png"
+    "icon": "emails.webp"
   },
   {
     "category": "ENEM",
-    "icon": "enem.png"
+    "icon": "enem.webp"
   },
   {
     "category": "Ensino",
-    "icon": "ensino.png"
+    "icon": "ensino.webp"
   },
   {
     "category": "Filmes",
-    "icon": "filmes.png"
+    "icon": "filmes.webp"
   },
   {
     "category": "Icones e Imagens",
-    "icon": "vecteezy.png"
+    "icon": "vecteezy.webp"
   },
   {
     "category": "Linux",
-    "icon": "linux.png"
+    "icon": "linux.webp"
   },
   {
     "category": "Loterias",
-    "icon": "loterias.png"
+    "icon": "loterias.webp"
   },
   {
     "category": "Noticias",
-    "icon": "noticias.png"
+    "icon": "noticias.webp"
   },
   {
     "category": "Nuvem",
-    "icon": "nuvem.png"
+    "icon": "nuvem.webp"
   },
   {
     "category": "Pesquisa",
-    "icon": "pesquisa.png"
+    "icon": "pesquisa.webp"
   },
   {
     "category": "Radios",
-    "icon": "radios.png"
+    "icon": "radios.webp"
   },
   {
     "category": "Rede social",
-    "icon": "rede_social.png"
+    "icon": "rede_social.webp"
   },
   {
     "category": "Servicos",
-    "icon": "servicos.png"
+    "icon": "servicos.webp"
   },
   {
     "category": "Uteis",
-    "icon": "uteis.png"
+    "icon": "uteis.webp"
   }
 ]

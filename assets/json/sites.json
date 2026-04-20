@@ -4,168 +4,168 @@
     "title": "AI Assistant\nFork",
     "href": "https://aiassistantbot.pages.dev/",
     "target": "_ai-assistant",
-    "img": "ai-assistant.png",
+    "img": "ai-assistant.webp",
     "description": "AI Assistant Bot"
   },
   {
     "title": "BAI Chat",
     "href": "https://chatbot.theb.ai/#/chat",
     "target": "_baichat",
-    "img": "baichat.png",
+    "img": "baichat.webp",
     "description": "BAI Chat"
   },
   {
     "title": "Arena",
     "href": "https://arena.ai/pt",
     "target": "_arena",
-    "img": "arena.png",
+    "img": "arena.webp",
     "description": "Arena AI"
   },
   {
     "title": "ChatGPT",
     "href": "https://chatgpt.com/",
     "target": "_chatgpt",
-    "img": "chatgpt.png",
+    "img": "chatgpt.webp",
     "description": "Chat GPT"
   },
   {
     "title": "Chat Qwen AI",
     "href": "https://chat.qwen.ai/",
     "target": "_chatqwenai",
-    "img": "chatqwenai.png",
+    "img": "chatqwenai.webp",
     "description": "Chat Qwen AI"
   },
   {
     "title": "Chat Xenai\nTech",
     "href": "https://chat.xenai.tech/",
     "target": "_chatxenaitech",
-    "img": "chatxenaitech.png",
+    "img": "chatxenaitech.webp",
     "description": "Chat Xenai Tech"
   },
   {
     "title": "Chat with Z",
     "href": "https://chat.z.ai/",
     "target": "_chat-with-z",
-    "img": "chat-with-z.png",
+    "img": "chat-with-z.webp",
     "description": "Chat with Z"
   },
   {
     "title": "Copilot\nMicrosoft",
     "href": "https://copilot.microsoft.com/",
     "target": "_copilot-microsoft",
-    "img": "copilot-microsoft.png",
+    "img": "copilot-microsoft.webp",
     "description": "Copilot Microsoft"
   },
   {
     "title": "DeepSeek",
     "href": "https://chat.deepseek.com/",
     "target": "_chat.deepseek",
-    "img": "chat.deepseek.png",
+    "img": "chat.deepseek.webp",
     "description": "Chat DeepSeek"
   },
   {
     "title": "Ernie",
     "href": "https://ernie.baidu.com/",
     "target": "_ernie",
-    "img": "ernie.png",
+    "img": "ernie.webp",
     "description": "IA da Baidu"
   },
   {
     "title": "Generate\nPromptAI",
     "href": "https://generateprompt.ai/en/",
     "target": "_generatePromptAI",
-    "img": "generatePromptAI.png",
+    "img": "generatePromptAI.webp",
     "description": "Gere prompts de IA precisos e profissionais para ChatGPT, Claude, Gemini e muito mais. Melhore a qualidade da produção e aumente sua produtividade com os melhores resultados"
   },
   {
     "title": "Gemini",
     "href": "https://gemini.google.com/app",
     "target": "_gemini",
-    "img": "gemini.png",
+    "img": "gemini.webp",
     "description": "Gemini AI"
   },
   {
     "title": "GizAI",
     "href": "https://www.giz.ai/",
     "target": "_giz-ai",
-    "img": "giz-ai.png",
+    "img": "giz-ai.webp",
     "description": "Giz AI"
   },
   {
     "title": "GPT-4o",
     "href": "https://gpt4o.so/app",
     "target": "_gpt4o",
-    "img": "gpt4o.png",
+    "img": "gpt4o.webp",
     "description": "GPT-4o"
   },
   {
     "title": "ISH-AI-CHAT",
     "href": "https://ish.junioralive.in/",
     "target": "_ish-ai-chat",
-    "img": "ish-ai-chat.png",
+    "img": "ish-ai-chat.webp",
     "description": "ISH-AI-CHAT"
   },
   {
     "title": "Kimi-AI",
     "href": "https://kimi.moonshot.cn/",
     "target": "_kimiai",
-    "img": "kimi.ai.png",
+    "img": "kimi.ai.webp",
     "description": "KimiAI"
   },
   {
     "title": "LongCat-AI",
     "href": "https://longcat.chat/",
     "target": "_longcat-ai",
-    "img": "longcat-ai.png",
+    "img": "longcat-ai.webp",
     "description": "LongCat AI"
   },
   {
     "title": "MiniMax-AI",
     "href": "https://chat.minimax.io/",
     "target": "_minimax-ai",
-    "img": "minimax-ai.png",
+    "img": "minimax-ai.webp",
     "description": "MiniMax-AI"
   },
   {
     "title": "NoteBookLM",
     "href": "https://notebooklm.google.com/",
     "target": "_notebooklm",
-    "img": "notebooklm.png",
+    "img": "notebooklm.webp",
     "description": "NoteBookLM"
   },
   {
     "title": "OpenEvidence",
     "href": "https://www.openevidence.com",
     "target": "_openevidence",
-    "img": "openevidence.png",
+    "img": "openevidence.webp",
     "description": "A principal plataforma de informações médicas alimentada por IA."
   },
   {
     "title": "SCIRA AI",
     "href": "https://scira.ai/",
     "target": "_scira-ai",
-    "img": "scira-ai.png",
+    "img": "scira-ai.webp",
     "description": "AI"
   },
   {
     "title": "SCISPACE",
     "href": "https://scispace.com/",
     "target": "_scispace",
-    "img": "scispace.png",
+    "img": "scispace.webp",
     "description": "Ferramentas de IA all-in-one para estudantes e pesquisadores"
   },
   {
     "title": "StepFun",
     "href": "https://stepfun.ai/chats/new",
     "target": "_stepfun",
-    "img": "stepfun.png",
+    "img": "stepfun.webp",
     "description": "IA"
   },
   {
     "title": "Yupp",
     "href": "https://yupp.ai/",
     "target": "_yupp",
-    "img": "yupp.png",
+    "img": "yupp.webp",
     "description": "IA"
   }
 ],
@@ -174,35 +174,35 @@
     "title": "Banco do Brasil S/A",
     "href": "http://www.bb.com.br",
     "target": "_bb",
-    "img": "bb.png",
+    "img": "bb.webp",
     "description": "Banco"
   },
   {
     "title": "Caixa Econômica",
     "href": "http://www.caixa.gov.br",
     "target": "_cef",
-    "img": "caixa.png",
+    "img": "caixa.webp",
     "description": "Banco"
   },
   {
     "title": "Credicom",
     "href": "https://www.sicoob.com.br/web/sicoobcredicom",
     "target": "_credicom",
-    "img": "sicoob-credicom.png",
+    "img": "sicoob-credicom.webp",
     "description": "Cooperativa, banco"
   },
   {
     "title": "Itaú",
     "href": "https://www.itau.com.br/",
     "target": "_itau",
-    "img": "itau.png",
+    "img": "itau.webp",
     "description": "Banco"
   },
   {
     "title": "Santander",
     "href": "https://www.santander.com.br/",
     "target": "_santander",
-    "img": "santander.png",
+    "img": "santander.webp",
     "description": "Banco"
   }
 ],
@@ -211,28 +211,28 @@
     "title": "CharsHTML_1",
     "href": "https://www.kingtecnologia.com/p/lista-de-caracteres-html.html",
     "target": "_charshtml_1",
-    "img": "charshtml_1.png",
+    "img": "charshtml_1.webp",
     "description": "Caracteres HTML"
   },
   {
     "title": "CharsHTML_2",
     "href": "https://rotasul.net/tools/html-special-entities-char-list",
     "target": "_charshtml_2",
-    "img": "charshtml_2.png",
+    "img": "charshtml_2.webp",
     "description": "Caracteres HTML"
   },
   {
     "title": "CharsHTML_3",
     "href": "https://symbl.cc/pt/html-entities/",
     "target": "_charshtml_3",
-    "img": "charshtml_3.png",
+    "img": "charshtml_3.webp",
     "description": "Caracteres HTML"
   },
   {
     "title": "CharsHTML_4",
     "href": "https://begoodtool.com/htmlsymbols/pt",
     "target": "_charshtml_4",
-    "img": "charshtml_4.png",
+    "img": "charshtml_4.webp",
     "description": "Caracteres HTML"
   }
 ],
@@ -241,21 +241,21 @@
     "title": "Concursos no Brasil",
     "href": "https://concursosnobrasil.com/",
     "target": "_concursosnobrasil",
-    "img": "concursosnobrasil.png",
+    "img": "concursosnobrasil.webp",
     "description": "Site sobre concursos públicos"
   },
   {
     "title": "JC concursos",
     "href": "https://jcconcursos.com.br/",
     "target": "_jcconcursos",
-    "img": "jcconcursos.png",
+    "img": "jcconcursos.webp",
     "description": "Site sobre concursos públicos"
   },
   {
     "title": "PCI concursos",
     "href": "http://www.pciconcursos.com.br/concursos",
     "target": "_pciconcursos",
-    "img": "pciconcursos.png",
+    "img": "pciconcursos.webp",
     "description": "Site sobre concursos públicos"
   }
 ],
@@ -264,7 +264,7 @@
     "title": "Binance",
     "href": "https://www.binance.com/pt-BR",
     "target": "_binance",
-    "img": "binance.png",
+    "img": "binance.webp",
     "description": "Corretora de Cripto Moedas"
   }
 ],
@@ -273,539 +273,539 @@
     "title": "AlaSQL",
     "href": "http://alasql.org/",
     "target": "_alasql",
-    "img": "alasql.png",
+    "img": "alasql.webp",
     "description": "Lib sql ←→ json"
   },
   {
     "title": "Amber",
     "href": "https://amber-lang.com/",
     "target": "_amber",
-    "img": "amber.png",
+    "img": "amber.webp",
     "description": "A linguagem de programação compilada para Bash."
   },
   {
     "title": "ASDF",
     "href": "https://asdf-vm.com/pt-br/",
     "target": "_asdf",
-    "img": "asdf.png",
+    "img": "asdf.webp",
     "description": "ASDF-VM é uma ferramenta de linha de comando para gerenciar versões de runtime de várias linguagens de programação"
   },
   {
     "title": "ASDF - plugins",
     "href": "https://github.com/asdf-vm/asdf-plugins",
     "target": "_asdf-plugins",
-    "img": "asdf-plugins.png",
+    "img": "asdf-plugins.webp",
     "description": "ASDF-plugins para várias linguagens de programação"
   },
   {
     "title": "Atom IDE",
     "href": "https://atom.io/",
     "target": "_atom-ide",
-    "img": "atom-ide.png",
+    "img": "atom-ide.webp",
     "description": "Editor de código gratuito e multiplataforma do Github"
   },
   {
     "title": "Aurélio vim",
     "href": "http://aurelio.net/vim/",
     "target": "_aurelio_vim",
-    "img": "aurelio_vim.png",
+    "img": "aurelio_vim.webp",
     "description": "Site com orientações sobre o Editor de código Vim"
   },
   {
     "title": "Bootstrap",
     "href": "https://getbootstrap.com/docs/",
     "target": "_bootstrap",
-    "img": "bootstrap.png",
+    "img": "bootstrap.webp",
     "description": "Estilização de sites"
   },
   {
     "title": "BunJS",
     "href": "https://bun.com/",
     "target": "_bunjs",
-    "img": "bunjs.png",
+    "img": "bunjs.webp",
     "description": "Bun é um tudo-em-um JavaScript runtime & toolkit"
   },
   {
     "title": "CapacitorJS",
     "href": "https://capacitorjs.com/",
     "target": "_capacitor",
-    "img": "capacitor.png",
+    "img": "capacitor.webp",
     "description": "O Capacitor é um tempo de execução nativo de código aberto para criar aplicativos nativos da Web. Crie aplicativos multiplataforma para iOS, Android e Progressive Web Apps com JavaScript, HTML e CSS."
   },
   {
     "title": "CDNJS",
     "href": "https://cdnjs.com/",
     "target": "_cdnjs",
-    "img": "cdnjs.png",
+    "img": "cdnjs.webp",
     "description": "Site para download de Libs e/ou Engines em JavaScript"
   },
   {
     "title": "Clojure",
     "href": "https://clojure.org/",
     "target": "_clojure",
-    "img": "clojure.png",
+    "img": "clojure.webp",
     "description": "Clojure é uma linguagem de programação dinâmica e de propósito geral"
   },
   {
     "title": "Crystal-lang",
     "href": "https://crystal-lang.org/",
     "target": "_crystal_lang",
-    "img": "crystal_lang.png",
+    "img": "crystal_lang.webp",
     "description": "Linguagem baseada em Ruby e compilada"
   },
   {
     "title": "Cursor Editor",
     "href": "https://cursor.sh/",
     "target": "_cursor.sh",
-    "img": "cursor.sh.png",
+    "img": "cursor.sh.webp",
     "description": "O primeiro editor de código com IA"
   },
   {
     "title": "Customtkinter",
     "href": "https://customtkinter.tomschimansky.com/",
     "target": "_customtkinter",
-    "img": "customtkinter.png",
+    "img": "customtkinter.webp",
     "description": "Uma biblioteca de UI python moderna e personalizável baseada em Tkinter"
   },
   {
     "title": "Developer Puter",
     "href": "https://developer.puter.com/tutorials/free-unlimited-openrouter-api/",
     "target": "_developer-puter",
-    "img": "developer-puter.png",
+    "img": "developer-puter.webp",
     "description": "API OpenRouter gratuita e ilimitada"
   },
   {
     "title": "DotNet Core",
     "href": "https://dotnet.microsoft.com/download",
     "target": "_dotnetcore",
-    "img": "dotnetcore.png",
+    "img": "dotnetcore.webp",
     "description": ".NET Core é uma plataforma de desenvolvedor de código aberto, multiplataforma e gratuita para construir muitos tipos diferentes de aplicativos."
   },
   {
     "title": "Eclipse",
     "href": "https://www.eclipse.org/downloads/packages/",
     "target": "_eclipse",
-    "img": "eclipse.png",
+    "img": "eclipse.webp",
     "description": "Editor de código da Eclipse Foundation"
   },
   {
     "title": "ElectronJS",
     "href": "https://electronjs.org/",
     "target": "_electronjs",
-    "img": "electronjs.png",
+    "img": "electronjs.webp",
     "description": "Framework para a criação de apps desktop baseadas em NodeJS"
   },
   {
     "title": "FirebaseStudio",
     "href": "https://firebase.studio/",
     "target": "_firebasestudio",
-    "img": "firebasestudio.png",
+    "img": "firebasestudio.webp",
     "description": "Ambiente de desenvolvimento com IA"
   },
   {
     "title": "Flet",
     "href": "https://flet.dev/",
     "target": "_flet",
-    "img": "flet.png",
+    "img": "flet.webp",
     "description": "Crie aplicativos multiplataforma em Python com tecnologia Flutter"
   },
   {
     "title": "Fontawesome",
     "href": "https://fontawesome.com/icons?d=gallery",
     "target": "_fontawesome",
-    "img": "fontawesome.png",
+    "img": "fontawesome.webp",
     "description": "Ícones para download"
   },
   {
     "title": "Gemini-cli",
     "href": "https://github.com/google-gemini/gemini-cli",
     "target": "_gemini-cli",
-    "img": "github.png",
+    "img": "github.webp",
     "description": "Gemini-cli Agent (IA de terminal p/ desenvolvedores)"
   },
   {
     "title": "Golang",
     "href": "https://golang.org",
     "target": "_go",
-    "img": "go.png",
+    "img": "go.webp",
     "description": "Linguagem de programação da Google"
   },
   {
     "title": "Guia JS",
     "href": "https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide",
     "target": "_mdn",
-    "img": "guia_js.png",
+    "img": "guia_js.webp",
     "description": "Guia de JavaScript da Mozilla"
   },
   {
     "title": "HTML5\nBOILERPLATE",
     "href": "https://html5boilerplate.com/",
     "target": "_html5boilerplate",
-    "img": "html5boilerplate.png",
+    "img": "html5boilerplate.webp",
     "description": "Template p/ projeto web"
   },
   {
     "title": "HTML\nCHEATSHEET",
     "href": "https://htmlcheatsheet.com/",
     "target": "_htmlcheatsheet",
-    "img": "htmlcheatsheet.png",
+    "img": "htmlcheatsheet.webp",
     "description": "HTML Cheat Sheet"
   },
   {
     "title": "IMGonline",
     "href": "https://www.imgonline.com.ua/eng/replace-color.php",
     "target": "_imgonline",
-    "img": "imgonline.png",
+    "img": "imgonline.webp",
     "description": "Trocar cor de imagem"
   },
   {
     "title": "Ionic Brazil",
     "href": "https://github.com/IonicBrazil/guia-do-desenvolvedor",
     "target": "_ionicbrazil",
-    "img": "ionicbrazil.png",
+    "img": "ionicbrazil.webp",
     "description": "Site com conteúdo sobre o Framework Ionic"
   },
   {
     "title": "Ionic Framework",
     "href": "https://ionicframework.com/",
     "target": "_ionic",
-    "img": "ionic.png",
+    "img": "ionic.webp",
     "description": "Framework para a criação de apps mobile baseadas em NodeJS"
   },
   {
     "title": "JSBin",
     "href": "http://jsbin.com/?html,output",
     "target": "_jsbin",
-    "img": "jsbin.png",
+    "img": "jsbin.webp",
     "description": "Ambiente online de experimentação de codificação de sites com preview"
   },
   {
     "title": "Kate Editor",
     "href": "https://kate-editor.org/pt-br/get-it/",
     "target": "_kate-editor",
-    "img": "kate-editor.png",
+    "img": "kate-editor.webp",
     "description": "Editor de código"
   },
   {
     "title": "Lazarus",
     "href": "http://www.lazarus-ide.org/",
     "target": "_lazarus",
-    "img": "lazarus.png",
+    "img": "lazarus.webp",
     "description": "Alternativa a linguagem Pascal e ao ambiente de programação Delphi"
   },
   {
     "title": "Lite-XL",
     "href": "https://lite-xl.com/",
     "target": "_lite-xl",
-    "img": "lite-xl.png",
+    "img": "lite-xl.webp",
     "description": "Editor de código construido em C e Lua"
   },
   {
     "title": "Live Editor",
     "href": "https://mermaid.live/",
     "target": "_liveeditor",
-    "img": "mermaid.js.png",
+    "img": "mermaid.js.webp",
     "description": "Editor de diagramas usando mermaid.js"
   },
   {
     "title": "Mermaid",
     "href": "https://mermaid.js.org/",
     "target": "_mermaid",
-    "img": "mermaid.js.png",
+    "img": "mermaid.js.webp",
     "description": "Diagramas para editor markdown"
   },
   {
     "title": "Micro Editor",
     "href": "https://github.com/zyedidia/micro",
     "target": "_micro",
-    "img": "micro.png",
+    "img": "micro.webp",
     "description": "Editor de código gratuito, multiplaforma, alternativo e experimental de console"
   },
   {
     "title": "MomentJS",
     "href": "https://momentjs.com/",
     "target": "_momentjs",
-    "img": "momentjs.png",
+    "img": "momentjs.webp",
     "description": "Analise, valide, manipule e exiba datas e horas em JavaScript."
   },
   {
     "title": "NeoVim",
     "href": "https://github.com/neovim/neovim",
     "target": "_neovim",
-    "img": "neovim.png",
+    "img": "neovim.webp",
     "description": "Alternativa ao editor vim e bastante similar a este em vários aspectos"
   },
   {
     "title": "NeoVim-QT",
     "href": "https://github.com/equalsraf/neovim-qt",
     "target": "_neovim-qt",
-    "img": "neovim.png",
+    "img": "neovim.webp",
     "description": "Alternativa ao editor vim e bastante similar a este em vários aspectos"
   },
   {
     "title": "Netbeans",
     "href": "https://netbeans.apache.org/",
     "target": "_netbeans",
-    "img": "netbeans.png",
+    "img": "netbeans.webp",
     "description": "Editor de código da Apache Foundation"
   },
   {
     "title": "NeutralinoJS",
     "href": "https://neutralino.js.org/",
     "target": "_neutralinojs",
-    "img": "neutralinojs.png",
+    "img": "neutralinojs.webp",
     "description": "Framework para a criação de apps desktop hibridas com NeutralinoJS"
   },
   {
     "title": "Nim-lang",
     "href": "https://nim-lang.org/",
     "target": "_nim-lang",
-    "img": "nim-lang.png",
+    "img": "nim-lang.webp",
     "description": "Linguagem de programação Nim"
   },
   {
     "title": "Nim-eBook",
     "href": "https://ssalewski.de/nimprogramming.html",
     "target": "_nim-ebook",
-    "img": "nim-lang.png",
+    "img": "nim-lang.webp",
     "description": "eBook online da Linguagem Nim"
   },
   {
     "title": "NodeJS",
     "href": "https://nodejs.org/en/",
     "target": "_nodejs",
-    "img": "nodejs.png",
+    "img": "nodejs.webp",
     "description": "Linguagem de programação Javascript independente de navegador de internet"
   },
   {
     "title": "NodeJS Guia",
     "href": "https://nodejs.reativa.dev/introduction",
     "target": "_node_guide",
-    "img": "node_guide.png",
+    "img": "node_guide.webp",
     "description": "Guia do desenvolvedor autodidata em NodeJS"
   },
   {
     "title": "NodeWebKit",
     "href": "https://nwjs.io/",
     "target": "_nwjs",
-    "img": "nodewebkit.png",
+    "img": "nodewebkit.webp",
     "description": "Framework para a criação de apps desktop hibridas com NodeWebKit"
   },
   {
     "title": "OCaml",
     "href": "https://ocaml.org/",
     "target": "_ocaml",
-    "img": "ocaml.png",
+    "img": "ocaml.webp",
     "description": "Linguagem de programação funcional"
   },
   {
     "title": "OpenCode",
     "href": "https://github.com/sst/opencode",
     "target": "_opencode",
-    "img": "github.png",
+    "img": "github.webp",
     "description": "OpenCode Agent (IA de terminal p/ desenvolvedores)"
   },
   {
     "title": "OpenRouter-AI",
     "href": "https://openrouter.ai/",
     "target": "_openrouter",
-    "img": "openrouter.png",
+    "img": "openrouter.webp",
     "description": "Coleção de modelos de IA"
   },
   {
     "title": "Perl6 - Guia",
     "href": "http://pt.perl6intro.com/",
     "target": "_rakudo-guia",
-    "img": "rakudo-guia.png",
+    "img": "rakudo-guia.webp",
     "description": "Guia de Perl6"
   },
   {
     "title": "Perl6 - Modules",
     "href": "https://modules.raku.org/",
     "target": "_rakudo-modules",
-    "img": "rakudo-modules.png",
+    "img": "rakudo-modules.webp",
     "description": "Módulos para Perl6"
   },
   {
     "title": "Poetry",
     "href": "https://python-poetry.org/docs/",
     "target": "_poetry",
-    "img": "poetry.png",
+    "img": "poetry.webp",
     "description": "Poetry é uma ferramenta para gerenciamento de dependências e empacotamento em Python"
   },
   {
     "title": "Powershell",
     "href": "https://learn.microsoft.com/pt-br/powershell/",
     "target": "_powershell",
-    "img": "powershell.png",
+    "img": "powershell.webp",
     "description": "Powershell"
   },
   {
     "title": "Public APIs",
     "href": "https://github.com/public-apis/public-apis",
     "target": "_public_apis",
-    "img": "public_apis.png",
+    "img": "public_apis.webp",
     "description": "Catálogo de APIs públicas"
   },
   {
     "title": "Qwen-Coder3",
     "href": "https://github.com/Mastersuek/qwen-coder",
     "target": "_qwen-coder3",
-    "img": "github.png",
+    "img": "github.webp",
     "description": "Qwen-Coder3 Agent (IA de terminal p/ desenvolvimento)"
   },
   {
     "title": "Raku - Docs",
     "href": "https://docs.raku.org/",
     "target": "_raku-docs",
-    "img": "raku-docs.png",
+    "img": "raku-docs.webp",
     "description": "Docs Raku/Perl6"
   },
   {
     "title": "Raku/Perl6",
     "href": "https://rakudo.org/",
     "target": "_rakudo",
-    "img": "rakudo.png",
+    "img": "rakudo.webp",
     "description": "Implementação da linguagem de programação Perl6"
   },
   {
     "title": "ResizePixel",
     "href": "https://www.resizepixel.com/pt",
     "target": "_resizepixel",
-    "img": "rs.png",
+    "img": "rs.webp",
     "description": "Serviço de redimensionamento de imagem"
   },
   {
     "title": "RipTutorial",
     "href": "https://riptutorial.com/es/home",
     "target": "_riptutorial",
-    "img": "riptutorial.png",
+    "img": "riptutorial.webp",
     "description": "Site com conteúdos sobre diversas linguagens de programação"
   },
   {
     "title": "RosettaCode",
     "href": "http://rosettacode.org/wiki/Rosetta_Code",
     "target": "_rosettacode",
-    "img": "rosettacode.png",
+    "img": "rosettacode.webp",
     "description": "Site com conteúdos sobre diversas linguagens de programação"
   },
   {
     "title": "Rust-lang",
     "href": "https://www.rust-lang.org/",
     "target": "_rust_lang",
-    "img": "rust_lang.png",
+    "img": "rust_lang.webp",
     "description": "Linguagem de programação compilada"
   },
   {
     "title": "Simple Icons",
     "href": "https://simpleicons.org/",
     "target": "_simpleicons",
-    "img": "simpleicons.png",
+    "img": "simpleicons.webp",
     "description": "Site com diversos icones gratuitos para baixar"
   },
   {
     "title": "SQL",
     "href": "https://blog.betrybe.com/sql/",
     "target": "_sql",
-    "img": "sql.png",
+    "img": "sql.webp",
     "description": "SQL: O que é e como usar os principais comandos básicos SQL"
   },
   {
     "title": "SQLiteStudio",
     "href": "https://github.com/pawelsalawa/sqlitestudio",
     "target": "_sqlitestudio",
-    "img": "sqlitestudio.png",
+    "img": "sqlitestudio.webp",
     "description": "SQLiteStudio"
   },
   {
     "title": "SweetAlert2",
     "href": "https://sweetalert2.github.io/",
     "target": "_sweetalert2",
-    "img": "sweetalert2.png",
+    "img": "sweetalert2.webp",
     "description": "Customizar caixa de diálogo `Alert()`"
   },
   {
     "title": "Tauri",
     "href": "https://tauri.app/",
     "target": "_tauri",
-    "img": "tauri.png",
+    "img": "tauri.webp",
     "description": "Framework feito em Rust para criar apps multiplataforma c/ tecnologias web"
   },
   {
     "title": "TextAdept",
     "href": "https://foicica.com/textadept/",
     "target": "_textadept",
-    "img": "textadept.png",
+    "img": "textadept.webp",
     "description": "Editor de código construido na linguagem Lua"
   },
   {
     "title": "Vim",
     "href": "https://www.vim.org/",
     "target": "_vim",
-    "img": "vim.png",
+    "img": "vim.webp",
     "description": "Editor de código conservador para os veteranos"
   },
   {
     "title": "Vim Wiki",
     "href": "https://pt.wikibooks.org/wiki/Vim",
     "target": "_vim",
-    "img": "vim.png",
+    "img": "vim.webp",
     "description": "Guia do vim"
   },
   {
     "title": "VisJS",
     "href": "https://almende.github.io/vis/",
     "target": "_visjs",
-    "img": "visjs.png",
+    "img": "visjs.webp",
     "description": "Lib JavaScript para criação de diagramas dinâmicos"
   },
   {
     "title": "Visual Studio Code",
     "href": "https://code.visualstudio.com/",
     "target": "_visual-studio-code",
-    "img": "visual-studio-code.png",
+    "img": "visual-studio-code.webp",
     "description": "Editor de código gratuito e multiplataforma da Microsoft"
   },
   {
     "title": "VSCodium",
     "href": "https://github.com/VSCodium/vscodium/releases",
     "target": "_vscodium",
-    "img": "vscodium.png",
+    "img": "vscodium.webp",
     "description": "Editor de código gratuito e multiplataforma da comunidade"
   },
   {
     "title": "VueJS v3",
     "href": "https://vuejsbr-docs-next.netlify.app/guide/introduction.html#o-que-e-vue-js",
     "target": "_vuejs",
-    "img": "vuejs.png",
+    "img": "vuejs.webp",
     "description": "Biblioteca em JS para construção da parte visual do site"
   },
   {
     "title": "W3Schools",
     "href": "https://www.w3schools.com/",
     "target": "_w3schools",
-    "img": "w3schools.png",
+    "img": "w3schools.webp",
     "description": "Sites com diversos conteúdos sobre linguagens de programação"
   },
   {
     "title": "Xampp",
     "href": "https://www.apachefriends.org/pt_br/download.html",
     "target": "_xampp",
-    "img": "xampp.png",
+    "img": "xampp.webp",
     "description": "Servidor de Desenvolvimento em PHP com Banco de Dados"
   },
   {
     "title": "Zang\nLanguage",
     "href": "https://github.com/cmspeedrunner/Zang",
     "target": "_zanglanguage",
-    "img": "zanglanguage.png",
+    "img": "zanglanguage.webp",
     "description": "Linguagem de multipropósito"
   },
   {
     "title": "ZigLang",
     "href": "https://ziglang.org/",
     "target": "_ziglang",
-    "img": "ziglang.png",
+    "img": "ziglang.webp",
     "description": "Linguagem de multipropósito"
   }
 ],
@@ -814,84 +814,84 @@
     "title": "Archive",
     "href": "https://archive.org/",
     "target": "_archive",
-    "img": "archive.png",
+    "img": "archive.webp",
     "description": "Arquivo de sites extintos"
   },
   {
     "title": "Cardápio Setorial",
     "href": "https://fump.ufmg.br/cardapio-do-dia/",
     "target": "_setorial",
-    "img": "setorial.png",
+    "img": "setorial.webp",
     "description": "Restaurante Universitário UFMG"
   },
   {
     "title": "CEU",
     "href": "https://www.ufmg.br/ceu/site/home",
     "target": "_ceu",
-    "img": "ceu.png",
+    "img": "ceu.webp",
     "description": "Centro Esportivo Universitário UFMG"
   },
   {
     "title": "GOB-MG",
     "href": "https://www.gobmg.org.br/",
     "target": "_gob",
-    "img": "gobmg.png",
+    "img": "gobmg.webp",
     "description": "Grande Oriente do Brasil - Minas Gerais (Maçonaria)"
   },
   {
     "title": "Groups PEPped",
     "href": "https://groups.google.com/group/pepped?msg=new&lnk=gcis&hl=pt-BR",
     "target": "_pepped",
-    "img": "groupspepped.png",
+    "img": "groupspepped.webp",
     "description": "Grupo de Pediatria"
   },
   {
     "title": "Lorem Ipsum",
     "href": "http://www.lipsum.com",
     "target": "_lipsum",
-    "img": "lorem_ipsum.png",
+    "img": "lorem_ipsum.webp",
     "description": "Massa de textos para testes em programação"
   },
   {
     "title": "Mussum Ipsum",
     "href": "http://www.mussumipsum.com",
     "target": "_mussumipsum",
-    "img": "mussum_ipsum.png",
+    "img": "mussum_ipsum.webp",
     "description": "Massa de textos para testes em programação"
   },
   {
     "title": "Planeta Rei",
     "href": "http://www.planetarei.com.br/100anos/index.htm",
     "target": "_planetarei",
-    "img": "planeta-rei.png",
+    "img": "planeta-rei.webp",
     "description": "Repositório de músicas"
   },
   {
     "title": "ProRH",
     "href": "https://www.ufmg.br/prorh/",
     "target": "_prorh",
-    "img": "ufmg.png",
+    "img": "ufmg.webp",
     "description": "Recurso Humanos da UFMG"
   },
   {
     "title": "Sigac",
     "href": "https://sso.gestaodeacesso.planejamento.gov.br/cassso/login",
     "target": "_sigac",
-    "img": "sigac.png",
+    "img": "sigac.webp",
     "description": "Site de gestão do funcionalismo público federal"
   },
   {
     "title": "UFMG Portal Atend.",
     "href": "https://sistemas.ufmg.br/atendimento/",
     "target": "_ufmg_atendimento",
-    "img": "ufmg.png",
+    "img": "ufmg.webp",
     "description": "Portal da UFMG"
   },
   {
     "title": "Vagalume músicas",
     "href": "http://www.vagalume.com.br",
     "target": "_vagalume",
-    "img": "vagalumemusicas.png",
+    "img": "vagalumemusicas.webp",
     "description": "Repositório de músicas"
   }
 ],
@@ -900,35 +900,35 @@
     "title": "Gmail",
     "href": "https://accounts.google.com/ServiceLogin?service=mail&passive=true&rm=false&continue=http://mail.google.com/mail/&scc=1&ltmpl=default&ltmplcache=2&emr=1",
     "target": "_gmail",
-    "img": "gmail.png",
+    "img": "gmail.webp",
     "description": "Servidor de e-mail do Google"
   },
   {
     "title": "Hotmail",
     "href": "https://login.live.com/login.srf?wa=wsignin1.0&rpsnv=167&ct=1734046827&rver=7.5.2211.0&wp=MBI_SSL&wreply=https%3a%2f%2foutlook.live.com%2fowa%2f%3fnlp%3d1%26cobrandid%3dab0455a0-8d03-46b9-b18b-df2f57b9e44c%26RpsCsrfState%3d13b4cc65-96b4-d9d7-8037-94fa3962c05d&id=292841&aadredir=1&CBCXT=out&lw=1&fl=dob%2cflname%2cwld&cobrandid=ab0455a0-8d03-46b9-b18b-df2f57b9e44c",
     "target": "_hotmail",
-    "img": "hotmail.png",
+    "img": "hotmail.webp",
     "description": "Servidor de e-mail da Microsoft"
   },
   {
     "title": "Minha UFMG",
     "href": "https://sistemas.ufmg.br/idp/login.jsp",
     "target": "_minha-ufmg",
-    "img": "minha-ufmg.png",
+    "img": "minha-ufmg.webp",
     "description": "Servidor e e-mail institucional da UFMG"
   },
   {
     "title": "Outlook",
     "href": "https://outlook.live.com/owa/",
     "target": "_outlook",
-    "img": "outlook.png",
+    "img": "outlook.webp",
     "description": "Servidor de e-mail da Microsoft"
   },
   {
     "title": "Yahoo",
     "href": "https://login.yahoo.com/?.src=ym&.partner=none&.lang=pt-BR&.intl=br&.done=https%3A%2F%2Fmail.yahoo.com%2Fd%3F.intl%3Dbr%26.lang%3Dpt-BR%26.partner%3Dnone%26.src%3Dfp",
     "target": "_yahoo",
-    "img": "yahoo.png",
+    "img": "yahoo.webp",
     "description": "Servidor e e-mail do Yahoo"
   }
 ],
@@ -937,21 +937,21 @@
     "title": "Blog do ENEM",
     "href": "https://blogdoenem.com.br",
     "target": "_blog-do-enem",
-    "img": "blog-do-enem.png",
+    "img": "blog-do-enem.webp",
     "description": "Conteúdos sobre o ENEM"
   },
   {
     "title": "Canal ENEM",
     "href": "https://www.youtube.com/channel/UC_53VGoH_0XLFmYVpGMvhvg/playlists",
     "target": "_canal-enem",
-    "img": "canal-enem.png",
+    "img": "canal-enem.webp",
     "description": "Conteúdos sobre o ENEM"
   },
   {
     "title": "Curso ENEM gratuito",
     "href": "https://cursoenemgratuito.com.br",
     "target": "_curso-enem-gratuito",
-    "img": "curso-enem-gratuito.png",
+    "img": "curso-enem-gratuito.webp",
     "description": "Conteúdos sobre o ENEM"
   }
 ],
@@ -960,182 +960,182 @@
     "title": "CEFET-MG",
     "href": "https://www.cefetmg.br",
     "target": "_cefet_mg",
-    "img": "cefet_mg.png",
+    "img": "cefet_mg.webp",
     "description": "Centro Federal de Ensino Técnico de MG"
   },
   {
     "title": "CEFET/COPEVE",
     "href": "https://www.copeve.cefetmg.br",
     "target": "_cefet_copeve",
-    "img": "cefet_copeve.png",
+    "img": "cefet_copeve.webp",
     "description": "Comissão Permanente do Vestibular da UFMG"
   },
   {
     "title": "COLTEC",
     "href": "http://www.coltec.ufmg.br/coltec-ufmg/",
     "target": "_coltec",
-    "img": "coltec.png",
+    "img": "coltec.webp",
     "description": "Colégio Técnico UFMG"
   },
   {
     "title": "Colégio Militar BH",
     "href": "http://www.cmbh.eb.mil.br/",
     "target": "_cmbh",
-    "img": "cmbh.png",
+    "img": "cmbh.webp",
     "description": "Colégio Militar de Belo Horizonte"
   },
   {
     "title": "Docer",
     "href": "https://docero.com.br",
     "target": "_docero",
-    "img": "docer.png",
+    "img": "docer.webp",
     "description": "Repositório de arquivos de livros"
   },
   {
     "title": "Esc Virtual Bradesco",
     "href": "https://www.ev.org.br",
     "target": "_escvirtual",
-    "img": "bradesco_esc_virtual.png",
+    "img": "bradesco_esc_virtual.webp",
     "description": "Ensino virtual de diversos cursos da Fundação Bradesco"
   },
   {
     "title": "Espir. e Metaf.",
     "href": "http://filosofiasdouniverso.blogspot.com/2011/11/biblioteca-espiritualista-e-metafisica.html",
     "target": "_espiritualista",
-    "img": "espiritualidade.png",
+    "img": "espiritualidade.webp",
     "description": "Site de Esoterísmo e Espirítualidade"
   },
   {
     "title": "Fernando Cascais",
     "href": "https://fernandocascais.wordpress.com/",
     "target": "_fernando_cascais",
-    "img": "fernandocascais.png",
+    "img": "fernandocascais.webp",
     "description": "Site de Esoterísmo e Espirítualidade"
   },
   {
     "title": "GSK",
     "href": "https://gskpro.com/pt-br/",
     "target": "_gsk",
-    "img": "gsk.png",
+    "img": "gsk.webp",
     "description": "Para profissionais médicos"
   },
   {
     "title": "ITA - VESTIBULAR",
     "href": "http://www.vestibular.ita.br/",
     "target": "_ita",
-    "img": "ita.png",
+    "img": "ita.webp",
     "description": "Vestibular do Instituto Tecnológico de Aeronáutica"
   },
   {
     "title": "Keep Google",
     "href": "https://keep.google.com/",
     "target": "_keepgoogle",
-    "img": "keepgoogle.png",
+    "img": "keepgoogle.webp",
     "description": "Post-its"
   },
   {
     "title": "LeLivros",
     "href": "http://lelivros.love/",
     "target": "_lelivros",
-    "img": "lelivros.png",
+    "img": "lelivros.webp",
     "description": "Repositório de arquivos de livros"
   },
   {
     "title": "Newton Paiva",
     "href": "http://www.newtonpaiva.br",
     "target": "_newtonpaiva",
-    "img": "newtonpaiva.png",
+    "img": "newtonpaiva.webp",
     "description": "Centro Universitário Newton Paiva"
   },
   {
     "title": "Nova Acrópole",
     "href": "http://www.nova-acropole.org.br/",
     "target": "_nova-acropole",
-    "img": "nova-acropole.png",
+    "img": "nova-acropole.webp",
     "description": "Filosófia, cultura e voluntariado"
   },
   {
     "title": "PDF -> AZW3",
     "href": "https://pdf2kindle.com/pt/",
     "target": "_pdfazw",
-    "img": "pdf_azw.png",
+    "img": "pdf_azw.webp",
     "description": "Converte PDF -> AZW3 para kindle"
   },
   {
     "title": "PDFDrive",
     "href": "https://www.pdfdrive.com/",
     "target": "_pdfdrive",
-    "img": "pdfdrive.png",
+    "img": "pdfdrive.webp",
     "description": "Download de livros"
   },
   {
     "title": "PUC Minas",
     "href": "http://portal.pucminas.br/main/",
     "target": "_pucminas",
-    "img": "pucminas.png",
+    "img": "pucminas.webp",
     "description": "Pontifícia Universidade Católica de Minas Gerais"
   },
   {
     "title": "PUC Virtual",
     "href": "https://www.pucminas.br/PucVirtual/Paginas/default.aspx",
     "target": "_pucvirtual",
-    "img": "pucvirtual.png",
+    "img": "pucvirtual.webp",
     "description": "Pontifícia Universidade Católica Virtual"
   },
   {
     "title": "SCI-HUB",
     "href": "https://sci-hub.hkvisa.net/",
     "target": "_sci-hub",
-    "img": "sci-hub.png",
+    "img": "sci-hub.webp",
     "description": "Publicações científicas"
   },
   {
     "title": "SIGAA/CEFET-MG",
     "href": "https://sig.cefetmg.br/admin/public/loginunificado/index.jsf",
     "target": "_sigaa",
-    "img": "sigaa.png",
+    "img": "sigaa.webp",
     "description": "Sistema Integrado de Atividades Acadẽmicas do CEFET"
   },
   {
     "title": "STA MARIA",
     "href": "https://santamaria.pucminas.br/coracao-eucaristico/",
     "target": "_sta-maria",
-    "img": "colegiostamaria.png",
+    "img": "colegiostamaria.webp",
     "description": "Colégio Stª Maria - Unidade Coração Eucarístico"
   },
   {
     "title": "TecConcursos",
     "href": "https://www.tecconcursos.com.br/",
     "target": "_tec_concursos",
-    "img": "tec_concursos.png",
+    "img": "tec_concursos.webp",
     "description": "Plataforma de estudo para concursos"
   },
   {
     "title": "UEMG",
     "href": "http://www.daeuemg.mg.gov.br/a1dw/emitirdae.do",
     "target": "_uemg",
-    "img": "uemg.png",
+    "img": "uemg.webp",
     "description": "Universidade Estadual de Minas Gerais"
   },
   {
     "title": "UFMG",
     "href": "https://www.ufmg.br/",
     "target": "_ufmg",
-    "img": "ufmg.png",
+    "img": "ufmg.webp",
     "description": "Universidade Federal de Minas Gerais"
   },
   {
     "title": "Verde",
     "href": "http://maratona.crc.pucminas.br",
     "target": "_verde",
-    "img": "verde.png",
+    "img": "verde.webp",
     "description": "Área de entrega trabalhos de programação da PUC"
   },
   {
     "title": "ZLibrary",
     "href": "http://loginzlib2vrak5zzpcocc3ouizykn6k5qecgj2tzlnab5wcbqhembyd.onion/",
     "target": "_zlibrary",
-    "img": "zlibrary.png",
+    "img": "zlibrary.webp",
     "description": "Download de livros"
   }
 ],
@@ -1144,49 +1144,49 @@
     "title": "Bitcine",
     "href": "https://www.bitcine.app/",
     "target": "_bitcine",
-    "img": "bitcine.png",
+    "img": "bitcine.webp",
     "description": "Filmes e séries"
   },
   {
     "title": "Globo Play",
     "href": "https://globoplay.globo.com/",
     "target": "_globoplay",
-    "img": "globoplay.png",
+    "img": "globoplay.webp",
     "description": "Programação da Globo de filmes, series, jornalismo, novelas, documentários etc..."
   },
   {
     "title": "LordFlix",
     "href": "https://lordflix.org",
     "target": "_lordflix",
-    "img": "lordflix.png",
+    "img": "lordflix.webp",
     "description": "Filmes e Séries"
   },
   {
     "title": "Netcine",
     "href": "https://netcinehd.li/",
     "target": "_netcine",
-    "img": "netcine.png",
+    "img": "netcine.webp",
     "description": "Filmes, séries..."
   },
   {
     "title": "Rede Canais",
     "href": "https://redecanais.ph/",
     "target": "_redecanais",
-    "img": "redecanais.png",
+    "img": "redecanais.webp",
     "description": "Baixar filmes e series"
   },
   {
     "title": "SBT",
     "href": "https://youtu.be/ABVQXgr2LW4",
     "target": "_sbt",
-    "img": "sbt.png",
+    "img": "sbt.webp",
     "description": "Canal do SBT no Youtube"
   },
   {
     "title": "Youtube",
     "href": "http://www.youtube.com",
     "target": "_youtube",
-    "img": "youtube.png",
+    "img": "youtube.webp",
     "description": "Youtube vídeos"
   }
 ],
@@ -1195,56 +1195,56 @@
     "title": "Flaticon",
     "href": "https://www.flaticon.com/br?utm_term=free icons&utm_campaign=fi_busqueda_brasil&utm_source=adwords&utm_medium=ppc&hsa_acc=5490559948&hsa_cam=1841778624&hsa_grp=70091914939&hsa_ad=346006066075&hsa_src=g&hsa_tgt=kwd-22932361&hsa_kw=free icons&hsa_mt=b&hsa_net=adwords&hsa_ver=3&gclid=EAIaIQobChMI1fmf9Yv25QIVVwiRCh1PXgEoEAAYASAAEgLMTvD_BwE",
     "target": "_flaticon",
-    "img": "flaticon.png",
+    "img": "flaticon.webp",
     "description": "Site com diversos icones para baixar"
   },
   {
     "title": "Icon Finder",
     "href": "https://www.iconfinder.com/",
     "target": "_iconfinder",
-    "img": "iconfinder.png",
+    "img": "iconfinder.webp",
     "description": "Site com diversos icones para baixar"
   },
   {
     "title": "Icon-Icons",
     "href": "https://icon-icons.com/pt/",
     "target": "_icon-icons",
-    "img": "icons-free.png",
+    "img": "icons-free.webp",
     "description": "Site com diversos icones para baixar"
   },
   {
     "title": "Icons8",
     "href": "https://icons8.com.br/",
     "target": "_icons8",
-    "img": "icons8.png",
+    "img": "icons8.webp",
     "description": "Site com diversos icones para baixar"
   },
   {
     "title": "PNGIMG",
     "href": "http://pngimg.com/",
     "target": "_pngimg",
-    "img": "pngimg.png",
+    "img": "pngimg.webp",
     "description": "Site com diversas imagens png para baixar"
   },
   {
     "title": "Vecteezy",
     "href": "https://www.vecteezy.com",
     "target": "_vecteezy",
-    "img": "vecteezy.png",
+    "img": "vecteezy.webp",
     "description": "Ícones e imagens"
   },
   {
     "title": "Wallpaper Flare",
     "href": "https://www.wallpaperflare.com/",
     "target": "_wallpaperflare",
-    "img": "wallpaperflare.png",
+    "img": "wallpaperflare.webp",
     "description": "Repositórios com diversos Wallpapers (imagens de fundo para desktop)"
   },
   {
     "title": "Wallpapers Abyss",
     "href": "https://wall.alphacoders.com/finding_wallpapers.php?lang-Portuguese",
     "target": "_wallpapers-abyss",
-    "img": "wallpapers-abyss.png",
+    "img": "wallpapers-abyss.webp",
     "description": "Repositórios com diversos Wallpapers (imagens de fundo para desktop)"
   }
 ],
@@ -1253,168 +1253,168 @@
     "title": "AnduinOS",
     "href": "https://www.anduinos.com/",
     "target": "_anduinos",
-    "img": "anduinos.png",
+    "img": "anduinos.webp",
     "description": "Linux baseado em Debian + Gnome interface"
   },
   {
     "title": "AntiX\nLinux",
     "href": "https://antixlinux.com/",
     "target": "_antix",
-    "img": "antix.png",
+    "img": "antix.webp",
     "description": "Linux baseado em Debian"
   },
   {
     "title": "Bodhi\nLinux",
     "href": "https://www.bodhilinux.com/",
     "target": "_bodhilinux",
-    "img": "bodhilinux.png",
+    "img": "bodhilinux.webp",
     "description": "Linux baseado em Ubuntu"
   },
   {
     "title": "Calculate\nLinux",
     "href": "https://www.calculate-linux.org/",
     "target": "_calculate_linux",
-    "img": "calculate_linux.png",
+    "img": "calculate_linux.webp",
     "description": "Linux baseado em Gentoo"
   },
   {
     "title": "Cinnamon Spices",
     "href": "https://cinnamon-spices.linuxmint.com/",
     "target": "_cinnamon-spices",
-    "img": "cinnamon-spices.png",
+    "img": "cinnamon-spices.webp",
     "description": "Repositório de temas e ícones para Linux da arquitetura de interface Cinnamon"
   },
   {
     "title": "Debian",
     "href": "https://www.debian.org/distrib/",
     "target": "_debian",
-    "img": "debian.png",
+    "img": "debian.webp",
     "description": "Sistema Operacional Debian"
   },
   {
     "title": "Debian Unofficial",
     "href": "https://cdimage.debian.org/cdimage/unofficial/non-free/cd-including-firmware/",
     "target": "_debian_unofficial",
-    "img": "debian_unofficial.png",
+    "img": "debian_unofficial.webp",
     "description": "Sistema Operacional Debian não oficial"
   },
   {
     "title": "Deepin Linux",
     "href": "https://www.deepin.org/index/en",
     "target": "_deepinlinux",
-    "img": "deepinlinux.png",
+    "img": "deepinlinux.webp",
     "description": "Sistema Operacional Chinês baseado em Debian"
   },
   {
     "title": "Devuan",
     "href": "https://www.devuan.org/",
     "target": "_devuan",
-    "img": "devuan.png",
+    "img": "devuan.webp",
     "description": "Sistema Operacional Devuan fork do Debian"
   },
   {
     "title": "DistroWatch",
     "href": "https://distrowatch.com/",
     "target": "_distrowatch",
-    "img": "distrowatch.png",
+    "img": "distrowatch.webp",
     "description": "DistroWatch é um site dedicado a disticur, revisar e manter-se atualizado sobre sistemas operacionais de código aberto. Este site concentra-se particularmente em distribuições Linux e versões de BSD"
   },
   {
     "title": "FerenOS",
     "href": "https://ferenos.weebly.com/",
     "target": "_ferenos",
-    "img": "ferenos.png",
+    "img": "ferenos.webp",
     "description": "Linux baseado em Ubuntu"
   },
   {
     "title": "Garuda Linux",
     "href": "https://garudalinux.org",
     "target": "_garudalinux",
-    "img": "garuda.png",
+    "img": "garuda.webp",
     "description": "Sistema Operacional baseado em Arch"
   },
   {
     "title": "GetMyOS",
     "href": "https://www.getmyos.com/",
     "target": "_getmyos",
-    "img": "getmyos.png",
+    "img": "getmyos.webp",
     "description": "Últimas imagens iso de várias OS"
   },
   {
     "title": "Gnome-look",
     "href": "https://www.gnome-look.org",
     "target": "_gnomelook",
-    "img": "gnomelook.png",
+    "img": "gnomelook.webp",
     "description": "Repositório de temas e ícones para Linux"
   },
   {
     "title": "Linux Lite",
     "href": "https://www.linuxliteos.com/",
     "target": "_linuxlite",
-    "img": "linuxlite.png",
+    "img": "linuxlite.webp",
     "description": "Sistema Operacional baseada em Ubuntu com interface XFCE"
   },
   {
     "title": "LinuxMint",
     "href": "https://www.linuxmint.com/",
     "target": "_linuxmint",
-    "img": "linuxmint.png",
+    "img": "linuxmint.webp",
     "description": "Sistema Operacional baseado em Ubuntu Linux"
   },
   {
     "title": "MXLinux",
     "href": "https://mxlinux.org",
     "target": "_mxlinux",
-    "img": "mxlinux.png",
+    "img": "mxlinux.webp",
     "description": "Sistema Operacional baseado em Debian"
   },
   {
     "title": "OpenSUSE\nTumbleWeed",
     "href": "https://get.opensuse.org/pt_BR/",
     "target": "_opensusetumbleweed",
-    "img": "opensuse_tumbleweed.png",
+    "img": "opensuse_tumbleweed.webp",
     "description": "OpenSUSE TumbleWeed"
   },
   {
     "title": "Opção Linux",
     "href": "https://www.blogopcaolinux.com.br/",
     "target": "_opcaolinux",
-    "img": "opcao_linux.png",
+    "img": "opcao_linux.webp",
     "description": "Blog Opção Linux oferece suporte a 4 distribuições (Debian, Fedora, Ubuntu e o openSUSE), com o passo a passo (detalhado e com imagens) de instalação e a configuração após instalação das mesmas"
   },
   {
     "title": "PeppermintOS",
     "href": "https://peppermintos.com/",
     "target": "_peppermintos",
-    "img": "peppermintos.png",
+    "img": "peppermintos.webp",
     "description": "Peppermint é um sistema operacional que fornece ao usuário a oportunidade de construir o sistema que melhor se adapta às suas necessidades"
   },
   {
     "title": "Sparky Linux",
     "href": "https://sparkylinux.org/",
     "target": "_sparkylinux",
-    "img": "sparkylinux.png",
+    "img": "sparkylinux.webp",
     "description": "Sistema Operacional baseado em Debian"
   },
   {
     "title": "Spins Fedora",
     "href": "https://spins.fedoraproject.org/pt_BR/",
     "target": "_spins-fedora",
-    "img": "fedora-spins.png",
+    "img": "fedora-spins.webp",
     "description": "Diversas interfaces do Sistema Operacional Fedora"
   },
   {
     "title": "Ubuntu cdimg",
     "href": "http://cdimage.ubuntu.com/",
     "target": "_ubuntu_cdimg",
-    "img": "ubuntu_cdimg.png",
+    "img": "ubuntu_cdimg.webp",
     "description": "Imagens ISOs de diversas distribuições e arquiteturas de interface baseadas em Ubuntu"
   },
   {
     "title": "XFCE-look",
     "href": "https://www.xfce-look.org/",
     "target": "_xfce-look",
-    "img": "xfce-look.png",
+    "img": "xfce-look.webp",
     "description": "Repositório de temas e ícones para Linux"
   }
 ],
@@ -1423,14 +1423,14 @@
     "title": "Apostas online",
     "href": "https://www.loteriasonline.caixa.gov.br/silce-web/#/home",
     "target": "_loterias_caixa",
-    "img": "loterias_caixa.png",
+    "img": "loterias_caixa.webp",
     "description": "Apostas online da Caixa Econômica Federal"
   },
   {
     "title": "Sorte Online",
     "href": "https://www.sorteonline.com.br/",
     "target": "_sorte_online",
-    "img": "sorte_online.png",
+    "img": "sorte_online.webp",
     "description": "Bolões de loterias da Caixa"
   }
 ],
@@ -1439,28 +1439,28 @@
     "title": "Dropbox",
     "href": "http://www.dropbox.com",
     "target": "_dropbox",
-    "img": "dropbox.png",
+    "img": "dropbox.webp",
     "description": "Drive virtual do Dropbox"
   },
   {
     "title": "Google Drive",
     "href": "https://accounts.google.com/ServiceLogin?service=wise&passive=1209600&continue=https://drive.google.com/?tab%3Dwo%23&followup=https://drive.google.com/?tab%3Dwo&ltmpl=drive",
     "target": "_drivegoogle",
-    "img": "googledrive.png",
+    "img": "googledrive.webp",
     "description": "Drive virtual da Google"
   },
   {
     "title": "iCloud",
     "href": "https://www.icloud.com/",
     "target": "_icloud",
-    "img": "icloud.png",
+    "img": "icloud.webp",
     "description": "O iCloud é o serviço da Apple que armazena com segurança as suas informações pessoais, as mantém atualizadas em todos os seus dispositivos e facilita o compartilhamento de suas fotos, arquivos e muito mais com amigos e familiares."
   },
   {
     "title": "OneDrive",
     "href": "https://onedrive.live.com",
     "target": "_onedrive",
-    "img": "onedrive.png",
+    "img": "onedrive.webp",
     "description": "Drive virtual da Microsoft"
   }
 ],
@@ -1469,42 +1469,42 @@
     "title": "Clima Tempo",
     "href": "http://www.climatempo.com.br/previsao-do-tempo/cidade/107/belohorizonte-mg",
     "target": "_climatempo",
-    "img": "climatempo.png",
+    "img": "climatempo.webp",
     "description": "Notícias de previsão e situação do tempo"
   },
   {
     "title": "G1",
     "href": "http://g1.globo.com/index.html",
     "target": "_g1",
-    "img": "g1.png",
+    "img": "g1.webp",
     "description": "Notícias do G1 da Globo"
   },
   {
     "title": "MSN Brasil",
     "href": "http://www.msn.com/pt-br/?ocid=iehp",
     "target": "_msn",
-    "img": "msn.png",
+    "img": "msn.webp",
     "description": "Microsoft Notícias Brasil"
   },
   {
     "title": "O Tempo",
     "href": "https://www.otempo.com.br/",
     "target": "_otempo",
-    "img": "otempo.png",
+    "img": "otempo.webp",
     "description": "Jornal de notícias O Tempo"
   },
   {
     "title": "Sou BH",
     "href": "http://www.soubh.com.br/",
     "target": "_soubh",
-    "img": "soubh.png",
+    "img": "soubh.webp",
     "description": "Notícias sobre em eventos em Belo Horizonte"
   },
   {
     "title": "Weather",
     "href": "https://weather.com/pt-BR/clima/hoje/l/-19.92,-43.93",
     "target": "_weather",
-    "img": "weather.png",
+    "img": "weather.webp",
     "description": "Notícias de previsão e situação do tempo em todo mundo"
   }
 ],
@@ -1513,35 +1513,35 @@
     "title": "Bing pesquisa",
     "href": "http://www.bing.com/?scope=web&mkt=pt-BR",
     "target": "_mapsgoogle",
-    "img": "bing.png",
+    "img": "bing.webp",
     "description": "Site de pesquisas Bing da Microsoft"
   },
   {
     "title": "DuckDuckGo",
     "href": "https://duckduckgo.com/",
     "target": "_duckduckgo",
-    "img": "duckduckgo.png",
+    "img": "duckduckgo.webp",
     "description": "Site de pesquisas DuckDuckGo"
   },
   {
     "title": "Google",
     "href": "https://www.google.com",
     "target": "_google",
-    "img": "google.png",
+    "img": "google.webp",
     "description": "Site de pesquisa do Google"
   },
   {
     "title": "Google tradutor",
     "href": "http://translate.google.com.br/?hl=pt-BR&tab=wT",
     "target": "_tradutor",
-    "img": "googletradutor.png",
+    "img": "googletradutor.webp",
     "description": "Google tradutor"
   },
   {
     "title": "Maps google",
     "href": "http://maps.google.com.br",
     "target": "_mapsgoogle",
-    "img": "googlemaps.png",
+    "img": "googlemaps.webp",
     "description": "Mapas das cidades do Google"
   }
 ],
@@ -1550,77 +1550,77 @@
     "title": "107.5 FM",
     "href": "http://radio107fm.com/plus/",
     "target": "_107fm",
-    "img": "107fm.png",
+    "img": "107fm.webp",
     "description": "Rádio 107.5 FM"
   },
   {
     "title": "Alvorada FM",
     "href": "https://www.alvoradafm.com.br/player",
     "target": "_alvoradafm",
-    "img": "alvoradafm.png",
+    "img": "alvoradafm.webp",
     "description": "Rádio Alvorada FM"
   },
   {
     "title": "Antena 1",
     "href": "https://www.antena1.com.br/aovivo",
     "target": "_antena_1",
-    "img": "antena1.png",
+    "img": "antena1.webp",
     "description": "Rádio Antena 1"
   },
   {
     "title": "CBN BH",
     "href": "https://www.radios.com.br/aovivo/radio-cbn-bh-1061-fm/8768",
     "target": "_cbn_bh",
-    "img": "cbn.png",
+    "img": "cbn.webp",
     "description": "Rádio CBN Belo Horizonte"
   },
   {
     "title": "FM Stream",
     "href": "http://fmstream.org/index.php?c=B&o=top&n=1600",
     "target": "_fmstream",
-    "img": "fmstream.png",
+    "img": "fmstream.webp",
     "description": "Diversos streams de rádios"
   },
   {
     "title": "Itatiaia",
     "href": "http://www.itatiaia.com.br/aovivo",
     "target": "_itatiaia",
-    "img": "itatiaia.png",
+    "img": "itatiaia.webp",
     "description": "Rádio Itatiaia"
   },
   {
     "title": "Radio Garden",
     "href": "https://radio.garden/",
     "target": "_radio_garden",
-    "img": "radio_garden.png",
+    "img": "radio_garden.webp",
     "description": "Rádios online em todo mundo"
   },
   {
     "title": "Radios ao vivo",
     "href": "http://www.radiosaovivo.net",
     "target": "_radiosaovivo",
-    "img": "radiosaovivo.net.png",
+    "img": "radiosaovivo.net.webp",
     "description": "Diversos links de rádios"
   },
   {
     "title": "Radios.com.br",
     "href": "https://www.radios.com.br",
     "target": "_radios.com.br",
-    "img": "radios.com.br.png",
+    "img": "radios.com.br.webp",
     "description": "Diversos links de rádios"
   },
   {
     "title": "Rádios",
     "href": "assets/html/radios.html",
     "target": "_radios",
-    "img": "radio.png",
+    "img": "radio.webp",
     "description": "Seleção de rádios"
   },
   {
     "title": "Tune in radio",
     "href": "https://tunein.com/radio/home/",
     "target": "_tunein_radio",
-    "img": "tuneinradio.png",
+    "img": "tuneinradio.webp",
     "description": "Diversas rádios em um só lugar"
   }
 ],
@@ -1629,42 +1629,42 @@
     "title": "Facebook",
     "href": "https://www.facebook.com/",
     "target": "_facebook",
-    "img": "facebook.png",
+    "img": "facebook.webp",
     "description": "Facebook"
   },
   {
     "title": "Instagram",
     "href": "https://www.instagram.com",
     "target": "_instagram",
-    "img": "instagram.png",
+    "img": "instagram.webp",
     "description": "Instagram"
   },
   {
     "title": "Linkedin",
     "href": "https://www.linkedin.com",
     "target": "_linkedin",
-    "img": "linkedin.png",
+    "img": "linkedin.webp",
     "description": "Linkedin"
   },
   {
     "title": "Telegram Web",
     "href": "https://web.telegram.org",
     "target": "_telegramweb",
-    "img": "telegram-web.png",
+    "img": "telegram-web.webp",
     "description": "Telegram Web"
   },
   {
     "title": "WhatsApp Web",
     "href": "https://web.whatsapp.com/",
     "target": "_whatsappweb",
-    "img": "whatsapp-web.png",
+    "img": "whatsapp-web.webp",
     "description": "WhatsApp Web"
   },
   {
     "title": "X",
     "href": "https://x.com",
     "target": "_x",
-    "img": "x.png",
+    "img": "x.webp",
     "description": "X"
   }
 ],
@@ -1673,329 +1673,329 @@
     "title": "4Shared",
     "href": "http://www.4shared.com",
     "target": "_forshared",
-    "img": "4shared.png",
+    "img": "4shared.webp",
     "description": "Repositório de arquivos diversos"
   },
   {
     "title": "AIZZY",
     "href": "https://app.aizzy.ai/",
     "target": "_aizzy",
-    "img": "aizzy.png",
+    "img": "aizzy.webp",
     "description": "Serviço de AI"
   },
   {
     "title": "AlternativeTo",
     "href": "https://alternativeto.net/",
     "target": "_alternativeto",
-    "img": "alternativeto.png",
+    "img": "alternativeto.webp",
     "description": "Alternativas para softwares"
   },
   {
     "title": "AwesomeAPI",
     "href": "https://docs.awesomeapi.com.br/",
     "target": "_awesomeapi",
-    "img": "awesomeapi.png",
+    "img": "awesomeapi.webp",
     "description": "Consultar criptomoedas e CEP."
   },
   {
     "title": "BH Trans",
     "href": "http://servicosbhtrans.pbh.gov.br/bhtrans/e-servicos/e-servicos.asp?servico=S01&opcao=QUADRO%20DE%20HORÁRIOS%20DE%20ÔNIBUS",
     "target": "_bhtrans",
-    "img": "bhtrans.png",
+    "img": "bhtrans.webp",
     "description": "BH Trans serviços"
   },
   {
     "title": "BRFreePik",
     "href": "https://br.freepik.com/",
     "target": "_brfreepik",
-    "img": "brfreepik.png",
+    "img": "brfreepik.webp",
     "description": "Icones para download"
   },
   {
     "title": "Calendário Brasil",
     "href": "https://calendariodobrasil.com.br/",
     "target": "_calendario-brasil",
-    "img": "calendario-brasil.png",
+    "img": "calendario-brasil.webp",
     "description": "Calendário + feriados"
   },
   {
     "title": "Canva",
     "href": "https://www.canva.com/pt_br/",
     "target": "_canva",
-    "img": "canva.png",
+    "img": "canva.webp",
     "description": "Colaboração e criação de designers"
   },
   {
     "title": "Cartões BHBUS",
     "href": "https://www.bhbus.com.br/cartoes",
     "target": "_transfacil",
-    "img": "transfacil.png",
+    "img": "transfacil.webp",
     "description": "Cartões de transporte do BHBUS"
   },
   {
     "title": "CloudConvert",
     "href": "https://cloudconvert.com/",
     "target": "_cloudconvert",
-    "img": "cloudconvert.png",
+    "img": "cloudconvert.webp",
     "description": "Converte alguns arquivos p/ outros formatos"
   },
   {
     "title": "Cobalt",
     "href": "https://cobalt.tools/",
     "target": "_cobalt",
-    "img": "cobalt.png",
+    "img": "cobalt.webp",
     "description": "Download de vídeos e audio"
   },
   {
     "title": "Correios",
     "href": "http://www.correios.com.br",
     "target": "_correios",
-    "img": "correios.png",
+    "img": "correios.webp",
     "description": "Portal dos Correios"
   },
   {
     "title": "Despertador",
     "href": "https://relogioonline.com.br/#",
     "target": "_despertador",
-    "img": "despertador.png",
+    "img": "despertador.webp",
     "description": "Serviço despertador online"
   },
   {
     "title": "Deviant Art",
     "href": "https://www.deviantart.com/",
     "target": "_deviant-art",
-    "img": "deviant-art.png",
+    "img": "deviant-art.webp",
     "description": "Temas, icones e wallpappers para desktop"
   },
   {
     "title": "Dillinger",
     "href": "https://dillinger.io/",
     "target": "_dillinger",
-    "img": "dillinger.png",
+    "img": "dillinger.webp",
     "description": "Criação de arquivos markdown online"
   },
   {
     "title": "Dontpad",
     "href": "https://dontpad.com/",
     "target": "_dontpad",
-    "img": "dontpad.png",
+    "img": "dontpad.webp",
     "description": "Notepad online para compartilhar conteúdo"
   },
   {
     "title": "Draw",
     "href": "https://www.draw.io",
     "target": "_draw",
-    "img": "draw.png",
+    "img": "draw.webp",
     "description": "Criação de diagramas online"
   },
   {
     "title": "Dígito verificador",
     "href": "http://www.cjdinfo.com.br/utilitario-calculo-digito-modulo-11",
     "target": "_cjdinfo",
-    "img": "cjdinfo.png",
+    "img": "cjdinfo.webp",
     "description": "Programa online para calculo do digito verificador"
   },
   {
     "title": "Encycolorpedia",
     "href": "https://encycolorpedia.pt",
     "target": "_encycolorpedia",
-    "img": "encycolorpedia.png",
+    "img": "encycolorpedia.webp",
     "description": "Diversos códigos de cores"
   },
   {
     "title": "FMHY",
     "href": "https://fmhy.net/",
     "target": "_fmhy",
-    "img": "fmhy.png",
+    "img": "fmhy.webp",
     "description": "A maior coleção de coisas grátis da internet!"
   },
   {
     "title": "GrátisPNG",
     "href": "https://www.gratispng.com/",
     "target": "_gratispng",
-    "img": "gratispng.png",
+    "img": "gratispng.webp",
     "description": "Diversas imagens"
   },
   {
     "title": "Gov.br",
     "href": "https://acesso.gov.br/",
     "target": "_gov.br",
-    "img": "gov.br.png",
+    "img": "gov.br.webp",
     "description": "Portal oficial do governo do Brasil para serviços digitais. Ele serve como uma plataforma centralizada para fornecer acesso a diversos serviços e informações governamentais online."
   },
   {
     "title": "ICPEdu",
     "href": "https://pessoal.icpedu.rnp.br/home",
     "target": "_icpedu",
-    "img": "icpedu.png",
+    "img": "icpedu.webp",
     "description": "Emissão de certificado digital pessoal"
   },
   {
     "title": "INSS",
     "href": "https://www.gov.br/pt-br/servicos/emitir-gps-para-pagamento-de-contribuicoes-previdenciarias",
     "target": "_sal",
-    "img": "sal.png",
+    "img": "sal.webp",
     "description": "INSS página do calculo de contribuição"
   },
   {
     "title": "Localizar Cel.",
     "href": "https://myaccount.google.com/find-your-phone",
     "target": "_mobile",
-    "img": "mobile.png",
+    "img": "mobile.webp",
     "description": "Serviço de localização de celular"
   },
   {
     "title": "MDLive-Preview",
     "href": "https://markdownlivepreview.com/",
     "target": "_mdlivepreview",
-    "img": "mdlivepreview.png",
+    "img": "mdlivepreview.webp",
     "description": "Criação de arquivos markdown online"
   },
   {
     "title": "Midomi",
     "href": "https://www.midomi.com/",
     "target": "_midomi",
-    "img": "midomi.png",
+    "img": "midomi.webp",
     "description": "Identificador online de músicas"
   },
   {
     "title": "AMP4",
     "href": "https://amp4.cc/",
     "target": "_amp4",
-    "img": "amp4.png",
+    "img": "amp4.webp",
     "description": "Download de vídeo e audio"
   },
   {
     "title": "Print Friendly",
     "href": "http://www.printfriendly.com/",
     "target": "_print_friendly",
-    "img": "print_friendly.png",
+    "img": "print_friendly.webp",
     "description": "Conversor de arquivos para pdf"
   },
   {
     "title": "Rastreamento",
     "href": "https://www2.correios.com.br/sistemas/rastreamento/",
     "target": "_correios_rastreamento",
-    "img": "correios_rastreamento.png",
+    "img": "correios_rastreamento.webp",
     "description": "Serviço de rastreamento de encomendas dos Correios"
   },
   {
     "title": "Rodoviaria de BH",
     "href": "https://rodoviariadebh.com.br/deonibus",
     "target": "_rodoviariabh",
-    "img": "rodoviariabh.png",
+    "img": "rodoviariabh.webp",
     "description": "Rodoviária de Belo Horizonte"
   },
   {
     "title": "SendAnywhere",
     "href": "https://send-anywhere.com/",
     "target": "_send-anywhere",
-    "img": "send-anywhere.png",
+    "img": "send-anywhere.webp",
     "description": "Serviço para envio de arquivos para outro dispositivo"
   },
   {
     "title": "Slides",
     "href": "https://slides.com/",
     "target": "_slides",
-    "img": "slides.png",
+    "img": "slides.webp",
     "description": "Criação de apresentações online"
   },
   {
     "title": "Slum",
     "href": "https://open-slum.org/",
     "target": "_slum",
-    "img": "slum.png",
+    "img": "slum.webp",
     "description": "Monitor em tempo real de biblioteca oculta nas sombras"
   },
   {
     "title": "Snappea",
     "href": "https://www.snappea.com/",
     "target": "_snappea",
-    "img": "snappea.png",
+    "img": "snappea.webp",
     "description": "Baixar vídeo ou audio do youtube"
   },
   {
     "title": "Soar",
     "href": "https://www.soarmp3.com/",
     "target": "_soar",
-    "img": "soar.png",
+    "img": "soar.webp",
     "description": "Converte texto em audio"
   },
   {
     "title": "SouGov",
     "href": "https://gov.br/sougov",
     "target": "_sougov",
-    "img": "sougov.png",
+    "img": "sougov.webp",
     "description": "Site de gestão do funcionalismo público federal"
   },
   {
     "title": "Sound of Text",
     "href": "https://soundoftext.com/",
     "target": "_soundoftext",
-    "img": "soundoftext.png",
+    "img": "soundoftext.webp",
     "description": "Converte texto em audio em vários idiomas"
   },
   {
     "title": "StackEdit",
     "href": "https://stackedit.io/app#",
     "target": "_stackedit",
-    "img": "stackedit.png",
+    "img": "stackedit.webp",
     "description": "Criação de arquivos markdown online"
   },
   {
     "title": "TinyWow",
     "href": "https://tinywow.com/tools",
     "target": "_tinywow",
-    "img": "tinywow.png",
+    "img": "tinywow.webp",
     "description": "Diversos aplicativos online para vários fins"
   },
   {
     "title": "Toques celular",
     "href": "http://toqueparacelular.com.br/",
     "target": "_toques",
-    "img": "toquescelular.png",
+    "img": "toquescelular.webp",
     "description": "Diversos toques de celular"
   },
   {
     "title": "Tourão bar e rest.",
     "href": "https://deliveryapp.neemo.com.br/delivery/7231/menu",
     "target": "_tourao",
-    "img": "tourao.png",
+    "img": "tourao.webp",
     "description": "Encomendas online de refeições"
   },
   {
     "title": "Ulist",
     "href": "https://guihkx.github.io/ulist/",
     "target": "_ulist",
-    "img": "ulist.png",
+    "img": "ulist.webp",
     "description": "Extração de endereços dos vídeos das playlists do Youtube"
   },
   {
     "title": "UpToDown",
     "href": "http://br.uptodown.com/",
     "target": "_uptodown",
-    "img": "uptodown.png",
+    "img": "uptodown.webp",
     "description": "Download de programas diversos"
   },
   {
     "title": "Viação Kaissara",
     "href": "https://www.kaissara.com.br",
     "target": "_kaissara",
-    "img": "kaissara.png",
+    "img": "kaissara.webp",
     "description": "Transporte Interestudual de passageiros Viação Kaissara"
   },
   {
     "title": "Virus Total",
     "href": "https://www.virustotal.com/gui/home/upload",
     "target": "_virustotal",
-    "img": "virustotal.png",
+    "img": "virustotal.webp",
     "description": "Checa se arquivo contém vírus"
   },
   {
     "title": "Web2pdf",
     "href": "http://www.web2pdfconvert.com/",
     "target": "_web2pdfconvert",
-    "img": "web2pdfconvert.png",
+    "img": "web2pdfconvert.webp",
     "description": "Conversor de arquivos para pdf"
   }
 ],
@@ -2004,224 +2004,224 @@
     "title": "Apps-AppImages",
     "href": "https://appimage.github.io/apps/",
     "target": "_appimages",
-    "img": "appimages.png",
+    "img": "appimages.webp",
     "description": "Aplicativos portáteis para Linux"
   },
   {
     "title": "360 Total Security",
     "href": "https://www.360totalsecurity.com/pt/download-free-antivirus/",
     "target": "_360",
-    "img": "360.png",
+    "img": "360.webp",
     "description": "Ativírus"
   },
   {
     "title": "Brave Browser",
     "href": "https://github.com/brave/brave-browser",
     "target": "_bravebrowser",
-    "img": "bravebrowser.png",
+    "img": "bravebrowser.webp",
     "description": "Web Browser"
   },
   {
     "title": "BrowserOS",
     "href": "https://github.com/browseros-ai/BrowserOS",
     "target": "_browseros",
-    "img": "browseros.png",
+    "img": "browseros.webp",
     "description": "BrowserOS navegador combinado com IA"
   },
   {
     "title": "CCleaner",
     "href": "https://www.ccleaner.com/pt-br/ccleaner/download/standard",
     "target": "_ccleaner",
-    "img": "ccleaner.png",
+    "img": "ccleaner.webp",
     "description": "Corretor de erros do sistema"
   },
   {
     "title": "Chrome web store",
     "href": "https://chrome.google.com/webstore/category/extensions?hl=pt-br",
     "target": "_extensions_chrome",
-    "img": "extensions_chrome.png",
+    "img": "extensions_chrome.webp",
     "description": "Extensões para Google Chrome Browser"
   },
   {
     "title": "Firefox All",
     "href": "https://www.mozilla.org/pt-BR/firefox/all/",
     "target": "_firefox-all",
-    "img": "firefox-all.png",
+    "img": "firefox-all.webp",
     "description": "Todos os browsers Firefox"
   },
   {
     "title": "FreeFileSync",
     "href": "https://freefilesync.org/",
     "target": "_freefilesync",
-    "img": "freefilesync.png",
+    "img": "freefilesync.webp",
     "description": "Programa de sincronização de arquivos do computador com média externa"
   },
   {
     "title": "FreeOffice",
     "href": "https://www.freeoffice.com/pt/",
     "target": "_freeoffice",
-    "img": "freeoffice.png",
+    "img": "freeoffice.webp",
     "description": "Ferramenta de escritório gratuita para download"
   },
   {
     "title": "Gimp",
     "href": "https://www.gimp.org/",
     "target": "_gimp",
-    "img": "gimp.png",
+    "img": "gimp.webp",
     "description": "Editor e imagem avançado"
   },
   {
     "title": "IconArchive",
     "href": "https://iconarchive.com/",
     "target": "_iconarchive",
-    "img": "iconarchive.png",
+    "img": "iconarchive.webp",
     "description": "Download de ícones"
   },
   {
     "title": "IronBrowser",
     "href": "https://www.srware.net/iron/",
     "target": "_iron-browser",
-    "img": "iron-browser.png",
+    "img": "iron-browser.webp",
     "description": "Navegador Web"
   },
   {
     "title": "MarkText",
     "href": "https://github.com/Tkaixiang/marktext/",
     "target": "_marktext",
-    "img": "marktext.png",
+    "img": "marktext.webp",
     "description": "Editor Markdown"
   },
   {
     "title": "Microsoft Edge",
     "href": "https://www.microsoft.com/pt-br/edge/download?form=MA13FJ",
     "target": "_edge",
-    "img": "edge.png",
+    "img": "edge.webp",
     "description": "Navegador Edge da Microsoft"
   },
   {
     "title": "MinBrowser",
     "href": "https://github.com/minbrowser/min",
     "target": "_min-browser",
-    "img": "minbrowser.png",
+    "img": "minbrowser.webp",
     "description": "Navegador Minimalista"
   },
   {
     "title": "Obsidian",
     "href": "https://obsidian.md/",
     "target": "_obsidian",
-    "img": "obsidian.png",
+    "img": "obsidian.webp",
     "description": "Software para registro de notas em markdown"
   },
   {
     "title": "Onlyoffice",
     "href": "https://www.onlyoffice.com/pt/download-docs.aspx#docs-community",
     "target": "_onlyoffice",
-    "img": "onlyoffice.png",
+    "img": "onlyoffice.webp",
     "description": "OnlyOffice versão comunitária deste office"
   },
   {
     "title": "OperaGX",
     "href": "https://www.opera.com/pt-br/gx",
     "target": "_operaGX",
-    "img": "operaGX.png",
+    "img": "operaGX.webp",
     "description": "Navegador OperaGX"
   },
   {
     "title": "Palemoon browser",
     "href": "http://www.palemoon.org/",
     "target": "_palemoon",
-    "img": "palemoon.png",
+    "img": "palemoon.webp",
     "description": "Navegador de internet baseado em Firefox"
   },
   {
     "title": "qBittorrent Enhanced",
     "href": "https://github.com/c0re100/qBittorrent-Enhanced-Edition/releases",
     "target": "_qbittorrent",
-    "img": "qbittorrent.png",
+    "img": "qbittorrent.webp",
     "description": "Gerenciador de downloads"
   },
   {
     "title": "Rufus",
     "href": "https://rufus.akeo.ie",
     "target": "_rufus",
-    "img": "rufus.png",
+    "img": "rufus.webp",
     "description": "Programa criar pendrive de boot"
   },
   {
     "title": "TGPT",
     "href": "https://github.com/aandrew-me/tgpt",
     "target": "_tgpt",
-    "img": "tgpt.png",
+    "img": "tgpt.webp",
     "description": "ChatGPT no terminal"
   },
   {
     "title": "Tor Browser",
     "href": "https://github.com/TheTorProject/gettorbrowser/releases/",
     "target": "_tor-browser",
-    "img": "tor-browser.png",
+    "img": "tor-browser.webp",
     "description": "Navegador Tor"
   },
   {
     "title": "Translate-shell",
     "href": "https://www.soimort.org/translate-shell/",
     "target": "_translate-shell",
-    "img": "translate-shell.png",
+    "img": "translate-shell.webp",
     "description": "Tradutor do google para shell linux"
   },
   {
     "title": "Typora",
     "href": "https://typora.io/",
     "target": "_typora",
-    "img": "typora.png",
+    "img": "typora.webp",
     "description": "Editor Markdown"
   },
   {
     "title": "UNetbootin",
     "href": "https://unetbootin.github.io/linux_download.html",
     "target": "_unetbootin",
-    "img": "unetbootin.png",
+    "img": "unetbootin.webp",
     "description": "Programa para criar pendrive de boot"
   },
   {
     "title": "Ungoogled\nChromium",
     "href": "https://ungoogled-software.github.io/ungoogled-chromium-binaries/",
     "target": "_ungoogled-chromium",
-    "img": "ungoogled-chromium.png",
+    "img": "ungoogled-chromium.webp",
     "description": "Chromium browser"
   },
   {
     "title": "Ventoy",
     "href": "https://www.ventoy.net/en/index.html",
     "target": "_ventoy",
-    "img": "ventoy.png",
+    "img": "ventoy.webp",
     "description": "Programa para criar pendrive de boot"
   },
   {
     "title": "VirtualBox",
     "href": "https://www.virtualbox.org",
     "target": "_virtualbox",
-    "img": "virtualbox.png",
+    "img": "virtualbox.webp",
     "description": "Virtualizador de sistemas"
   },
   {
     "title": "Vivaldi browser",
     "href": "https://vivaldi.com/pt-br/",
     "target": "_vivaldi",
-    "img": "vivaldi.png",
+    "img": "vivaldi.webp",
     "description": "Navegador de internet baseado em Google Chrome"
   },
   {
     "title": "WPS Office",
     "href": "https://www.wps.com/",
     "target": "_wps",
-    "img": "wps.png",
+    "img": "wps.webp",
     "description": "Ferramenta de escritório gratuita para download"
   },
   {
     "title": "Zettlr",
     "href": "https://www.zettlr.com/",
     "target": "_zettlr",
-    "img": "zettlr.png",
+    "img": "zettlr.webp",
     "description": "Editor Markdown"
   }
 ]

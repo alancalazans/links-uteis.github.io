@@ -72,7 +72,7 @@ const App = {
 
       // Icon
       const img = document.createElement('img');
-      img.src = `assets/img/png/menu/${item.icon}`;
+      img.src = `assets/img/webp/menu/${item.icon}`;
       img.alt = item.category;
       img.width = 24;
       img.height = 24;
@@ -115,7 +115,7 @@ const App = {
       card.rel = 'noopener noreferrer'; // Security best practice
 
       const img = document.createElement('img');
-      img.src = `assets/img/png/sites/${site.img}`;
+      img.src = `assets/img/webp/sites/${site.img}`;
       img.alt = site.title;
       img.loading = 'lazy'; // Performance optimization
 
