@@ -452,13 +452,6 @@
     "description": "HTML Cheat Sheet"
   },
   {
-    "title": "IMGonline",
-    "href": "https://www.imgonline.com.ua/eng/replace-color.php",
-    "target": "_imgonline",
-    "img": "imgonline.webp",
-    "description": "Trocar cor de imagem"
-  },
-  {
     "title": "Ionic Brazil",
     "href": "https://github.com/IonicBrazil/guia-do-desenvolvedor",
     "target": "_ionicbrazil",
@@ -1232,6 +1225,13 @@
     "target": "_icons8",
     "img": "icons8.webp",
     "description": "Site com diversos icones para baixar"
+  },
+  {
+    "title": "IMGonline",
+    "href": "https://www.imgonline.com.ua/eng/replace-color.php",
+    "target": "_imgonline",
+    "img": "imgonline.webp",
+    "description": "Trocar cor de imagem"
   },
   {
     "title": "PNGIMG",
