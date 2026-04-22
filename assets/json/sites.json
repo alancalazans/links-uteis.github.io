@@ -972,16 +972,16 @@
   },
   {
     "title": "Colégio Militar BH",
-    "href": "http://www.cmbh.eb.mil.br/",
+    "href": "https://cmbh.eb.mil.br",
     "target": "_cmbh",
     "img": "cmbh.webp",
     "description": "Colégio Militar de Belo Horizonte"
   },
   {
-    "title": "Docer",
+    "title": "Docero",
     "href": "https://docero.com.br",
     "target": "_docero",
-    "img": "docer.webp",
+    "img": "docero.webp",
     "description": "Repositório de arquivos de livros"
   },
   {
