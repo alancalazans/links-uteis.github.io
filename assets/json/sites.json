@@ -1908,6 +1908,13 @@
     "description": "Monitor em tempo real de biblioteca oculta nas sombras"
   },
   {
+    "title": "Snapinsta",
+    "href": "https://snapinsta.com.br/",
+    "target": "_snapinsta",
+    "img": "snapinsta.webp",
+    "description": "Baixar vídeo do Instagram"
+  },
+  {
     "title": "Snappea",
     "href": "https://www.snappea.com/",
     "target": "_snappea",
