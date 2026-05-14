@@ -1185,6 +1185,13 @@
 ],
 "Icones e Imagens": [
   {
+    "title": "BRFreePik",
+    "href": "https://br.freepik.com/",
+    "target": "_brfreepik",
+    "img": "brfreepik.webp",
+    "description": "Icones para download"
+  },
+  {
     "title": "Deviant Art",
     "href": "https://www.deviantart.com/",
     "target": "_deviant-art",
@@ -1712,20 +1719,6 @@
     "description": "Consultar criptomoedas e CEP."
   },
   {
-    "title": "BH Trans",
-    "href": "http://servicosbhtrans.pbh.gov.br/bhtrans/e-servicos/e-servicos.asp?servico=S01&opcao=QUADRO%20DE%20HORÁRIOS%20DE%20ÔNIBUS",
-    "target": "_bhtrans",
-    "img": "bhtrans.webp",
-    "description": "BH Trans serviços"
-  },
-  {
-    "title": "BRFreePik",
-    "href": "https://br.freepik.com/",
-    "target": "_brfreepik",
-    "img": "brfreepik.webp",
-    "description": "Icones para download"
-  },
-  {
     "title": "Calendário Brasil",
     "href": "https://calendariodobrasil.com.br/",
     "target": "_calendario-brasil",
@@ -1764,7 +1757,7 @@
     "title": "Correios",
     "href": "http://www.correios.com.br",
     "target": "_correios",
-    "img": "correios.webp",
+    "img": "correios_rastreamento.webp",
     "description": "Portal dos Correios"
   },
   {
@@ -1877,7 +1870,7 @@
     "href": "https://www2.correios.com.br/sistemas/rastreamento/",
     "target": "_correios_rastreamento",
     "img": "correios_rastreamento.webp",
-    "description": "Serviço de rastreamento de encomendas dos Correios"
+    "description": "Rastreamento dos correios"
   },
   {
     "title": "Rodoviaria de BH",
@@ -1948,6 +1941,13 @@
     "target": "_stackedit",
     "img": "stackedit.webp",
     "description": "Criação de arquivos markdown online"
+  },
+  {
+    "title": "SUMOB",
+    "href": "https://portalsumob.pbh.gov.br/quadrodehorario",
+    "target": "sumob",
+    "img": "sumob.webp",
+    "description": "Quadro de horário de ônibus"
   },
   {
     "title": "TinyWow",
