@@ -1733,13 +1733,6 @@
     "description": "Colaboração e criação de designers"
   },
   {
-    "title": "Cartões BHBUS",
-    "href": "https://www.bhbus.com.br/cartoes",
-    "target": "_transfacil",
-    "img": "transfacil.webp",
-    "description": "Cartões de transporte do BHBUS"
-  },
-  {
     "title": "CloudConvert",
     "href": "https://cloudconvert.com/",
     "target": "_cloudconvert",
@@ -1782,10 +1775,10 @@
     "description": "Notepad online para compartilhar conteúdo"
   },
   {
-    "title": "Draw",
-    "href": "https://www.draw.io",
-    "target": "_draw",
-    "img": "draw.webp",
+    "title": "Diagrama",
+    "href": "https://app.diagrams.net/",
+    "target": "_diagrama",
+    "img": "diagrama.webp",
     "description": "Criação de diagramas online"
   },
   {
@@ -1826,9 +1819,9 @@
   {
     "title": "INSS",
     "href": "https://www.gov.br/pt-br/servicos/emitir-gps-para-pagamento-de-contribuicoes-previdenciarias",
-    "target": "_sal",
-    "img": "sal.webp",
-    "description": "INSS página do calculo de contribuição"
+    "target": "_gps",
+    "img": "gps.webp",
+    "description": "INSS emitir GPS p/ pgto contribuição"
   },
   {
     "title": "Localizar Cel.",
@@ -1843,13 +1836,6 @@
     "target": "_mdlivepreview",
     "img": "mdlivepreview.webp",
     "description": "Criação de arquivos markdown online"
-  },
-  {
-    "title": "Midomi",
-    "href": "https://www.midomi.com/",
-    "target": "_midomi",
-    "img": "midomi.webp",
-    "description": "Identificador online de músicas"
   },
   {
     "title": "AMP4",
@@ -1964,18 +1950,11 @@
     "description": "Diversos toques de celular"
   },
   {
-    "title": "Tourão bar e rest.",
-    "href": "https://deliveryapp.neemo.com.br/delivery/7231/menu",
-    "target": "_tourao",
-    "img": "tourao.webp",
-    "description": "Encomendas online de refeições"
-  },
-  {
-    "title": "Ulist",
-    "href": "https://guihkx.github.io/ulist/",
-    "target": "_ulist",
-    "img": "ulist.webp",
-    "description": "Extração de endereços dos vídeos das playlists do Youtube"
+    "title": "Transfácil",
+    "href": "https://transfacil.com.br/",
+    "target": "_transfacil",
+    "img": "transfacil.webp",
+    "description": "Cartões e recarga BHBUS"
   },
   {
     "title": "UpToDown",
