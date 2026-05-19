@@ -1754,6 +1754,13 @@
     "description": "Portal dos Correios"
   },
   {
+    "title": "Devtoys",
+    "href": "https://devtoys.pro/pt-BR",
+    "target": "_devtoys",
+    "img": "devtoys.webp",
+    "description": "Utilitários online para dev"
+  },
+  {
     "title": "Despertador",
     "href": "https://relogioonline.com.br/#",
     "target": "_despertador",
