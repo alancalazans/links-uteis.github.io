@@ -298,13 +298,6 @@
     "description": "ASDF-plugins para várias linguagens de programação"
   },
   {
-    "title": "Atom IDE",
-    "href": "https://atom.io/",
-    "target": "_atom-ide",
-    "img": "atom-ide.webp",
-    "description": "Editor de código gratuito e multiplataforma do Github"
-  },
-  {
     "title": "Aurélio vim",
     "href": "http://aurelio.net/vim/",
     "target": "_aurelio_vim",
@@ -484,7 +477,7 @@
     "href": "http://www.lazarus-ide.org/",
     "target": "_lazarus",
     "img": "lazarus.webp",
-    "description": "Alternativa a linguagem Pascal e ao ambiente de programação Delphi"
+    "description": "IDE Object Pascal opensource"
   },
   {
     "title": "Lite-XL",
@@ -585,13 +578,6 @@
     "description": "Framework para a criação de apps desktop hibridas com NodeWebKit"
   },
   {
-    "title": "OCaml",
-    "href": "https://ocaml.org/",
-    "target": "_ocaml",
-    "img": "ocaml.webp",
-    "description": "Linguagem de programação funcional"
-  },
-  {
     "title": "OpenCode",
     "href": "https://github.com/sst/opencode",
     "target": "_opencode",
@@ -662,13 +648,6 @@
     "description": "Implementação da linguagem de programação Perl6"
   },
   {
-    "title": "ResizePixel",
-    "href": "https://www.resizepixel.com/pt",
-    "target": "_resizepixel",
-    "img": "rs.webp",
-    "description": "Serviço de redimensionamento de imagem"
-  },
-  {
     "title": "RipTutorial",
     "href": "https://riptutorial.com/es/home",
     "target": "_riptutorial",
@@ -725,13 +704,6 @@
     "description": "Framework feito em Rust para criar apps multiplataforma c/ tecnologias web"
   },
   {
-    "title": "TextAdept",
-    "href": "https://foicica.com/textadept/",
-    "target": "_textadept",
-    "img": "textadept.webp",
-    "description": "Editor de código construido na linguagem Lua"
-  },
-  {
     "title": "Vim",
     "href": "https://www.vim.org/",
     "target": "_vim",
@@ -786,13 +758,6 @@
     "target": "_xampp",
     "img": "xampp.webp",
     "description": "Servidor de Desenvolvimento em PHP com Banco de Dados"
-  },
-  {
-    "title": "Zang\nLanguage",
-    "href": "https://github.com/cmspeedrunner/Zang",
-    "target": "_zanglanguage",
-    "img": "zanglanguage.webp",
-    "description": "Linguagem de multipropósito"
   },
   {
     "title": "ZigLang",
@@ -1246,6 +1211,13 @@
     "target": "_pngimg",
     "img": "pngimg.webp",
     "description": "Site com diversas imagens png para baixar"
+  },
+  {
+    "title": "ResizePixel",
+    "href": "https://www.resizepixel.com/pt",
+    "target": "_resizepixel",
+    "img": "rp.webp",
+    "description": "Serviço de redimensionamento de imagem"
   },
   {
     "title": "Vecteezy",
