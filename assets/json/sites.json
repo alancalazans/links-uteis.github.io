@@ -797,13 +797,6 @@
     "description": "Recurso Humanos da UFMG"
   },
   {
-    "title": "Sigac",
-    "href": "https://sso.gestaodeacesso.planejamento.gov.br/cassso/login",
-    "target": "_sigac",
-    "img": "sigac.webp",
-    "description": "Site de gestão do funcionalismo público federal"
-  },
-  {
     "title": "UFMG Portal Atend.",
     "href": "https://sistemas.ufmg.br/atendimento/",
     "target": "_ufmg_atendimento",
@@ -1952,20 +1945,6 @@
     "description": "Web Browser"
   },
   {
-    "title": "BrowserOS",
-    "href": "https://github.com/browseros-ai/BrowserOS",
-    "target": "_browseros",
-    "img": "browseros.webp",
-    "description": "BrowserOS navegador combinado com IA"
-  },
-  {
-    "title": "CCleaner",
-    "href": "https://www.ccleaner.com/pt-br/ccleaner/download/standard",
-    "target": "_ccleaner",
-    "img": "ccleaner.webp",
-    "description": "Corretor de erros do sistema"
-  },
-  {
     "title": "Chrome web store",
     "href": "https://chrome.google.com/webstore/category/extensions?hl=pt-br",
     "target": "_extensions_chrome",
@@ -2015,13 +1994,6 @@
     "description": "Download de ícones"
   },
   {
-    "title": "IronBrowser",
-    "href": "https://www.srware.net/iron/",
-    "target": "_iron-browser",
-    "img": "iron-browser.webp",
-    "description": "Navegador Web"
-  },
-  {
     "title": "MarkText",
     "href": "https://github.com/Tkaixiang/marktext/",
     "target": "_marktext",
@@ -2037,7 +2009,7 @@
   },
   {
     "title": "MinBrowser",
-    "href": "https://github.com/minbrowser/min",
+    "href": "https://minbrowser.org/",
     "target": "_min-browser",
     "img": "minbrowser.webp",
     "description": "Navegador Minimalista"
@@ -2055,20 +2027,6 @@
     "target": "_onlyoffice",
     "img": "onlyoffice.webp",
     "description": "OnlyOffice versão comunitária deste office"
-  },
-  {
-    "title": "OperaGX",
-    "href": "https://www.opera.com/pt-br/gx",
-    "target": "_operaGX",
-    "img": "operaGX.webp",
-    "description": "Navegador OperaGX"
-  },
-  {
-    "title": "Palemoon browser",
-    "href": "http://www.palemoon.org/",
-    "target": "_palemoon",
-    "img": "palemoon.webp",
-    "description": "Navegador de internet baseado em Firefox"
   },
   {
     "title": "qBittorrent Enhanced",
@@ -2104,13 +2062,6 @@
     "target": "_translate-shell",
     "img": "translate-shell.webp",
     "description": "Tradutor do google para shell linux"
-  },
-  {
-    "title": "Typora",
-    "href": "https://typora.io/",
-    "target": "_typora",
-    "img": "typora.webp",
-    "description": "Editor Markdown"
   },
   {
     "title": "UNetbootin",
