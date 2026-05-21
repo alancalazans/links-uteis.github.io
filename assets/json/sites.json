@@ -8,13 +8,6 @@
     "description": "AI Assistant Bot"
   },
   {
-    "title": "BAI Chat",
-    "href": "https://chatbot.theb.ai/#/chat",
-    "target": "_baichat",
-    "img": "baichat.webp",
-    "description": "BAI Chat"
-  },
-  {
     "title": "Arena",
     "href": "https://arena.ai/pt",
     "target": "_arena",
@@ -34,13 +27,6 @@
     "target": "_chatqwenai",
     "img": "chatqwenai.webp",
     "description": "Chat Qwen AI"
-  },
-  {
-    "title": "Chat Xenai\nTech",
-    "href": "https://chat.xenai.tech/",
-    "target": "_chatxenaitech",
-    "img": "chatxenaitech.webp",
-    "description": "Chat Xenai Tech"
   },
   {
     "title": "Chat with Z",
@@ -85,13 +71,6 @@
     "description": "Gemini AI"
   },
   {
-    "title": "GizAI",
-    "href": "https://www.giz.ai/",
-    "target": "_giz-ai",
-    "img": "giz-ai.webp",
-    "description": "Giz AI"
-  },
-  {
     "title": "GPT-4o",
     "href": "https://gpt4o.so/app",
     "target": "_gpt4o",
@@ -100,7 +79,7 @@
   },
   {
     "title": "ISH-AI-CHAT",
-    "href": "https://ish.junioralive.in/",
+    "href": "https://ish.chat/",
     "target": "_ish-ai-chat",
     "img": "ish-ai-chat.webp",
     "description": "ISH-AI-CHAT"
@@ -153,20 +132,6 @@
     "target": "_scispace",
     "img": "scispace.webp",
     "description": "Ferramentas de IA all-in-one para estudantes e pesquisadores"
-  },
-  {
-    "title": "StepFun",
-    "href": "https://stepfun.ai/chats/new",
-    "target": "_stepfun",
-    "img": "stepfun.webp",
-    "description": "IA"
-  },
-  {
-    "title": "Yupp",
-    "href": "https://yupp.ai/",
-    "target": "_yupp",
-    "img": "yupp.webp",
-    "description": "IA"
   }
 ],
 "Bancos": [
