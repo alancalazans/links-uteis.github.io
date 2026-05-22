@@ -1108,11 +1108,11 @@
 ],
 "Icones e Imagens": [
   {
-    "title": "BRFreePik",
-    "href": "https://br.freepik.com/",
-    "target": "_brfreepik",
-    "img": "brfreepik.webp",
-    "description": "Icones para download"
+    "title": "Alpha Coders",
+    "href": "https://alphacoders.com",
+    "target": "_alpha-coders",
+    "img": "alpha-coders.webp",
+    "description": "Imagens"
   },
   {
     "title": "Deviant Art",
@@ -1192,11 +1192,11 @@
     "description": "Repositórios com diversos Wallpapers (imagens de fundo para desktop)"
   },
   {
-    "title": "Wallpapers Abyss",
-    "href": "https://wall.alphacoders.com/finding_wallpapers.php?lang-Portuguese",
-    "target": "_wallpapers-abyss",
-    "img": "wallpapers-abyss.webp",
-    "description": "Repositórios com diversos Wallpapers (imagens de fundo para desktop)"
+    "title": "Wallpapers Cave",
+    "href": "https://wallpapercave.com",
+    "target": "_wallpapers-cave",
+    "img": "wallpapers-cave.webp",
+    "description": "Repositórios com diversos Wallpapers"
   }
 ],
 "Linux": [
@@ -1985,13 +1985,6 @@
     "target": "_helium",
     "img": "helium.webp",
     "description": "Navegador baseado em Chromium"
-  },
-  {
-    "title": "IconArchive",
-    "href": "https://iconarchive.com/",
-    "target": "_iconarchive",
-    "img": "iconarchive.webp",
-    "description": "Download de ícones"
   },
   {
     "title": "MarkText",
