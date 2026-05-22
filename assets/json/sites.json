@@ -326,6 +326,13 @@
     "description": "Uma biblioteca de UI python moderna e personalizável baseada em Tkinter"
   },
   {
+    "title": "Devtoys",
+    "href": "https://devtoys.pro/pt-BR",
+    "target": "_devtoys",
+    "img": "devtoys.webp",
+    "description": "Utilitários online para dev"
+  },
+  {
     "title": "Developer Puter",
     "href": "https://developer.puter.com/tutorials/free-unlimited-openrouter-api/",
     "target": "_developer-puter",
@@ -634,13 +641,6 @@
     "description": "Linguagem de programação compilada"
   },
   {
-    "title": "Simple Icons",
-    "href": "https://simpleicons.org/",
-    "target": "_simpleicons",
-    "img": "simpleicons.webp",
-    "description": "Site com diversos icones gratuitos para baixar"
-  },
-  {
     "title": "SQL",
     "href": "https://blog.betrybe.com/sql/",
     "target": "_sql",
@@ -762,13 +762,6 @@
     "description": "Grande Oriente do Brasil - Minas Gerais (Maçonaria)"
   },
   {
-    "title": "Groups PEPped",
-    "href": "https://groups.google.com/group/pepped?msg=new&lnk=gcis&hl=pt-BR",
-    "target": "_pepped",
-    "img": "groupspepped.webp",
-    "description": "Grupo de Pediatria"
-  },
-  {
     "title": "Lorem Ipsum",
     "href": "http://www.lipsum.com",
     "target": "_lipsum",
@@ -883,7 +876,7 @@
     "title": "CEFET/COPEVE",
     "href": "https://www.copeve.cefetmg.br",
     "target": "_cefet_copeve",
-    "img": "cefet_copeve.webp",
+    "img": "cefet_mg.webp",
     "description": "Comissão Permanente do Vestibular da UFMG"
   },
   {
@@ -922,11 +915,11 @@
     "description": "Site de Esoterísmo e Espirítualidade"
   },
   {
-    "title": "Fernando Cascais",
+    "title": "Fernando Kaskais",
     "href": "https://fernandocascais.wordpress.com/",
-    "target": "_fernando_cascais",
-    "img": "fernandocascais.webp",
-    "description": "Site de Esoterísmo e Espirítualidade"
+    "target": "_fernando-kaskais",
+    "img": "fernando-kaskais.webp",
+    "description": "Astrologia & Filosofia Oculta"
   },
   {
     "title": "GSK",
@@ -971,13 +964,6 @@
     "description": "Filosófia, cultura e voluntariado"
   },
   {
-    "title": "PDF -> AZW3",
-    "href": "https://pdf2kindle.com/pt/",
-    "target": "_pdfazw",
-    "img": "pdf_azw.webp",
-    "description": "Converte PDF -> AZW3 para kindle"
-  },
-  {
     "title": "PDFDrive",
     "href": "https://www.pdfdrive.com/",
     "target": "_pdfdrive",
@@ -1009,7 +995,7 @@
     "title": "SIGAA/CEFET-MG",
     "href": "https://sig.cefetmg.br/admin/public/loginunificado/index.jsf",
     "target": "_sigaa",
-    "img": "sigaa.webp",
+    "img": "cefet_mg.webp",
     "description": "Sistema Integrado de Atividades Acadẽmicas do CEFET"
   },
   {
@@ -1039,13 +1025,6 @@
     "target": "_ufmg",
     "img": "ufmg.webp",
     "description": "Universidade Federal de Minas Gerais"
-  },
-  {
-    "title": "Verde",
-    "href": "http://maratona.crc.pucminas.br",
-    "target": "_verde",
-    "img": "verde.webp",
-    "description": "Área de entrega trabalhos de programação da PUC"
   },
   {
     "title": "ZLibrary",
@@ -1178,6 +1157,13 @@
     "description": "Serviço de redimensionamento de imagem"
   },
   {
+    "title": "Simple Icons",
+    "href": "https://simpleicons.org/",
+    "target": "_simpleicons",
+    "img": "simpleicons.webp",
+    "description": "Site com diversos icones gratuitos para baixar"
+  },
+  {
     "title": "Vecteezy",
     "href": "https://www.vecteezy.com",
     "target": "_vecteezy",
@@ -1297,13 +1283,6 @@
     "target": "_gnomelook",
     "img": "gnomelook.webp",
     "description": "Repositório de temas e ícones para Linux"
-  },
-  {
-    "title": "Linux Lite",
-    "href": "https://www.linuxliteos.com/",
-    "target": "_linuxlite",
-    "img": "linuxlite.webp",
-    "description": "Sistema Operacional baseada em Ubuntu com interface XFCE"
   },
   {
     "title": "LinuxMint",
@@ -1682,13 +1661,6 @@
     "target": "_correios",
     "img": "correios_rastreamento.webp",
     "description": "Portal dos Correios"
-  },
-  {
-    "title": "Devtoys",
-    "href": "https://devtoys.pro/pt-BR",
-    "target": "_devtoys",
-    "img": "devtoys.webp",
-    "description": "Utilitários online para dev"
   },
   {
     "title": "Despertador",
