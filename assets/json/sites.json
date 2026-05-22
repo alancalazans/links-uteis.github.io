@@ -132,6 +132,13 @@
     "target": "_scispace",
     "img": "scispace.webp",
     "description": "Ferramentas de IA all-in-one para estudantes e pesquisadores"
+  },
+  {
+    "title": "ZZZ Code AI",
+    "href": "https://zzzcode.ai/",
+    "target": "_zzzcode",
+    "img": "zzzcode.webp",
+    "description": "ZZZ Code AI"
   }
 ],
 "Bancos": [
