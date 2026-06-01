@@ -1959,6 +1959,13 @@
     "description": "Editor e imagem avançado"
   },
   {
+    "title": "Github Desktop",
+    "href": "https://github.com/apps/desktop?locale=pt-br",
+    "target": "_githubdesktop",
+    "img": "github.webp",
+    "description": "O cliente GUI Git"
+  },
+  {
     "title": "Helium browser",
     "href": "https://github.com/imputnet/helium",
     "target": "_helium",
