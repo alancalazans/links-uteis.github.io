@@ -120,6 +120,13 @@
     "description": "A principal plataforma de informações médicas alimentada por IA."
   },
   {
+    "title": "QuillBot",
+    "href": "https://quillbot.com/pt/",
+    "target": "_quillbot",
+    "img": "quillbot.webp",
+    "description": "Pense, escreva e crie com um assistente de IA perfeito"
+  },
+  {
     "title": "SCIRA AI",
     "href": "https://scira.ai/",
     "target": "_scira-ai",
