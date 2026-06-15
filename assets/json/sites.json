@@ -1057,6 +1057,13 @@
     "description": "Filmes e séries"
   },
   {
+    "title": "Famelack",
+    "href": "https://famelack.com/",
+    "target": "_famelack",
+    "img": "famelack.webp",
+    "description": "Canais de TV e Rádio"
+  },
+  {
     "title": "Globo Play",
     "href": "https://globoplay.globo.com/",
     "target": "_globoplay",
