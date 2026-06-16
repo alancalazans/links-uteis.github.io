@@ -1952,6 +1952,13 @@
     "description": "Todos os browsers Firefox"
   },
   {
+    "title": "Flameshot",
+    "href": "https://flameshot.org/",
+    "target": "_flameshot",
+    "img": "flameshot.webp",
+    "description": "Utilitário de printsrc"
+  },
+  {
     "title": "FreeFileSync",
     "href": "https://freefilesync.org/",
     "target": "_freefilesync",
