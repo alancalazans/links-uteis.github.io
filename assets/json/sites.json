@@ -417,6 +417,13 @@
     "description": "Guia de JavaScript da Mozilla"
   },
   {
+    "title": "Helix",
+    "href": "https://github.com/helix-editor/helix",
+    "target": "_helix",
+    "img": "helix.webp",
+    "description": "Editor de código Helix"
+  },
+  {
     "title": "HTML5\nBOILERPLATE",
     "href": "https://html5boilerplate.com/",
     "target": "_html5boilerplate",
