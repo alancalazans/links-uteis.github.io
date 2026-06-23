@@ -797,6 +797,20 @@
     "description": "Repositório de músicas"
   },
   {
+    "title": "Polare",
+    "href": "https://polare.ufmg.br/polare/login",
+    "target": "_polare",
+    "img": "polare.webp",
+    "description": "Polare UFMG"
+  },
+  {
+    "title": "Tarifação",
+    "href": "https://sistemas.ufmg.br/tarifacao/home.seam",
+    "target": "_tarifacao",
+    "img": "ufmg.webp",
+    "description": "Tarifação UFMG"
+  },
+  {
     "title": "ProRH",
     "href": "https://www.ufmg.br/prorh/",
     "target": "_prorh",
@@ -816,6 +830,13 @@
     "target": "_vagalume",
     "img": "vagalumemusicas.webp",
     "description": "Repositório de músicas"
+  },
+  {
+    "title": "Zabbix",
+    "href": "https://arges01.cecom.ufmg.br/zabbix/zabbix.php?action=dashboard.view",
+    "target": "_zabbix",
+    "img": "ufmg.webp",
+    "description": "Zabbix"
   }
 ],
 "Emails": [
@@ -1824,13 +1845,6 @@
     "description": "Baixar vídeo do Instagram"
   },
   {
-    "title": "Snappea",
-    "href": "https://www.snappea.com/",
-    "target": "_snappea",
-    "img": "snappea.webp",
-    "description": "Baixar vídeo ou audio do youtube"
-  },
-  {
     "title": "Soar",
     "href": "https://www.soarmp3.com/",
     "target": "_soar",
@@ -1913,6 +1927,13 @@
     "target": "_web2pdfconvert",
     "img": "web2pdfconvert.webp",
     "description": "Conversor de arquivos para pdf"
+  },
+  {
+    "title": "YTDown",
+    "href": "https://app.ytdown.to/pt29/",
+    "target": "_ytdown",
+    "img": "ytdown.webp",
+    "description": "Baixar vídeo do Youtube"
   }
 ],
 "Uteis": [
@@ -2027,6 +2048,13 @@
     "target": "_onlyoffice",
     "img": "onlyoffice.webp",
     "description": "OnlyOffice versão comunitária deste office"
+  },
+  {
+    "title": "Powershell",
+    "href": "https://github.com/Powershell/Powershell/releases",
+    "target": "_powershell",
+    "img": "powershell.webp",
+    "description": "Powershell PWSH"
   },
   {
     "title": "qBittorrent Enhanced",
