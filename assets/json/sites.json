@@ -29,6 +29,13 @@
     "description": "Chat Qwen AI"
   },
   {
+    "title": "Chat Sakana AI",
+    "href": "https://chat.sakana.ai/",
+    "target": "_sakana",
+    "img": "sakana.webp",
+    "description": "Chat Sakana AI"
+  },
+  {
     "title": "Chat with Z",
     "href": "https://chat.z.ai/",
     "target": "_chat-with-z",
