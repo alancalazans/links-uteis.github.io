@@ -529,6 +529,13 @@
     "description": "Alternativa ao editor vim e bastante similar a este em vários aspectos"
   },
   {
+    "title": "Nerd Fonts",
+    "href": "https://github.com/ryanoasis/nerd-fonts",
+    "target": "_nerd-fonts",
+    "img": "github.webp",
+    "description": "Fontes para desenvolvedores (como a Hack)"
+  },
+  {
     "title": "Netbeans",
     "href": "https://netbeans.apache.org/",
     "target": "_netbeans",
