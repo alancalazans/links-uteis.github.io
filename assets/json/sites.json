@@ -1092,6 +1092,13 @@
 ],
 "Filmes": [
   {
+    "title": "BaixeTorrents.net",
+    "href": "https://www.baixetorrents.net/",
+    "target": "_baixetorrents",
+    "img": "baixetorrents.webp",
+    "description": "Filmes e séries"
+  },
+  {
     "title": "Bitcine",
     "href": "https://www.bitcine.app/",
     "target": "_bitcine",
@@ -1128,7 +1135,7 @@
   },
   {
     "title": "Rede Canais",
-    "href": "https://redecanais.ph/",
+    "href": "https://redecanais.vision/",
     "target": "_redecanais",
     "img": "redecanais.webp",
     "description": "Baixar filmes e series"
