@@ -978,6 +978,13 @@
     "description": "Astrologia & Filosofia Oculta"
   },
   {
+    "title": "Focus Faculdade",
+    "href": "https://faculdadefocus.com.br/",
+    "target": "_focus-faculdade",
+    "img": "focus-faculdade.webp",
+    "description": "Faculdade EAD"
+  },
+  {
     "title": "GSK",
     "href": "https://gskpro.com/pt-br/",
     "target": "_gsk",
@@ -1083,6 +1090,13 @@
     "description": "Universidade Federal de Minas Gerais"
   },
   {
+    "title": "Unyleya Faculdade",
+    "href": "https://unyleya.edu.br/",
+    "target": "_unyleya-faculdade",
+    "img": "unyleya-faculdade.webp",
+    "description": "Faculdade EAD"
+  },
+  {
     "title": "ZLibrary",
     "href": "http://loginzlib2vrak5zzpcocc3ouizykn6k5qecgj2tzlnab5wcbqhembyd.onion/",
     "target": "_zlibrary",
@@ -1169,6 +1183,13 @@
     "target": "_deviant-art",
     "img": "deviant-art.webp",
     "description": "Temas, icones e wallpappers para desktop"
+  },
+  {
+    "title": "EmojiDB",
+    "href": "https://emojidb.org/",
+    "target": "_emojidb",
+    "img": "emojidb.webp",
+    "description": "Coleção de emojis"
   },
   {
     "title": "Flaticon",
@@ -1794,6 +1815,13 @@
     "target": "_icpedu",
     "img": "icpedu.webp",
     "description": "Emissão de certificado digital pessoal"
+  },
+  {
+    "title": "Invertexto",
+    "href": "https://www.invertexto.com/",
+    "target": "_invertexto",
+    "img": "invertexto.webp",
+    "description": "Ferramentas e Aplicativos Online"
   },
   {
     "title": "INSS",
