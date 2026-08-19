@@ -93,10 +93,10 @@
   },
   {
     "title": "Kimi-AI",
-    "href": "https://kimi.moonshot.cn/",
+    "href": "https://www.kimi.ai/",
     "target": "_kimiai",
     "img": "kimi.ai.webp",
-    "description": "KimiAI"
+    "description": "Kimi AI"
   },
   {
     "title": "LongCat-AI",
@@ -303,6 +303,13 @@
     "target": "_bunjs",
     "img": "bunjs.webp",
     "description": "Bun é um tudo-em-um JavaScript runtime & toolkit"
+  },
+  {
+    "title": "C3",
+    "href": "https://c3-lang.org/",
+    "target": "_c3",
+    "img": "c3.webp",
+    "description": "Uma evolução do C"
   },
   {
     "title": "CapacitorJS",
@@ -613,6 +620,13 @@
     "description": "Módulos para Perl6"
   },
   {
+    "title": "PHP",
+    "href": "https://www.php.net/manual/pt_BR/",
+    "target": "_php",
+    "img": "php.webp",
+    "description": "PHP Manual"
+  },
+  {
     "title": "Poetry",
     "href": "https://python-poetry.org/docs/",
     "target": "_poetry",
@@ -688,6 +702,20 @@
     "target": "_sqlitestudio",
     "img": "sqlitestudio.webp",
     "description": "SQLiteStudio"
+  },
+  {
+    "title": "Static-php-cli",
+    "href": "https://github.com/crazywhalecc/static-php-cli",
+    "target": "_static-php-cli",
+    "img": "github.webp",
+    "description": "Static-php cli"
+  },
+  {
+    "title": "StaticPHP",
+    "href": "https://static-php.dev/en/",
+    "target": "_static-php",
+    "img": "php.webp",
+    "description": "StaticPHP"
   },
   {
     "title": "SweetAlert2",
@@ -2020,6 +2048,13 @@
     "target": "_extensions_chrome",
     "img": "extensions_chrome.webp",
     "description": "Extensões para Google Chrome Browser"
+  },
+  {
+    "title": "Explorer++",
+    "href": "https://explorerplusplus.com/builds?prefix=dev%2F",
+    "target": "_explorer-plus-plus",
+    "img": "explorer-plus-plus.webp",
+    "description": "Explorador de arq. p/ Windows"
   },
   {
     "title": "Firefox All",
