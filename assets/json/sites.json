@@ -760,6 +760,13 @@
     "description": "Editor de código gratuito e multiplataforma da Microsoft"
   },
   {
+    "title": "VS-Buildtools",
+    "href": "https://gist.github.com/Mr-Precise/9967e3fcf03f2df0282b76841d2f3876",
+    "target": "_vs-buildtools",
+    "img": "githubgist.webp",
+    "description": "Links para versões do vs-buildtools"
+  },
+  {
     "title": "VSCodium",
     "href": "https://github.com/VSCodium/vscodium/releases",
     "target": "_vscodium",
@@ -1116,6 +1123,13 @@
     "target": "_ufmg",
     "img": "ufmg.webp",
     "description": "Universidade Federal de Minas Gerais"
+  },
+  {
+    "title": "Univesp",
+    "href": "https://www.youtube.com/@univesptv/featured",
+    "target": "_univesp",
+    "img": "univesp.webp",
+    "description": "Aulas em vídeo"
   },
   {
     "title": "Unyleya Faculdade",
