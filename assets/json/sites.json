@@ -585,6 +585,13 @@
     "description": "eBook online da Linguagem Nim"
   },
   {
+    "title": "Nimony",
+    "href": "https://github.com/nim-lang/nimony",
+    "target": "_nimony",
+    "img": "nim-lang.webp",
+    "description": "Nim 3.0 em desenvolvimento"
+  },
+  {
     "title": "NodeJS",
     "href": "https://nodejs.org/en/",
     "target": "_nodejs",
