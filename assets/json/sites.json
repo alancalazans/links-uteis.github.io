@@ -36,6 +36,13 @@
     "description": "Chat Sakana AI"
   },
   {
+    "title": "Chat Wave",
+    "href": "https://chatwave.crunchflix.site/",
+    "target": "_chatwave",
+    "img": "chatwave.webp",
+    "description": "Chat Wave"
+  },
+  {
     "title": "Chat with Z",
     "href": "https://chat.z.ai/",
     "target": "_chat-with-z",
@@ -146,6 +153,13 @@
     "target": "_scispace",
     "img": "scispace.webp",
     "description": "Ferramentas de IA all-in-one para estudantes e pesquisadores"
+  },
+  {
+    "title": "Try any open model",
+    "href": "https://www.tryingopen.com/",
+    "target": "_tryingopen",
+    "img": "tryingopen.webp",
+    "description": "Try any open model"
   },
   {
     "title": "ZZZ Code AI",
@@ -786,6 +800,20 @@
     "target": "_w3schools",
     "img": "w3schools.webp",
     "description": "Sites com diversos conteúdos sobre linguagens de programação"
+  },
+  {
+    "title": "WinLibs",
+    "href": "https://winlibs.com/",
+    "target": "_winlibs",
+    "img": "winlibs.webp",
+    "description": "MinGW"
+  },
+  {
+    "title": "WinLibs",
+    "href": "https://sourceforge.net/projects/winlibs-mingw/",
+    "target": "_winlibs-sourceforge",
+    "img": "sourceforge.webp",
+    "description": "MinGW"
   },
   {
     "title": "Xampp",
@@ -2160,6 +2188,13 @@
     "target": "_powershell",
     "img": "powershell.webp",
     "description": "Powershell PWSH"
+  },
+  {
+    "title": "PowerToys",
+    "href": "https://github.com/microsoft/powertoys",
+    "target": "_powertoys",
+    "img": "powertoys.webp",
+    "description": "Microsoft PowerToys"
   },
   {
     "title": "qBittorrent Enhanced",
