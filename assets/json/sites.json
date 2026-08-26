@@ -2288,6 +2288,13 @@
     "description": "Ferramenta de escritório gratuita para download"
   },
   {
+    "title": "ytDownloader",
+    "href": "https://appimage.github.io/ytDownloader/",
+    "target": "_ytdownloader",
+    "img": "ytdownloader.webp",
+    "description": "Baixar vídeos do Youtube"
+  },
+  {
     "title": "Zettlr",
     "href": "https://www.zettlr.com/",
     "target": "_zettlr",
