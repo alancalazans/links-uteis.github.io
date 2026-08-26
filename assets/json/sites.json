@@ -2274,6 +2274,13 @@
     "description": "Navegador de internet baseado em Google Chrome"
   },
   {
+    "title": "Windhawk",
+    "href": "https://windhawk.net/",
+    "target": "_windhawk",
+    "img": "windhawk.webp",
+    "description": "Personalizar Windows"
+  },
+  {
     "title": "WPS Office",
     "href": "https://www.wps.com/",
     "target": "_wps",
