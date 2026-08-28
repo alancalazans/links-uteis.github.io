@@ -424,6 +424,13 @@
     "description": "Ícones para download"
   },
   {
+    "title": "FrankenPHP",
+    "href": "https://frankenphp.dev/",
+    "target": "_frankenphp",
+    "img": "frankenphp.webp",
+    "description": "O servidor PHP moderno"
+  },
+  {
     "title": "Gemini-cli",
     "href": "https://github.com/google-gemini/gemini-cli",
     "target": "_gemini-cli",
