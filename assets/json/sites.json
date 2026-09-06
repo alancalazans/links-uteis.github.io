@@ -697,6 +697,13 @@
     "description": "Implementação da linguagem de programação Perl6"
   },
   {
+    "title": "Raku++",
+    "href": "https://github.com/ash/rakupp",
+    "target": "_rakupp",
+    "img": "github.webp",
+    "description": "Compilador para a linguagem Raku"
+  },
+  {
     "title": "RipTutorial",
     "href": "https://riptutorial.com/es/home",
     "target": "_riptutorial",
