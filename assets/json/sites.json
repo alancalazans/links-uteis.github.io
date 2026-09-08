@@ -536,6 +536,13 @@
     "description": "Editor de código gratuito, multiplaforma, alternativo e experimental de console"
   },
   {
+    "title": "Mise-en-place",
+    "href": "https://mise.jdx.dev/",
+    "target": "_mise-en-place",
+    "img": "mise-en-place.webp",
+    "description": "Crie ambiente para dev"
+  },
+  {
     "title": "MomentJS",
     "href": "https://momentjs.com/",
     "target": "_momentjs",
