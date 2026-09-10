@@ -277,6 +277,13 @@
     "description": "Lib sql ←→ json"
   },
   {
+    "title": "Antigravity",
+    "href": "https://antigravity.google/",
+    "target": "_antigravity",
+    "img": "antigravity.webp",
+    "description": "Google Antigravity"
+  },
+  {
     "title": "Amber",
     "href": "https://amber-lang.com/",
     "target": "_amber",
