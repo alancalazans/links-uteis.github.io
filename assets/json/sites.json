@@ -2162,6 +2162,13 @@
     "description": "Editor e imagem avançado"
   },
   {
+    "title": "Git for Windows",
+    "href": "https://git-scm.com/install/windows",
+    "target": "_git-for-windows",
+    "img": "git-for-windows.webp",
+    "description": "Git for Windows"
+  },
+  {
     "title": "Github Desktop",
     "href": "https://github.com/apps/desktop?locale=pt-br",
     "target": "_githubdesktop",
