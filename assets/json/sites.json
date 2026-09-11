@@ -501,6 +501,13 @@
     "description": "Ambiente online de experimentação de codificação de sites com preview"
   },
   {
+    "title": "Kemal",
+    "href": "https://kemalcr.com/",
+    "target": "_kemal",
+    "img": "kemal.webp",
+    "description": "Simple web framework for Crystal"
+  },
+  {
     "title": "Kate Editor",
     "href": "https://kate-editor.org/pt-br/get-it/",
     "target": "_kate-editor",
