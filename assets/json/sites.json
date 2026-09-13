@@ -557,6 +557,13 @@
     "description": "Crie ambiente para dev"
   },
   {
+    "title": "MSYS2",
+    "href": "https://www.msys2.org/",
+    "target": "_msys2",
+    "img": "msys2.webp",
+    "description": "Ambiente dev terminal Linux para Windows"
+  },
+  {
     "title": "MomentJS",
     "href": "https://momentjs.com/",
     "target": "_momentjs",
