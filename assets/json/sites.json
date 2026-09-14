@@ -1530,6 +1530,20 @@
     "description": "Peppermint é um sistema operacional que fornece ao usuário a oportunidade de construir o sistema que melhor se adapta às suas necessidades"
   },
   {
+    "title": "Q4OS",
+    "href": "https://q4os.org/index.html",
+    "target": "_q4os-site",
+    "img": "q4os.webp",
+    "description": "Q4OS site"
+  },
+  {
+    "title": "Q4OS",
+    "href": "https://sourceforge.net/projects/q4os/files/",
+    "target": "_q4os",
+    "img": "sourceforge.webp",
+    "description": "Q4OS no Sourceforge"
+  },
+  {
     "title": "Sparky Linux",
     "href": "https://sparkylinux.org/",
     "target": "_sparkylinux",
