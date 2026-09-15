@@ -2169,6 +2169,13 @@
     "description": "Explorador de arq. p/ Windows"
   },
   {
+    "title": "File Pilot",
+    "href": "https://filepilot.tech/",
+    "target": "_fpilot",
+    "img": "fpilot.webp",
+    "description": "Gerenciador de arquivos"
+  },
+  {
     "title": "Firefox All",
     "href": "https://www.mozilla.org/pt-BR/firefox/all/",
     "target": "_firefox-all",
