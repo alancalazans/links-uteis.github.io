@@ -2155,6 +2155,13 @@
     "description": "Extensões para Google Chrome Browser"
   },
   {
+    "title": "Double Commander",
+    "href": "https://doublecmd.sourceforge.io/",
+    "target": "_doublecmd",
+    "img": "doublecmd.webp",
+    "description": "Gerenciador de arquivos"
+  },
+  {
     "title": "Explorer++",
     "href": "https://explorerplusplus.com/builds?prefix=dev%2F",
     "target": "_explorer-plus-plus",
@@ -2279,6 +2286,13 @@
     "target": "_rufus",
     "img": "rufus.webp",
     "description": "Programa criar pendrive de boot"
+  },
+  {
+    "title": "Sigma File Manager",
+    "href": "https://github.com/aleksey-hoffman/sigma-file-manager",
+    "target": "_sigma-file-manager",
+    "img": "sigma-file-manager.webp",
+    "description": "Gerenciador de arquivos"
   },
   {
     "title": "TGPT",
