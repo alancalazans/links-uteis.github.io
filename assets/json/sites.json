@@ -1467,6 +1467,13 @@
     "description": "DistroWatch é um site dedicado a disticur, revisar e manter-se atualizado sobre sistemas operacionais de código aberto. Este site concentra-se particularmente em distribuições Linux e versões de BSD"
   },
   {
+    "title": "Emmabuntüs",
+    "href": "https://emmabuntus.org/",
+    "target": "_emmabuntus",
+    "img": "emmabuntus.webp",
+    "description": "Distro francesa baseada no Debian"
+  },
+  {
     "title": "FerenOS",
     "href": "https://ferenos.weebly.com/",
     "target": "_ferenos",
