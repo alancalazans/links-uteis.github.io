@@ -2372,6 +2372,13 @@
     "description": "Personalizar Windows"
   },
   {
+    "title": "WiseCleaner",
+    "href": "https://www.wisecleaner.com/download.html",
+    "target": "_wisecleaner",
+    "img": "wisecleaner.webp",
+    "description": "Ferramentas do Windows GRATUITAMENTE"
+  },
+  {
     "title": "WPS Office",
     "href": "https://www.wps.com/",
     "target": "_wps",
