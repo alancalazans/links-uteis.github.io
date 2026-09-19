@@ -2260,6 +2260,13 @@
     "description": "Navegador Minimalista"
   },
   {
+    "title": "Neat Download Manager",
+    "href": "https://www.neatdownloadmanager.com/index.php/en/",
+    "target": "_neatdm",
+    "img": "neatdm.webp",
+    "description": "Gerenciador de download"
+  },
+  {
     "title": "Obsidian",
     "href": "https://obsidian.md/",
     "target": "_obsidian",
