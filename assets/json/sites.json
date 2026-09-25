@@ -649,10 +649,10 @@
   },
   {
     "title": "OpenCode",
-    "href": "https://github.com/sst/opencode",
+    "href": "https://opencode.ai/download",
     "target": "_opencode",
-    "img": "github.webp",
-    "description": "OpenCode Agent (IA de terminal p/ desenvolvedores)"
+    "img": "opencode.webp",
+    "description": "Code development with AI"
   },
   {
     "title": "OpenRouter-AI",
