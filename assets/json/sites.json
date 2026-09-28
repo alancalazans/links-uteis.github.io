@@ -438,6 +438,13 @@
     "description": "O servidor PHP moderno"
   },
   {
+    "title": "Geany IDE",
+    "href": "https://www.geany.org/",
+    "target": "_geany",
+    "img": "geany.webp",
+    "description": "Geany - A IDE peso mosca"
+  },
+  {
     "title": "Gemini-cli",
     "href": "https://github.com/google-gemini/gemini-cli",
     "target": "_gemini-cli",
