@@ -655,6 +655,13 @@
     "description": "Framework para a criação de apps desktop hibridas com NodeWebKit"
   },
   {
+    "title": "Odin Lang",
+    "href": "https://odin-lang.org/",
+    "target": "_odin",
+    "img": "odin.webp",
+    "description": "Linguagem de programação Odin"
+  },
+  {
     "title": "OpenCode",
     "href": "https://opencode.ai/download",
     "target": "_opencode",
