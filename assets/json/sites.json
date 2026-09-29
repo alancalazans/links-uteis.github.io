@@ -410,6 +410,13 @@
     "description": "Framework para a criação de apps desktop baseadas em NodeJS"
   },
   {
+    "title": "Emacs",
+    "href": "https://www.gnu.org/savannah-checkouts/gnu/emacs/emacs.html",
+    "target": "_emacs",
+    "img": "emacs.webp",
+    "description": "Um extensível e personalizável editor de texto grátis"
+  },
+  {
     "title": "FirebaseStudio",
     "href": "https://firebase.studio/",
     "target": "_firebasestudio",
