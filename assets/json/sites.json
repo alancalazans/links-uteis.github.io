@@ -774,6 +774,13 @@
     "description": "Linguagem de programação compilada"
   },
   {
+    "title": "Rust-Forge",
+    "href": "https://forge.rust-lang.org/infra/other-installation-methods.html",
+    "target": "_rust-forge",
+    "img": "rust-forge.webp",
+    "description": "Outros métodos de instalação de Rust"
+  },
+  {
     "title": "SQL",
     "href": "https://blog.betrybe.com/sql/",
     "target": "_sql",
