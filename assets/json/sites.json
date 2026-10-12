@@ -767,21 +767,21 @@
     "description": "Site com conteúdos sobre diversas linguagens de programação"
   },
   {
-    "title": "Rust-lang",
+    "title": "Rust lang",
     "href": "https://www.rust-lang.org/",
     "target": "_rust_lang",
     "img": "rust_lang.webp",
     "description": "Linguagem de programação compilada"
   },
   {
-    "title": "Crates Rust",
+    "title": "Rust Crates",
     "href": "https://crates.io/",
     "target": "_crates",
     "img": "crates.webp",
     "description": "Pacotes p/ Rust"
   },
   {
-    "title": "Rust-Forge",
+    "title": "Rust Forge",
     "href": "https://forge.rust-lang.org/infra/other-installation-methods.html",
     "target": "_rust-forge",
     "img": "rust-forge.webp",
