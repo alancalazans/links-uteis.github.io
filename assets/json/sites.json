@@ -774,6 +774,13 @@
     "description": "Linguagem de programação compilada"
   },
   {
+    "title": "Crates Rust",
+    "href": "https://crates.io/",
+    "target": "_crates",
+    "img": "crates.webp",
+    "description": "Pacotes p/ Rust"
+  },
+  {
     "title": "Rust-Forge",
     "href": "https://forge.rust-lang.org/infra/other-installation-methods.html",
     "target": "_rust-forge",
@@ -898,6 +905,13 @@
     "target": "_xampp",
     "img": "xampp.webp",
     "description": "Servidor de Desenvolvimento em PHP com Banco de Dados"
+  },
+  {
+    "title": "Zed Editor",
+    "href": "https://zed.dev/",
+    "target": "_zed",
+    "img": "zed.webp",
+    "description": "Editor de código"
   },
   {
     "title": "ZigLang",
