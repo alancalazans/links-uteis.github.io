@@ -753,6 +753,13 @@
     "description": "Compilador para a linguagem Raku"
   },
   {
+    "title": "REA",
+    "href": "https://rea.tools/pt-BR/",
+    "target": "_rea",
+    "img": "rea.webp",
+    "description": "Engenharia reversa, com agente de IA"
+  },
+  {
     "title": "RipTutorial",
     "href": "https://riptutorial.com/es/home",
     "target": "_riptutorial",
