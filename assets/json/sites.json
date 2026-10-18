@@ -1586,6 +1586,13 @@
     "description": "Peppermint é um sistema operacional que fornece ao usuário a oportunidade de construir o sistema que melhor se adapta às suas necessidades"
   },
   {
+    "title": "PikaOS",
+    "href": "https://pika-os.com/",
+    "target": "_pikaos",
+    "img": "pikaos.webp",
+    "description": "Linux baseado em Debian"
+  },
+  {
     "title": "Q4OS",
     "href": "https://q4os.org/index.html",
     "target": "_q4os-site",
