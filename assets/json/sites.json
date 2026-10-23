@@ -1679,6 +1679,13 @@
     "target": "_onedrive",
     "img": "onedrive.webp",
     "description": "Drive virtual da Microsoft"
+  },
+  {
+    "title": "TeleDrive Files",
+    "href": "https://sourceforge.net/projects/teledrive/files/",
+    "target": "_teledrive",
+    "img": "teledrive.webp",
+    "description": "App drive Telegram"
   }
 ],
 "Noticias": [
