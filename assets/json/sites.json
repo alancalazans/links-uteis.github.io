@@ -1502,6 +1502,13 @@
     "description": "Sistema Operacional Chinês baseado em Debian"
   },
   {
+    "title": "Desert OS Linux",
+    "href": "https://sites.google.com/view/desertoslinux",
+    "target": "_desertos-linux",
+    "img": "desertos-linux.webp",
+    "description": "DesertOS Linux"
+  },
+  {
     "title": "Devuan",
     "href": "https://www.devuan.org/",
     "target": "_devuan",
