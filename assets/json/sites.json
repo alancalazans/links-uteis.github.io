@@ -2302,6 +2302,13 @@
     "description": "O cliente GUI Git"
   },
   {
+    "title": "GH Desktop Plus",
+    "href": "https://desktop-plus.org/",
+    "target": "_gh-desktop-plus",
+    "img": "gh-desktop-plus.webp",
+    "description": "O cliente GUI Git p/ Linux"
+  },
+  {
     "title": "Helium browser",
     "href": "https://github.com/imputnet/helium",
     "target": "_helium",
