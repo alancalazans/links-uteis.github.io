@@ -2253,6 +2253,13 @@
     "description": "Explorador de arq. p/ Windows"
   },
   {
+    "title": "FastOS",
+    "href": "https://www.projectfastos.top/",
+    "target": "_fastos",
+    "img": "fastos.webp",
+    "description": "Windows customizado"
+  },
+  {
     "title": "File Pilot",
     "href": "https://filepilot.tech/",
     "target": "_fpilot",
