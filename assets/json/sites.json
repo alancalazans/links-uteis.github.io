@@ -2414,6 +2414,13 @@
     "description": "Gerenciador de arquivos"
   },
   {
+    "title": "SlimJet",
+    "href": "https://www.slimjet.com/pt/",
+    "target": "_slimjet",
+    "img": "slimjet.webp",
+    "description": "Navegador baseado em Chrome"
+  },
+  {
     "title": "TGPT",
     "href": "https://github.com/aandrew-me/tgpt",
     "target": "_tgpt",
